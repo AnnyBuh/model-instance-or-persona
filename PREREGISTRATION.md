@@ -162,3 +162,27 @@ Assertions the analysis must satisfy, per the TDD rule:
 
 Signed off before collection. Amendments are appended below with a timestamp and a reason, never
 edited into the text above.
+
+## Amendment 1, 2026-08-16 ~01:40 CEST — the consumer anchor is one community
+
+Corpus B was collected from **r/Windows10 only**, three threads, 277 comments. The rule in §3 allows
+any subreddit for a discontinued or degraded paid product, and a second community was searched for
+under the same rule: **r/skype, r/sonos and r/PleX all returned zero qualifying threads** inside the
+12-month window. In r/skype the community is dead; in r/sonos and r/PleX the relevant events, the app
+rewrite and the remote-streaming change, fall outside the window.
+
+The rule was **not** relaxed to find data. The consumer anchor therefore rests on one community and
+one event, the Windows 10 end of support, and that is a stated limitation of the study rather than a
+silent property of it. Concretely: what is anchored is *one well-documented case of a paid product
+being taken away*, not consumer loss in general, and the report says so.
+
+This is recorded here rather than fixed because fixing it would mean either changing the selection
+rule after seeing results, or spending budget the study does not have. Both are worse than the
+limitation.
+
+## Amendment 2, 2026-08-16 ~01:40 CEST — remaining budget
+
+$0.66 of Apify credit is left and is deliberately **not** spent. R4 would send it to the corpus with
+the widest interval, but every interval that matters is already narrow enough to carry its claim, and
+the one real gap, the single-community anchor above, cannot be closed with money at this budget. The
+noise re-read costs nothing here because it re-reads comments already collected.
