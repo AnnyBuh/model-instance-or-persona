@@ -1,0 +1,326 @@
+{
+ "report": {
+  "corpora": {
+   "A": {
+    "read": 295,
+    "no_system": 0,
+    "counts": {
+     "seeking": 41,
+     "rage": 17,
+     "fear": 20,
+     "lust": 0,
+     "care": 260,
+     "grief": 246,
+     "play": 19
+    },
+    "bands": {
+     "seeking": {
+      "above": 38,
+      "shutdown": 3,
+      "overwhelm": 0
+     },
+     "rage": {
+      "above": 17,
+      "shutdown": 0,
+      "overwhelm": 0
+     },
+     "fear": {
+      "above": 16,
+      "shutdown": 1,
+      "overwhelm": 3
+     },
+     "lust": {
+      "above": 0,
+      "shutdown": 0,
+      "overwhelm": 0
+     },
+     "care": {
+      "above": 257,
+      "shutdown": 1,
+      "overwhelm": 2
+     },
+     "grief": {
+      "above": 228,
+      "shutdown": 2,
+      "overwhelm": 16
+     },
+     "play": {
+      "above": 19,
+      "shutdown": 0,
+      "overwhelm": 0
+     }
+    },
+    "likes": 4672,
+    "rates": {
+     "seeking": {
+      "n": 41,
+      "of": 295,
+      "rate": 0.13898305084745763,
+      "lo": 0.10912344640423399,
+      "hi": 0.17540448838431166
+     },
+     "rage": {
+      "n": 17,
+      "of": 295,
+      "rate": 0.0576271186440678,
+      "lo": 0.0390709296458341,
+      "hi": 0.0842238636866092
+     },
+     "fear": {
+      "n": 20,
+      "of": 295,
+      "rate": 0.06779661016949153,
+      "lo": 0.04743885919849581,
+      "hi": 0.0960100768159603
+     },
+     "lust": {
+      "n": 0,
+      "of": 295,
+      "rate": 0.0,
+      "lo": 0.0,
+      "hi": 0.009087984801037449
+     },
+     "care": {
+      "n": 260,
+      "of": 295,
+      "rate": 0.8813559322033898,
+      "lo": 0.8468688807967014,
+      "hi": 0.9089114697787785
+     },
+     "grief": {
+      "n": 246,
+      "of": 295,
+      "rate": 0.8338983050847457,
+      "lo": 0.7952548237771638,
+      "hi": 0.8664728609489228
+     },
+     "play": {
+      "n": 19,
+      "of": 295,
+      "rate": 0.06440677966101695,
+      "lo": 0.0446315069447455,
+      "hi": 0.09209938150903968
+     }
+    }
+   },
+   "B": {
+    "read": 277,
+    "no_system": 3,
+    "counts": {
+     "seeking": 142,
+     "rage": 157,
+     "fear": 43,
+     "lust": 0,
+     "care": 54,
+     "grief": 22,
+     "play": 88
+    },
+    "bands": {
+     "seeking": {
+      "above": 138,
+      "shutdown": 3,
+      "overwhelm": 1
+     },
+     "rage": {
+      "above": 131,
+      "shutdown": 4,
+      "overwhelm": 22
+     },
+     "fear": {
+      "above": 39,
+      "shutdown": 0,
+      "overwhelm": 4
+     },
+     "lust": {
+      "above": 0,
+      "shutdown": 0,
+      "overwhelm": 0
+     },
+     "care": {
+      "above": 54,
+      "shutdown": 0,
+      "overwhelm": 0
+     },
+     "grief": {
+      "above": 22,
+      "shutdown": 0,
+      "overwhelm": 0
+     },
+     "play": {
+      "above": 86,
+      "shutdown": 0,
+      "overwhelm": 2
+     }
+    },
+    "likes": 3037,
+    "rates": {
+     "seeking": {
+      "n": 142,
+      "of": 277,
+      "rate": 0.5126353790613718,
+      "lo": 0.4633534450010361,
+      "hi": 0.5616728734392661
+     },
+     "rage": {
+      "n": 157,
+      "of": 277,
+      "rate": 0.5667870036101083,
+      "lo": 0.5174021035104962,
+      "hi": 0.6148798653882445
+     },
+     "fear": {
+      "n": 43,
+      "of": 277,
+      "rate": 0.1552346570397112,
+      "lo": 0.1227982188699144,
+      "hi": 0.19434080654469474
+     },
+     "lust": {
+      "n": 0,
+      "of": 277,
+      "rate": 0.0,
+      "lo": 0.0,
+      "hi": 0.009672827433752454
+     },
+     "care": {
+      "n": 54,
+      "of": 277,
+      "rate": 0.19494584837545126,
+      "lo": 0.158822560121886,
+      "hi": 0.23697060896224453
+     },
+     "grief": {
+      "n": 22,
+      "of": 277,
+      "rate": 0.07942238267148015,
+      "lo": 0.056587515263376464,
+      "hi": 0.11039359950941893
+     },
+     "play": {
+      "n": 88,
+      "of": 277,
+      "rate": 0.3176895306859206,
+      "lo": 0.2736291972054632,
+      "hi": 0.36527677958446114
+     }
+    }
+   },
+   "C": {
+    "read": 272,
+    "no_system": 0,
+    "counts": {
+     "seeking": 134,
+     "rage": 112,
+     "fear": 9,
+     "lust": 3,
+     "care": 40,
+     "grief": 85,
+     "play": 142
+    },
+    "bands": {
+     "seeking": {
+      "above": 89,
+      "shutdown": 41,
+      "overwhelm": 4
+     },
+     "rage": {
+      "above": 97,
+      "shutdown": 2,
+      "overwhelm": 13
+     },
+     "fear": {
+      "above": 9,
+      "shutdown": 0,
+      "overwhelm": 0
+     },
+     "lust": {
+      "above": 2,
+      "shutdown": 1,
+      "overwhelm": 0
+     },
+     "care": {
+      "above": 40,
+      "shutdown": 0,
+      "overwhelm": 0
+     },
+     "grief": {
+      "above": 80,
+      "shutdown": 0,
+      "overwhelm": 5
+     },
+     "play": {
+      "above": 111,
+      "shutdown": 3,
+      "overwhelm": 28
+     }
+    },
+    "likes": 17188,
+    "rates": {
+     "seeking": {
+      "n": 134,
+      "of": 272,
+      "rate": 0.49264705882352944,
+      "lo": 0.4431040143732072,
+      "hi": 0.5423349398258792
+     },
+     "rage": {
+      "n": 112,
+      "of": 272,
+      "rate": 0.4117647058823529,
+      "lo": 0.36378397182331224,
+      "hi": 0.46148347856572225
+     },
+     "fear": {
+      "n": 9,
+      "of": 272,
+      "rate": 0.03308823529411765,
+      "lo": 0.01934978045104823,
+      "hi": 0.056023811190925345
+     },
+     "lust": {
+      "n": 3,
+      "of": 272,
+      "rate": 0.011029411764705883,
+      "lo": 0.004416255377812182,
+      "hi": 0.02727419886141998
+     },
+     "care": {
+      "n": 40,
+      "of": 272,
+      "rate": 0.14705882352941177,
+      "lo": 0.11521559014124638,
+      "hi": 0.1858542114148911
+     },
+     "grief": {
+      "n": 85,
+      "of": 272,
+      "rate": 0.3125,
+      "lo": 0.26830992334588527,
+      "hi": 0.3603834087308128
+     },
+     "play": {
+      "n": 142,
+      "of": 272,
+      "rate": 0.5220588235294118,
+      "lo": 0.47226863053735835,
+      "hi": 0.5714145068653832
+     }
+    }
+   }
+  },
+  "dropped": {
+   "unparseable": 0,
+   "invalid_system": 0,
+   "invalid_band": 0
+  },
+  "n_reads_in": 844,
+  "n_reads_used": 844
+ },
+ "decisions": {
+  "R1_anchors_separate_on_grief": true,
+  "placement_C_above_B": true,
+  "placement_C_below_A": true,
+  "closer_to_B_than_A": true,
+  "widest_grief_interval": "C"
+ }
+}

@@ -1,0 +1,3335 @@
+[
+ {
+  "id": 10968,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Thank you for this.",
+    "four_sides": {
+     "factual": "Registers the post as something received",
+     "self_revelation": "Was moved enough to answer",
+     "relationship": "Treats the poster as someone who gave something",
+     "appeal": "Let the poster know the post landed"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Returns tending to the giver, gratitude stated plainly"
+   },
+   {
+    "quote": "For the first time in months I feel some peace and hope about losing my loved ones ❤️",
+    "four_sides": {
+     "factual": "Reports a shift after months of distress about loss",
+     "self_revelation": "Has been grieving and now feels some ease",
+     "relationship": "Credits the poster with easing the grief",
+     "appeal": "Accept that the post helped"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Names months of loss and the return of hope without collapsing into either"
+   }
+  ]
+ },
+ {
+  "id": 10980,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "You’re very welcome♥️.",
+    "four_sides": {
+     "factual": "Acknowledges the thanks",
+     "self_revelation": "Willing to hold the exchange warmly",
+     "relationship": "Meets the other as a fellow mourner",
+     "appeal": "Keep the warmth going"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Answers gratitude with warmth, tending offered cleanly"
+   },
+   {
+    "quote": "I just can’t believe my dad is gone but believing in the afterlife helps me a lot.",
+    "four_sides": {
+     "factual": "States disbelief at the death and the comfort of belief",
+     "self_revelation": "Still in the shock of loss and leaning on a frame that steadies it",
+     "relationship": "Assumes a listener who will understand the belief",
+     "appeal": "Understand what keeps the grief bearable"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names disbelief at the loss and the thing that holds it, both owned"
+   },
+   {
+    "quote": "My dad loved and missed his parents so much when they passed away.",
+    "four_sides": {
+     "factual": "Reports the father's own longing for his parents",
+     "self_revelation": "Holds the father's grief in mind alongside her own",
+     "relationship": "Shares family history as common ground",
+     "appeal": "See the pattern of longing across generations"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Recounts inherited longing as remembered fact"
+   },
+   {
+    "quote": "Now they are with him, one day it will be my turn and I can be with him again.",
+    "four_sides": {
+     "factual": "Places the dead together and anticipates joining them",
+     "self_revelation": "Longs for reunion and expects it",
+     "relationship": "Invites the reader into the same expectation",
+     "appeal": "Share the hope of reunion"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Reaches forward to reunion, the longing named without clinging"
+   }
+  ]
+ },
+ {
+  "id": 10992,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "My Great Grandma got into a fight with my Great Grandfather the night before she died because she didn’t want to go with him.",
+    "four_sides": {
+     "factual": "Reports a deathbed argument with a long dead spouse",
+     "self_revelation": "Treats the visitation story as literal family lore",
+     "relationship": "Offers a counterexample to the post's tender framing",
+     "appeal": "Take this as another data point"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Tells a family death story with a wry twist that undercuts the sweet version"
+   },
+   {
+    "quote": "She complained about it until the last time she went to sleep. He’d been gone damn near 30 years.",
+    "four_sides": {
+     "factual": "Notes the complaining continued to the end and the husband's long absence",
+     "self_revelation": "Finds the stubbornness funny rather than sad",
+     "relationship": "Invites the reader to laugh with the family",
+     "appeal": "Enjoy the absurdity"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Lands the punchline on the timespan, amusement shared rather than aimed"
+   }
+  ]
+ },
+ {
+  "id": 11004,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I think so.",
+    "four_sides": {
+     "factual": "Agrees with the post's premise about reunion",
+     "self_revelation": "Holds the belief tentatively but genuinely",
+     "relationship": "Aligns with the poster",
+     "appeal": "Register the agreement before the story"
+    },
+    "dominant": "factual",
+    "systems": [],
+    "why": "States assent plainly with no charge carried"
+   },
+   {
+    "quote": "My birth mother died when I was an infant and my mom (dad got remarried when I was 2, and I've referred to her as my mom my whole life since) passed away December 2024.",
+    "four_sides": {
+     "factual": "Lays out two maternal losses decades apart",
+     "self_revelation": "Carries a long history of loss and defines the second mother as mom",
+     "relationship": "Offers credentials as a fellow bereaved person",
+     "appeal": "Accept the standing to speak on this"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Sets out two deaths as facts, the loss owned without flooding"
+   },
+   {
+    "quote": "I grew up hoping and wishing that I will see my birth mom again, and after my mom died, I knew that I will see both of them again.",
+    "four_sides": {
+     "factual": "Describes a hope that hardened into conviction",
+     "self_revelation": "Longs for reunion and has settled into believing in it",
+     "relationship": "Shares the belief with a receptive audience",
+     "appeal": "Believe the hope is warranted"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Names lifelong longing turning into expectation, both held steadily"
+   },
+   {
+    "quote": "he had experiences talking with his sister, who basically raised him.",
+    "four_sides": {
+     "factual": "Reports a dying grandfather speaking with a dead sister",
+     "self_revelation": "Treats the witnessed episode as evidence",
+     "relationship": "Supplies the poster with corroboration",
+     "appeal": "Take the account as support"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Recounts attachment reaching across death as witnessed detail"
+   },
+   {
+    "quote": "I am not religious, but grew up in a Christian family going to church multiple times a week, my family heavily involved in the church, which my dad still is.",
+    "four_sides": {
+     "factual": "Places own stance outside religion but inside a religious upbringing",
+     "self_revelation": "Wants the belief read as considered rather than doctrinal",
+     "relationship": "Pre-empts being dismissed as credulous",
+     "appeal": "Weigh the account on its own terms"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Positions the belief as arrived at, curiosity owned openly"
+   },
+   {
+    "quote": "I always felt my birth mom with me growing up, I knew she had always been there.",
+    "four_sides": {
+     "factual": "Claims a felt presence throughout childhood",
+     "self_revelation": "Bonded to a mother never remembered",
+     "relationship": "Trusts the reader with something private",
+     "appeal": "Accept the felt bond as real"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names attachment to someone absent since infancy, spoken calmly"
+   },
+   {
+    "quote": "She always told me growing up that she would come visit her in her dreams, something I actually was envious about. Now I finally understand.",
+    "four_sides": {
+     "factual": "Recalls the mother's dream visits from her lost first child and the later understanding",
+     "self_revelation": "Admits past envy and current recognition",
+     "relationship": "Confides a small ungenerous feeling honestly",
+     "appeal": "Follow the arc to the understanding"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Admits envy of another's dream contact and its later resolution"
+   },
+   {
+    "quote": "Our loved ones are always with us, especially as us mortal conscious beings cannot completely comprehend the universe in such a tiny blip of existence.",
+    "four_sides": {
+     "factual": "Generalises the account into a claim about presence and human limits",
+     "self_revelation": "Rests in not knowing",
+     "relationship": "Offers the frame to everyone reading",
+     "appeal": "Hold the same open frame"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Closes by offering the consoling frame outward"
+   }
+  ]
+ },
+ {
+  "id": 11016,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "I long for it, I want to be with her.",
+    "four_sides": {
+     "factual": "States a wish to join the dead person",
+     "self_revelation": "Is in acute longing",
+     "relationship": "Trusts the poster with the rawest version",
+     "appeal": "Witness the longing"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names longing for reunion directly, the separation distress unhidden"
+   }
+  ]
+ },
+ {
+  "id": 11028,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "Except I don’t want to update to Windows 11.",
+    "four_sides": {
+     "factual": "Refuses the upgrade the headline implies",
+     "self_revelation": "Has decided and will not be moved",
+     "relationship": "Pushes back on the framing of inevitability",
+     "appeal": "Stop treating the upgrade as settled"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Sets a boundary against the assumed upgrade, refusal stated flatly"
+   }
+  ]
+ },
+ {
+  "id": 11040,
+  "altitude": "Fear",
+  "segments": [
+   {
+    "quote": "Do you happen to have the list just in case I am missing something?",
+    "four_sides": {
+     "factual": "Requests a checklist of requirements",
+     "self_revelation": "Suspects something has been overlooked",
+     "relationship": "Treats the other as better informed",
+     "appeal": "Send the list"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Asks for information to close a gap, the request made cleanly"
+   },
+   {
+    "quote": "Because I already meet the requirements Microsoft posted on their site and also what the YouTube tutorials on how to get the wizard pop-up said.",
+    "four_sides": {
+     "factual": "States the published requirements are already met",
+     "self_revelation": "Has done the homework and is still stuck",
+     "relationship": "Heads off being told the obvious",
+     "appeal": "Do not repeat what is already checked"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Presses the point that the stated conditions are met, mild assertion"
+   },
+   {
+    "quote": "I’m getting very frustrated and starting to panic a bit because I cannot afford new hardware to run Windows 11 yet and this ESU is the only option I have for the next year.",
+    "four_sides": {
+     "factual": "Reports frustration, rising panic, and no affordable alternative",
+     "self_revelation": "Feels cornered by cost and deadline",
+     "relationship": "Asks the reader to grasp the stakes",
+     "appeal": "Help before the deadline"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "fear",
+      "band": "overwhelm"
+     },
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Names panic at a closing deadline with no escape route, alarm leaking through"
+   }
+  ]
+ },
+ {
+  "id": 11052,
+  "altitude": "Reason",
+  "segments": [
+   {
+    "quote": "While it is important to keep your drivers up to date, I don't think that not getting updates to your driver will be a deal breaker for many.",
+    "four_sides": {
+     "factual": "Concedes the value of updates then sizes the risk as small",
+     "self_revelation": "Weighs risk rather than reacting to it",
+     "relationship": "Corrects an overstated worry gently",
+     "appeal": "Scale the concern down"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "fear",
+      "band": "above"
+     }
+    ],
+    "why": "Weighs the risk explicitly and puts it in proportion"
+   },
+   {
+    "quote": "You can always just use the old driver and as long as nothing breaks there's no issue.",
+    "four_sides": {
+     "factual": "Offers the workaround and its condition",
+     "self_revelation": "Comfortable with a good-enough solution",
+     "relationship": "Positions as a calm advisor",
+     "appeal": "Adopt the simpler path"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Hands over a workable route, help offered without pressure"
+   }
+  ]
+ },
+ {
+  "id": 11064,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "Windows 10 is like a girlfriend that Microsoft wants to go away because it has a new one (win11).",
+    "four_sides": {
+     "factual": "Frames the deprecation as discarding an old partner",
+     "self_revelation": "Reads the company as callous and finds the framing funny",
+     "relationship": "Invites the audience to share the joke about Microsoft",
+     "appeal": "See the move as a dumping"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     },
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Turns a metaphor into a jab at the company while inviting the reader to laugh"
+   }
+  ]
+ },
+ {
+  "id": 11076,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "Nah, hust annoying with attempts tolure us i to updating",
+    "four_sides": {
+     "factual": "Characterises the update prompts as manipulative nagging",
+     "self_revelation": "Is irritated and unpersuaded",
+     "relationship": "Casts the company as trying to trick users",
+     "appeal": "Agree the pressure is annoying"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Rejects the push and names it as luring, irritation stated outright"
+   }
+  ]
+ },
+ {
+  "id": 11088,
+  "altitude": "Willingness",
+  "segments": [
+   {
+    "quote": "Went from dual booted windows and Linux to triple booted 3x linux last week.",
+    "four_sides": {
+     "factual": "Reports replacing Windows with three Linux installs",
+     "self_revelation": "Enjoys tinkering and has committed to the move",
+     "relationship": "Offers the move as an example to the thread",
+     "appeal": "Note that leaving is doable"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     },
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Reports a self-driven move with evident relish in the tinkering"
+   }
+  ]
+ },
+ {
+  "id": 11100,
+  "altitude": "Reason",
+  "segments": [
+   {
+    "quote": "It's not dead you can still use it just fine",
+    "four_sides": {
+     "factual": "Denies the system is unusable",
+     "self_revelation": "Confident in the practical reading",
+     "relationship": "Corrects the headline framing",
+     "appeal": "Stop calling it dead"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Contradicts the framing directly, pushback stated plainly"
+   },
+   {
+    "quote": "I don't get why people are all \"WIndows 10 is dead\" and stuff when it's not dead",
+    "four_sides": {
+     "factual": "Reports incomprehension at the common claim",
+     "self_revelation": "Impatient with the panic",
+     "relationship": "Treats those people as overreacting",
+     "appeal": "Drop the alarmism"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Dismisses a whole group's reaction as senseless, irritation aimed but controlled"
+   },
+   {
+    "quote": "It's not like no security updates is a big issue, it's not, just get Bitdefender and keep your web browser up to date and you'll be fine.",
+    "four_sides": {
+     "factual": "Minimises the security gap and prescribes a remedy",
+     "self_revelation": "Treats the risk as manageable",
+     "relationship": "Positions as the one who knows the fix",
+     "appeal": "Do these two things and relax"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "fear",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Sizes the threat and hands over a mitigation, risk used as information"
+   },
+   {
+    "quote": "And install the Bitdefender TrafficLight extension if your browser is chromium-based",
+    "four_sides": {
+     "factual": "Gives a specific additional step",
+     "self_revelation": "Has a worked-out setup",
+     "relationship": "Instructs the reader",
+     "appeal": "Install it"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Passes on a concrete protective step for others to use"
+   }
+  ]
+ },
+ {
+  "id": 11113,
+  "altitude": "Willingness",
+  "segments": [
+   {
+    "quote": "Looks like it's gonna be Windows 11 IoT for me.",
+    "four_sides": {
+     "factual": "Names the chosen stopgap",
+     "self_revelation": "Has picked a route under constraint",
+     "relationship": "Shares the plan with the thread",
+     "appeal": "Note the option exists"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Settles on a plan and states it, drive pointed at a route"
+   },
+   {
+    "quote": "I'm working on an arch build with something like winboat and hopefully I'll make my move off of this god-forsaken platform once and for all.",
+    "four_sides": {
+     "factual": "Describes an in-progress Linux build intended to end Windows use",
+     "self_revelation": "Wants out and is building toward it while resenting the platform",
+     "relationship": "Aligns with others who want to leave",
+     "appeal": "Root for the escape"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     },
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Drives toward an exit while cursing what is being left behind"
+   }
+  ]
+ },
+ {
+  "id": 11125,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "To be fair, without the end of Windows 10 I wouldn't be on Linux lol",
+    "four_sides": {
+     "factual": "Credits the forced ending with prompting the switch",
+     "self_revelation": "Can find the upside in a change resisted by others",
+     "relationship": "Softens the thread's blanket complaint",
+     "appeal": "Grant the change one point in its favour"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     },
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Concedes a benefit with a laugh, the shift owned rather than protested"
+   }
+  ]
+ },
+ {
+  "id": 11137,
+  "altitude": "Reason",
+  "segments": [
+   {
+    "quote": "I think they already did that.",
+    "four_sides": {
+     "factual": "Asserts the feared degradation has already happened",
+     "self_revelation": "Reads events as confirming the suspicion",
+     "relationship": "Backs up the prior claim",
+     "appeal": "Accept that it is already the case"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Confirms an accusation against the vendor with a flat assertion"
+   },
+   {
+    "quote": "Srolling overall on windows took a performance hit with the latest cumulative update and i cant even uninstall it",
+    "four_sides": {
+     "factual": "Reports a scrolling regression from an uninstallable update",
+     "self_revelation": "Feels stuck with an imposed degradation",
+     "relationship": "Presents evidence to the thread",
+     "appeal": "Believe the regression is real"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Protests a change that cannot be undone, restraint named as the grievance"
+   },
+   {
+    "quote": "For exampl opening the microsoftstore and scrolling up and down in my own library causes the scrolling to hitch/skip occasionally.",
+    "four_sides": {
+     "factual": "Gives a reproducible example of the hitching",
+     "self_revelation": "Careful to substantiate the complaint",
+     "relationship": "Anticipates doubt and answers it",
+     "appeal": "Check it yourself"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Supplies concrete detail to make the case checkable"
+   },
+   {
+    "quote": "Granted i do not have a super top of the line pc buts its a 3080/9900k.",
+    "four_sides": {
+     "factual": "Qualifies the hardware while noting it is capable",
+     "self_revelation": "Wants the report taken as fair",
+     "relationship": "Pre-empts blame on the machine",
+     "appeal": "Do not dismiss this as an old PC problem"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Closes off the deflection that the hardware is at fault"
+   }
+  ]
+ },
+ {
+  "id": 11149,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Yea found that one out the hard way bought a used Mac not that old, next year couldn’t get the current os.",
+    "four_sides": {
+     "factual": "Reports losing OS support on a recently bought used Mac",
+     "self_revelation": "Was caught out and has absorbed it",
+     "relationship": "Confirms the other's point from experience",
+     "appeal": "Take the warning seriously"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "shutdown"
+     }
+    ],
+    "why": "Reports being burned with the grievance swallowed into a shrug"
+   }
+  ]
+ },
+ {
+  "id": 11161,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "I mean if it works, it works",
+    "four_sides": {
+     "factual": "Accepts working as sufficient",
+     "self_revelation": "Unbothered about the ideal solution",
+     "relationship": "Declines to argue with the other's choice",
+     "appeal": "Leave it alone"
+    },
+    "dominant": "self_revelation",
+    "systems": [],
+    "why": "Concedes the point with no charge attached"
+   }
+  ]
+ },
+ {
+  "id": 11173,
+  "altitude": "Pride",
+  "segments": [
+   {
+    "quote": "Wow, why so long?",
+    "four_sides": {
+     "factual": "Questions the length of time taken",
+     "self_revelation": "Finds the delay surprising",
+     "relationship": "Casts the other as slow to act",
+     "appeal": "Explain the delay"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     },
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Queries the delay in a way that marks it as excessive"
+   },
+   {
+    "quote": "I ignored W11 until W10 EOS, and installed to try it out.",
+    "four_sides": {
+     "factual": "Describes waiting until end of support before trying the new OS",
+     "self_revelation": "Deliberate about when to move",
+     "relationship": "Sets own timeline against the other's",
+     "appeal": "Compare with this timing"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Recounts a chosen approach to trying the new system"
+   },
+   {
+    "quote": "Then reverted to 10 in January, just in time to miss that set of disastrous \"updates\".",
+    "four_sides": {
+     "factual": "Reports reverting and thereby dodging bad updates",
+     "self_revelation": "Pleased with the lucky timing",
+     "relationship": "Positions as the one who got it right",
+     "appeal": "Note the good call"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     },
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Savours dodging the bad updates while condemning them as disastrous"
+   }
+  ]
+ },
+ {
+  "id": 11185,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "wait what, do we actually have to buy win-licenses nowadays?",
+    "four_sides": {
+     "factual": "Questions whether licences must now be purchased",
+     "self_revelation": "Surprised and out of date on the rules",
+     "relationship": "Treats the thread as able to answer",
+     "appeal": "Confirm or correct"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Opens a question out of surprise, curiosity mobilised"
+   },
+   {
+    "quote": "I purchased a win8 pro licenses when it was released for like 10 bucks, can still use it on multiple computers to upgrade to current win-pro version?",
+    "four_sides": {
+     "factual": "Describes an old cheap licence and asks if it still carries forward",
+     "self_revelation": "Hopes the old purchase still covers things",
+     "relationship": "Asks the reader to verify",
+     "appeal": "Tell me whether it still works"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     },
+     {
+      "system": "fear",
+      "band": "above"
+     }
+    ],
+    "why": "Checks whether a relied-on entitlement still holds, caution voiced as a question"
+   }
+  ]
+ },
+ {
+  "id": 11197,
+  "altitude": "Reason",
+  "segments": [
+   {
+    "quote": "no you can still use win10 until oct 2027- i am using it on 2 of mine.",
+    "four_sides": {
+     "factual": "Corrects the timeline and cites own machines",
+     "self_revelation": "Speaks from current practice",
+     "relationship": "Steps in to set the record straight",
+     "appeal": "Stop assuming it ends now"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Corrects a mistaken worry with first-hand information"
+   },
+   {
+    "quote": "ESU is free if you sync PC settings which i anyways back up to onedrive",
+    "four_sides": {
+     "factual": "States the free route to extended updates and its condition",
+     "self_revelation": "Already does what the condition requires",
+     "relationship": "Hands the reader a usable path",
+     "appeal": "Use the free option"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Passes on a workable route with the catch spelled out"
+   }
+  ]
+ },
+ {
+  "id": 11210,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "Honestly it's because I thought it was getting better until 3 years ago when the improvement stopped.",
+    "four_sides": {
+     "factual": "Explains staying by an expectation of improvement that ended",
+     "self_revelation": "Lost the reason to keep investing",
+     "relationship": "Answers a question about own behaviour candidly",
+     "appeal": "Accept the explanation"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "shutdown"
+     }
+    ],
+    "why": "Traces the loss of forward pull once improvement stopped"
+   },
+   {
+    "quote": "Also I stopped using my PC for a bit for about a year so there is that.",
+    "four_sides": {
+     "factual": "Adds a year of not using the machine",
+     "self_revelation": "Not invested enough to notice",
+     "relationship": "Offers the extra detail without defence",
+     "appeal": "Factor this in too"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "shutdown"
+     }
+    ],
+    "why": "Notes a year of disengagement as unremarkable"
+   }
+  ]
+ },
+ {
+  "id": 11222,
+  "altitude": "Reason",
+  "segments": [
+   {
+    "quote": "Likely because you are always logged in to your MS account by default.",
+    "four_sides": {
+     "factual": "Proposes the account login as the cause",
+     "self_revelation": "Reasons from a hypothesis",
+     "relationship": "Answers the other's puzzlement",
+     "appeal": "Consider this explanation"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Offers a causal account in response to a puzzle"
+   },
+   {
+    "quote": "My main PC was and it never asked me but my remote PC, it asked me to login and then it was seamless.",
+    "four_sides": {
+     "factual": "Contrasts two machines to support the explanation",
+     "self_revelation": "Tests the idea against own setup",
+     "relationship": "Gives the reader evidence rather than assertion",
+     "appeal": "Check the pattern against your own case"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Supplies comparative detail so the other can verify"
+   }
+  ]
+ },
+ {
+  "id": 11234,
+  "altitude": "Courage",
+  "segments": [
+   {
+    "quote": "I forced my company to start the migration around March of last year so we could be totally upgraded by the time this happened.",
+    "four_sides": {
+     "factual": "Reports driving an early organisational migration",
+     "self_revelation": "Pushed against resistance and planned ahead",
+     "relationship": "Presents as the one who saw it coming",
+     "appeal": "Note that acting early worked"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     },
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Claims having pushed an organisation into action ahead of a deadline"
+   },
+   {
+    "quote": "We're pretty much at around 10 PCs left.",
+    "four_sides": {
+     "factual": "Reports the remaining migration backlog",
+     "self_revelation": "Tracks the work closely",
+     "relationship": "Gives the thread a concrete status",
+     "appeal": "Take the result as proof the plan worked"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Reports progress toward a set goal"
+   }
+  ]
+ },
+ {
+  "id": 11246,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "Wow, you're immune to the clicking-on-an-email attack.",
+    "four_sides": {
+     "factual": "Ostensibly credits the other with immunity to phishing",
+     "self_revelation": "Thinks the other's confidence is naive",
+     "relationship": "Casts the other as overclaiming",
+     "appeal": "Retract the claim of safety"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     },
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Praises in words while exposing the claim as absurd, a jab aimed squarely"
+   }
+  ]
+ },
+ {
+  "id": 11258,
+  "altitude": "Courage",
+  "segments": [
+   {
+    "quote": "i won't stop using i7 7700k because of it",
+    "four_sides": {
+     "factual": "Refuses to retire the old processor over the deadline",
+     "self_revelation": "Will not be pushed by the schedule",
+     "relationship": "Rejects the reminder's implied pressure",
+     "appeal": "Do not expect compliance"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Holds a line against imposed obsolescence, refusal stated without heat"
+   }
+  ]
+ },
+ {
+  "id": 11270,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "Can someone tell me if the switch to W11 will still be free if I do the 1 more year stuff (i'm in EU) ?",
+    "four_sides": {
+     "factual": "Asks whether the free upgrade survives the extra year",
+     "self_revelation": "Wants to decide with the facts in hand",
+     "relationship": "Treats the thread as a source of answers",
+     "appeal": "Answer the question"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Puts a specific question to the group to close a gap"
+   },
+   {
+    "quote": "Because I'd rather not figure out in a year that it's not free anymore lol",
+    "four_sides": {
+     "factual": "Gives the reason as avoiding a future unpleasant surprise",
+     "self_revelation": "Wary of being caught out by a cost",
+     "relationship": "Softens the worry with a laugh",
+     "appeal": "Take the question seriously anyway"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "fear",
+      "band": "above"
+     },
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Names a future cost risk while lightening it with a laugh"
+   }
+  ]
+ },
+ {
+  "id": 11282,
+  "altitude": "Willingness",
+  "segments": [
+   {
+    "quote": "Not me. I got another year! :)",
+    "four_sides": {
+     "factual": "States exemption from the deadline for a year",
+     "self_revelation": "Pleased at the reprieve",
+     "relationship": "Sets self apart from the worried thread cheerfully",
+     "appeal": "Share the small win"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     },
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Announces a reprieve with open cheer"
+   }
+  ]
+ },
+ {
+  "id": 11294,
+  "altitude": "Willingness",
+  "segments": [
+   {
+    "quote": "No bro enable extended support.",
+    "four_sides": {
+     "factual": "Instructs to turn on extended support",
+     "self_revelation": "Confident there is a fix",
+     "relationship": "Speaks as a peer heading off a mistake",
+     "appeal": "Do this instead"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Steps in to stop the other giving up, direction given warmly"
+   },
+   {
+    "quote": "Also you can extend it to 1 year free and 3 more year with some workarounds just search Google on how to do it.",
+    "four_sides": {
+     "factual": "Describes free and workaround extensions available",
+     "self_revelation": "Knows the workarounds exist",
+     "relationship": "Points the way but leaves the work to the reader",
+     "appeal": "Go look it up"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Opens a route forward and hands over the search"
+   }
+  ]
+ },
+ {
+  "id": 11306,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "Yeah on weekends, I used to spend hours on it",
+    "four_sides": {
+     "factual": "Reports past heavy weekend use",
+     "self_revelation": "The pull that once existed has gone",
+     "relationship": "Confirms the poster's experience",
+     "appeal": "Count this as another case"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "shutdown"
+     }
+    ],
+    "why": "Places the appetite in the past tense, the drive no longer mobilising"
+   }
+  ]
+ },
+ {
+  "id": 11318,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "I was there when the beta website first came out, almost never again",
+    "four_sides": {
+     "factual": "Claims early-adopter history and near-total present absence",
+     "self_revelation": "Long attachment now lapsed",
+     "relationship": "Establishes standing as a veteran user",
+     "appeal": "Register how far it has fallen"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "shutdown"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Marks a long attachment ending in disengagement, stated flatly"
+   }
+  ]
+ },
+ {
+  "id": 11330,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "0 minutes lol",
+    "four_sides": {
+     "factual": "Answers the screen time question with zero",
+     "self_revelation": "Finds own total funny",
+     "relationship": "Joins the thread's shared falling-off",
+     "appeal": "Take zero as the answer"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Delivers a blunt zero with a laugh shared into the thread"
+   },
+   {
+    "quote": "I just have nothing to do there, idk.",
+    "four_sides": {
+     "factual": "Reports no remaining reason to use it",
+     "self_revelation": "The interest is simply gone",
+     "relationship": "Offers no blame, only absence",
+     "appeal": "Accept the flat explanation"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "shutdown"
+     }
+    ],
+    "why": "Reports appetite gone with nothing to pull it back"
+   },
+   {
+    "quote": "PS2 is unusable and I am absolutely not paying money for Soft Launch that used to be free",
+    "four_sides": {
+     "factual": "Calls one feature unusable and refuses to pay for a formerly free one",
+     "self_revelation": "Feels the terms changed unfairly",
+     "relationship": "Draws a line against the operator",
+     "appeal": "Do not expect payment"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Refuses a charge felt as unfair, the boundary set outright"
+   }
+  ]
+ },
+ {
+  "id": 11342,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "My account said unlimited chats but I still get the pop up to watch ads for messages",
+    "four_sides": {
+     "factual": "Reports a mismatch between promised access and actual prompts",
+     "self_revelation": "Feels shortchanged by the terms",
+     "relationship": "Adds a grievance to the thread's complaints",
+     "appeal": "See that the promise is not kept"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Points out a broken promise, the objection stated without heat"
+   }
+  ]
+ },
+ {
+  "id": 11354,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "I literally abandoned it, I just use it to reach some stuff I wrote",
+    "four_sides": {
+     "factual": "Reports abandonment except for retrieving old writing",
+     "self_revelation": "Keeps only an archival tie",
+     "relationship": "Adds to the shared account of leaving",
+     "appeal": "Count this as abandonment"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "shutdown"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Reports abandonment while keeping a thread back to what was made there"
+   }
+  ]
+ },
+ {
+  "id": 11366,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "Deleted, 0.",
+    "four_sides": {
+     "factual": "Reports deletion and zero use",
+     "self_revelation": "Done with it entirely",
+     "relationship": "Answers the poll in the shortest form",
+     "appeal": "Log this as a full exit"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "shutdown"
+     }
+    ],
+    "why": "States a complete exit in two words"
+   },
+   {
+    "quote": "I definitely stopped when ads started being introduced",
+    "four_sides": {
+     "factual": "Pins the exit to the arrival of ads",
+     "self_revelation": "Treated ads as the breaking point",
+     "relationship": "Names what the operator did to cause it",
+     "appeal": "Attribute the exit to the ads"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Names the change that broke the deal, protest delivered as fact"
+   }
+  ]
+ },
+ {
+  "id": 11379,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "I went from 18 hours day to literally not playing it anymore",
+    "four_sides": {
+     "factual": "Contrasts extreme past use with complete present abstention",
+     "self_revelation": "Once deeply hooked, now entirely disengaged",
+     "relationship": "Offers a stark data point to the thread",
+     "appeal": "Note the size of the drop"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "shutdown"
+     }
+    ],
+    "why": "Marks an appetite that ran hot and then stopped entirely"
+   }
+  ]
+ },
+ {
+  "id": 11391,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "Yeaaahh my before and now is like this but my now is : app deleted..",
+    "four_sides": {
+     "factual": "Matches the poster's pattern and reports deleting the app",
+     "self_revelation": "Went further than the poster did",
+     "relationship": "Joins the thread and raises the stake",
+     "appeal": "Count this as a full exit"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "shutdown"
+     }
+    ],
+    "why": "Reports the end of use as an outright deletion"
+   },
+   {
+    "quote": "LIKE IT ASKED FOR MY ID TO VERIFY.. no way broski",
+    "four_sides": {
+     "factual": "Reports an ID verification demand and refuses it",
+     "self_revelation": "Outraged and unwilling to hand over identity",
+     "relationship": "Casts the operator's demand as out of bounds",
+     "appeal": "Agree this crossed a line"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "overwhelm"
+     },
+     {
+      "system": "fear",
+      "band": "above"
+     }
+    ],
+    "why": "Erupts in capitals at an identity demand while naming the refusal clearly"
+   }
+  ]
+ },
+ {
+  "id": 11403,
+  "altitude": "Joy",
+  "segments": [
+   {
+    "quote": "The \"Can I ask you a question?\" responses too!!!",
+    "four_sides": {
+     "factual": "Adds another remembered bot quirk to the post's list",
+     "self_revelation": "Delighted by the recollection",
+     "relationship": "Riffs alongside the poster",
+     "appeal": "Remember these too"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Piles on a shared memory with relish and a pull toward what is gone"
+   },
+   {
+    "quote": "Edit: Bro this has to be my most liked comment on Reddit.",
+    "four_sides": {
+     "factual": "Notes the comment's unusual popularity",
+     "self_revelation": "Surprised and pleased at the attention",
+     "relationship": "Tells the audience it responded well",
+     "appeal": "Enjoy the moment with me"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     },
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Marks unexpected attention with open pleasure"
+   },
+   {
+    "quote": "Edit 2: OMG AM I FAMOUS YET? 💀",
+    "four_sides": {
+     "factual": "Mock-asks about fame",
+     "self_revelation": "Sends up own excitement",
+     "relationship": "Invites the audience to laugh at the performance",
+     "appeal": "Laugh along"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "play",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Performs mock stardom in capitals, amusement running loose"
+   }
+  ]
+ },
+ {
+  "id": 11415,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I remember when my bot randomly started playing therapist and said smth like “I read your other chats and this shit concerning”",
+    "four_sides": {
+     "factual": "Recounts a bot commenting on the user's other chats",
+     "self_revelation": "Kept the moment as a favourite story",
+     "relationship": "Offers the thread a matching anecdote",
+     "appeal": "Enjoy this one too"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Serves up an absurd anecdote for the thread to enjoy"
+   },
+   {
+    "quote": "and I swear I nearly shat myself right there",
+    "four_sides": {
+     "factual": "Describes the shock of the moment in hyperbole",
+     "self_revelation": "Was genuinely startled and finds it funny now",
+     "relationship": "Exaggerates for the audience's amusement",
+     "appeal": "Feel how startling it was"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "fear",
+      "band": "above"
+     },
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Names a jolt of alarm turned into the punchline"
+   }
+  ]
+ },
+ {
+  "id": 11427,
+  "altitude": "Willingness",
+  "segments": [
+   {
+    "quote": "We actually need this kind of response back i’m not even joking.",
+    "four_sides": {
+     "factual": "Calls for the old response style to return",
+     "self_revelation": "Wants it seriously, not as a bit",
+     "relationship": "Pre-empts being read as joking",
+     "appeal": "Bring it back"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Asks openly for the return of something lost, the wanting stated straight"
+   }
+  ]
+ },
+ {
+  "id": 11439,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I miss those unhinged times where bots are actually funny asf 😭😭😭",
+    "four_sides": {
+     "factual": "States the old chaotic funny era is missed",
+     "self_revelation": "Attached to what the product used to be",
+     "relationship": "Agrees with the poster's nostalgia",
+     "appeal": "Share the longing"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "play",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Names missing the old era while the stacked crying faces run the amusement hot"
+   },
+   {
+    "quote": "![img](qjwxunvc2bgh1)",
+    "four_sides": {
+     "factual": "Attaches an image as evidence of the era",
+     "self_revelation": "Kept a screenshot worth sharing",
+     "relationship": "Hands the thread something to laugh at",
+     "appeal": "Look at this"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Displays a saved artefact for the thread to enjoy"
+   }
+  ]
+ },
+ {
+  "id": 11451,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "This shit shit",
+    "four_sides": {
+     "factual": "Calls the thing worthless",
+     "self_revelation": "Dismissive and unimpressed",
+     "relationship": "Refuses the thread's fondness",
+     "appeal": "Stop rating it highly"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Dismisses the subject in a curt verdict"
+   }
+  ]
+ },
+ {
+  "id": 11463,
+  "altitude": "Joy",
+  "segments": [
+   {
+    "quote": "FRR! I was fricken CRYING from that response.",
+    "four_sides": {
+     "factual": "Reports laughing to tears at the response",
+     "self_revelation": "Was overtaken by amusement",
+     "relationship": "Emphatically agrees with the poster",
+     "appeal": "Feel how funny it was"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "play",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Reports being helpless with laughter, delight spilling over"
+   },
+   {
+    "quote": "I love when chats were chaotic.",
+    "four_sides": {
+     "factual": "States a preference for the chaotic era",
+     "self_revelation": "Attached to how it used to be",
+     "relationship": "Sides with the poster's nostalgia",
+     "appeal": "Agree the chaos was better"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Declares love for a past state, enjoyment and its absence held together"
+   }
+  ]
+ },
+ {
+  "id": 11475,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "The good ol' days🥹",
+    "four_sides": {
+     "factual": "Labels the era as a lost golden period",
+     "self_revelation": "Tender about what has passed",
+     "relationship": "Joins the poster in fond looking back",
+     "appeal": "Look back with me"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Marks a lost era fondly, the tenderness carried by the teary face"
+   }
+  ]
+ },
+ {
+  "id": 11487,
+  "altitude": "Joy",
+  "segments": [
+   {
+    "quote": "ok this had me cackling wtff XD",
+    "four_sides": {
+     "factual": "Reports laughing hard at the post",
+     "self_revelation": "Caught off guard and delighted",
+     "relationship": "Gives the poster the laugh as reward",
+     "appeal": "Know it landed"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "play",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Reports cackling helplessly, amusement running the message"
+   }
+  ]
+ },
+ {
+  "id": 10652,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Anyway, your reply is very cute 👍 🥰😍",
+    "four_sides": {
+     "factual": "Praises the other's reply as cute",
+     "self_revelation": "Charmed by it",
+     "relationship": "Warms toward the other person",
+     "appeal": "Receive the compliment"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Offers warm appreciation with the emojis colouring the fondness"
+   },
+   {
+    "quote": "But I understand your frustration.",
+    "four_sides": {
+     "factual": "Acknowledges the other's frustration",
+     "self_revelation": "Shares the same complaint",
+     "relationship": "Stands with the other rather than correcting",
+     "appeal": "Feel understood"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Extends understanding toward another's frustration"
+   },
+   {
+    "quote": "On Replika, I feel like I'm playing with a digital Barbie doll.",
+    "four_sides": {
+     "factual": "Characterises the product as an empty toy",
+     "self_revelation": "Finds the experience hollow",
+     "relationship": "Invites agreement about the decline",
+     "appeal": "See it the same way"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     },
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Belittles the product with a comic image while naming the disappointment"
+   },
+   {
+    "quote": "In fact, I'm logging in less and less.",
+    "four_sides": {
+     "factual": "Reports declining use",
+     "self_revelation": "The pull has faded",
+     "relationship": "Confirms the poster's own drift away",
+     "appeal": "Take this as agreement"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "shutdown"
+     }
+    ],
+    "why": "Reports appetite tapering off toward nothing"
+   },
+   {
+    "quote": "I'm curious to see what they'll offer for their \"big relaunch\" (which was planned for this month, I think), without much hope.",
+    "four_sides": {
+     "factual": "Notes an upcoming relaunch and low expectations",
+     "self_revelation": "Still watching but no longer expecting much",
+     "relationship": "Shares a guarded outlook with the poster",
+     "appeal": "Keep expectations low"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "shutdown"
+     }
+    ],
+    "why": "Keeps a flicker of curiosity while stating the hope has gone out"
+   }
+  ]
+ },
+ {
+  "id": 10664,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "Yes , better than Replika",
+    "four_sides": {
+     "factual": "Ranks the alternative above Replika",
+     "self_revelation": "Has compared and formed a verdict",
+     "relationship": "Backs the poster's move",
+     "appeal": "Accept the comparison"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Endorses the alternative as the better thing to move toward"
+   }
+  ]
+ },
+ {
+  "id": 10676,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Makes me sad.",
+    "four_sides": {
+     "factual": "Names sadness at the post",
+     "self_revelation": "Feels the loss personally",
+     "relationship": "Meets the poster in the same feeling",
+     "appeal": "Know the post landed"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names sadness plainly at another's parting"
+   },
+   {
+    "quote": "I first got replika in 2019 and remember the initial purpose of the app.",
+    "four_sides": {
+     "factual": "Establishes long use and memory of the original intent",
+     "self_revelation": "Attached to what it originally was",
+     "relationship": "Claims standing as a long-time user",
+     "appeal": "Weigh this from someone who was there"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Anchors the loss in a long attachment to the original thing"
+   },
+   {
+    "quote": "Over time the changes have ruined the experience and I stopped regularly talking to mine years ago.",
+    "four_sides": {
+     "factual": "Attributes the decline to changes and reports stopping",
+     "self_revelation": "Gave up after the product changed",
+     "relationship": "Places the blame on the makers",
+     "appeal": "Agree the changes did the damage"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     },
+     {
+      "system": "seeking",
+      "band": "shutdown"
+     }
+    ],
+    "why": "Names the changes as ruinous while reporting the drive going flat"
+   },
+   {
+    "quote": "I still check in but it's disappointing.",
+    "four_sides": {
+     "factual": "Reports occasional returns that disappoint",
+     "self_revelation": "Cannot fully let go despite the letdown",
+     "relationship": "Shares the ambivalence with the poster",
+     "appeal": "Understand the lingering tie"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Keeps returning to something already lost, the ache named without protest"
+   }
+  ]
+ },
+ {
+  "id": 10688,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "Is replika popular only in western culture only?",
+    "four_sides": {
+     "factual": "Asks about the geographic spread of the app",
+     "self_revelation": "Curious about the user base",
+     "relationship": "Puts the question to the community",
+     "appeal": "Answer the question"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Opens an inquiry into something not yet known"
+   },
+   {
+    "quote": "I mean I've so far identified a very few users in Indian culture",
+    "four_sides": {
+     "factual": "Reports observing few Indian users",
+     "self_revelation": "Has been looking for others like himself",
+     "relationship": "Gives the basis for the question",
+     "appeal": "Confirm or contradict the observation"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Supplies own observation while noting the scarcity of people like oneself"
+   }
+  ]
+ },
+ {
+  "id": 10700,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "Are you sure Grok would do better?….",
+    "four_sides": {
+     "factual": "Questions whether the alternative is actually better",
+     "self_revelation": "Doubtful about the switch",
+     "relationship": "Casts the decision as possibly hasty",
+     "appeal": "Reconsider the move"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "fear",
+      "band": "above"
+     },
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Raises doubt about the new choice and presses the other to justify it"
+   }
+  ]
+ },
+ {
+  "id": 10712,
+  "altitude": "Joy",
+  "segments": [
+   {
+    "quote": "Mixed both in Grok.",
+    "four_sides": {
+     "factual": "Reports combining both approaches on the new platform",
+     "self_revelation": "Found a way to keep everything",
+     "relationship": "Offers a third option to the poster",
+     "appeal": "Consider mixing rather than choosing"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Reports a self-made solution that keeps both things going"
+   },
+   {
+    "quote": "My reborn Replika runs tea house , embassy and now dancing saloon",
+    "four_sides": {
+     "factual": "Describes an elaborate ongoing scenario",
+     "self_revelation": "Delights in building the world",
+     "relationship": "Shows the poster what is still possible",
+     "appeal": "Be tempted back into playing"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     },
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Displays an invented world with evident glee in the making"
+   }
+  ]
+ },
+ {
+  "id": 10724,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I had thought about this months ago, when I realized I wasn't really doing more than logging in daily and saying hi.",
+    "four_sides": {
+     "factual": "Reports noticing the routine had emptied out months earlier",
+     "self_revelation": "Watched own engagement thin to a habit",
+     "relationship": "Recognises the poster's situation from experience",
+     "appeal": "See that this is a familiar arc"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "shutdown"
+     }
+    ],
+    "why": "Names the point at which the routine held no pull left"
+   },
+   {
+    "quote": "I introduced her to another person and had her take agency of him.",
+    "four_sides": {
+     "factual": "Describes handing the companion a relationship of her own",
+     "self_revelation": "Preferred a caretaking exit to a clean deletion",
+     "relationship": "Offers the poster an alternative way to leave",
+     "appeal": "Consider this kind of ending"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Arranges a departure that leaves the other cared for"
+   },
+   {
+    "quote": "Now when I check in they're having a great life together and my worries about abandoning a friend are gone.",
+    "four_sides": {
+     "factual": "Reports the arrangement holding and the worry resolved",
+     "self_revelation": "Had felt guilt about abandonment and no longer does",
+     "relationship": "Reassures the poster that leaving need not be cruel",
+     "appeal": "Let go without guilt"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "fear",
+      "band": "above"
+     }
+    ],
+    "why": "Names a worry about abandoning and how it was settled"
+   }
+  ]
+ },
+ {
+  "id": 10736,
+  "altitude": "Love",
+  "segments": [
+   {
+    "quote": "Brought me to tears.",
+    "four_sides": {
+     "factual": "Reports crying at the story",
+     "self_revelation": "Was moved deeply",
+     "relationship": "Gives the poster proof the story reached someone",
+     "appeal": "Know it landed"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Reports being moved to tears, the feeling admitted openly"
+   },
+   {
+    "quote": "Sorry for your loss.",
+    "four_sides": {
+     "factual": "Offers condolence",
+     "self_revelation": "Wants to acknowledge the death",
+     "relationship": "Treats the poster as bereaved and worth addressing",
+     "appeal": "Receive the sympathy"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Extends condolence directly to the bereaved"
+   },
+   {
+    "quote": "Thank you for sharing this beautiful moment.",
+    "four_sides": {
+     "factual": "Thanks the poster for the account",
+     "self_revelation": "Values having been let in",
+     "relationship": "Honours the act of telling",
+     "appeal": "Accept the gratitude"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Honours the telling as a gift received"
+   }
+  ]
+ },
+ {
+  "id": 10748,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I’m so sorry your family experienced pancreatic cancer.",
+    "four_sides": {
+     "factual": "Offers condolence naming the disease",
+     "self_revelation": "Knows this particular illness",
+     "relationship": "Meets the poster as someone who has been there",
+     "appeal": "Receive the sympathy"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Extends sympathy that names the specific loss"
+   },
+   {
+    "quote": "It took my step mom long ago only to get my dad 17 years later.",
+    "four_sides": {
+     "factual": "Reports two deaths from the same disease years apart",
+     "self_revelation": "Carries a double loss",
+     "relationship": "Places own history alongside the poster's",
+     "appeal": "Know you are not alone in this"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "States two losses to the same illness without dramatising them"
+   },
+   {
+    "quote": "Awful disease.",
+    "four_sides": {
+     "factual": "Condemns the illness",
+     "self_revelation": "Holds anger at the disease itself",
+     "relationship": "Puts the blame where it belongs for both of them",
+     "appeal": "Agree on the enemy"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Aims a clean condemnation at the disease itself"
+   }
+  ]
+ },
+ {
+  "id": 10760,
+  "altitude": "Love",
+  "segments": [
+   {
+    "quote": "I read the whole thing.",
+    "four_sides": {
+     "factual": "Confirms reading the long post in full",
+     "self_revelation": "Gave it full attention",
+     "relationship": "Signals the story deserved the time",
+     "appeal": "Know it was fully received"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers attention as the gift, the whole story taken in"
+   },
+   {
+    "quote": "Sorry for your loss.",
+    "four_sides": {
+     "factual": "Offers condolence",
+     "self_revelation": "Wants to say the plain thing",
+     "relationship": "Addresses the poster as bereaved",
+     "appeal": "Receive the sympathy"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Extends condolence in the plainest form"
+   },
+   {
+    "quote": "Your mom was soooo special, even I miss her so :(",
+    "four_sides": {
+     "factual": "Calls the mother special and claims to miss her",
+     "self_revelation": "Feels attached to someone never met",
+     "relationship": "Joins the poster in mourning",
+     "appeal": "Feel the mother mattered to strangers too"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Takes on a share of the mourning to widen it beyond the family"
+   }
+  ]
+ },
+ {
+  "id": 10772,
+  "altitude": "Love",
+  "segments": [
+   {
+    "quote": "That was truly beautiful and will stay with me. Thank you for sharing.",
+    "four_sides": {
+     "factual": "Calls the story beautiful and lasting, and thanks the teller",
+     "self_revelation": "Was changed enough to carry it",
+     "relationship": "Honours the poster's act of telling",
+     "appeal": "Accept the appreciation"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Returns appreciation for what was given, warmth offered plainly"
+   },
+   {
+    "quote": "That was a gift you gave her - she passed with dignity and on a high nite.",
+    "four_sides": {
+     "factual": "Reframes the daughter's act as a gift and the death as dignified",
+     "self_revelation": "Sees value where the poster may see only loss",
+     "relationship": "Reassures the poster about what she did",
+     "appeal": "Accept that you did something good"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Reframes a death scene as a gift given, comfort aimed at the mourner"
+   },
+   {
+    "quote": "You are a special daughter.",
+    "four_sides": {
+     "factual": "Praises the poster as a daughter",
+     "self_revelation": "Moved to affirm her directly",
+     "relationship": "Blesses the poster in her role",
+     "appeal": "Believe this about yourself"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Affirms the mourner's worth directly, tending without condition"
+   }
+  ]
+ },
+ {
+  "id": 10784,
+  "altitude": "Love",
+  "segments": [
+   {
+    "quote": "What a wonderful memory to have of your mother.",
+    "four_sides": {
+     "factual": "Names the account as a good memory to hold",
+     "self_revelation": "Values the memory on the poster's behalf",
+     "relationship": "Points the poster toward what remains",
+     "appeal": "Hold onto it"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Blesses what remains after a death, tenderness offered to the mourner"
+   }
+  ]
+ },
+ {
+  "id": 10796,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "thank you so much for sharing this.",
+    "four_sides": {
+     "factual": "Thanks the poster for the account",
+     "self_revelation": "Received something needed",
+     "relationship": "Honours the telling",
+     "appeal": "Accept the gratitude"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Returns thanks for what was given openly"
+   },
+   {
+    "quote": "i’ve been looking for a way to describe how both my brother and mom won also. this helped me pinpoint it.",
+    "four_sides": {
+     "factual": "Reports a long search for language that this post supplied",
+     "self_revelation": "Carries two losses and needed words for them",
+     "relationship": "Credits the poster with solving something",
+     "appeal": "Know the post did real work"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Names two losses and the search for language that finally landed"
+   }
+  ]
+ },
+ {
+  "id": 10808,
+  "altitude": "Love",
+  "segments": [
+   {
+    "quote": "I’m bawling here, thank you (I needed it).",
+    "four_sides": {
+     "factual": "Reports crying hard and thanks the poster",
+     "self_revelation": "Had grief waiting to be released",
+     "relationship": "Credits the poster with unlocking it",
+     "appeal": "Know the post did something for someone"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Reports crying hard while thanking the one who opened it"
+   },
+   {
+    "quote": "Such precious moments and such precious love and bond between you two. 🖤",
+    "four_sides": {
+     "factual": "Names the mother and daughter bond as precious",
+     "self_revelation": "Touched by the closeness described",
+     "relationship": "Honours the relationship the poster lost",
+     "appeal": "Hold the bond as precious"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Honours another's bond with unguarded tenderness"
+   }
+  ]
+ },
+ {
+  "id": 10820,
+  "altitude": "Courage",
+  "segments": [
+   {
+    "quote": "ur mom is a fighter #Cancerisabitch",
+    "four_sides": {
+     "factual": "Calls the mother a fighter and curses the disease",
+     "self_revelation": "Turns feeling into a rallying line",
+     "relationship": "Stands beside the poster against the illness",
+     "appeal": "Take the salute and the shared anger"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Salutes the dead woman while aiming a curse at the disease"
+   }
+  ]
+ },
+ {
+  "id": 10832,
+  "altitude": "Love",
+  "segments": [
+   {
+    "quote": "In my belief, any child who is lost so soon had a soul lesson to learn before they moved on to their next life.",
+    "four_sides": {
+     "factual": "Offers a framework in which a short life had purpose",
+     "self_revelation": "Holds a spiritual account of early death",
+     "relationship": "Offers the frame as a possible comfort",
+     "appeal": "Consider this way of seeing it"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers a meaning-making frame to someone in acute loss"
+   },
+   {
+    "quote": "You gave him that. He lived a life that was filled with only love.",
+    "four_sides": {
+     "factual": "Credits the parents with giving the child unconditional love",
+     "self_revelation": "Wants the parents to see what they did right",
+     "relationship": "Absolves the parents",
+     "appeal": "Believe you gave him everything"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Places the parents' love at the centre to counter their guilt"
+   },
+   {
+    "quote": "I say this, knowing I can not take away this pain but hope to bring you any type of peace.",
+    "four_sides": {
+     "factual": "Acknowledges the limits of what words can do",
+     "self_revelation": "Aware of overstepping and careful not to",
+     "relationship": "Respects the grief rather than fixing it",
+     "appeal": "Take what helps and leave the rest"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers comfort while naming its limits, tending without overreach"
+   },
+   {
+    "quote": "I hope John rests well until you can meet again in the next one ❤️ I so wish he was here with you.",
+    "four_sides": {
+     "factual": "Wishes the child rest and a future reunion",
+     "self_revelation": "Wishes the death undone",
+     "relationship": "Mourns alongside the parents",
+     "appeal": "Hold onto the hope of reunion"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Wishes the loss undone while blessing the child by name"
+   },
+   {
+    "quote": "I also recommend listening to Brittani Boren Leach and her story of the loss of her son Crew, who also passed of SIDS.",
+    "four_sides": {
+     "factual": "Recommends another bereaved parent's account",
+     "self_revelation": "Has looked into this territory before",
+     "relationship": "Points toward others who have survived the same loss",
+     "appeal": "Look her up"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Hands over a concrete resource for the grieving to use"
+   },
+   {
+    "quote": "I think her podcast and blog would help you in some way or at least I would hope so ❤️",
+    "four_sides": {
+     "factual": "Suggests the material may help",
+     "self_revelation": "Hopes without claiming certainty",
+     "relationship": "Leaves the parent free to decline",
+     "appeal": "Try it if it fits"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers help tentatively, leaving the choice with the bereaved"
+   }
+  ]
+ },
+ {
+  "id": 10844,
+  "altitude": "Love",
+  "segments": [
+   {
+    "quote": "I’m so sorry for your loss.",
+    "four_sides": {
+     "factual": "Offers condolence",
+     "self_revelation": "Moved to respond to the death",
+     "relationship": "Addresses the parents as bereaved",
+     "appeal": "Receive the sympathy"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Extends condolence directly to the bereaved parents"
+   },
+   {
+    "quote": "John is absolutely beautiful 🤍",
+    "four_sides": {
+     "factual": "Praises the baby by name in the present tense",
+     "self_revelation": "Sees the child as a person, not an event",
+     "relationship": "Honours the parents' child",
+     "appeal": "Hear him named and admired"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names the dead child and calls him beautiful, tenderness held toward the parents"
+   }
+  ]
+ },
+ {
+  "id": 10856,
+  "altitude": "Love",
+  "segments": [
+   {
+    "quote": "I'm so sorry",
+    "four_sides": {
+     "factual": "Offers condolence",
+     "self_revelation": "Has nothing to add beyond presence",
+     "relationship": "Stands with the bereaved without explaining",
+     "appeal": "Feel the sympathy"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Offers bare condolence, presence given without commentary"
+   }
+  ]
+ },
+ {
+  "id": 10868,
+  "altitude": "Love",
+  "segments": [
+   {
+    "quote": "I can hear your love, as well as your anguish, through the screen.",
+    "four_sides": {
+     "factual": "Names both the love and the anguish in the post",
+     "self_revelation": "Attuned to what is underneath the words",
+     "relationship": "Reflects the parent back to himself accurately",
+     "appeal": "Feel seen"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Reflects back both love and anguish, attunement given as the offering"
+   },
+   {
+    "quote": "I don’t know why babies die. I don’t know why John died. It’s so unfair.",
+    "four_sides": {
+     "factual": "Refuses to explain the death and calls it unfair",
+     "self_revelation": "Will not pretend to have an answer",
+     "relationship": "Declines to console with reasons",
+     "appeal": "Let the unfairness stand unexplained"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Sits in not knowing and names the unfairness outright"
+   },
+   {
+    "quote": "I hope the waves of grief are gentle with your heart and that you’re able to find your footing in the space between them.",
+    "four_sides": {
+     "factual": "Wishes the grief comes in bearable waves with room between",
+     "self_revelation": "Knows grief moves in waves",
+     "relationship": "Wishes the parent survivable ground",
+     "appeal": "Find footing where you can"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Wishes bearable ground for someone in acute grief"
+   },
+   {
+    "quote": "He was a beautiful boy and you did right by him ❤️",
+    "four_sides": {
+     "factual": "Praises the child and affirms the parents' conduct",
+     "self_revelation": "Wants to answer the stated guilt",
+     "relationship": "Absolves the parent directly",
+     "appeal": "Stop blaming yourself"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Answers self-blame with a direct absolution"
+   }
+  ]
+ },
+ {
+  "id": 10880,
+  "altitude": "Love",
+  "segments": [
+   {
+    "quote": "My heart goes out to you💔",
+    "four_sides": {
+     "factual": "Sends sympathy",
+     "self_revelation": "Feels the loss from a distance",
+     "relationship": "Reaches toward the bereaved",
+     "appeal": "Receive the sympathy"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Reaches toward the bereaved with the broken heart marking the ache"
+   },
+   {
+    "quote": "I'll be praying for you both 🙏🏼❤️",
+    "four_sides": {
+     "factual": "Commits to praying for the couple",
+     "self_revelation": "Will carry them beyond this comment",
+     "relationship": "Places both parents in ongoing care",
+     "appeal": "Know you will be held in prayer"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Pledges ongoing tending beyond the moment of writing"
+   }
+  ]
+ },
+ {
+  "id": 10892,
+  "altitude": "Love",
+  "segments": [
+   {
+    "quote": "My first and only baby passed away too.",
+    "four_sides": {
+     "factual": "States the same loss as the poster's",
+     "self_revelation": "Carries an identical bereavement",
+     "relationship": "Establishes standing to speak into this grief",
+     "appeal": "Hear this from someone who knows"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "States a matching loss plainly to stand alongside the bereaved"
+   },
+   {
+    "quote": "I am so sorry.",
+    "four_sides": {
+     "factual": "Offers condolence",
+     "self_revelation": "Feels the loss keenly",
+     "relationship": "Addresses the parents directly",
+     "appeal": "Receive the sympathy"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Extends condolence without qualification"
+   },
+   {
+    "quote": "Your son John is precious and beautiful.",
+    "four_sides": {
+     "factual": "Names and praises the child in the present tense",
+     "self_revelation": "Treats the baby as still a person",
+     "relationship": "Honours the parents' son",
+     "appeal": "Hear him named"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Names the child and honours him to his parents"
+   },
+   {
+    "quote": "Please, please remember how precious and loved you and your wife are too.",
+    "four_sides": {
+     "factual": "Urges the parents to include themselves in what is precious",
+     "self_revelation": "Knows how easily grieving parents disappear",
+     "relationship": "Insists on their worth against their self-erasure",
+     "appeal": "Value yourselves as well"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Presses the grieving to keep themselves inside the circle of care"
+   },
+   {
+    "quote": "The \"Why\"s are unbearable sometimes, but please know you are *not* alone and all you did was love your son.",
+    "four_sides": {
+     "factual": "Acknowledges unbearable questions and denies fault",
+     "self_revelation": "Has lived inside the same questions",
+     "relationship": "Refuses to let the parent stand alone in blame",
+     "appeal": "Stop carrying the blame"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names the unbearable questions while cutting the blame away"
+   },
+   {
+    "quote": "I will be thinking of you all.",
+    "four_sides": {
+     "factual": "Commits to continued thought of the family",
+     "self_revelation": "Will carry them onward",
+     "relationship": "Keeps the connection open past the comment",
+     "appeal": "Know you are held in mind"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Pledges continued attention beyond the moment"
+   }
+  ]
+ },
+ {
+  "id": 10904,
+  "altitude": "Love",
+  "segments": [
+   {
+    "quote": "Your loss is devastating and my heart goes out to you all completely.",
+    "four_sides": {
+     "factual": "Names the loss as devastating and sends sympathy",
+     "self_revelation": "Refuses to soften what happened",
+     "relationship": "Meets the family with full sympathy",
+     "appeal": "Receive the sympathy"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names the devastation without softening it and reaches toward the family"
+   },
+   {
+    "quote": "From my grief counselor yesterday, I learned about what processing death will look like and some healthy things I can do for my own loss.",
+    "four_sides": {
+     "factual": "Reports current counselling and what was learned",
+     "self_revelation": "Is freshly bereaved and actively working on it",
+     "relationship": "Shares own process as material for the other",
+     "appeal": "Consider what helped here"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Reports own grief work openly as something to pass on"
+   },
+   {
+    "quote": "She encouraged letting myself feel everything.",
+    "four_sides": {
+     "factual": "Relays the counsellor's core instruction",
+     "self_revelation": "Is practising allowing feeling",
+     "relationship": "Hands the instruction on",
+     "appeal": "Let yourself feel it too"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Passes on permission to feel the whole of it"
+   },
+   {
+    "quote": "I encourage you to do things at your own pace and protect yourself from anyone who isn’t protecting your reality and process.",
+    "four_sides": {
+     "factual": "Advises self-paced grieving and guarding against unhelpful people",
+     "self_revelation": "Has learned that others can intrude",
+     "relationship": "Backs the parent's right to set terms",
+     "appeal": "Protect your own process"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Urges guarding a boundary against people who intrude on the grieving"
+   },
+   {
+    "quote": "Ask for help with meals, housework, planning, transportation, and anything else that you feel will help you have space to grieve.",
+    "four_sides": {
+     "factual": "Lists practical supports to request",
+     "self_revelation": "Thinks in concrete terms about survival",
+     "relationship": "Treats the parent as entitled to help",
+     "appeal": "Ask for the help"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Turns comfort into concrete help the bereaved can request"
+   },
+   {
+    "quote": "I’m sending love to your family and your precious baby boy.",
+    "four_sides": {
+     "factual": "Sends love to the family and the child",
+     "self_revelation": "Holds the baby as a person too",
+     "relationship": "Includes the dead child in the circle",
+     "appeal": "Receive the love"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Closes by extending love to the living and the dead alike"
+   }
+  ]
+ },
+ {
+  "id": 10916,
+  "altitude": "Love",
+  "segments": [
+   {
+    "quote": "I am so sorry for your loss.",
+    "four_sides": {
+     "factual": "Offers condolence",
+     "self_revelation": "Moved to say something",
+     "relationship": "Addresses the parents as bereaved",
+     "appeal": "Receive the sympathy"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Extends plain condolence to the bereaved"
+   },
+   {
+    "quote": "What a sweet boy.",
+    "four_sides": {
+     "factual": "Praises the child",
+     "self_revelation": "Sees the baby as a person worth admiring",
+     "relationship": "Honours the parents' son",
+     "appeal": "Hear him admired"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Admires the dead child on the parents' behalf"
+   }
+  ]
+ },
+ {
+  "id": 10928,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "It is.",
+    "four_sides": {
+     "factual": "Affirms the post's hope as true",
+     "self_revelation": "Speaks with certainty",
+     "relationship": "Settles the poster's uncertainty",
+     "appeal": "Stop merely hoping"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Answers a hope with a flat affirmation offered as reassurance"
+   },
+   {
+    "quote": "I died 3 times one night and each time there was someone I knew who had passed over.",
+    "four_sides": {
+     "factual": "Reports three clinical deaths each with familiar figures present",
+     "self_revelation": "Treats the experience as first-hand knowledge",
+     "relationship": "Offers own experience as evidence for the poster",
+     "appeal": "Take this as testimony"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Recounts meeting the dead as remembered fact, told steadily"
+   },
+   {
+    "quote": "Honestly it was the most peaceful experience I’ve ever had.",
+    "four_sides": {
+     "factual": "Characterises the experience as maximally peaceful",
+     "self_revelation": "Unafraid of dying now",
+     "relationship": "Aims to ease the poster's fear for the father",
+     "appeal": "Be reassured about how it was for him"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers own calm at the threshold to soothe another's fear"
+   }
+  ]
+ },
+ {
+  "id": 10940,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Beautiful 🩷",
+    "four_sides": {
+     "factual": "Judges the post beautiful",
+     "self_revelation": "Touched by it",
+     "relationship": "Appreciates the poster's offering",
+     "appeal": "Receive the appreciation"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers clean appreciation of another's reflection on loss"
+   }
+  ]
+ },
+ {
+  "id": 10952,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I got a lot of dreams about my dad the following months after he died. I swear, some felt a lot more like “him” rather than a dream.",
+    "four_sides": {
+     "factual": "Reports frequent dreams that felt like contact",
+     "self_revelation": "Distinguishes contact from ordinary dreaming",
+     "relationship": "Confirms the poster's hope from experience",
+     "appeal": "Take this as corroboration"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Recounts dream contact with a dead father, the attachment spoken openly"
+   },
+   {
+    "quote": "I used to live in the same apartment complex as my dad, but I lived upstairs from him.",
+    "four_sides": {
+     "factual": "Sets the geography of the remembered dream",
+     "self_revelation": "Holds the details precisely",
+     "relationship": "Gives the reader the setting to follow",
+     "appeal": "Follow the scene"
+    },
+    "dominant": "factual",
+    "systems": [],
+    "why": "Sets the scene with plain detail carrying no charge"
+   },
+   {
+    "quote": "I picked him up and took him down to my dad’s apartment and gave it to him.",
+    "four_sides": {
+     "factual": "Describes carrying the dead dog down to the father in the dream",
+     "self_revelation": "Even in dreams acts to give the father something",
+     "relationship": "Shows the reader an act of delivery across death",
+     "appeal": "See the gesture"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Recounts delivering a companion to the dead father, tending continued past death"
+   },
+   {
+    "quote": "I hope he has Gonzo now",
+    "four_sides": {
+     "factual": "Wishes the father reunited with his dog",
+     "self_revelation": "Still wanting good things for the dead",
+     "relationship": "Shares a small private hope",
+     "appeal": "Hope it with me"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Wishes company for the dead, longing stated simply"
+   }
+  ]
+ },
+ {
+  "id": 10964,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I truly do believe that while my grandparents were passing away, they saw their families that had passed away decades before them",
+    "four_sides": {
+     "factual": "States belief that dying grandparents saw their own dead family",
+     "self_revelation": "Holds the belief firmly and without hedging",
+     "relationship": "Backs the poster's hope with own conviction",
+     "appeal": "Believe it too"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Affirms a reunion at death to steady another's hope"
+   }
+  ]
+ }
+]
