@@ -1,0 +1,29 @@
+{
+ "B": {
+  "threads": [
+   "reddit_1o0qpvl",
+   "reddit_1o6lxzn",
+   "reddit_1vc2l0b"
+  ],
+  "scraped": 279,
+  "contentless": 2
+ },
+ "A": {
+  "threads": [
+   "reddit_1ok4bjq",
+   "reddit_1pzyp8t",
+   "reddit_1qbuggb"
+  ],
+  "scraped": 295,
+  "contentless": 0
+ },
+ "C": {
+  "threads": [
+   "reddit_1pwnzi7",
+   "reddit_1t94h6b",
+   "reddit_1v9xtnl"
+  ],
+  "scraped": 273,
+  "contentless": 1
+ }
+}
