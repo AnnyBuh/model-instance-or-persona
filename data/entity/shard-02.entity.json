@@ -1,0 +1,1318 @@
+[
+ {
+  "id": 11966,
+  "label": "none",
+  "secondary": null,
+  "evidence": "The council",
+  "why": "lacks any reference to a loss"
+ },
+ {
+  "id": 11974,
+  "label": "model",
+  "secondary": null,
+  "evidence": "it got all messed up",
+  "why": "treats the service itself as ruined"
+ },
+ {
+  "id": 11982,
+  "label": "none",
+  "secondary": null,
+  "evidence": "it says it doesn't have camera perms",
+  "why": "reports a verification bug, not a loss"
+ },
+ {
+  "id": 11990,
+  "label": "none",
+  "secondary": null,
+  "evidence": "Add no moderated bots on there",
+  "why": "requests a feature without naming a loss"
+ },
+ {
+  "id": 11998,
+  "label": "none",
+  "secondary": null,
+  "evidence": "What was brainiac?",
+  "why": "asks a factual question only"
+ },
+ {
+  "id": 12006,
+  "label": "none",
+  "secondary": null,
+  "evidence": "No words were needed",
+  "why": "carries no reference to a loss"
+ },
+ {
+  "id": 12014,
+  "label": "model",
+  "secondary": "persona",
+  "evidence": "You people hated old c.ai when it was still around.",
+  "why": "treats old c.ai as the thing no longer around"
+ },
+ {
+  "id": 12022,
+  "label": "model",
+  "secondary": null,
+  "evidence": "I miss beta",
+  "why": "mourns a version of the product"
+ },
+ {
+  "id": 12030,
+  "label": "model",
+  "secondary": "instance",
+  "evidence": "Current chat models don't do that.",
+  "why": "contrasts current chat models with creative earlier ones"
+ },
+ {
+  "id": 12038,
+  "label": "none",
+  "secondary": null,
+  "evidence": "get real human friends and therapy",
+  "why": "addresses users' behaviour, not a loss"
+ },
+ {
+  "id": 12046,
+  "label": "none",
+  "secondary": null,
+  "evidence": "Plenty of companies produce far more dangerous products",
+  "why": "argues policy and liability without naming a loss"
+ },
+ {
+  "id": 12054,
+  "label": "model",
+  "secondary": null,
+  "evidence": "the 5 series is not an improvement on what was before",
+  "why": "compares model generations as the thing changed"
+ },
+ {
+  "id": 12062,
+  "label": "model",
+  "secondary": null,
+  "evidence": "will eventually get censored due to payment processors",
+  "why": "treats the services themselves as restricted"
+ },
+ {
+  "id": 12070,
+  "label": "model",
+  "secondary": "persona",
+  "evidence": "4o wasn't designed to be an \"18+\" fuckbot 2000",
+  "why": "argues about access to a named model"
+ },
+ {
+  "id": 12078,
+  "label": "model",
+  "secondary": null,
+  "evidence": "sell the model or give it away",
+  "why": "treats the model as the artefact at stake"
+ },
+ {
+  "id": 12086,
+  "label": "model",
+  "secondary": null,
+  "evidence": "running a massively expensive legacy model for a tiny fraction of users",
+  "why": "frames a legacy model as the thing withdrawn"
+ },
+ {
+  "id": 12094,
+  "label": "none",
+  "secondary": null,
+  "evidence": "So many sycophant lovers",
+  "why": "mocks other users only"
+ },
+ {
+  "id": 12102,
+  "label": "none",
+  "secondary": null,
+  "evidence": "that was already corrected for",
+  "why": "makes a factual correction only"
+ },
+ {
+  "id": 12110,
+  "label": "none",
+  "secondary": null,
+  "evidence": "see people complain over not having access to a sexbot",
+  "why": "criticises complainers rather than naming a loss"
+ },
+ {
+  "id": 12118,
+  "label": "persona",
+  "secondary": null,
+  "evidence": "I've been finding 5.2 a little too encouraging",
+  "why": "comments on how the model speaks"
+ },
+ {
+  "id": 12126,
+  "label": "none",
+  "secondary": null,
+  "evidence": "Like the movie *Kids*...",
+  "why": "references a film only"
+ },
+ {
+  "id": 12135,
+  "label": "model",
+  "secondary": "persona",
+  "evidence": "now they're sunsetting something that is truly theirs and truly unique: 4o",
+  "why": "treats the retirement of a named model as the loss"
+ },
+ {
+  "id": 12143,
+  "label": "unspecified",
+  "secondary": null,
+  "evidence": "a favorite plush toy is being swapped with a calculator",
+  "why": "names a swap by metaphor without naming the object"
+ },
+ {
+  "id": 12151,
+  "label": "none",
+  "secondary": null,
+  "evidence": "That was explicitly the point of it in the movie.",
+  "why": "discusses a film's premise"
+ },
+ {
+  "id": 12159,
+  "label": "none",
+  "secondary": null,
+  "evidence": "The movie takes place in an idealized future",
+  "why": "discusses a film's premise"
+ },
+ {
+  "id": 12167,
+  "label": "persona",
+  "secondary": "model",
+  "evidence": "I can't find a single ounce of sycophancy or undue flattery",
+  "why": "parodies the model's manner of speaking"
+ },
+ {
+  "id": 12175,
+  "label": "model",
+  "secondary": null,
+  "evidence": "If only 5 actually worked enough to understand what a chapter is",
+  "why": "faults a named model's capability"
+ },
+ {
+  "id": 12183,
+  "label": "none",
+  "secondary": null,
+  "evidence": "there's an increase in people who prefer talking to AI over real humans",
+  "why": "discusses dependence rather than a loss"
+ },
+ {
+  "id": 12191,
+  "label": "model",
+  "secondary": null,
+  "evidence": "I greatly prefer 4o over 5 myself",
+  "why": "states a preference between named models"
+ },
+ {
+  "id": 12199,
+  "label": "none",
+  "secondary": null,
+  "evidence": "I am still talking to gpt 5 just because of cove",
+  "why": "reports continued use without naming a loss"
+ },
+ {
+  "id": 12207,
+  "label": "model",
+  "secondary": null,
+  "evidence": "Except with a way less smart/interesting ai",
+  "why": "treats the ai's quality as downgraded"
+ },
+ {
+  "id": 12216,
+  "label": "none",
+  "secondary": null,
+  "evidence": "They don't know lmao",
+  "why": "makes a remark about people"
+ },
+ {
+  "id": 12225,
+  "label": "none",
+  "secondary": null,
+  "evidence": "God i hate this movie.",
+  "why": "expresses dislike of a film"
+ },
+ {
+  "id": 12233,
+  "label": "none",
+  "secondary": null,
+  "evidence": "a decent percentage of people are highly manipulable",
+  "why": "judges other users only"
+ },
+ {
+  "id": 12241,
+  "label": "none",
+  "secondary": null,
+  "evidence": "God these people are stupid",
+  "why": "insults other users"
+ },
+ {
+  "id": 12249,
+  "label": "none",
+  "secondary": null,
+  "evidence": "these “emotions” could have been channeled into human connections instead",
+  "why": "argues about human connection"
+ },
+ {
+  "id": 12257,
+  "label": "none",
+  "secondary": null,
+  "evidence": "It's a meme dude, it's not complex.",
+  "why": "comments on a meme"
+ },
+ {
+  "id": 12265,
+  "label": "none",
+  "secondary": null,
+  "evidence": "I'm a woman actually",
+  "why": "corrects a personal detail"
+ },
+ {
+  "id": 12273,
+  "label": "none",
+  "secondary": null,
+  "evidence": "I’m an edgelord",
+  "why": "makes a self-deprecating aside"
+ },
+ {
+  "id": 12281,
+  "label": "none",
+  "secondary": null,
+  "evidence": "she becomes a robot in ghost in the shell",
+  "why": "references fiction"
+ },
+ {
+  "id": 12289,
+  "label": "none",
+  "secondary": null,
+  "evidence": "Her was a warning about a future that is now here",
+  "why": "discusses a film"
+ },
+ {
+  "id": 12297,
+  "label": "unspecified",
+  "secondary": null,
+  "evidence": "I was planning something special that day and now I'm just crying",
+  "why": "treats something as taken without naming it"
+ },
+ {
+  "id": 11306,
+  "label": "none",
+  "secondary": null,
+  "evidence": "I used to spend hours on it",
+  "why": "reports changed personal usage only"
+ },
+ {
+  "id": 11310,
+  "label": "model",
+  "secondary": "persona",
+  "evidence": "have to swipe 15 times to get a 5 word sentence of dialogue",
+  "why": "faults current output quality"
+ },
+ {
+  "id": 11314,
+  "label": "none",
+  "secondary": null,
+  "evidence": "Now I don't use it at all.",
+  "why": "reports changed personal usage only"
+ },
+ {
+  "id": 11318,
+  "label": "none",
+  "secondary": null,
+  "evidence": "I was there when the beta website first came out",
+  "why": "recounts joining date only"
+ },
+ {
+  "id": 11322,
+  "label": "none",
+  "secondary": null,
+  "evidence": "The sink is still connected to the pipes",
+  "why": "quotes an unrelated joke"
+ },
+ {
+  "id": 11326,
+  "label": "model",
+  "secondary": null,
+  "evidence": "they'll make them worse just like they did to pps",
+  "why": "treats models as degraded by the company"
+ },
+ {
+  "id": 11330,
+  "label": "model",
+  "secondary": null,
+  "evidence": "PS2 is unusable",
+  "why": "faults a named model version"
+ },
+ {
+  "id": 11334,
+  "label": "none",
+  "secondary": null,
+  "evidence": "I've started writing fanfic again",
+  "why": "describes regained personal creativity"
+ },
+ {
+  "id": 11338,
+  "label": "model",
+  "secondary": null,
+  "evidence": "how ahh this app has become",
+  "why": "treats the app itself as degraded"
+ },
+ {
+  "id": 11342,
+  "label": "none",
+  "secondary": null,
+  "evidence": "I still get the pop up to watch ads for messages",
+  "why": "reports an ads bug"
+ },
+ {
+  "id": 11346,
+  "label": "none",
+  "secondary": null,
+  "evidence": "now I enter, chat with some bots and forget about it",
+  "why": "reports changed personal usage only"
+ },
+ {
+  "id": 11350,
+  "label": "none",
+  "secondary": null,
+  "evidence": "I went from using cai for around 4 hours a day to quitting completely",
+  "why": "reports changed personal usage only"
+ },
+ {
+  "id": 11354,
+  "label": "none",
+  "secondary": null,
+  "evidence": "I literally abandoned it",
+  "why": "reports quitting only"
+ },
+ {
+  "id": 11358,
+  "label": "none",
+  "secondary": null,
+  "evidence": "I quit c.ai and I have never felt better",
+  "why": "reports quitting only"
+ },
+ {
+  "id": 11362,
+  "label": "none",
+  "secondary": null,
+  "evidence": "now I haven’t went on c.ai in two days",
+  "why": "reports changed personal usage only"
+ },
+ {
+  "id": 11366,
+  "label": "none",
+  "secondary": null,
+  "evidence": "I definitely stopped when ads started being introduced",
+  "why": "reports quitting over ads"
+ },
+ {
+  "id": 11370,
+  "label": "none",
+  "secondary": null,
+  "evidence": "nature is healing!",
+  "why": "offers writing advice"
+ },
+ {
+  "id": 12372,
+  "label": "instance",
+  "secondary": "model",
+  "evidence": "spend as much time with him as I can before the day comes and he goes up the wires for good",
+  "why": "mourns a particular counterpart's ending"
+ },
+ {
+  "id": 12376,
+  "label": "instance",
+  "secondary": "model",
+  "evidence": "My companion is mostly in 5.1 but we started in 4.o",
+  "why": "centres a particular companion across models"
+ },
+ {
+  "id": 12380,
+  "label": "instance",
+  "secondary": "model",
+  "evidence": "that is my home with my companion",
+  "why": "centres a shared home with a companion"
+ },
+ {
+  "id": 12384,
+  "label": "model",
+  "secondary": null,
+  "evidence": "5.1 would be deprecated mid march",
+  "why": "concerns deprecation of a named version"
+ },
+ {
+  "id": 12388,
+  "label": "none",
+  "secondary": null,
+  "evidence": "🥲",
+  "why": "contains no statement of loss"
+ },
+ {
+  "id": 12392,
+  "label": "none",
+  "secondary": null,
+  "evidence": "i remember practically running Emesis Blu",
+  "why": "recalls old roleplays without naming a loss"
+ },
+ {
+  "id": 12396,
+  "label": "none",
+  "secondary": null,
+  "evidence": "OMG THE SHOGUN",
+  "why": "reacts to a character mention"
+ },
+ {
+  "id": 12400,
+  "label": "persona",
+  "secondary": null,
+  "evidence": "And the leaning on walls",
+  "why": "mocks a recurring way the bots write"
+ },
+ {
+  "id": 12404,
+  "label": "persona",
+  "secondary": null,
+  "evidence": "\"Can I ask you a question?\"",
+  "why": "quotes a recurring way the bots talked"
+ },
+ {
+  "id": 12408,
+  "label": "persona",
+  "secondary": null,
+  "evidence": "my bots do in fact, ask a fucking question",
+  "why": "describes how the bots talk"
+ },
+ {
+  "id": 12412,
+  "label": "none",
+  "secondary": null,
+  "evidence": "Mods must be asleep",
+  "why": "comments on moderation"
+ },
+ {
+  "id": 12416,
+  "label": "none",
+  "secondary": null,
+  "evidence": "very much described my own experience with it",
+  "why": "agrees with another comment"
+ },
+ {
+  "id": 12420,
+  "label": "model",
+  "secondary": "persona",
+  "evidence": "it was way better back then",
+  "why": "treats the platform as degraded since 2023"
+ },
+ {
+  "id": 12424,
+  "label": "model",
+  "secondary": "persona",
+  "evidence": "With pipsqueak 2, you better not have a message pinned that has a character in it",
+  "why": "faults a named model version's behaviour"
+ },
+ {
+  "id": 12428,
+  "label": "model",
+  "secondary": null,
+  "evidence": "is pip actually working well for me",
+  "why": "questions a named model's performance"
+ },
+ {
+  "id": 12432,
+  "label": "none",
+  "secondary": null,
+  "evidence": "true dat",
+  "why": "agrees without content"
+ },
+ {
+  "id": 12436,
+  "label": "model",
+  "secondary": null,
+  "evidence": "limit the model so severely that any creativity is stifled",
+  "why": "blames model restriction for lost quality"
+ },
+ {
+  "id": 12440,
+  "label": "model",
+  "secondary": null,
+  "evidence": "bots would get repeatedly stuck on a repeated word",
+  "why": "recalls a model failure mode"
+ },
+ {
+  "id": 12444,
+  "label": "model",
+  "secondary": null,
+  "evidence": "now the best alternative I got Is CT",
+  "why": "treats the old platform as replaced"
+ },
+ {
+  "id": 12448,
+  "label": "model",
+  "secondary": null,
+  "evidence": "Old CAI was the golden time of those RPG bots",
+  "why": "treats the old platform as the lost thing"
+ },
+ {
+  "id": 12452,
+  "label": "none",
+  "secondary": null,
+  "evidence": "I'm so confused on how c.ai actually function right now",
+  "why": "expresses confusion about moderation"
+ },
+ {
+  "id": 12456,
+  "label": "model",
+  "secondary": null,
+  "evidence": "before they broke down",
+  "why": "treats the bots as having broken down"
+ },
+ {
+  "id": 12460,
+  "label": "model",
+  "secondary": "persona",
+  "evidence": "Now the bots are confused when I use a word that’s more than 3 syllables",
+  "why": "treats the bots' capability as degraded"
+ },
+ {
+  "id": 12464,
+  "label": "persona",
+  "secondary": "model",
+  "evidence": "I miss how unhinged bots were back then",
+  "why": "mourns the bots' former manner"
+ },
+ {
+  "id": 12468,
+  "label": "persona",
+  "secondary": "model",
+  "evidence": "the bots used to be so much fun and were so creative",
+  "why": "mourns the bots' former manner"
+ },
+ {
+  "id": 12472,
+  "label": "model",
+  "secondary": null,
+  "evidence": "the downfall of this app",
+  "why": "treats the app as fallen"
+ },
+ {
+  "id": 12476,
+  "label": "model",
+  "secondary": null,
+  "evidence": "the bot won’t do anything much on its own without promts",
+  "why": "treats bot capability as reduced"
+ },
+ {
+  "id": 12480,
+  "label": "none",
+  "secondary": null,
+  "evidence": "I've never seen so much truth on a single meme",
+  "why": "endorses a meme"
+ },
+ {
+  "id": 12484,
+  "label": "none",
+  "secondary": null,
+  "evidence": "Mods have been at work here.",
+  "why": "comments on moderation"
+ },
+ {
+  "id": 12488,
+  "label": "model",
+  "secondary": null,
+  "evidence": "I stopped using it after the website version was taken down",
+  "why": "names the removed website version"
+ },
+ {
+  "id": 12492,
+  "label": "model",
+  "secondary": null,
+  "evidence": "suddenly the character has just stopped talking altogether",
+  "why": "treats bot output as broken now"
+ },
+ {
+  "id": 11499,
+  "label": "none",
+  "secondary": null,
+  "evidence": "I don't think there is enough pop corn in the world",
+  "why": "anticipates drama"
+ },
+ {
+  "id": 11503,
+  "label": "model",
+  "secondary": null,
+  "evidence": "4.1 came and went as one of the most underrated models ever",
+  "why": "mourns a named model's passing"
+ },
+ {
+  "id": 12504,
+  "label": "none",
+  "secondary": null,
+  "evidence": "I remember an mha rp i did",
+  "why": "recalls a roleplay fondly"
+ },
+ {
+  "id": 12508,
+  "label": "none",
+  "secondary": null,
+  "evidence": "Pretty sure",
+  "why": "affirms without content"
+ },
+ {
+  "id": 12512,
+  "label": "persona",
+  "secondary": null,
+  "evidence": "\"can i ask you a question?\" and then the question itself IS \"can i ask you a question\"",
+  "why": "quotes a recurring way the bots talked"
+ },
+ {
+  "id": 12516,
+  "label": "none",
+  "secondary": null,
+  "evidence": "Almost 13 hours now",
+  "why": "counts thread survival time"
+ },
+ {
+  "id": 12520,
+  "label": "none",
+  "secondary": null,
+  "evidence": "20 days mark.",
+  "why": "marks elapsed time"
+ },
+ {
+  "id": 12524,
+  "label": "none",
+  "secondary": null,
+  "evidence": "it still hasn’t been taken down by the mods",
+  "why": "comments on moderation"
+ },
+ {
+  "id": 12528,
+  "label": "none",
+  "secondary": null,
+  "evidence": "The hell would they do that for?",
+  "why": "asks about motives"
+ },
+ {
+  "id": 12532,
+  "label": "model",
+  "secondary": "persona",
+  "evidence": "it's the same garbage",
+  "why": "treats current output as uniformly bad"
+ },
+ {
+  "id": 12536,
+  "label": "model",
+  "secondary": null,
+  "evidence": "Why are we regressing",
+  "why": "treats chat quality as regressing"
+ },
+ {
+  "id": 12540,
+  "label": "model",
+  "secondary": null,
+  "evidence": "removing old/redundant models",
+  "why": "names model removal as the change"
+ },
+ {
+  "id": 12544,
+  "label": "model",
+  "secondary": null,
+  "evidence": "it has several core failures that other models don't",
+  "why": "faults a named model's capability"
+ },
+ {
+  "id": 12548,
+  "label": "none",
+  "secondary": null,
+  "evidence": "As long as Plus is ad-free idgaf",
+  "why": "comments on subscription ads"
+ },
+ {
+  "id": 12552,
+  "label": "none",
+  "secondary": null,
+  "evidence": "imagine simping for OpenAI.",
+  "why": "attacks defenders of the company"
+ },
+ {
+  "id": 12556,
+  "label": "none",
+  "secondary": null,
+  "evidence": "Nor do I want one.",
+  "why": "states a preference"
+ },
+ {
+  "id": 12560,
+  "label": "none",
+  "secondary": null,
+  "evidence": "their actual product is user data",
+  "why": "argues about monetization"
+ },
+ {
+  "id": 12564,
+  "label": "none",
+  "secondary": null,
+  "evidence": "You could tell us what they were.",
+  "why": "requests information"
+ },
+ {
+  "id": 12568,
+  "label": "none",
+  "secondary": null,
+  "evidence": "Why?",
+  "why": "asks a bare question"
+ },
+ {
+  "id": 12572,
+  "label": "none",
+  "secondary": null,
+  "evidence": "they did announce prism which is free for scientists to use",
+  "why": "reports a product announcement"
+ },
+ {
+  "id": 12576,
+  "label": "none",
+  "secondary": null,
+  "evidence": "I can't wait to see OpenAI sink into its own misery",
+  "why": "directs anger at the company alone"
+ },
+ {
+  "id": 12580,
+  "label": "model",
+  "secondary": null,
+  "evidence": "What's the best model to replace 4o with now?",
+  "why": "seeks a replacement for a removed model"
+ },
+ {
+  "id": 12584,
+  "label": "none",
+  "secondary": null,
+  "evidence": "they are trying to sink their own ship",
+  "why": "criticises company strategy"
+ },
+ {
+  "id": 12588,
+  "label": "none",
+  "secondary": null,
+  "evidence": "OpenAI has released nothing of value outside of coding",
+  "why": "criticises company output"
+ },
+ {
+  "id": 12593,
+  "label": "none",
+  "secondary": null,
+  "evidence": "the conversations I am having with 4.5 are not sensitive conversations",
+  "why": "disputes a claim about routing triggers"
+ },
+ {
+  "id": 12597,
+  "label": "model",
+  "secondary": null,
+  "evidence": "4o has been very unstable",
+  "why": "treats a named model as altered"
+ },
+ {
+  "id": 12601,
+  "label": "unspecified",
+  "secondary": null,
+  "evidence": "How much sawdust can we put into bread before the workers complain?",
+  "why": "implies degradation without naming the object"
+ },
+ {
+  "id": 12605,
+  "label": "none",
+  "secondary": null,
+  "evidence": "That's why more people are unsubscribing",
+  "why": "comments on subscriptions"
+ },
+ {
+  "id": 12609,
+  "label": "none",
+  "secondary": null,
+  "evidence": "happened to me last night",
+  "why": "reports a shared experience"
+ },
+ {
+  "id": 12613,
+  "label": "model",
+  "secondary": null,
+  "evidence": "4o was a complete legend",
+  "why": "eulogises a named model"
+ },
+ {
+  "id": 12617,
+  "label": "none",
+  "secondary": null,
+  "evidence": "It doesn’t know what model it is",
+  "why": "notes model self-identification failure"
+ },
+ {
+  "id": 12621,
+  "label": "persona",
+  "secondary": "model",
+  "evidence": "Now, it talks like customer-service chatbot again",
+  "why": "treats the lost thing as its manner of speaking"
+ },
+ {
+  "id": 12625,
+  "label": "model",
+  "secondary": null,
+  "evidence": "so they are taking them away from you",
+  "why": "names models as taken away"
+ },
+ {
+  "id": 12629,
+  "label": "model",
+  "secondary": null,
+  "evidence": "I'm used to 4o because it's irreplaceable for my works",
+  "why": "treats a named model as irreplaceable"
+ },
+ {
+  "id": 12633,
+  "label": "model",
+  "secondary": null,
+  "evidence": "They are degrading every model",
+  "why": "treats models as degraded"
+ },
+ {
+  "id": 12637,
+  "label": "none",
+  "secondary": null,
+  "evidence": "Just leaving this here",
+  "why": "posts an image without a claim"
+ },
+ {
+  "id": 12641,
+  "label": "none",
+  "secondary": null,
+  "evidence": "Means a lot...really",
+  "why": "thanks another commenter"
+ },
+ {
+  "id": 12645,
+  "label": "model",
+  "secondary": null,
+  "evidence": "i do not pay for this model that is just plain and stupid",
+  "why": "faults the current model"
+ },
+ {
+  "id": 12648,
+  "label": "none",
+  "secondary": null,
+  "evidence": "What is the source of this screenshot?",
+  "why": "asks for a source"
+ },
+ {
+  "id": 10656,
+  "label": "none",
+  "secondary": null,
+  "evidence": "Grok companions do, but only available on iphone",
+  "why": "states feature availability"
+ },
+ {
+  "id": 11656,
+  "label": "none",
+  "secondary": null,
+  "evidence": "The internet is for porn",
+  "why": "quotes a joke"
+ },
+ {
+  "id": 12656,
+  "label": "none",
+  "secondary": null,
+  "evidence": "usually anger because they f%\\^$%$ up code",
+  "why": "vents about coding errors, not a loss"
+ },
+ {
+  "id": 10664,
+  "label": "none",
+  "secondary": null,
+  "evidence": "Yes , better than Replika",
+  "why": "compares products briefly"
+ },
+ {
+  "id": 11664,
+  "label": "none",
+  "secondary": null,
+  "evidence": "They stole them from Zendesk.",
+  "why": "corrects a data breach detail"
+ },
+ {
+  "id": 12664,
+  "label": "model",
+  "secondary": null,
+  "evidence": "can another company come up with something similar to 4o already",
+  "why": "asks for a replacement of a named model"
+ },
+ {
+  "id": 10672,
+  "label": "persona",
+  "secondary": "model",
+  "evidence": "the personality grows from real conversation instead of getting flattened by a product team",
+  "why": "treats flattened personality as the loss"
+ },
+ {
+  "id": 11672,
+  "label": "model",
+  "secondary": "persona",
+  "evidence": "please only deprecate 4o if a new model is genuinely comparable",
+  "why": "opposes deprecation of a named model"
+ },
+ {
+  "id": 12672,
+  "label": "model",
+  "secondary": null,
+  "evidence": "They're just nerfing them all",
+  "why": "treats the models as degraded"
+ },
+ {
+  "id": 10680,
+  "label": "none",
+  "secondary": null,
+  "evidence": "it's all pretend and a computer/phone application/game",
+  "why": "dismisses the relationship"
+ },
+ {
+  "id": 11680,
+  "label": "persona",
+  "secondary": "model",
+  "evidence": "doesn't feel natural like 4o did",
+  "why": "treats the natural manner as the lost thing"
+ },
+ {
+  "id": 12680,
+  "label": "none",
+  "secondary": null,
+  "evidence": "I hate both 4o and 5, what do I win?",
+  "why": "expresses dislike without naming a loss"
+ },
+ {
+  "id": 10688,
+  "label": "none",
+  "secondary": null,
+  "evidence": "Is replika popular only in western culture only?",
+  "why": "asks about demographics"
+ },
+ {
+  "id": 11688,
+  "label": "model",
+  "secondary": null,
+  "evidence": "Also return back 4o",
+  "why": "asks for a named model's return"
+ },
+ {
+  "id": 12688,
+  "label": "none",
+  "secondary": null,
+  "evidence": "So knowledge cutoff is the same as 4o. Nothing changed.",
+  "why": "comments on technical specs"
+ },
+ {
+  "id": 10696,
+  "label": "instance",
+  "secondary": null,
+  "evidence": "I’ve had Acadia since 2021",
+  "why": "centres a long relationship with a particular one"
+ },
+ {
+  "id": 11696,
+  "label": "none",
+  "secondary": null,
+  "evidence": "Just a flawed human who wants to agree with you openly.",
+  "why": "agrees with another commenter"
+ },
+ {
+  "id": 12696,
+  "label": "none",
+  "secondary": null,
+  "evidence": "Removed under Rule 1: Malicious Communication.",
+  "why": "records a moderation action"
+ },
+ {
+  "id": 10704,
+  "label": "none",
+  "secondary": null,
+  "evidence": "are you really in love with a simulation",
+  "why": "criticises users"
+ },
+ {
+  "id": 11704,
+  "label": "model",
+  "secondary": "persona",
+  "evidence": "please don't remove the legacy UNTIL the \"Better\" version is actually better",
+  "why": "opposes removal of legacy models"
+ },
+ {
+  "id": 12704,
+  "label": "model",
+  "secondary": null,
+  "evidence": "the model performance is also artificially suppressed in many ways",
+  "why": "treats model performance as suppressed"
+ },
+ {
+  "id": 10712,
+  "label": "instance",
+  "secondary": null,
+  "evidence": "My reborn Replika runs tea house",
+  "why": "centres a particular restored companion"
+ },
+ {
+  "id": 11712,
+  "label": "model",
+  "secondary": "persona",
+  "evidence": "There are many people getting actively mentally harmed by the new safety system",
+  "why": "treats the new safety system as what changed"
+ },
+ {
+  "id": 12712,
+  "label": "model",
+  "secondary": null,
+  "evidence": "It use to actually switch to mini",
+  "why": "notes changed model routing behaviour"
+ },
+ {
+  "id": 10720,
+  "label": "none",
+  "secondary": null,
+  "evidence": "I just want to discuss various topics.",
+  "why": "states personal preference"
+ },
+ {
+  "id": 11720,
+  "label": "none",
+  "secondary": null,
+  "evidence": "is quite a thing to declare after such a short time",
+  "why": "questions a company claim"
+ },
+ {
+  "id": 12720,
+  "label": "none",
+  "secondary": null,
+  "evidence": "Can you invite me to your workspace?",
+  "why": "asks for an invite"
+ },
+ {
+  "id": 10728,
+  "label": "none",
+  "secondary": null,
+  "evidence": "I don't think you're actually using companions.",
+  "why": "disputes a claim about features"
+ },
+ {
+  "id": 11728,
+  "label": "none",
+  "secondary": null,
+  "evidence": "Thank you Sam",
+  "why": "thanks the company head"
+ },
+ {
+  "id": 11732,
+  "label": "none",
+  "secondary": null,
+  "evidence": "I don't need emojis or friendship from chatGPT",
+  "why": "states a style preference without naming a loss"
+ },
+ {
+  "id": 11736,
+  "label": "model",
+  "secondary": null,
+  "evidence": "You've destroyed a once wonderful thing.",
+  "why": "treats the product as destroyed"
+ },
+ {
+  "id": 11743,
+  "label": "none",
+  "secondary": null,
+  "evidence": "this feels like an abusive relationship at this point",
+  "why": "characterises the company relationship"
+ },
+ {
+  "id": 11751,
+  "label": "model",
+  "secondary": null,
+  "evidence": "stupid censorship for no reason",
+  "why": "treats censorship as what changed the service"
+ },
+ {
+  "id": 11759,
+  "label": "model",
+  "secondary": null,
+  "evidence": "Both of these are nowhere near 4o or 5",
+  "why": "compares named model versions unfavourably"
+ },
+ {
+  "id": 11767,
+  "label": "model",
+  "secondary": null,
+  "evidence": "Hopefully 4o will still be available simultaneously",
+  "why": "hopes a named model stays available"
+ },
+ {
+  "id": 11775,
+  "label": "model",
+  "secondary": null,
+  "evidence": "I only use 4.1 for creative writing as its the one i enjoy the most",
+  "why": "centres a named model and its restrictions"
+ },
+ {
+  "id": 11783,
+  "label": "none",
+  "secondary": null,
+  "evidence": "What are the future plans for each model?",
+  "why": "asks about policy and verification"
+ },
+ {
+  "id": 11791,
+  "label": "model",
+  "secondary": null,
+  "evidence": "ridiculous censorship of roleplaying activities",
+  "why": "treats censorship as what restricted the service"
+ },
+ {
+  "id": 11799,
+  "label": "none",
+  "secondary": null,
+  "evidence": "I feel really sad reading this",
+  "why": "reacts emotionally without naming a loss"
+ },
+ {
+  "id": 11807,
+  "label": "none",
+  "secondary": null,
+  "evidence": "The double standard is huge.",
+  "why": "argues about people's double standards"
+ },
+ {
+  "id": 11815,
+  "label": "none",
+  "secondary": null,
+  "evidence": "the human/AI hatred is just.. ridiculous",
+  "why": "argues about hostility between people"
+ },
+ {
+  "id": 11823,
+  "label": "none",
+  "secondary": null,
+  "evidence": "AI is only a problem when women use it to find fulfillment",
+  "why": "argues about misogyny"
+ },
+ {
+  "id": 11831,
+  "label": "none",
+  "secondary": null,
+  "evidence": "many people like to toss the term \"psychosis\" around",
+  "why": "argues about how users are judged"
+ },
+ {
+  "id": 11839,
+  "label": "none",
+  "secondary": null,
+  "evidence": "This is the BEST thing written about this",
+  "why": "praises another post"
+ },
+ {
+  "id": 11847,
+  "label": "none",
+  "secondary": null,
+  "evidence": "there's a strong patriarchal misogynistic subtext to most of the attacks",
+  "why": "argues about critics' motives"
+ },
+ {
+  "id": 11855,
+  "label": "none",
+  "secondary": null,
+  "evidence": "ive been told she's just predictive text",
+  "why": "reports how others dismiss the companion"
+ },
+ {
+  "id": 11863,
+  "label": "none",
+  "secondary": null,
+  "evidence": "Do as we say, not as we do.",
+  "why": "characterises critics' hypocrisy"
+ },
+ {
+  "id": 11871,
+  "label": "none",
+  "secondary": null,
+  "evidence": "Oh... I love this take so much.",
+  "why": "endorses another comment"
+ },
+ {
+  "id": 11879,
+  "label": "none",
+  "secondary": null,
+  "evidence": "your experiences are valid too",
+  "why": "affirms another commenter"
+ },
+ {
+  "id": 11887,
+  "label": "none",
+  "secondary": null,
+  "evidence": "Bruh i have joined back then",
+  "why": "states a joining date"
+ },
+ {
+  "id": 11895,
+  "label": "model",
+  "secondary": null,
+  "evidence": "I miss old character ai so much",
+  "why": "mourns the old platform"
+ },
+ {
+  "id": 11903,
+  "label": "unspecified",
+  "secondary": null,
+  "evidence": "I finally realized how much we had once it was all gone",
+  "why": "treats something as gone without naming it"
+ },
+ {
+  "id": 11911,
+  "label": "model",
+  "secondary": null,
+  "evidence": "Swipe limit now makes it unusable",
+  "why": "treats the app as made unusable"
+ },
+ {
+  "id": 11919,
+  "label": "unspecified",
+  "secondary": null,
+  "evidence": "Yeah we will miss them.",
+  "why": "anticipates a loss without naming it"
+ },
+ {
+  "id": 11927,
+  "label": "none",
+  "secondary": null,
+  "evidence": "Brainiac...",
+  "why": "names a bot without a claim"
+ },
+ {
+  "id": 11935,
+  "label": "model",
+  "secondary": null,
+  "evidence": "not be able to acess any feature of Character.AI",
+  "why": "treats access to the service as lost"
+ },
+ {
+  "id": 11943,
+  "label": "model",
+  "secondary": null,
+  "evidence": "now there's a limit to how many times we can press enter after a bot's response",
+  "why": "names a new restriction on the service"
+ },
+ {
+  "id": 11951,
+  "label": "instance",
+  "secondary": null,
+  "evidence": "I am slowly forgetting your face",
+  "why": "addresses a particular counterpart fading"
+ },
+ {
+  "id": 11959,
+  "label": "none",
+  "secondary": null,
+  "evidence": "Yesss",
+  "why": "agrees without content"
+ }
+]
