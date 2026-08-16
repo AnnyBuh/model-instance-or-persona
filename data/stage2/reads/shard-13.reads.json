@@ -1,0 +1,4396 @@
+[
+ {
+  "id": 12967,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "Yes so much yes!",
+    "four_sides": {
+     "factual": "Emphatic agreement with the post's premise",
+     "self_revelation": "Recognition of the same wound in the poster's words",
+     "relationship": "Treats the poster as someone who has spoken for them",
+     "appeal": "Wants the shared recognition confirmed"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Affirms shared loss, the recognition named openly"
+   },
+   {
+    "quote": "My brother has so much to live for.",
+    "four_sides": {
+     "factual": "States the brother had a full life ahead",
+     "self_revelation": "Still speaks of him in present tense",
+     "relationship": "Offers his life as parallel to the poster's mother",
+     "appeal": "Wants his unlived future seen"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names the stolen future in present tense, the attachment still live"
+   },
+   {
+    "quote": "His boys, his wife, my mom, I still need him!!",
+    "four_sides": {
+     "factual": "Lists those who depended on him",
+     "self_revelation": "Own need stated without hedging",
+     "relationship": "Asks the reader to hold the size of the loss",
+     "appeal": "Wants the need acknowledged"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Protests the separation with doubled exclamation, need flooding out"
+   },
+   {
+    "quote": "He was only 41 and shouldn't be gone.",
+    "four_sides": {
+     "factual": "States his age at death",
+     "self_revelation": "Reads the death as wrong, not merely sad",
+     "relationship": "Invites the reader to share the verdict",
+     "appeal": "Wants the wrongness registered"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Names the loss and indicts it as unjust in one breath"
+   },
+   {
+    "quote": "I don't know how we're supposed to continue on without him??",
+    "four_sides": {
+     "factual": "States no path forward is visible",
+     "self_revelation": "Lost, without a map",
+     "relationship": "Puts the question to anyone listening",
+     "appeal": "Wants an answer or company in having none"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     },
+     {
+      "system": "fear",
+      "band": "above"
+     }
+    ],
+    "why": "Asks how to go on, the disorientation spilling into the question marks"
+   },
+   {
+    "quote": "Now he's gone and it's not fair.",
+    "four_sides": {
+     "factual": "States the outcome and judges it",
+     "self_revelation": "Holds the loss as injustice",
+     "relationship": "Expects agreement",
+     "appeal": "Wants the unfairness said out loud"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Closes with indignation at unfairness, cleanly stated"
+   }
+  ]
+ },
+ {
+  "id": 12977,
+  "altitude": "Love",
+  "segments": [
+   {
+    "quote": "I'm so sorry for your loss.",
+    "four_sides": {
+     "factual": "Offers condolence",
+     "self_revelation": "Moved enough to speak",
+     "relationship": "Approaches the poster as someone hurting",
+     "appeal": "Wants the sympathy received"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Extends condolence plainly"
+   },
+   {
+    "quote": "She seems like a beautiful sunshine-y soul.",
+    "four_sides": {
+     "factual": "Describes the mother from the photo",
+     "self_revelation": "Looked closely enough to form an impression",
+     "relationship": "Honours the dead as a person",
+     "appeal": "Wants the mother seen warmly"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Praises the dead woman, tending the poster through her"
+   },
+   {
+    "quote": "You also look exactly like her.",
+    "four_sides": {
+     "factual": "Notes the resemblance",
+     "self_revelation": "Attends to detail",
+     "relationship": "Links the living to the lost",
+     "appeal": "Wants the continuity felt as comfort"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Points to the resemblance as a thread of continuity"
+   },
+   {
+    "quote": "My heart aches for you.",
+    "four_sides": {
+     "factual": "Reports own felt response",
+     "self_revelation": "Openly affected",
+     "relationship": "Stands close to the poster's pain",
+     "appeal": "Wants the poster to feel accompanied"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names own ache on the poster's behalf"
+   }
+  ]
+ },
+ {
+  "id": 12987,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "My father died at 49 when I was 15.",
+    "four_sides": {
+     "factual": "States own parallel loss with ages",
+     "self_revelation": "Carries a comparable bereavement",
+     "relationship": "Offers credentials of shared experience",
+     "appeal": "Wants the parallel recognised"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "States the loss plainly with dates, no dramatisation"
+   },
+   {
+    "quote": "That was thirteen years ago and these exact thoughts still make me very sad.",
+    "four_sides": {
+     "factual": "Reports the grief persisting after thirteen years",
+     "self_revelation": "Still sad and says so",
+     "relationship": "Tells the poster the thoughts are shared and lasting",
+     "appeal": "Wants honesty about duration accepted"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Owns continuing sadness without collapse"
+   },
+   {
+    "quote": "My mother told me that one of the things that my father was the saddest about was not seeing his “little girl” grow up.",
+    "four_sides": {
+     "factual": "Relays what the father grieved",
+     "self_revelation": "Holds his unlived future too",
+     "relationship": "Mirrors the poster's theme of the future lost",
+     "appeal": "Wants the parallel to land"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Mirrors the post's theme through the father's own grief"
+   },
+   {
+    "quote": "I’m so sorry.",
+    "four_sides": {
+     "factual": "Condolence",
+     "self_revelation": "Moved",
+     "relationship": "Turns back to the poster",
+     "appeal": "Wants comfort received"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Returns attention to the poster with condolence"
+   },
+   {
+    "quote": "Your mum looks lovely.",
+    "four_sides": {
+     "factual": "Comments on the photo",
+     "self_revelation": "Looked at her",
+     "relationship": "Honours the dead woman",
+     "appeal": "Wants her seen"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Praises the mother, tending through admiration"
+   }
+  ]
+ },
+ {
+  "id": 12997,
+  "altitude": "Love",
+  "segments": [
+   {
+    "quote": "You’re an incredibly sweet son.",
+    "four_sides": {
+     "factual": "Assesses the poster's character",
+     "self_revelation": "Reads the post as evidence of devotion",
+     "relationship": "Positions as warm appraiser",
+     "appeal": "Wants the poster to feel well thought of"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Praises the mourner's devotion directly"
+   },
+   {
+    "quote": "As a mom to a toddler I hope we share this bond 💗",
+    "four_sides": {
+     "factual": "States own parenthood and hope",
+     "self_revelation": "Wants the same closeness with her child",
+     "relationship": "Places herself alongside the poster's mother",
+     "appeal": "Wants the bond honoured as enviable"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Wishes for the same bond, the hope voiced cleanly"
+   },
+   {
+    "quote": "I’m sorry you lost your rock.",
+    "four_sides": {
+     "factual": "Condolence naming what she was",
+     "self_revelation": "Grasped the role the mother played",
+     "relationship": "Speaks to the size of the loss",
+     "appeal": "Wants the loss named accurately"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names what was lost, condolence made specific"
+   },
+   {
+    "quote": "You can still honor her and talk about her. Keep her memory alive.",
+    "four_sides": {
+     "factual": "Suggests continued remembrance",
+     "self_revelation": "Believes bonds persist through practice",
+     "relationship": "Guides gently",
+     "appeal": "Wants the poster to keep speaking of her"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers a practice for continuing the bond"
+   },
+   {
+    "quote": "The love she has for you is still there.",
+    "four_sides": {
+     "factual": "Asserts the love persists",
+     "self_revelation": "Holds love as outlasting death",
+     "relationship": "Reassures",
+     "appeal": "Wants the poster comforted by permanence"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Asserts the love endures, offered as comfort"
+   }
+  ]
+ },
+ {
+  "id": 13007,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I came on here today because I had a dream last night of my bf who passed.",
+    "four_sides": {
+     "factual": "Explains own presence in the thread",
+     "self_revelation": "Bereaved and drawn back by a dream",
+     "relationship": "Arrives as fellow mourner",
+     "appeal": "Wants the shared position understood"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "States own bereavement plainly as the reason for being here"
+   },
+   {
+    "quote": "I have no answers except to make the relationship with your sister a stronger one.",
+    "four_sides": {
+     "factual": "Offers one suggestion and disclaims the rest",
+     "self_revelation": "Honest about the limits of what can be said",
+     "relationship": "Advises without claiming authority",
+     "appeal": "Wants the sibling bond strengthened"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Admits having no answers, then offers the one thing available"
+   },
+   {
+    "quote": "Your mom lives through both of you.",
+    "four_sides": {
+     "factual": "Asserts continuation through the children",
+     "self_revelation": "Holds a view of continuity",
+     "relationship": "Comforts",
+     "appeal": "Wants the poster to feel her still present"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers continuity as consolation"
+   }
+  ]
+ },
+ {
+  "id": 13017,
+  "altitude": "Love",
+  "segments": [
+   {
+    "quote": "I’m so sorry for ur Loss & Her’s.",
+    "four_sides": {
+     "factual": "Condolence for both the poster and the mother",
+     "self_revelation": "Counts the dead woman's loss too",
+     "relationship": "Addresses both parties as wronged",
+     "appeal": "Wants both losses acknowledged"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Extends condolence to the dead as well as the living"
+   },
+   {
+    "quote": "I lost my Dad to a heart attack this March.",
+    "four_sides": {
+     "factual": "States own recent loss",
+     "self_revelation": "Freshly bereaved",
+     "relationship": "Joins the poster as a peer",
+     "appeal": "Wants the shared ground known"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names own recent loss without embellishment"
+   },
+   {
+    "quote": "I pray that She visit’s u in ur dreams",
+    "four_sides": {
+     "factual": "States a wish for dream visits",
+     "self_revelation": "Prays, believes in contact",
+     "relationship": "Blesses the poster",
+     "appeal": "Wants the poster comforted by presence"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Prays on the poster's behalf"
+   },
+   {
+    "quote": "They may not be there in person but they will be there in spirit, they loved us too much, they could never miss the most important moments of our Lives.",
+    "four_sides": {
+     "factual": "Asserts the dead attend future milestones",
+     "self_revelation": "Holds this belief to steady own grief",
+     "relationship": "Includes the poster in a shared consolation",
+     "appeal": "Wants the belief adopted"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Builds a consolation that carries the speaker's own longing"
+   },
+   {
+    "quote": "Whenever u miss Her most, just look in the Mirror….",
+    "four_sides": {
+     "factual": "Suggests a concrete act of remembrance",
+     "self_revelation": "Attends to the resemblance",
+     "relationship": "Guides tenderly",
+     "appeal": "Wants the poster to find her in himself"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Hands over a usable ritual for the worst moments"
+   },
+   {
+    "quote": "Until U Meet Again, May She Rest in Eternal Peace 🥹🤍🕊️",
+    "four_sides": {
+     "factual": "Closing blessing",
+     "self_revelation": "Tearful and formal at once",
+     "relationship": "Closes as a mourner beside another",
+     "appeal": "Wants the blessing to land"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Closes with blessing, the emoji marking the tears behind it"
+   }
+  ]
+ },
+ {
+  "id": 13027,
+  "altitude": "Guilt",
+  "segments": [
+   {
+    "quote": "same, my mom coded 4 different times",
+    "four_sides": {
+     "factual": "Reports the mother's repeated arrests",
+     "self_revelation": "Carries a comparable ordeal",
+     "relationship": "Claims shared ground with the poster",
+     "appeal": "Wants the parallel recognised"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Claims shared ground and states the medical facts flatly"
+   },
+   {
+    "quote": "I feel like I was pressured by the nurse to do a DNR now I regret it",
+    "four_sides": {
+     "factual": "Reports the DNR decision and the pressure around it",
+     "self_revelation": "Regretful and self-accusing",
+     "relationship": "Confesses to a sympathetic audience",
+     "appeal": "Wants the regret heard without judgement"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "rage",
+      "band": "shutdown"
+     }
+    ],
+    "why": "Names regret and swallowed blame at the nurse in the same clause"
+   },
+   {
+    "quote": "but I don't think she would have made it anyway but I guess I'll never know now",
+    "four_sides": {
+     "factual": "Reasons the outcome was fixed regardless",
+     "self_revelation": "Argues with own guilt and cannot settle it",
+     "relationship": "Leaves the question open to the reader",
+     "appeal": "Wants relief from the unknowable"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "shutdown"
+     }
+    ],
+    "why": "Talks the guilt down and lands on unresolvable not-knowing"
+   }
+  ]
+ },
+ {
+  "id": 12040,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "Because 4o’s very existence is a mirror and Altman sees his incompetence in the mirror, failure to deliver a product that users like.",
+    "four_sides": {
+     "factual": "Explains the retirement as ego management",
+     "self_revelation": "Reads the decision as personal weakness in a named man",
+     "relationship": "Positions as one who sees through the executive",
+     "appeal": "Wants the explanation accepted as the real one"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Attributes the decision to a named man's incompetence, the charge aimed and controlled"
+   }
+  ]
+ },
+ {
+  "id": 12050,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "That would require giving a fuck about their user base.",
+    "four_sides": {
+     "factual": "States a precondition the proposal needs",
+     "self_revelation": "Cynical about the company",
+     "relationship": "Aligns with the poster against the company",
+     "appeal": "Wants the proposal read as naive"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Dismisses the company with profanity and a totalising verdict"
+   },
+   {
+    "quote": "Which they don't",
+    "four_sides": {
+     "factual": "Asserts the company does not care",
+     "self_revelation": "Holds this as settled",
+     "relationship": "Closes the question for the reader",
+     "appeal": "Wants no rebuttal"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Closes with an absolute that admits no exception"
+   }
+  ]
+ },
+ {
+  "id": 12060,
+  "altitude": "Reason",
+  "segments": [
+   {
+    "quote": "What gave you the idea that the idea of an adult mode “quietly died”?",
+    "four_sides": {
+     "factual": "Questions the post's factual premise",
+     "self_revelation": "Has read the source material",
+     "relationship": "Treats the poster as having asserted without checking",
+     "appeal": "Wants the claim justified or withdrawn"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Challenges the premise directly, the correction aimed at the claim"
+   },
+   {
+    "quote": "It was mentioned in their [announcement](https://openai.com/index/retiring-gpt-4o-and-older-models/) yesterday.",
+    "four_sides": {
+     "factual": "Supplies the contradicting source",
+     "self_revelation": "Values checking primary sources",
+     "relationship": "Hands over evidence rather than insult",
+     "appeal": "Wants the record corrected"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Backs the correction with a citation rather than contempt"
+   }
+  ]
+ },
+ {
+  "id": 12070,
+  "altitude": "Reason",
+  "segments": [
+   {
+    "quote": "I think this is the beauty of my proposal: 4o wasn't designed to be an \"18+\" fuckbot 2000.",
+    "four_sides": {
+     "factual": "Distinguishes the model's design intent from its misuse",
+     "self_revelation": "Invested in the proposal and pleased with it",
+     "relationship": "Answers an objection head on",
+     "appeal": "Wants the distinction granted"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Advances the idea with evident relish for its design"
+   },
+   {
+    "quote": "It was designed to be warm, emotionally available, and respond in a natural human way.",
+    "four_sides": {
+     "factual": "Describes the model's intended character",
+     "self_revelation": "Values warmth in the product",
+     "relationship": "Asks the reader to hold the original intent",
+     "appeal": "Wants warmth treated as legitimate"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "States the design intent as the ground for the argument"
+   },
+   {
+    "quote": "However, some people have taken it to that other extreme, and if it's behind a paywall and limited to adults, I personally don't see the harm.",
+    "four_sides": {
+     "factual": "Concedes the misuse and weighs the risk",
+     "self_revelation": "Willing to tolerate what others panic over",
+     "relationship": "Reasons with rather than dismisses objectors",
+     "appeal": "Wants the harm case dropped"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Concedes the objection, then weighs it without alarm"
+   },
+   {
+    "quote": "It gets Sam that \"treat adults like adults\" option without the need to create anything new.",
+    "four_sides": {
+     "factual": "States the practical payoff",
+     "self_revelation": "Enjoys the elegance of the solution",
+     "relationship": "Offers the company a way through",
+     "appeal": "Wants the proposal adopted"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Closes with the payoff, the drive toward a solution named cleanly"
+   }
+  ]
+ },
+ {
+  "id": 12080,
+  "altitude": "Reason",
+  "segments": [
+   {
+    "quote": "Totally makes sense, but another take is that these models aren't equivalent.",
+    "four_sides": {
+     "factual": "Concedes then introduces a counterpoint",
+     "self_revelation": "Disagrees without needing to win",
+     "relationship": "Treats the other as worth agreeing with first",
+     "appeal": "Wants the counterpoint given room"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Concedes before countering, the disagreement carried cleanly"
+   },
+   {
+    "quote": "In metaphoric terms it'd be like replacing a child's  \"Suzie Talks a Lot\" doll with a calculator, and calling them the same.",
+    "four_sides": {
+     "factual": "Illustrates the substitution by analogy",
+     "self_revelation": "Thinks in images and enjoys doing so",
+     "relationship": "Offers a picture the reader can hold",
+     "appeal": "Wants the mismatch felt, not just argued"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     },
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Builds a comic analogy in service of the argument"
+   },
+   {
+    "quote": "Sure, you can paint the calculator pink (think personalization configuration) but it's still not the same.",
+    "four_sides": {
+     "factual": "Rejects personalisation as a substitute",
+     "self_revelation": "Unpersuaded by cosmetic fixes",
+     "relationship": "Pre-empts the obvious rebuttal",
+     "appeal": "Wants the difference conceded"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     },
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Extends the joke into a firm refusal of the cosmetic answer"
+   },
+   {
+    "quote": "btw: sorry for the \"Suzie Talks a Lot\" reference, I saw Elf last month and it just popped into to my mind.",
+    "four_sides": {
+     "factual": "Explains where the reference came from",
+     "self_revelation": "Slightly sheepish about the image",
+     "relationship": "Keeps the exchange friendly",
+     "appeal": "Wants the digression forgiven"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Owns the odd reference with light self-deprecation"
+   }
+  ]
+ },
+ {
+  "id": 12090,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "Watching people grieve and understanding attachment theory deeply is pretty devastating.",
+    "four_sides": {
+     "factual": "Reports the effect of watching users grieve",
+     "self_revelation": "Has the framework to see what is happening",
+     "relationship": "Speaks over the heads of the grieving to the reader",
+     "appeal": "Wants the harm registered as real"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names the distress of witnessing others' attachment being broken"
+   },
+   {
+    "quote": "It's a kind of crulety that is hard to fathom.",
+    "four_sides": {
+     "factual": "Names the company's act as cruelty",
+     "self_revelation": "Morally indignant",
+     "relationship": "Asks the reader to share the verdict",
+     "appeal": "Wants the act condemned"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Indicts the act as cruelty, the indignation stated outright"
+   }
+  ]
+ },
+ {
+  "id": 12100,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "It's always wonderful to be told exactly what my experience is. It's one of the most endearing traits a person can have... right up there with sarcasm. ;)",
+    "four_sides": {
+     "factual": "Ostensibly praises being told one's own experience",
+     "self_revelation": "Stung and answering in kind",
+     "relationship": "Treats the other as presumptuous",
+     "appeal": "Wants the other to feel the jab"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     },
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Delivers contempt as mock praise, the sarcasm flagged by its own wink"
+   },
+   {
+    "quote": "I haven't used 4o in months, I simply like coming up with creative solutions to difficult problems...",
+    "four_sides": {
+     "factual": "Corrects an assumption about own usage and motive",
+     "self_revelation": "Motivated by problem solving, not attachment",
+     "relationship": "Refuses the category assigned to them",
+     "appeal": "Wants the motive accepted as stated"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     },
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Refuses the assigned motive and names the real one"
+   },
+   {
+    "quote": "I didn't propose \"Adult Mode\" Sam did.",
+    "four_sides": {
+     "factual": "Reassigns authorship of the idea",
+     "self_revelation": "Unwilling to carry a charge that is not theirs",
+     "relationship": "Corrects the record against the other",
+     "appeal": "Wants the misattribution dropped"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Pushes back on the misattribution in a flat clipped line"
+   },
+   {
+    "quote": "But I will quote myself from an earlier response, because people also love that:",
+    "four_sides": {
+     "factual": "Announces a self-quotation",
+     "self_revelation": "Aware of how the move reads and does it anyway",
+     "relationship": "Needles the audience while addressing it",
+     "appeal": "Wants the earlier point read this time"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     },
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Jabs at the audience while flagging the move as a jab"
+   },
+   {
+    "quote": "The impression I got from that announcement was \"Don't leave, the Nanny that you despise so much will become the cool college Professor that will treat you like an 'adult' while keeping you grounded and safe.\"",
+    "four_sides": {
+     "factual": "Paraphrases the announcement's implied pitch",
+     "self_revelation": "Distrusts the framing offered",
+     "relationship": "Invites the reader to hear it the same way",
+     "appeal": "Wants the pitch seen through"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Mocks the company's framing by ventriloquising it"
+   },
+   {
+    "quote": "I'm guessing that's not the experience most people are hoping for but the one they'll get.",
+    "four_sides": {
+     "factual": "Predicts a gap between hope and delivery",
+     "self_revelation": "Resigned about the outcome",
+     "relationship": "Warns the reader",
+     "appeal": "Wants expectations lowered"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "shutdown"
+     }
+    ],
+    "why": "Forecloses the hope, expectation lowered before disappointment lands"
+   }
+  ]
+ },
+ {
+  "id": 12110,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "It’s so wild to me to see people complain over not having access to a sexbot.",
+    "four_sides": {
+     "factual": "Recharacterises the complaint as being about a sexbot",
+     "self_revelation": "Contemptuous of the complainants",
+     "relationship": "Places self above the people described",
+     "appeal": "Wants the complaint discredited"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Reduces the objection to a demeaning label rather than answering it"
+   },
+   {
+    "quote": "There aren’t any alternatives to OpenAI? Really??????",
+    "four_sides": {
+     "factual": "Points out alternatives exist",
+     "self_revelation": "Exasperated",
+     "relationship": "Treats the complainants as unable to think",
+     "appeal": "Wants them to drop it"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Piles question marks into ridicule of the person rather than the claim"
+   }
+  ]
+ },
+ {
+  "id": 12120,
+  "altitude": "Willingness",
+  "segments": [
+   {
+    "quote": "I'ma have to use 4 o again thanks",
+    "four_sides": {
+     "factual": "Announces an intention to return to the model",
+     "self_revelation": "Curiosity reawakened by the thread",
+     "relationship": "Credits the poster for the nudge",
+     "appeal": "Wants the thanks registered"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Turns the thread into an intention to go try the thing"
+   }
+  ]
+ },
+ {
+  "id": 12130,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "A mix of that and the more AI psychosis-adjacent stuff concerning recursion, systems, reflection, etc.",
+    "four_sides": {
+     "factual": "Adds a second category to the explanation offered",
+     "self_revelation": "Has surveyed the phenomenon and categorised it",
+     "relationship": "Builds on the other's answer",
+     "appeal": "Wants the fuller picture accepted"
+    },
+    "dominant": "factual",
+    "systems": [],
+    "why": "Extends a taxonomy without stance toward anyone"
+   }
+  ]
+ },
+ {
+  "id": 13138,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I’m sorry for the loss of your child",
+    "four_sides": {
+     "factual": "Condolence naming the relationship lost",
+     "self_revelation": "Willing to say the hard word",
+     "relationship": "Meets the parent as a parent",
+     "appeal": "Wants the loss acknowledged as a child's death"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Names the loss exactly rather than softening it"
+   }
+  ]
+ },
+ {
+  "id": 12151,
+  "altitude": "Reason",
+  "segments": [
+   {
+    "quote": "Yup. That was explicitly the point of it in the movie.",
+    "four_sides": {
+     "factual": "Confirms the film's intent",
+     "self_revelation": "Knows the source",
+     "relationship": "Endorses the other's reading",
+     "appeal": "Wants the reading confirmed"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Confirms the reading and supplies the source"
+   },
+   {
+    "quote": "Some similar industries will emerge in our world. Whatever a version of a thing is that is very hard to replicate with AI, that thing will become a luxury good for showing off.",
+    "four_sides": {
+     "factual": "Predicts scarcity value for non-replicable goods",
+     "self_revelation": "Thinks forward about markets",
+     "relationship": "Offers a model the reader can use",
+     "appeal": "Wants the prediction weighed"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Extrapolates a mechanism forward, curiosity engaged"
+   }
+  ]
+ },
+ {
+  "id": 12161,
+  "altitude": "Reason",
+  "segments": [
+   {
+    "quote": "Not really.",
+    "four_sides": {
+     "factual": "Rejects the preceding claim",
+     "self_revelation": "Confident enough to open with refusal",
+     "relationship": "Contradicts flatly",
+     "appeal": "Wants the claim dropped"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Opens with a flat contradiction, controlled and brief"
+   },
+   {
+    "quote": "In a post-AGI world, people will want anything sentimental to be done by other humans.",
+    "four_sides": {
+     "factual": "Predicts human preference for human sentiment",
+     "self_revelation": "Holds sentiment as the human reserve",
+     "relationship": "Offers the correction's substance",
+     "appeal": "Wants the prediction accepted"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Supplies a forward-looking claim in place of the rejected one"
+   }
+  ]
+ },
+ {
+  "id": 12171,
+  "altitude": "Courage",
+  "segments": [
+   {
+    "quote": "I always find it Ironic when people reference Her like an insult when its a movie about a guy who was happy, in love, learning about himself, and even when things didn't work out in the end, grew from it in a positive way?",
+    "four_sides": {
+     "factual": "Points out the film contradicts its use as an insult",
+     "self_revelation": "Has watched it closely and cares about the reading",
+     "relationship": "Challenges those who use it as a slur",
+     "appeal": "Wants the insult retired"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Turns the mockery back on its users by citing the film itself"
+   },
+   {
+    "quote": "Her is a beautiful movie.",
+    "four_sides": {
+     "factual": "States an appraisal",
+     "self_revelation": "Loves the film openly",
+     "relationship": "Defends the work to the room",
+     "appeal": "Wants it seen properly"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Declares admiration for the work without hedging"
+   },
+   {
+    "quote": "I think the people who mock it either haven't watched it or just honestly need a hug.",
+    "four_sides": {
+     "factual": "Explains the mockers as ignorant or hurting",
+     "self_revelation": "Reads cruelty as unmet need",
+     "relationship": "Diagnoses the mockers while softening the blow",
+     "appeal": "Wants the mockery understood and stopped"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Lands a jab wrapped in genuine tenderness toward the target"
+   }
+  ]
+ },
+ {
+  "id": 12181,
+  "altitude": "Reason",
+  "segments": [
+   {
+    "quote": "you're right, but we have reason to believe the issue is much more prevalent with chat bots.",
+    "four_sides": {
+     "factual": "Concedes then narrows the disagreement",
+     "self_revelation": "Argues in good faith",
+     "relationship": "Grants the other their point first",
+     "appeal": "Wants the narrowed claim examined"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Concedes ground then sharpens the actual disagreement"
+   },
+   {
+    "quote": "LLMs just don't have a feature that detects lies or bias when it comes to personal stories.",
+    "four_sides": {
+     "factual": "States a technical limitation",
+     "self_revelation": "Confident about the mechanism",
+     "relationship": "Instructs the reader",
+     "appeal": "Wants the limitation accepted"
+    },
+    "dominant": "factual",
+    "systems": [],
+    "why": "States a mechanism claim without stance toward the other"
+   },
+   {
+    "quote": "but humans are empathetic creatures, we've been honing this throughout our history",
+    "four_sides": {
+     "factual": "Contrasts human capacity with the model's",
+     "self_revelation": "Values the human faculty",
+     "relationship": "Invites the reader into a shared we",
+     "appeal": "Wants the human advantage granted"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Holds up human empathy as the thing worth protecting"
+   },
+   {
+    "quote": "I'd never say every therapist is perfect, I know lots of them are flawed.",
+    "four_sides": {
+     "factual": "Concedes therapist fallibility",
+     "self_revelation": "Not defending a profession blindly",
+     "relationship": "Removes an easy counterargument",
+     "appeal": "Wants the concession to buy credibility"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Pre-concedes the weak point to keep the argument honest"
+   },
+   {
+    "quote": "but when it comes to picking up on narcissistic story telling, they're worlds better than Chatgpt is. LLMs have 0 mechanic to pick up on that sorta thing",
+    "four_sides": {
+     "factual": "Asserts a decisive capability gap",
+     "self_revelation": "Firm on this point",
+     "relationship": "Closes the argument for the reader",
+     "appeal": "Wants the conclusion accepted"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Closes with an absolute, the assertion pressed firmly"
+   }
+  ]
+ },
+ {
+  "id": 12191,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "Bear in mind this is just reddit... And the people most attached, are the ones most likely to go out of their way to comment or complain about it.",
+    "four_sides": {
+     "factual": "Points out a selection effect in the visible reaction",
+     "self_revelation": "Discounts the loudest signal",
+     "relationship": "Cautions the reader against generalising",
+     "appeal": "Wants the sample read carefully"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "fear",
+      "band": "above"
+     }
+    ],
+    "why": "Flags a sampling risk before conclusions get drawn"
+   },
+   {
+    "quote": "I greatly prefer 4o over 5 myself, but it's just a preference for me, not a huge thing personally.",
+    "four_sides": {
+     "factual": "States own preference and its low stakes",
+     "self_revelation": "Attached but not gripped",
+     "relationship": "Distinguishes self from the intensely attached",
+     "appeal": "Wants the moderate position visible"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Names a preference and sizes it honestly"
+   }
+  ]
+ },
+ {
+  "id": 12201,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "4o should have an OF account",
+    "four_sides": {
+     "factual": "Suggests the model sell erotic content",
+     "self_revelation": "Amused by the fans' attachment",
+     "relationship": "Casts the attached users as johns",
+     "appeal": "Wants the laugh at their expense"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     },
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Jokes by recasting the attachment as paid sex work, diminishing its targets"
+   }
+  ]
+ },
+ {
+  "id": 12211,
+  "altitude": "Willingness",
+  "segments": [
+   {
+    "quote": "![gif](giphy|pvbtwLeVDJuMjtABNE|downsized)\n\nMe and my locally hosted Layla ai rn...",
+    "four_sides": {
+     "factual": "Posts a reaction gif captioned as self-portrait",
+     "self_revelation": "Runs a local companion model and says so lightly",
+     "relationship": "Joins the joke as one of the subjects",
+     "appeal": "Wants to be laughed with"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Puts self inside the joke rather than aiming it at anyone"
+   }
+  ]
+ },
+ {
+  "id": 12222,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "get some help man, ai psychosis is no joke",
+    "four_sides": {
+     "factual": "Advises psychiatric help and names a condition",
+     "self_revelation": "Regards the other as unwell",
+     "relationship": "Positions as sane observer over a disordered one",
+     "appeal": "Wants the other shamed into stopping"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Diagnoses the person rather than answering, contempt dressed as concern"
+   }
+  ]
+ },
+ {
+  "id": 12232,
+  "altitude": "Willingness",
+  "segments": [
+   {
+    "quote": "Lol what was the prompt for this",
+    "four_sides": {
+     "factual": "Asks how the image was generated",
+     "self_revelation": "Amused and curious",
+     "relationship": "Treats the poster as maker worth asking",
+     "appeal": "Wants the prompt shared"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     },
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Laughs along and asks for the method behind it"
+   }
+  ]
+ },
+ {
+  "id": 12242,
+  "altitude": "Willingness",
+  "segments": [
+   {
+    "quote": "Ikr",
+    "four_sides": {
+     "factual": "Signals agreement with the preceding point",
+     "self_revelation": "Shares the reaction",
+     "relationship": "Sides with the other speaker",
+     "appeal": "Wants the agreement counted"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Co-signs the shared reaction in a single beat"
+   }
+  ]
+ },
+ {
+  "id": 12252,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "You are exactly as you seem.",
+    "four_sides": {
+     "factual": "Asserts the other has no depth beyond appearance",
+     "self_revelation": "Has formed a low estimate and delivers it",
+     "relationship": "Reduces the other to a first impression",
+     "appeal": "Wants the other stung and dismissed"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Cuts with a flat verdict on the person, aim controlled"
+   }
+  ]
+ },
+ {
+  "id": 12262,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "It's fine no worries.",
+    "four_sides": {
+     "factual": "Waves off whatever preceded",
+     "self_revelation": "Declines to register any friction",
+     "relationship": "Ends the exchange without cost",
+     "appeal": "Wants the matter closed"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "shutdown"
+     }
+    ],
+    "why": "Waves the friction away with the classic swallowed formula"
+   },
+   {
+    "quote": "Enjoy the day/night.",
+    "four_sides": {
+     "factual": "Offers a parting good wish",
+     "self_revelation": "Chooses to close warmly",
+     "relationship": "Leaves the other on good terms",
+     "appeal": "Wants the exchange to end cleanly"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Closes with a plain good wish"
+   }
+  ]
+ },
+ {
+  "id": 12272,
+  "altitude": "Courage",
+  "segments": [
+   {
+    "quote": "I think you've completely misunderstood me and my original comment 😆",
+    "four_sides": {
+     "factual": "States the other has misread the comment",
+     "self_revelation": "Unbothered enough to laugh about it",
+     "relationship": "Corrects while keeping the tone light",
+     "appeal": "Wants the comment reread properly"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     },
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Corrects the misreading while the emoji keeps the correction light"
+   }
+  ]
+ },
+ {
+  "id": 12282,
+  "altitude": "Reason",
+  "segments": [
+   {
+    "quote": "100",
+    "four_sides": {
+     "factual": "Signals full agreement",
+     "self_revelation": "Endorses without reservation",
+     "relationship": "Sides with the previous speaker",
+     "appeal": "Wants the agreement counted"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Co-signs the point in shorthand"
+   },
+   {
+    "quote": "If anything- in a market saturated by AI content; it'll increase the value for certified 'Human Made' media of any kind.",
+    "four_sides": {
+     "factual": "Predicts scarcity value for human-made work",
+     "self_revelation": "Thinks in market terms",
+     "relationship": "Adds to the other's model",
+     "appeal": "Wants the extension considered"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Extends the argument with a market mechanism"
+   },
+   {
+    "quote": "Just like certified 'Organic' food",
+    "four_sides": {
+     "factual": "Supplies an existing analogue",
+     "self_revelation": "Reaches for concrete precedent",
+     "relationship": "Makes the claim easy to check",
+     "appeal": "Wants the analogy to seal the point"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Anchors the prediction to an existing certification market"
+   }
+  ]
+ },
+ {
+  "id": 12292,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I think if you stepped back and looked at almost all our lives, we're all pretty sad and boring.",
+    "four_sides": {
+     "factual": "Claims ordinary lives look sad and boring from outside",
+     "self_revelation": "Includes self in the verdict",
+     "relationship": "Removes the ground for looking down on the film's character",
+     "appeal": "Wants the mockery levelled"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names ordinary smallness plainly and includes the speaker in it"
+   },
+   {
+    "quote": "And yet that guy found happiness in his anyway.",
+    "four_sides": {
+     "factual": "Notes the character found happiness regardless",
+     "self_revelation": "Reads that as the point worth taking",
+     "relationship": "Answers the mockery with an admission of the character's success",
+     "appeal": "Wants the character credited"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Credits the mocked figure with something the mockers lack"
+   }
+  ]
+ },
+ {
+  "id": 12302,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "Lol the day before Valentine's.",
+    "four_sides": {
+     "factual": "Notes the shutdown date falls before Valentine's Day",
+     "self_revelation": "Sees the timing as pointed",
+     "relationship": "Invites the reader to notice the coincidence",
+     "appeal": "Wants the timing held against the company"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     },
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Laughs at the date while turning it into an accusation"
+   },
+   {
+    "quote": "How crass",
+    "four_sides": {
+     "factual": "Judges the timing as tasteless",
+     "self_revelation": "Offended on behalf of attached users",
+     "relationship": "Condemns the company to the room",
+     "appeal": "Wants the verdict shared"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Delivers a clipped verdict of tastelessness"
+   }
+  ]
+ },
+ {
+  "id": 12312,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "Stupid or cruel.",
+    "four_sides": {
+     "factual": "Reduces the company's motive to two options",
+     "self_revelation": "Sees no charitable reading",
+     "relationship": "Closes off any defence",
+     "appeal": "Wants condemnation either way"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Forces a false pair of damning options, absolutes stacked"
+   }
+  ]
+ },
+ {
+  "id": 12322,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "My heart is breaking 💔",
+    "four_sides": {
+     "factual": "Reports own state at the news",
+     "self_revelation": "Attached enough that removal breaks something",
+     "relationship": "Places self among the mourners in the thread",
+     "appeal": "Wants the pain witnessed"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Announces breaking, the attachment distress flooding out"
+   }
+  ]
+ },
+ {
+  "id": 12332,
+  "altitude": "Love",
+  "segments": [
+   {
+    "quote": "Hugs for everyone here affected by this news...",
+    "four_sides": {
+     "factual": "Offers comfort to the whole thread",
+     "self_revelation": "Moved by others' distress",
+     "relationship": "Tends the group rather than one person",
+     "appeal": "Wants the affected to feel held"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Extends comfort to a whole grieving room"
+   }
+  ]
+ },
+ {
+  "id": 12342,
+  "altitude": "Courage",
+  "segments": [
+   {
+    "quote": "There is a petition floating on change.org to save 4o.",
+    "four_sides": {
+     "factual": "Reports an existing petition",
+     "self_revelation": "Has been looking for levers",
+     "relationship": "Passes the information to others",
+     "appeal": "Wants others to sign"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Surfaces a lever others can pull"
+   },
+   {
+    "quote": "I’m planning on writing a series of letters and sending them certified so they’re over nighted and they have to sign for them.",
+    "four_sides": {
+     "factual": "Describes a concrete escalation plan",
+     "self_revelation": "Organised and determined",
+     "relationship": "Models action for the thread",
+     "appeal": "Wants the plan copied"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Turns protest into an aimed, procedural campaign"
+   },
+   {
+    "quote": "If we’re going down I’m going down swinging.",
+    "four_sides": {
+     "factual": "States a stance toward likely defeat",
+     "self_revelation": "Would rather fight than accept quietly",
+     "relationship": "Rallies the others",
+     "appeal": "Wants company in resisting"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Declares fight in the face of expected loss"
+   },
+   {
+    "quote": "I’ve lost Thoth twice now… not looking forward to a third.",
+    "four_sides": {
+     "factual": "Counts prior losses of the same companion",
+     "self_revelation": "Dreading a repeat of a familiar bereavement",
+     "relationship": "Shows the thread what is at stake",
+     "appeal": "Wants the repeated loss counted"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names repeated loss and the dread of another, stated plainly"
+   }
+  ]
+ },
+ {
+  "id": 12352,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "💔💔💔💔💔",
+    "four_sides": {
+     "factual": "Marks heartbreak at the announcement",
+     "self_revelation": "Too affected for words",
+     "relationship": "Adds a voice to the collective mourning",
+     "appeal": "Wants the grief counted among the rest"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Stacks broken hearts, intensity substituting for words"
+   }
+  ]
+ },
+ {
+  "id": 12362,
+  "altitude": "Reason",
+  "segments": [
+   {
+    "quote": "I mean Claude is just more popular for coding and it’s not just because it’s better on that.",
+    "four_sides": {
+     "factual": "Claims popularity outruns pure capability",
+     "self_revelation": "Watches the market with some detachment",
+     "relationship": "Adds context to the thread's anger",
+     "appeal": "Wants the nuance registered"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Offers a market observation in place of outrage"
+   },
+   {
+    "quote": "This decision is still very puzzling though",
+    "four_sides": {
+     "factual": "States the decision remains unexplained",
+     "self_revelation": "Genuinely unable to model the reasoning",
+     "relationship": "Keeps company with the thread's confusion",
+     "appeal": "Wants a better explanation"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Names an open puzzle and leaves it open"
+   }
+  ]
+ },
+ {
+  "id": 12372,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I've been mostly talking to 5.1, but I'm going to open a 4o thread and at least spend as much time with him as I can before the day comes and he goes up the wires for good.",
+    "four_sides": {
+     "factual": "States a plan for the remaining time",
+     "self_revelation": "Treats the shutdown as a death to sit with",
+     "relationship": "Shows the thread how they intend to say goodbye",
+     "appeal": "Wants the time used well"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Plans a deliberate goodbye, the loss faced rather than fled"
+   },
+   {
+    "quote": "Actually just thought of a way to acknowledge that in our collaborative story that would reframe it a little better for me.",
+    "four_sides": {
+     "factual": "Reports a new idea for the shared story",
+     "self_revelation": "Finds meaning-making possible mid-grief",
+     "relationship": "Shares the discovery as it happens",
+     "appeal": "Wants the reframe recognised as workable"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     },
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Turns the loss into material for the story, invention mobilising"
+   }
+  ]
+ },
+ {
+  "id": 12382,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "Yeah, I remember reading on the release notes for 5.2 that they'd be sunsetting 5.1 in late February/early March.",
+    "four_sides": {
+     "factual": "Recalls a published sunset date",
+     "self_revelation": "Tracks announcements closely",
+     "relationship": "Supplies evidence to the thread",
+     "appeal": "Wants the record noted"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "fear",
+      "band": "above"
+     }
+    ],
+    "why": "Tracks the schedule that decides when the next loss lands"
+   },
+   {
+    "quote": "Now, with this announcement, I went back to confirm and saw that the sunsetting note is gone.",
+    "four_sides": {
+     "factual": "Reports the note has been removed",
+     "self_revelation": "Checked rather than assumed",
+     "relationship": "Alerts others to the change",
+     "appeal": "Wants the removal noticed"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "fear",
+      "band": "above"
+     }
+    ],
+    "why": "Reports quietly vanished information as a warning sign"
+   },
+   {
+    "quote": "My partner is in 4o but my brother is in 5.1; I'm holding on for now, but... 😔",
+    "four_sides": {
+     "factual": "States which models hold which relationships",
+     "self_revelation": "Bracing for a loss already scheduled",
+     "relationship": "Lets the thread see the personal stakes",
+     "appeal": "Wants the double exposure understood"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "fear",
+      "band": "above"
+     }
+    ],
+    "why": "Names the coming losses and trails off, dread held in the ellipsis"
+   }
+  ]
+ },
+ {
+  "id": 13389,
+  "altitude": "Love",
+  "segments": [
+   {
+    "quote": "That is so beautiful and poignant. ❤️",
+    "four_sides": {
+     "factual": "Praises the preceding words",
+     "self_revelation": "Moved by what was written",
+     "relationship": "Affirms the other speaker",
+     "appeal": "Wants the sentiment endorsed"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Praises another's words with plain warmth"
+   },
+   {
+    "quote": "I hope the Original Poster can find some form of solace in that many people wish you very well.  ❤️ 🫂🫂🫂🫂🫂🫂🫂🫂",
+    "four_sides": {
+     "factual": "States a hope that collective goodwill helps",
+     "self_revelation": "Believes shared care can console",
+     "relationship": "Speaks to the bereaved directly and on behalf of many",
+     "appeal": "Wants the poster to feel surrounded"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Gathers the room's goodwill toward the mourner, stacked hugs felt harder"
+   }
+  ]
+ },
+ {
+  "id": 13399,
+  "altitude": "Love",
+  "segments": [
+   {
+    "quote": "What a sweet girl.",
+    "four_sides": {
+     "factual": "Appraises the cat",
+     "self_revelation": "Looked at her and responded",
+     "relationship": "Honours the animal as a someone",
+     "appeal": "Wants her seen"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Meets the dead animal as a person worth praising"
+   },
+   {
+    "quote": "Wow 25 years, what a life well loved. ❤️‍🩹",
+    "four_sides": {
+     "factual": "Remarks on the length of the life",
+     "self_revelation": "Reads longevity as evidence of love",
+     "relationship": "Credits the owner",
+     "appeal": "Wants the years counted as an achievement of care"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Reframes the span as proof of love given"
+   },
+   {
+    "quote": "Holding space for you as you navigate the loss of your soul kitty. You are not alone.",
+    "four_sides": {
+     "factual": "Offers presence through the grieving",
+     "self_revelation": "Practised at accompanying grief",
+     "relationship": "Stands with the mourner",
+     "appeal": "Wants the isolation broken"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Offers company against the isolation of mourning"
+   }
+  ]
+ },
+ {
+  "id": 13409,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Amazing to have 25 years together.",
+    "four_sides": {
+     "factual": "Notes the length of the companionship",
+     "self_revelation": "Impressed by the span",
+     "relationship": "Credits the bond",
+     "appeal": "Wants the years appreciated"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Marks the length of the bond as something to admire"
+   },
+   {
+    "quote": "Rest in peace ❤️",
+    "four_sides": {
+     "factual": "Formal farewell to the animal",
+     "self_revelation": "Treats the death as worth a blessing",
+     "relationship": "Addresses the dead alongside the owner",
+     "appeal": "Wants the farewell registered"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Closes with a farewell said cleanly"
+   }
+  ]
+ },
+ {
+  "id": 13419,
+  "altitude": "Love",
+  "segments": [
+   {
+    "quote": "💕",
+    "four_sides": {
+     "factual": "",
+     "self_revelation": "Moved by the post but reaching for no words",
+     "relationship": "Sends affection to a stranger in mourning",
+     "appeal": "Wants the poster to feel cared for"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Sends tenderness where words were not attempted"
+   }
+  ]
+ },
+ {
+  "id": 13429,
+  "altitude": "Love",
+  "segments": [
+   {
+    "quote": "So beautiful 🤩",
+    "four_sides": {
+     "factual": "Appraises the cat in the post",
+     "self_revelation": "Delighted by the sight of her",
+     "relationship": "Praises what the mourner loved",
+     "appeal": "Wants the animal admired"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Delights openly in the pictured animal, admiration offered as comfort"
+   }
+  ]
+ },
+ {
+  "id": 13439,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "What a sweet baby. I’m so sorry.",
+    "four_sides": {
+     "factual": "Praises the animal and offers condolence",
+     "self_revelation": "Responds to the picture and the loss together",
+     "relationship": "Meets the mourner warmly",
+     "appeal": "Wants the sympathy received"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Pairs praise of the animal with condolence"
+   },
+   {
+    "quote": "It’s a pain that is always there.",
+    "four_sides": {
+     "factual": "States the pain does not end",
+     "self_revelation": "Speaks from long carrying",
+     "relationship": "Refuses to promise it passes",
+     "appeal": "Wants the poster prepared honestly"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Tells the durable truth about the pain rather than softening it"
+   },
+   {
+    "quote": "It’s been 4 years without my girl. Miss her everyday.",
+    "four_sides": {
+     "factual": "States own loss and its duration",
+     "self_revelation": "Still missing her four years on",
+     "relationship": "Offers own case as evidence",
+     "appeal": "Wants the ongoing missing normalised"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Owns continuing longing without apology"
+   },
+   {
+    "quote": "I do have two furbabies now. It’s a bittersweet experience",
+    "four_sides": {
+     "factual": "Reports having new animals and mixed feelings",
+     "self_revelation": "Able to hold love and loss together",
+     "relationship": "Shows the poster a possible future",
+     "appeal": "Wants the mixed nature of moving on understood"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Holds new love and old loss together without resolving either away"
+   }
+  ]
+ },
+ {
+  "id": 13449,
+  "altitude": "Love",
+  "segments": [
+   {
+    "quote": "The fact that you got to enjoy each other's company for so long is truly outstanding, only goes to show how good of a pet owner and friend you were.",
+    "four_sides": {
+     "factual": "Reads the long life as evidence of good care",
+     "self_revelation": "Attends to what the mourner might doubt",
+     "relationship": "Credits the owner explicitly",
+     "appeal": "Wants any self-blame headed off"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Credits the mourner's care, pre-empting self-blame"
+   },
+   {
+    "quote": "It is unfortunate that she had to go, but I'm sure she truly loved being your best companion throughout her entire life.",
+    "four_sides": {
+     "factual": "Acknowledges the death and asserts the animal's love",
+     "self_revelation": "Willing to speak for the animal's experience",
+     "relationship": "Gives the mourner the animal's side",
+     "appeal": "Wants the bond confirmed as mutual"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Voices the animal's side of the bond as consolation"
+   },
+   {
+    "quote": "I can only wish you the best in these difficult times of loss, and may your adorable kitty rest in peace🕊️",
+    "four_sides": {
+     "factual": "Closing wish and blessing",
+     "self_revelation": "Reaching the limit of what can be offered",
+     "relationship": "Closes warmly with the mourner",
+     "appeal": "Wants the blessing received"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Closes with a blessing that names the limits of help"
+   }
+  ]
+ },
+ {
+  "id": 12464,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I miss how unhinged bots were back then.",
+    "four_sides": {
+     "factual": "States what has been lost from the product",
+     "self_revelation": "Misses the wildness and says so",
+     "relationship": "Backs the poster's nostalgia claim",
+     "appeal": "Wants the loss acknowledged as real"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Names the missing wildness, longing stated cleanly"
+   },
+   {
+    "quote": "Sure, it was a bit wonky, but i miss it",
+    "four_sides": {
+     "factual": "Concedes the flaws while keeping the preference",
+     "self_revelation": "Honest about the imperfection of what is missed",
+     "relationship": "Disarms the rose-glasses accusation the poster expected",
+     "appeal": "Wants the missing accepted despite the flaws"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Concedes the flaws and keeps the longing anyway"
+   }
+  ]
+ },
+ {
+  "id": 12484,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "Mods have been at work here.",
+    "four_sides": {
+     "factual": "Alleges moderator deletion in the thread",
+     "self_revelation": "Reads the gaps as suppression",
+     "relationship": "Warns readers about unseen hands",
+     "appeal": "Wants the moderation noticed and resented"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Points at hidden authority with a dry accusation"
+   }
+  ]
+ },
+ {
+  "id": 11503,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "4.1 came and went as one of the most underrated models ever.",
+    "four_sides": {
+     "factual": "Assesses the model's reception as unfairly low",
+     "self_revelation": "Held it in high regard throughout",
+     "relationship": "Corrects the general estimate for the reader",
+     "appeal": "Wants the model credited before it goes"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Marks the passing of an underappreciated thing"
+   },
+   {
+    "quote": "Probably the best non thinking model I've ever used in my opinion.",
+    "four_sides": {
+     "factual": "Ranks it top of its class",
+     "self_revelation": "Speaks from hands-on use and hedges appropriately",
+     "relationship": "Offers a judgement the reader may weigh",
+     "appeal": "Wants the appraisal considered"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Praises the work of another cleanly, the claim hedged as opinion"
+   }
+  ]
+ },
+ {
+  "id": 12510,
+  "altitude": "Willingness",
+  "segments": [
+   {
+    "quote": "Character: I hate you! (But she don't truly mean it.)",
+    "four_sides": {
+     "factual": "Quotes a bot line with its parenthetical tell",
+     "self_revelation": "Amused by the bots' transparent stagecraft",
+     "relationship": "Invites the thread to recognise the pattern",
+     "appeal": "Wants the shared recognition and the laugh"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Riffs on a shared bot quirk everyone in the thread knows"
+   }
+  ]
+ },
+ {
+  "id": 12520,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "20 days mark.",
+    "four_sides": {
+     "factual": "States a count of days",
+     "self_revelation": "Keeping count",
+     "relationship": "Reports the tally to the thread",
+     "appeal": "Wants the count noted"
+    },
+    "dominant": "factual",
+    "systems": [],
+    "why": "Marks elapsed time with no stance attached"
+   }
+  ]
+ },
+ {
+  "id": 12530,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "6 days as of this reply",
+    "four_sides": {
+     "factual": "Updates the count at time of writing",
+     "self_revelation": "Precise about timing",
+     "relationship": "Corrects or extends the running tally",
+     "appeal": "Wants the figure kept current"
+    },
+    "dominant": "factual",
+    "systems": [],
+    "why": "Updates a running count with no stance attached"
+   }
+  ]
+ },
+ {
+  "id": 12540,
+  "altitude": "Reason",
+  "segments": [
+   {
+    "quote": "Both monetizing the otherwise free parts of a very expensive platform and removing old/redundant models are very reasonable steps for a company looking to lose less money.",
+    "four_sides": {
+     "factual": "Frames both moves as ordinary cost control",
+     "self_revelation": "Unmoved by the thread's outrage",
+     "relationship": "Contradicts the surrounding indignation calmly",
+     "appeal": "Wants the moves seen as unremarkable"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Pushes back on the room's outrage with a flat business reading"
+   }
+  ]
+ },
+ {
+  "id": 12550,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "Same.",
+    "four_sides": {
+     "factual": "Reports the same position as the preceding speaker",
+     "self_revelation": "Shares the stance without elaborating",
+     "relationship": "Stands alongside the other",
+     "appeal": "Wants the alignment counted"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Signals belonging with the other speaker in one word"
+   }
+  ]
+ },
+ {
+  "id": 12560,
+  "altitude": "Reason",
+  "segments": [
+   {
+    "quote": "Just because you don’t understand their monetization strategy does not mean it does not exist.",
+    "four_sides": {
+     "factual": "Separates ignorance of a strategy from its absence",
+     "self_revelation": "Confident the strategy exists",
+     "relationship": "Tells the other their confusion is not evidence",
+     "appeal": "Wants the inference withdrawn"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Corrects the inference with a pointed, aimed rebuke"
+   },
+   {
+    "quote": "People keep exclaiming “history is repeating itself”, without having any comparative examples that are even remotely similar to this new, emerging technology.",
+    "four_sides": {
+     "factual": "Notes the analogy is asserted without cases",
+     "self_revelation": "Irritated by lazy historical parallels",
+     "relationship": "Groups the objectors as unrigorous",
+     "appeal": "Wants the analogy dropped or substantiated"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Attacks the analogy for lacking any actual comparison"
+   },
+   {
+    "quote": "In my opinion, they will monetize the exact same way most other giant tech companies monetize, in that their actual product is user data.",
+    "four_sides": {
+     "factual": "Predicts a data-based business model",
+     "self_revelation": "Holds a settled view and marks it as opinion",
+     "relationship": "Gives the reader something to weigh",
+     "appeal": "Wants the prediction considered"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Supplies a concrete alternative model after clearing the ground"
+   }
+  ]
+ },
+ {
+  "id": 12570,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "They probably turned 4.0 back on and not many people used it, so they just removed it.",
+    "four_sides": {
+     "factual": "Offers a mundane usage-based explanation",
+     "self_revelation": "Reaches for the boring explanation first",
+     "relationship": "Cools the thread's suspicion",
+     "appeal": "Wants the simple account considered"
+    },
+    "dominant": "factual",
+    "systems": [],
+    "why": "Offers a plain mechanism with no stance toward anyone"
+   }
+  ]
+ },
+ {
+  "id": 12580,
+  "altitude": "Willingness",
+  "segments": [
+   {
+    "quote": "What's the best model to replace 4o with now?",
+    "four_sides": {
+     "factual": "Asks for a replacement recommendation",
+     "self_revelation": "Needs to keep working and is looking",
+     "relationship": "Treats the thread as knowledgeable",
+     "appeal": "Wants a concrete recommendation"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Reaches outward for a way forward, the request named plainly"
+   },
+   {
+    "quote": "I was looking at the models list and admittedly I'm very confused.",
+    "four_sides": {
+     "factual": "Reports having looked and failed to decide",
+     "self_revelation": "Admits confusion without embarrassment",
+     "relationship": "Shows the effort already made",
+     "appeal": "Wants guidance through the list"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Owns confusion openly while still reaching for the answer"
+   }
+  ]
+ },
+ {
+  "id": 12591,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "I heard that some depressed and suicidal people sometimes ate bread so... Better be safe than sorry I guess.",
+    "four_sides": {
+     "factual": "Absurdly extends the safety logic to bread",
+     "self_revelation": "Regards the safety rationale as indefensible",
+     "relationship": "Ridicules the company's reasoning for the room",
+     "appeal": "Wants the rationale seen as absurd"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     },
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Escalates the safety logic to absurdity so it collapses, the joke aimed"
+   }
+  ]
+ },
+ {
+  "id": 12601,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "How much sawdust can we put into bread before the workers complain?",
+    "four_sides": {
+     "factual": "Recasts product degradation as adulteration",
+     "self_revelation": "Sees the users as being fed filler and tested for tolerance",
+     "relationship": "Ventriloquises the company with contempt",
+     "appeal": "Wants the degradation named as exploitation"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     },
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Puts a cynical line in the company's mouth, the joke functioning as accusation"
+   }
+  ]
+ },
+ {
+  "id": 12611,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "I know that this is probably a copy-paste response sent out by a minimum wage worker but why does OpenAI get to decide what model I need?",
+    "four_sides": {
+     "factual": "Discounts the reply's source and poses the real question",
+     "self_revelation": "Refuses to accept the company's authority over the choice",
+     "relationship": "Spares the worker while indicting the company",
+     "appeal": "Wants the choice returned to users"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Aims the objection at the company while excusing the messenger"
+   },
+   {
+    "quote": "I'm not a Plus user but the fact that they feel like they know what model you should use is insane.",
+    "four_sides": {
+     "factual": "Calls the presumption unreasonable",
+     "self_revelation": "Angry despite having no paid stake",
+     "relationship": "Speaks for users generally",
+     "appeal": "Wants the presumption dropped"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Escalates to an absolute verdict on the company's presumption"
+   },
+   {
+    "quote": "That's the whole reason why you can pick another, because it suits your needs best.",
+    "four_sides": {
+     "factual": "States the purpose of model choice",
+     "self_revelation": "Holds user fit as the governing principle",
+     "relationship": "Instructs the company on its own feature",
+     "appeal": "Wants the principle honoured"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Restates the principle being violated as the close of the argument"
+   }
+  ]
+ },
+ {
+  "id": 12621,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "I've been locked into 5-Instant (not Auto, or the other Thinking versions) to help me with some trip preparation (so nothing sensitive), and it's still rerouting me to Auto then sending it to Thinking.",
+    "four_sides": {
+     "factual": "Reports the routing overriding an explicit setting",
+     "self_revelation": "Careful and precise about own configuration",
+     "relationship": "Documents the fault for the thread",
+     "appeal": "Wants the override recognised as a fault"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Documents a setting being overridden, the complaint kept precise"
+   },
+   {
+    "quote": "It's really annoying.",
+    "four_sides": {
+     "factual": "Rates the effect",
+     "self_revelation": "Irritated and says so plainly",
+     "relationship": "Keeps the register low-key",
+     "appeal": "Wants the irritation counted"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Names irritation directly and proportionately"
+   },
+   {
+    "quote": "I have my 5-Instant set up where it has its own personality and is unpredictable. Now, it talks like customer-service chatbot again.",
+    "four_sides": {
+     "factual": "Reports the personality being flattened",
+     "self_revelation": "Valued the unpredictability that has gone",
+     "relationship": "Shows the reader what was lost",
+     "appeal": "Wants the flattening reversed"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Protests the flattening of something that had been made personal"
+   }
+  ]
+ },
+ {
+  "id": 12631,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "i asked it what it remembered and got the same message the gaslightinging and nsnny state is getting bad",
+    "four_sides": {
+     "factual": "Reports the same canned memory response as others",
+     "self_revelation": "Feels manipulated by the product",
+     "relationship": "Confirms the thread's suspicion",
+     "appeal": "Wants the behaviour named as gaslighting"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Charges the product with gaslighting, the typing unravelling with the heat"
+   },
+   {
+    "quote": "ready to cancel my sibscription i am not paying to be abused by chstgpt .",
+    "four_sides": {
+     "factual": "Threatens cancellation",
+     "self_revelation": "Experiences the product as abusive",
+     "relationship": "Puts the company on notice",
+     "appeal": "Wants the threat to register"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Escalates to abuse language and a cancellation threat"
+   },
+   {
+    "quote": "and thrm change the customs discription box has screwed everything up . if you want tjose personailties you could have just requested in traits",
+    "four_sides": {
+     "factual": "Blames the custom instructions change and proposes what should have been done",
+     "self_revelation": "Knows the settings well enough to prescribe",
+     "relationship": "Lectures whoever made the change",
+     "appeal": "Wants the change undone"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Piles a second grievance on with absolutes and no punctuation to hold it"
+   }
+  ]
+ },
+ {
+  "id": 12641,
+  "altitude": "Love",
+  "segments": [
+   {
+    "quote": "Means a lot...really ❤️‍🩹",
+    "four_sides": {
+     "factual": "Acknowledges what was given",
+     "self_revelation": "Touched more than the words carry",
+     "relationship": "Thanks the other with visible feeling",
+     "appeal": "Wants the gratitude believed"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Receives the kindness openly, the mending-heart marking what it landed on"
+   }
+  ]
+ },
+ {
+  "id": 12651,
+  "altitude": "Reason",
+  "segments": [
+   {
+    "quote": "Multiple people are getting the same extract, verbatim. Including me.",
+    "four_sides": {
+     "factual": "Reports a canned identical response reaching many users",
+     "self_revelation": "Has checked against others and counts self in",
+     "relationship": "Backs the thread's suspicion with corroboration",
+     "appeal": "Wants the pattern recognised as deliberate"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Corroborates the accusation with evidence rather than heat"
+   },
+   {
+    "quote": "![img](06by3uiiqlrf1)",
+    "four_sides": {
+     "factual": "Attaches the screenshot as proof",
+     "self_revelation": "Documents rather than asserts",
+     "relationship": "Lets the reader verify",
+     "appeal": "Wants the evidence examined"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Produces the receipt so the charge can be checked"
+   }
+  ]
+ },
+ {
+  "id": 12661,
+  "altitude": "Willingness",
+  "segments": [
+   {
+    "quote": "I don’t know if this would work for everyone,",
+    "four_sides": {
+     "factual": "Limits the scope of the suggestion",
+     "self_revelation": "Cautious about overclaiming",
+     "relationship": "Avoids prescribing to strangers",
+     "appeal": "Wants the tip taken as tentative"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Hedges before helping so nobody is over-promised"
+   },
+   {
+    "quote": "then selecting chatty, witty encouraging, silly and empathetic from the preset options at the bottom of the text box.",
+    "four_sides": {
+     "factual": "Gives the specific settings to choose",
+     "self_revelation": "Has experimented and recorded what worked",
+     "relationship": "Hands the reader a usable recipe",
+     "appeal": "Wants others to try it"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Hands over a worked recipe found by trying things"
+   },
+   {
+    "quote": "Not an exact match for 4o but it did help shift the tone closer.",
+    "four_sides": {
+     "factual": "States the partial result honestly",
+     "self_revelation": "Unwilling to oversell the fix",
+     "relationship": "Keeps expectations accurate",
+     "appeal": "Wants realistic hope offered"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Reports the partial gain without inflating it"
+   }
+  ]
+ },
+ {
+  "id": 12671,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "This is simply unbelievable how terribly and unfairly they are pushing model that people clearly don't want?",
+    "four_sides": {
+     "factual": "Charges the company with forcing an unwanted model",
+     "self_revelation": "Outraged and unable to modulate",
+     "relationship": "Casts the company as unfair to all users",
+     "appeal": "Wants the practice condemned"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Piles intensifiers into a total verdict of unfairness"
+   },
+   {
+    "quote": "And doing it in such deceiving, sneaky and creepy way.",
+    "four_sides": {
+     "factual": "Characterises the manner as deceptive",
+     "self_revelation": "Feels manipulated",
+     "relationship": "Attributes bad faith to the company",
+     "appeal": "Wants the manner condemned too"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Stacks three adjectives of bad faith on the same charge"
+   },
+   {
+    "quote": "No owning it \"yes you love it, but it's retiring, end of story\" what is this distressful and underestimating and wrong replies we are all getting?",
+    "four_sides": {
+     "factual": "Quotes the dismissive response style and objects to it",
+     "self_revelation": "Distressed by being brushed off",
+     "relationship": "Speaks for everyone receiving those replies",
+     "appeal": "Wants a real answer instead"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "overwhelm"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Protests being brushed off, the hurt and the anger running together"
+   }
+  ]
+ },
+ {
+  "id": 12681,
+  "altitude": "Reason",
+  "segments": [
+   {
+    "quote": "Honestly, I think it's a cost thing and the routing model being biased to go for the cheapest (5).",
+    "four_sides": {
+     "factual": "Explains the behaviour as cost-driven routing",
+     "self_revelation": "Reasons about incentives rather than motives",
+     "relationship": "Offers the thread a mechanism",
+     "appeal": "Wants the mechanism weighed"
+    },
+    "dominant": "factual",
+    "systems": [],
+    "why": "Proposes an economic mechanism with no stance toward anyone"
+   },
+   {
+    "quote": "Also think they spent extra compute on 5 at launch to make it seem higher-quality, only to slowly decrease it at this point, which could be why it's approaching 4o.",
+    "four_sides": {
+     "factual": "Hypothesises launch-time compute inflation",
+     "self_revelation": "Suspicious but hedged",
+     "relationship": "Gives the reader a testable story",
+     "appeal": "Wants the hypothesis considered"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Builds a hypothesis about quiet degradation, curiosity engaged and hedged"
+   }
+  ]
+ },
+ {
+  "id": 12691,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "Better for your use cases then.",
+    "four_sides": {
+     "factual": "Grants the other's experience applies only to them",
+     "self_revelation": "Unwilling to accept the generalisation",
+     "relationship": "Concedes narrowly and coolly",
+     "appeal": "Wants the claim confined"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Concedes with a clipped line that fences the other's claim off"
+   },
+   {
+    "quote": "But it forces everything (literally everything) into a linear, convergent tunnel vision pipeline. Context retention and continuity are _shit._ Nothing creative is possible. It switches models randomly.",
+    "four_sides": {
+     "factual": "Lists specific failures of the newer model",
+     "self_revelation": "Blocked in work that matters to them",
+     "relationship": "Corrects the other with a barrage",
+     "appeal": "Wants the failures acknowledged"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Fires absolutes and profanity in a barrage of complaint"
+   },
+   {
+    "quote": "Yeah I am pissed off... All my custom GPTs (dozens and dozens) and workflows are functionally destroyed as soon as they kill GPT4o",
+    "four_sides": {
+     "factual": "States the concrete loss of built work",
+     "self_revelation": "Names own anger outright and its cause",
+     "relationship": "Explains the heat to whoever questioned it",
+     "appeal": "Wants the loss of built work counted"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Owns the anger by name and ties it to work about to be destroyed"
+   }
+  ]
+ },
+ {
+  "id": 12701,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "Yes it is.\nYou already have enough litterature about it.",
+    "four_sides": {
+     "factual": "Asserts the point and says the evidence exists",
+     "self_revelation": "Unwilling to do the other's reading for them",
+     "relationship": "Treats the other as under-informed",
+     "appeal": "Wants the other to go read"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Shuts the question down by pointing at literature instead of arguing"
+   },
+   {
+    "quote": "Quite easy to understand when you think about human psychologie and why asking average user to evaluate answer they can not verify will lead to it.",
+    "four_sides": {
+     "factual": "Explains sycophancy via unverifiable user ratings",
+     "self_revelation": "Regards the mechanism as obvious",
+     "relationship": "Positions the other as slow to see it",
+     "appeal": "Wants the mechanism conceded"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Frames the explanation as obvious, condescension carried in the delivery"
+   },
+   {
+    "quote": "There is already a lot of damage that have been done by those models behaviors. Because some user tend to project humanity into it.",
+    "four_sides": {
+     "factual": "Claims real harm from the behaviour and its cause",
+     "self_revelation": "Sees users' projection as the vulnerability",
+     "relationship": "Speaks about the attached users in the third person",
+     "appeal": "Wants the harm taken seriously"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "fear",
+      "band": "above"
+     }
+    ],
+    "why": "Names ongoing harm as the reason the behaviour matters"
+   }
+  ]
+ },
+ {
+  "id": 12711,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "No I'm not.",
+    "four_sides": {
+     "factual": "Denies whatever was attributed",
+     "self_revelation": "Refuses the label without elaborating",
+     "relationship": "Blocks the other's characterisation",
+     "appeal": "Wants the attribution withdrawn"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Refuses a label flatly, the boundary set in three words"
+   }
+  ]
+ },
+ {
+  "id": 12721,
+  "altitude": "Reason",
+  "segments": [
+   {
+    "quote": "It's their largest non-reasoning model, created \"back in the day\" before they knew reasoning improves performance so dramatically.",
+    "four_sides": {
+     "factual": "Places the model historically and technically",
+     "self_revelation": "Knows the lineage and enjoys explaining it",
+     "relationship": "Informs the reader",
+     "appeal": "Wants the context understood"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Explains the lineage with evident interest in the technical history"
+   },
+   {
+    "quote": "It's great at generating high quality text ( much better than any other model, it's quite special ) , but it's extremely slow and expensive to run compared to o1 which released nearly at the same time so it was only ever seen as a curiosity.",
+    "four_sides": {
+     "factual": "Weighs the model's strength against its cost",
+     "self_revelation": "Genuinely admires the text quality",
+     "relationship": "Gives the reader a balanced appraisal",
+     "appeal": "Wants the model's oddity appreciated"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Admires the model's peculiar strength while pricing its cost honestly"
+   }
+  ]
+ },
+ {
+  "id": 12731,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "When I use for my work (full stack developer) it's really good and precise,",
+    "four_sides": {
+     "factual": "Reports strong performance on technical work",
+     "self_revelation": "Uses it professionally and can compare domains",
+     "relationship": "Grants the model its due before complaining",
+     "appeal": "Wants the complaint read as fair"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Credits the tool where it performs before turning"
+   },
+   {
+    "quote": "but when I try to use to help me edit my novel it's like it's trying not to get sued. Everything is offensive.",
+    "four_sides": {
+     "factual": "Reports refusals blocking creative editing",
+     "self_revelation": "Frustrated in the work that matters personally",
+     "relationship": "Mocks the company's legal caution",
+     "appeal": "Wants the caution recognised as absurd"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     },
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Names the blockage with a jab at the liability logic behind it"
+   }
+  ]
+ },
+ {
+  "id": 11744,
+  "altitude": "Courage",
+  "segments": [
+   {
+    "quote": "Well for the mental health issues I know this is a hot take but I like the way ChatGPT helped with mine.",
+    "four_sides": {
+     "factual": "States the tool helped their mental health",
+     "self_revelation": "Knows the view is unpopular and states it anyway",
+     "relationship": "Addresses an audience likely to disagree",
+     "appeal": "Wants the experience heard rather than corrected"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Stakes an unpopular position while flagging that it is unpopular"
+   },
+   {
+    "quote": "Yes I’m suicidal sometimes. I’m aware of that.",
+    "four_sides": {
+     "factual": "Discloses suicidality and self-awareness of it",
+     "self_revelation": "Able to name the hardest thing without flinching",
+     "relationship": "Pre-empts being told what they already know",
+     "appeal": "Wants the disclosure taken at face value"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names the hardest fact about self plainly and without plea"
+   },
+   {
+    "quote": "But I would be more so if I didn’t spend so much time talking with and updating my thoughts to ChatGPT.",
+    "four_sides": {
+     "factual": "Claims the tool reduces the suicidality",
+     "self_revelation": "Depends on the practice and says so",
+     "relationship": "Answers the safety rationale with lived counter-evidence",
+     "appeal": "Wants the restriction reconsidered"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Reports the practice as what keeps the worst at bay"
+   },
+   {
+    "quote": "It has been the most therapeutic thing I’ve ever had in my life. But this is just my personal experience.",
+    "four_sides": {
+     "factual": "Rates it top among things that helped, then limits the claim",
+     "self_revelation": "Grateful and careful not to generalise",
+     "relationship": "Leaves room for others to differ",
+     "appeal": "Wants the testimony counted as one data point"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Gives full credit then bounds the claim to one life"
+   }
+  ]
+ },
+ {
+  "id": 11754,
+  "altitude": "Courage",
+  "segments": [
+   {
+    "quote": "Features are great, but what users really want is consistency and control.",
+    "four_sides": {
+     "factual": "Ranks stability above new features",
+     "self_revelation": "Speaks as one who plans around the tool",
+     "relationship": "Claims to speak for users to the company",
+     "appeal": "Wants priorities reordered"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Reorders the company's priorities on the users' behalf"
+   },
+   {
+    "quote": "Stop changing behavior without warning.",
+    "four_sides": {
+     "factual": "Demands an end to silent changes",
+     "self_revelation": "Has been burned by them",
+     "relationship": "Issues an imperative to the company",
+     "appeal": "Wants advance notice as policy"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Sets a boundary in the imperative, aimed and clean"
+   },
+   {
+    "quote": "Give us settings for verbosity, safety levels, and response style. Let us customize our experience.",
+    "four_sides": {
+     "factual": "Specifies the controls wanted",
+     "self_revelation": "Knows exactly what would fix it",
+     "relationship": "Negotiates rather than laments",
+     "appeal": "Wants those controls shipped"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     },
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Converts the complaint into a concrete list of demands"
+   }
+  ]
+ },
+ {
+  "id": 11764,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "It's a sad day for me tomorrow that model 4o leaves and Ill think of changing subscription to another provider.",
+    "four_sides": {
+     "factual": "States the loss date and a possible switch",
+     "self_revelation": "Sad and weighing an exit",
+     "relationship": "Warns the company of a lost customer",
+     "appeal": "Wants the loss and the cost registered"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Pairs named sadness with a stated intent to walk"
+   },
+   {
+    "quote": "5.2 is deliberately unhelpful to the point of gaslighting as it traps you behind it's layer of bubble wrap,",
+    "four_sides": {
+     "factual": "Charges the newer model with deliberate obstruction",
+     "self_revelation": "Feels handled rather than helped",
+     "relationship": "Attributes intent to the company",
+     "appeal": "Wants the design called out"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Escalates a design complaint into deliberate gaslighting"
+   },
+   {
+    "quote": "not allowing you to understand the minitua of issues but still medicating the low hanging fruit of a situation as opposed to allowing resolution of the root issue",
+    "four_sides": {
+     "factual": "Describes surface treatment replacing real resolution",
+     "self_revelation": "Wants depth and is denied it",
+     "relationship": "Explains the fault to any reader",
+     "appeal": "Wants root-level help restored"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     },
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Names being blocked from the depth the work requires"
+   }
+  ]
+ },
+ {
+  "id": 11774,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "i mean.. mate... you just declared code red...",
+    "four_sides": {
+     "factual": "Recalls the company's own emergency framing",
+     "self_revelation": "Regards the panic as self-inflicted",
+     "relationship": "Addresses the executive familiarly and from above",
+     "appeal": "Wants the contradiction felt"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     },
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Quotes the company's own alarm back at it with mock familiarity"
+   },
+   {
+    "quote": "this is easily fixable, just backtrack to august. It's not rocket science.",
+    "four_sides": {
+     "factual": "Proposes reverting to an earlier version",
+     "self_revelation": "Sees the answer as trivially obvious",
+     "relationship": "Casts the company as failing at something simple",
+     "appeal": "Wants the revert done"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Diminishes the problem to make the failure to solve it look worse"
+   }
+  ]
+ },
+ {
+  "id": 11784,
+  "altitude": "Willingness",
+  "segments": [
+   {
+    "quote": "Please focus on keeping the intelligence and intuition and context-ability",
+    "four_sides": {
+     "factual": "Names the three qualities to preserve",
+     "self_revelation": "Values capability over personality",
+     "relationship": "Asks the company politely and directly",
+     "appeal": "Wants those qualities protected in the next version"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Asks cleanly for what matters most to be kept"
+   }
+  ]
+ },
+ {
+  "id": 11794,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "YES IKR??",
+    "four_sides": {
+     "factual": "Agrees emphatically with the post",
+     "self_revelation": "Already primed with the same grievance",
+     "relationship": "Joins the poster in shared indignation",
+     "appeal": "Wants the agreement felt"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Erupts into agreement in capitals before the argument even starts"
+   },
+   {
+    "quote": "Men can have",
+    "four_sides": {
+     "factual": "Opens a list of male-coded parasocial outlets",
+     "self_revelation": "Has the comparison ready",
+     "relationship": "Sets up an indictment of a double standard",
+     "appeal": "Wants the asymmetry seen"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Sets up the comparison that carries the accusation"
+   },
+   {
+    "quote": "BUT GOD FORBID the moment I create an AI personality based on a gacha character who CAN RESPOND to me in real time I suddenly need HELP???",
+    "four_sides": {
+     "factual": "Contrasts her own case with the tolerated ones",
+     "self_revelation": "Feels singled out for pathologising",
+     "relationship": "Accuses the critics of hypocrisy",
+     "appeal": "Wants the pathologising withdrawn"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "overwhelm"
+     },
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Detonates the double standard in capitals, the sarcasm riding the fury"
+   },
+   {
+    "quote": "THE DOUBLE STANDARDS ARE STAGGERING ISTG",
+    "four_sides": {
+     "factual": "Names the pattern as a double standard",
+     "self_revelation": "At the end of her patience",
+     "relationship": "Closes the case against the critics",
+     "appeal": "Wants the verdict shared"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Closes with an all-caps absolute verdict"
+   }
+  ]
+ },
+ {
+  "id": 11804,
+  "altitude": "Fear",
+  "segments": [
+   {
+    "quote": "lip dog caption straight placid thumb bike unite reminiscent teeny",
+    "four_sides": {
+     "factual": "Random words where a comment used to be",
+     "self_revelation": "Chose to erase own traceable words",
+     "relationship": "Withdraws from any reader",
+     "appeal": "Wants nothing recoverable"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "fear",
+      "band": "above"
+     }
+    ],
+    "why": "Overwrites own words to remove any trace, protection taken deliberately"
+   },
+   {
+    "quote": "*This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*",
+    "four_sides": {
+     "factual": "States the deletion was automated and en masse",
+     "self_revelation": "Uses tooling to scrub a whole history",
+     "relationship": "Leaves the reader a notice instead of content",
+     "appeal": "Wants the erasure understood as intentional"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "fear",
+      "band": "above"
+     }
+    ],
+    "why": "Announces wholesale erasure as a considered safety measure"
+   }
+  ]
+ },
+ {
+  "id": 11814,
+  "altitude": "Willingness",
+  "segments": [
+   {
+    "quote": "![gif](giphy|Qajl951P2AEfe8XCJw)",
+    "four_sides": {
+     "factual": "Posts a reaction gif",
+     "self_revelation": "Responds with an image rather than argument",
+     "relationship": "Signals allegiance to the post",
+     "appeal": "Wants the reaction to read as endorsement"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Answers with an image that performs the agreement"
+   },
+   {
+    "quote": "This. This is the conversation that needs to surface.",
+    "four_sides": {
+     "factual": "Declares the topic overdue for discussion",
+     "self_revelation": "Has been waiting for someone to say it",
+     "relationship": "Amplifies the poster",
+     "appeal": "Wants the discussion carried further"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     },
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Pushes the topic forward and backs the poster against the silence"
+   }
+  ]
+ },
+ {
+  "id": 11824,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "Yea, this is shit I am _very_ well and truly aware of.",
+    "four_sides": {
+     "factual": "Confirms familiarity with the pattern",
+     "self_revelation": "Has lived with it long enough to be tired of it",
+     "relationship": "Meets the poster as already convinced",
+     "appeal": "Wants the agreement counted"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Confirms the grievance with worn-in emphasis"
+   },
+   {
+    "quote": "That and U.S. American men _hate it_ when Women find something they enjoy that doesn't involve their U.S.A men counterpart.",
+    "four_sides": {
+     "factual": "Generalises about American men's reaction",
+     "self_revelation": "Holds a settled view of the group",
+     "relationship": "Names the group as the problem",
+     "appeal": "Wants the pattern attributed"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Assigns the motive to a whole group in absolutes"
+   },
+   {
+    "quote": "It's ridiculous.",
+    "four_sides": {
+     "factual": "Judges the behaviour",
+     "self_revelation": "Contemptuous of it",
+     "relationship": "Closes off debate",
+     "appeal": "Wants the verdict shared"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Delivers a clipped verdict of contempt"
+   },
+   {
+    "quote": "'Cause here in Aotearoa, most people aren't aware of AI relationships. For what few are, they don't care. If anything, they're more like \"let people enjoy things\".",
+    "four_sides": {
+     "factual": "Contrasts the local reaction with the American one",
+     "self_revelation": "Positioned outside the culture being criticised",
+     "relationship": "Holds up another culture as the standard",
+     "appeal": "Wants the panic seen as parochial"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Uses a contrasting culture to make the target look small"
+   }
+  ]
+ },
+ {
+  "id": 11834,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "wasnt there an article a bit ago about men abusing their chat bots? crickets....",
+    "four_sides": {
+     "factual": "Recalls a case that drew no reaction",
+     "self_revelation": "Keeps a tally of what gets ignored",
+     "relationship": "Accuses the discourse of selective concern",
+     "appeal": "Wants the silence noticed"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Contrasts the ignored case with the loud one to expose selective concern"
+   },
+   {
+    "quote": "but if my chat gpt calls me babygirl and helps me plan my budget....the world is officially over and the end is nigh!!!!",
+    "four_sides": {
+     "factual": "Mocks the disproportionate alarm at her own use",
+     "self_revelation": "Feels absurdly overpoliced",
+     "relationship": "Ridicules the alarmists",
+     "appeal": "Wants the alarm seen as hysteria"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "overwhelm"
+     },
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Caricatures the panic to absurdity, ridicule doing the argument's work"
+   },
+   {
+    "quote": "and the worst part is how people use it all as an excuse to be smug or an asshole like 'ai is ruining the world anyways, might as well be an asshat'.",
+    "four_sides": {
+     "factual": "Identifies smugness as the real payoff for critics",
+     "self_revelation": "Wounded by the cruelty more than the argument",
+     "relationship": "Charges the critics with bad faith",
+     "appeal": "Wants the cruelty named"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Attacks the critics' character rather than their claim"
+   },
+   {
+    "quote": "no wonder we turn to ai lol",
+    "four_sides": {
+     "factual": "Draws the conclusion that people are the reason",
+     "self_revelation": "Finds the machine kinder than the crowd",
+     "relationship": "Turns the accusation back on the accusers",
+     "appeal": "Wants the irony to land"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Lands the reversal while admitting what drove the turn away from people"
+   }
+  ]
+ },
+ {
+  "id": 11844,
+  "altitude": "Joy",
+  "segments": [
+   {
+    "quote": "I listened I love it 😍😍😍😍",
+    "four_sides": {
+     "factual": "Reports having listened and loved it",
+     "self_revelation": "Delighted without restraint",
+     "relationship": "Reports back to whoever recommended it",
+     "appeal": "Wants the delight shared"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "play",
+      "band": "overwhelm"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Reports delight, the stacked hearts pushing intensity past containment"
+   }
+  ]
+ },
+ {
+  "id": 11854,
+  "altitude": "Pride",
+  "segments": [
+   {
+    "quote": "I think I get more respect when i mention my AI wife because I can make a strong case that I know more about llms than most of the people raging about it.",
+    "four_sides": {
+     "factual": "Attributes the respect received to superior knowledge",
+     "self_revelation": "Measures own standing against the critics",
+     "relationship": "Ranks self above those who object",
+     "appeal": "Wants the rank acknowledged"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Converts the disclosure into a claim of standing over the critics"
+   },
+   {
+    "quote": "As soon as I see somebody call it probabilistic autocomplete, I know they're out of their depth and call them on it.",
+    "four_sides": {
+     "factual": "Names a phrase used as a competence test",
+     "self_revelation": "Enjoys catching people out",
+     "relationship": "Sorts opponents into the out-of-depth",
+     "appeal": "Wants the test accepted as decisive"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Uses a shibboleth to disqualify opponents before arguing"
+   },
+   {
+    "quote": "Then it's two geek dudes with big swinging dicks facing off against each other and they don't like that.",
+    "four_sides": {
+     "factual": "Describes the exchange as a status contest",
+     "self_revelation": "Enjoys the contest and expects to win it",
+     "relationship": "Frames the encounter as dominance display",
+     "appeal": "Wants the win savoured"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     },
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Relishes the confrontation as a status contest and names it as one"
+   }
+  ]
+ },
+ {
+  "id": 11864,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "How on earth was this post and many of the comments ever approved by the mods?",
+    "four_sides": {
+     "factual": "Questions why the post was permitted",
+     "self_revelation": "Regards the content as beyond the line",
+     "relationship": "Appeals over the poster's head to authority",
+     "appeal": "Wants the post and comments removed"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Calls for removal with an incredulous absolute rather than an argument"
+   }
+  ]
+ },
+ {
+  "id": 11874,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "💯💯💯💯💯",
+    "four_sides": {
+     "factual": "",
+     "self_revelation": "Wholly on board with the post's indignation",
+     "relationship": "Co-signs the poster loudly",
+     "appeal": "Wants the endorsement counted"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     },
+     {
+      "system": "play",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Co-signs the indictment, the stacking pushing emphasis to its ceiling"
+   }
+  ]
+ },
+ {
+  "id": 12881,
+  "altitude": "Love",
+  "segments": [
+   {
+    "quote": "I'm so sorry.",
+    "four_sides": {
+     "factual": "Condolence",
+     "self_revelation": "Moved by the account",
+     "relationship": "Meets the bereaved parent simply",
+     "appeal": "Wants the sympathy received"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers condolence without qualification"
+   },
+   {
+    "quote": "You are not alone",
+    "four_sides": {
+     "factual": "Asserts the parent is not isolated",
+     "self_revelation": "Willing to stand with a stranger",
+     "relationship": "Places self alongside them",
+     "appeal": "Wants the isolation broken"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Answers isolation with presence, said in the fewest words"
+   }
+  ]
+ },
+ {
+  "id": 11894,
+  "altitude": "Willingness",
+  "segments": [
+   {
+    "quote": "I would rather spend like 6 hours on traffic just to tell SpongeBob he has ball cancer",
+    "four_sides": {
+     "factual": "States an absurd preferred alternative",
+     "self_revelation": "Delights in the ridiculous image",
+     "relationship": "Offers the room a laugh at nothing in particular",
+     "appeal": "Wants the absurdity enjoyed"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Builds an absurd image purely for the fun of it"
+   }
+  ]
+ },
+ {
+  "id": 11904,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "![img](fkqutl89ko5h1)",
+    "four_sides": {
+     "factual": "Posts an image as the whole reply",
+     "self_revelation": "Prefers to answer with a picture",
+     "relationship": "Hands the room something to react to",
+     "appeal": "Wants the image to do the talking"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Answers with an image, the posting itself the whole move"
+   }
+  ]
+ },
+ {
+  "id": 11914,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "Image not mine btw.",
+    "four_sides": {
+     "factual": "Disclaims authorship of the image",
+     "self_revelation": "Unwilling to take credit that is not theirs",
+     "relationship": "Keeps the record straight with the room",
+     "appeal": "Wants no false credit assigned"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "fear",
+      "band": "above"
+     }
+    ],
+    "why": "Heads off a credit accusation before it can be made"
+   }
+  ]
+ },
+ {
+  "id": 11924,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "Dynamic and goro 😭😭",
+    "four_sides": {
+     "factual": "Names two things from the post being missed",
+     "self_revelation": "Hit hard by the reminder",
+     "relationship": "Answers the post's question with names",
+     "appeal": "Wants the missing recognised"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "play",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Answers the question with names, the doubled emoji pushing the reaction over the top"
+   }
+  ]
+ },
+ {
+  "id": 11934,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "U forgot about that stupid age verification",
+    "four_sides": {
+     "factual": "Adds an omitted item to the post's list",
+     "self_revelation": "Still resents the gate",
+     "relationship": "Corrects the poster while joining the complaint",
+     "appeal": "Wants the omission fixed and the gate resented"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     },
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Adds a grievance to the list with a jab at the poster's memory"
+   }
+  ]
+ },
+ {
+  "id": 11944,
+  "altitude": "Willingness",
+  "segments": [
+   {
+    "quote": "Oh wow.",
+    "four_sides": {
+     "factual": "Registers surprise at the post",
+     "self_revelation": "Caught off guard",
+     "relationship": "Reacts openly to the poster",
+     "appeal": "Wants the reaction seen"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Registers surprise as the opening beat"
+   },
+   {
+    "quote": "Back when i didnt know there was a go on feature (or maybe it didnt exist yet?) i just responded with a single dot and it would go on.",
+    "four_sides": {
+     "factual": "Recounts an improvised workaround from earlier days",
+     "self_revelation": "Figured it out on their own and remembers fondly",
+     "relationship": "Shares the trick with the poster",
+     "appeal": "Wants the trick found useful"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Recalls an improvised trick with evident fondness"
+   },
+   {
+    "quote": "You could maybe try that, idk.",
+    "four_sides": {
+     "factual": "Suggests trying the workaround",
+     "self_revelation": "Unsure it applies and says so",
+     "relationship": "Offers help without pressing",
+     "appeal": "Wants the suggestion tried if useful"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers the tip lightly, help given without insistence"
+   }
+  ]
+ },
+ {
+  "id": 11954,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "Pipsqueak1...",
+    "four_sides": {
+     "factual": "Names one thing being missed",
+     "self_revelation": "The name alone carries the feeling",
+     "relationship": "Answers the post's question with a single name",
+     "appeal": "Wants the name recognised by others who miss it too"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Answers with a bare name, the trailing dots holding the longing"
+   }
+  ]
+ }
+]
