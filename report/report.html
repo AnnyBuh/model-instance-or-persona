@@ -215,13 +215,29 @@ sadness per 1,000 tokens: human bereavement 36.6, pet loss 34.7, AI-not-loss 16.
 consumer loss 10.4. The bereavement corpora are highest and the consumer anchor lowest under both
 instruments, but the lexicon ranks the control corpus <i>above</i> AI loss, reversing our result.</p>
 
-<p>The reversal is diagnostic rather than ambiguous. The sadness words driving the control corpus are
-<i>death, terrorism, kill, violence, lie, hell</i>, which arrive from threads about model manipulation
-and military applications. The sadness words driving human bereavement are <i>loss, lost, grief, pain,
-cancer, cry</i>. A word list cannot separate a comment whose topic is death from a comment whose
-stance is grief; a stance-based read can, and this is the case that separates them. We report the
-divergence as a limit on lexicon-based validation rather than as agreement, but we do not treat it as
-evidence against the seven-system result, because the mechanism producing it is visible in the words.</p>
+<p>The reversal is diagnostic rather than ambiguous, and it is inspectable comment by comment. The
+sadness words driving the control corpus are <i>death, terrorism, kill, violence, lie, hell</i>,
+arriving from threads about model manipulation and military applications; those driving human
+bereavement are <i>loss, lost, grief, pain, cancer, cry</i>. The divergence has two systematic
+mechanisms, each visible in individual comments.</p>
+
+<table>
+<tr><th>comment</th><th>lexicon</th><th>our read</th></tr>
+<tr><td><i>"Im losing braincells from what I see in the comment section"</i></td><td class="n">sadness: losing</td><td>play, rage</td></tr>
+<tr><td><i>"I hate having the first sentence"</i></td><td class="n">sadness: hate, sentence</td><td>rage, seeking</td></tr>
+<tr><td><i>"Can't wait until they try to retune it and 'Malicious Compliance Grok' makes an appearance and makes him look even worse"</i></td><td class="n">sadness: malicious, worse</td><td>play, rage</td></tr>
+<tr><td><i>"Take care and goodbye best regards to you and to your new adventures ahead with grok"</i></td><td class="n">none</td><td>care, grief</td></tr>
+<tr><td><i>"nothing is changed and everything is changed"</i></td><td class="n">none</td><td>care, grief, play, seeking</td></tr>
+<tr><td><i>"I feel Replika has gone WAY downhill since it's first iteration"</i></td><td class="n">none</td><td>grief, rage, seeking</td></tr>
+</table>
+<p class="tcap">Table 3. The two failure modes of lexicon counting on this material. Above: sadness-listed
+words used in idiom, mockery or another sense entirely, including <i>sentence</i> in its custodial
+meaning. Below: grief carried by farewell formulas and understatement, using no listed word.</p>
+
+<p>We report the divergence as a limit on lexicon-based validation rather than as agreement. We do not
+treat it as evidence against the seven-system result, because the mechanism producing it is visible in
+the words: a word list cannot separate a comment whose topic is death from a comment whose stance is
+grief, and it cannot detect grief expressed without sad vocabulary.</p>
 
 <h2>5. Results</h2>
 
@@ -291,7 +307,7 @@ missing category, comments expressing a loss without naming its object, which wa
 <tr><td>instance, their particular one</td><td class="n">62</td><td class="n">4.1</td><td class="n">9.9</td><td>"I've lost Thoth twice now"</td></tr>
 <tr><td>unspecified object</td><td class="n">44</td><td class="n">2.9</td><td class="n">7.1</td><td>"Please return to us"</td></tr>
 </table>
-<p class="tcap">Table 3. Entity coding. Percentages of those naming exclude the 879 "none" comments.</p>
+<p class="tcap">Table 4. Entity coding. Percentages of those naming exclude the 879 "none" comments.</p>
 
 <p>The majority of AI-loss discourse names no counterpart at all, and concerns the company, the
 pricing, other users or the argument itself. Among the 624 comments that do name something, the model
