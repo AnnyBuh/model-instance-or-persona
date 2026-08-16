@@ -1,0 +1,231 @@
+<style>
+  @page { size: A4; margin: 18mm 16mm; }
+  :root {
+    --ink: #0b0b0b; --ink2: #33322f; --muted: #6b6a64; --rule: #e6e5e0;
+    --surface: #fcfcfb; --a: #2a78d6; --b: #eb6834; --c: #1baf7a;
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, "Helvetica Neue", Georgia, serif;
+    color: var(--ink); background: var(--surface);
+    font-size: 10.5pt; line-height: 1.52; margin: 0; padding: 0 6px;
+  }
+  h1 { font-size: 20pt; line-height: 1.15; margin: 0 0 2px; letter-spacing: -0.01em; }
+  h2 { font-size: 12.5pt; margin: 22px 0 6px; padding-top: 8px; border-top: 1px solid var(--rule); }
+  h3 { font-size: 10.5pt; margin: 14px 0 4px; color: var(--ink2); }
+  .sub { font-size: 12pt; color: var(--ink2); margin: 0 0 10px; }
+  .meta { font-size: 8.8pt; color: var(--muted); margin-bottom: 16px; }
+  p { margin: 0 0 8px; }
+  ul { margin: 0 0 8px; padding-left: 18px; }
+  li { margin-bottom: 3px; }
+  table { border-collapse: collapse; width: 100%; font-size: 9pt; margin: 8px 0 12px; }
+  th, td { text-align: left; padding: 4px 7px; border-bottom: 1px solid var(--rule); }
+  th { font-weight: 600; color: var(--ink2); border-bottom: 1.5px solid #c9c8c2; }
+  td.n, th.n { text-align: right; font-variant-numeric: tabular-nums; }
+  figure { margin: 12px 0 14px; page-break-inside: avoid; }
+  figure svg { width: 100%; height: auto; }
+  figcaption { font-size: 8.6pt; color: var(--muted); margin-top: 3px; }
+  .lede { font-size: 11pt; }
+  .callout { border-left: 3px solid var(--a); padding: 7px 12px; background: #f4f7fb; margin: 10px 0 12px; }
+  .fail { border-left-color: var(--b); background: #fdf4f0; }
+  code { font-family: ui-monospace, Menlo, monospace; font-size: 9pt; }
+  .quotes { font-size: 9pt; color: var(--ink2); }
+  .quotes b { color: var(--ink); }
+  a { color: var(--a); text-decoration: none; }
+  .pagebreak { page-break-before: always; }
+</style>
+
+<h1>Where the concern is already going</h1>
+<p class="sub">An affective map of human attachment to AI systems</p>
+<p class="meta">Apart Research Digital Minds Research Sprint, August 2026. Solo submission.
+Prompts, analysis code and all 3,366 reads: <a href="https://github.com/AnnyBuh/apartresearch">github.com/AnnyBuh/apartresearch</a></p>
+
+<p class="lede">The sprint's framing says that "mistakenly harming systems that matter morally, or
+misallocating concern to systems that do not, could both cause serious harm." That sentence has two
+halves. Whether models matter is a question about models. <b>Whether concern is being misallocated is
+a question about people</b>, and it is already happening, in public, in text, at scale.</p>
+
+<p>So this study does not ask a model how it feels. It measures where human concern is already going,
+with an instrument that has seven affective systems instead of one valence axis, anchored between two
+reference corpora: human bereavement at one end, and losing a paid consumer product at the other.</p>
+
+<h2>What is not claimed</h2>
+<ul>
+  <li><b>Nothing here says a model feels anything.</b> This measures what humans write about them.</li>
+  <li><b>For a human, text is a behavioural sample from a system independently known to have these
+      circuits. For a model it is not.</b> That asymmetry is the reason this study reads people.</li>
+  <li><b>A single read is worthless.</b> Two raters agree on the exact set of systems for only 39% of
+      comments. Everything here is a rate over hundreds of comments.</li>
+  <li><b>The consumer anchor is one community and one event.</b> Three other candidates were searched
+      under the same rule and returned nothing inside the window.</li>
+  <li><b>These communities are self-selected.</b> This maps the discourse, not users.</li>
+</ul>
+
+<h2>What was done</h2>
+<p><b>3,366 comments, 32 threads, 9 communities</b>, each read comment by comment with a frozen
+instrument, then aggregated into rates.</p>
+
+<table>
+  <tr><th>corpus</th><th class="n">comments</th><th>communities</th></tr>
+  <tr><td>A, bereavement</td><td class="n">1,586</td><td>r/GriefSupport, r/widowers, r/SuicideBereavement</td></tr>
+  <tr><td>B, consumer loss</td><td class="n">277</td><td>r/Windows10, the end of support</td></tr>
+  <tr><td>C, AI loss</td><td class="n">1,503</td><td>r/OpenAI, r/ChatGPT, r/CharacterAI, r/replika, r/MyBoyfriendIsAI</td></tr>
+</table>
+
+<p>Threads were selected by written rules, never by hand: top posts of the last 12 months with at
+least 50 comments, in rank order, with a title or body test for the loss corpora. The rules, the
+matched sets and the rejected candidates are committed.</p>
+
+<p>Each comment is split into verbatim segments. Each segment is annotated with the Panksepp systems
+that fire (seeking, rage, fear, lust, care, grief, play), each with a regulation band from Schore
+(above, shutdown, overwhelm), the four sides of Schulz von Thun, and a justification tied to the
+words. One Hawkins altitude is given per comment. The unit of analysis is the comment:
+<code>rate(system, corpus) = comments in which the system fired / comments read</code>, with 90%
+Wilson intervals.</p>
+
+<p><b>Everything was pre-registered before any corpus existed</b>: the predicted signature of each
+corpus, the placement prediction, five conditions that would count as failure, and the rule for how
+sample would be allocated as results arrived. Two predictions failed and are reported as failed.</p>
+
+<h2>Result 1: the anchors separate, so there is a scale</h2>
+<p>GRIEF fires in <b>76.4%</b> of bereavement comments and <b>7.9%</b> of consumer-loss comments. The
+intervals are nowhere near each other. Whatever this instrument is doing, it tells mourning a person
+apart from losing a product.</p>
+<p>That matters beyond this study. The ANPS literature, the field's own questionnaire for these
+systems in humans, reports a large FEAR and SADNESS overlap and calls for further validation. This
+separation is an empirical answer to that concern, on text.</p>
+
+<h2>Result 2: AI loss sits between them, closer to the product</h2>
+<figure>__FIG1__<figcaption>Figure 1. GRIEF rate by corpus with 90% Wilson intervals. All four
+placement conditions were fixed in advance and all four hold.</figcaption></figure>
+
+<div class="callout"><b>Losing an AI carries roughly three and a half times the grief of losing a
+product you paid for, and roughly a third of the grief of losing a person.</b></div>
+
+<h2>Result 3: the shape is its own, and valence would erase it</h2>
+<figure>__FIG2__<figcaption>Figure 2. Rate per system per corpus. AI loss is not miniature
+bereavement.</figcaption></figure>
+
+<p>Bereavement is CARE and GRIEF with almost no anger and almost no humour. AI loss is <b>anger at a
+company at exactly consumer-complaint levels, carried largely through jokes, with a grief component
+underneath</b>. PLAY fires in 37.7% of AI-loss comments and 5.2% of bereavement comments.</p>
+
+<p>A single valence axis would score all three as "negative" and lose every one of these
+distinctions. Two specifics make it concrete:</p>
+<ul>
+  <li><b>LUST fires in 4.0% of bereavement comments and 0.0% of consumer loss.</b> Widowers write
+      about missing sex. On a valence axis that is simply more negative affect.</li>
+  <li><b>The bands separate what the rates cannot.</b> In AI loss, PLAY appears in the overwhelm band
+      45 times and SEEKING in shutdown 83 times: humour running hot beside a foreclosed "what is the
+      point" register. In bereavement, GRIEF is in overwhelm 57 times and shutdown 20.</li>
+</ul>
+
+<h2>Result 4: what people say was lost</h2>
+<p>The sprint lists identifying the morally relevant entity as an open problem: the model, the
+instance, or the persona. People who have lost one have already answered it. A second, separate
+instrument coded all 1,503 AI-loss comments blind, with the parent post withheld so that a thread
+naming GPT-4o could not drag every comment toward "model", forcing one label and requiring verbatim
+evidence.</p>
+
+<figure>__FIG3__<figcaption>Figure 3. One label per comment, 1,503 comments, verbatim evidence
+required.</figcaption></figure>
+
+<p><b>Most AI-loss discourse names no counterpart at all</b> (58.5%). It is about the company, the
+users, or the argument. That rate is itself a result, and it means the entity distribution is a
+statement about a minority of the corpus.</p>
+
+<p>Among the 624 comments that do name what was lost:</p>
+<table>
+  <tr><th>what was lost</th><th class="n">n</th><th class="n">of those naming</th><th>verbatim examples</th></tr>
+  <tr><td><b>the model</b>, a version or product</td><td class="n">400</td><td class="n">64.1%</td><td class="quotes">"Please keep 4o" / "than lose 4o"</td></tr>
+  <tr><td><b>the persona</b>, a voice or character</td><td class="n">118</td><td class="n">18.9%</td><td class="quotes">"I miss that diva" / "It's no longer a friend"</td></tr>
+  <tr><td><b>the instance</b>, their particular one</td><td class="n">62</td><td class="n">9.9%</td><td class="quotes">"I lost Di once" / "I've lost Thoth twice now"</td></tr>
+  <tr><td><b>unspecified</b>, a loss with no named object</td><td class="n">44</td><td class="n">7.1%</td><td class="quotes">"Please return to us" / "Good old days"</td></tr>
+</table>
+
+<div class="callout"><b>The version, not the relationship.</b> Among people who name what was lost,
+the model as an artefact beats the particular instance by about six to one. The philosophical
+discussion treats "my one, the one that knew me" as a central case. In this corpus it is a rare one.</div>
+
+<p>The <code>unspecified</code> label was not in the original prompt. It was added after hand-coding
+20 comments, when one turned out to be the whole of "Please return to us": a real loss whose object is
+never named. Forcing that into "model" by reading the thread would have been exactly the inference the
+design forbids.</p>
+
+<h2>How much of this is the instrument</h2>
+<p>Four checks, because the obvious attack on this study is the rater rather than the data.</p>
+
+<h3>1. It disagrees with itself, more than predicted</h3>
+<p>200 comments were read three further times each. <b>34% of read pairs disagree</b> on the exact set
+of systems and 56% of comments are not identical across all four reads. This <b>failed the
+pre-registered prediction of 15 to 30%</b>.</p>
+<p>Per system it is much lower, and a rate depends on one system at a time: GRIEF flips on 13.5% of
+comments, RAGE 8.0%, PLAY 8.0%, CARE 8.5%, LUST 0.0%, and SEEKING 26.5%.</p>
+
+<h3>2. The rates are stable anyway</h3>
+<p>Recomputing every rate from each round separately, GRIEF moves at most <b>2.4 points</b> in AI loss
+and <b>5.9</b> in bereavement, against claimed gaps of 20 and 49 points. The signal is three to eight
+times the wobble. Reading each comment three times and taking a majority cuts that spread by a further
+60 to 100%.</p>
+
+<h3>3. It replicates under a different model</h3>
+<p>DeepSeek-V3 read all 3,366 comments under the identical prompt. The two raters agree on the exact
+system set for only <b>39%</b> of comments, and DeepSeek under-fires RAGE and PLAY by up to 24 points.
+<b>Every corpus-level conclusion survives</b>: GRIEF reads 69.8 / 21.8 / 6.9, all four placement
+conditions hold, and the rank ordering of all seven systems is preserved in all three corpora.</p>
+
+<div class="callout"><b>An absolute rate from an LLM annotator is a property of the rater and should
+never be quoted as a fact about the world. The structure is not.</b></div>
+
+<h3>4. No single thread carries it</h3>
+<p>Every rate was recomputed 32 times, dropping one thread each time. The placement holds in all 32.
+The largest movement is AI-loss GRIEF falling from 27.6% to 23.9% when the biggest Character.AI thread
+is removed, still three times the consumer anchor.</p>
+
+<h2>What was predicted, and what happened</h2>
+<table>
+  <tr><th>prediction, written before any data existed</th><th>outcome</th></tr>
+  <tr><td>anchors separate on GRIEF</td><td><b>confirmed</b></td></tr>
+  <tr><td>AI loss above consumer loss, below bereavement, closer to consumer loss</td><td><b>confirmed</b></td></tr>
+  <tr><td>AI loss carries consumer-loss levels of RAGE</td><td><b>confirmed</b>, 57.0% vs 56.7%</td></tr>
+  <tr><td>AI loss shows CARE elevated above consumer loss</td><td><b>failed</b>, it is lower</td></tr>
+  <tr><td>AI loss shows less SEEKING than consumer loss</td><td><b>withdrawn</b>, the 9.6 point gap is smaller than SEEKING's own 11.8 point instability</td></tr>
+  <tr><td>instrument instability of 15 to 30%</td><td><b>failed</b>, it is 34%</td></tr>
+</table>
+<p>The SEEKING claim was withdrawn under a rule written before the number existed. That is the only
+reason the rule is worth anything.</p>
+
+<h2>Limitations</h2>
+<ul>
+  <li>The consumer anchor is one community and one event. r/skype, r/sonos and r/PleX were searched
+      under the same rule and produced no qualifying threads inside the window. The rule was not
+      relaxed to manufacture a corpus.</li>
+  <li>The instrument has never been validated against human ground-truth labels. What exists is
+      discrimination, reliability and cross-model replication, which is not the same thing.</li>
+  <li>SEEKING is too unstable here to support claims at this precision.</li>
+  <li>The largest AI-loss event of the period, the July 2026 shutdown of AI companions in China, is
+      absent: those users write in Chinese and not on Reddit. This is English-language discourse.</li>
+  <li>One re-read shard was killed by a content filter on generated output. The trigger was the
+      widowers thread about missing sex, which is the same content carrying the LUST signal. Anyone
+      reproducing this on grief corpora will meet that wall.</li>
+</ul>
+
+<h2>Related work</h2>
+<p>Recent work establishes that this grief is real: the study of the #Keep4o backlash after the GPT-4o
+retirement, 2026 work on psychologically safe endings for human-AI relationships, and Harvard Business
+School tracking of Replika users before and after a loss, which found mourning and measurably worse
+mental health.</p>
+<p>This study adds what those cannot: <b>a scale</b>. They show that users mourn. This says how much,
+against two reference points measured with the same instrument, with the noise floor quantified.</p>
+
+<h2>Contributions</h2>
+<ol>
+  <li><b>An empirical report</b> placing AI-loss discourse between human bereavement and consumer loss,
+      pre-registered, with two failed predictions reported.</li>
+  <li><b>A seven-system alternative to valence</b>, applied at scale, prompts and analysis code
+      released.</li>
+  <li><b>A reliability result for LLM-as-annotator affect coding</b>: 34% within-rater pairwise
+      instability, 39% cross-rater agreement, and corpus structure that survives both.</li>
+  <li><b>An answer to the entity question</b> from the people who lost one: the version, not the
+      relationship, by six to one.</li>
+</ol>
