@@ -53,7 +53,8 @@ blind coding of what the words treat as lost finds that 58.5% name no counterpar
 that do, 64.1% name the model as an artefact and 9.9% the particular instance. We report reliability
 rather than assume it: within-rater Krippendorff's alpha across four independent reads is 0.853 for
 grief and 0.674 for seeking, and between two different models it falls to 0.691 and 0.517, yet the
-corpus ordering of all seven systems is preserved across models. Two registered predictions failed and
+corpus ordering of all seven systems is preserved across models. Against a human-built emotion
+lexicon, thread-level rank agreement is rho = 0.655. Two registered predictions failed and
 one claim was withdrawn under a pre-specified noise criterion. We conclude that comment-level LLM
 affect codes are not interchangeable across models, while corpus-level structure is, and that concern
 directed at deprecated AI systems is measurably distinct from mourning a person in both magnitude and
@@ -197,6 +198,31 @@ placement condition still holds (grief: 69.8%, 21.8%, 6.9%). Simulating a majori
 reads on the 200-comment subsample reduces the round-to-round spread of a rate by a further 60 to 100%,
 indicating that ensembling is the appropriate remedy where higher precision is needed.</p>
 
+<h3>4.4 External validation against a non-model instrument</h3>
+<p>Every check above is internal: re-reading compares the annotator with itself, and a second model
+compares one annotator with another. Neither establishes that the instrument tracks anything outside
+language models. We therefore scored every comment with the NRC Emotion Lexicon [18], a word-emotion
+association list built by human crowd annotation, and compared its sadness density with our grief
+rate. The lexicon is deliberately crude: it counts words and ignores negation, irony and context,
+which is what the affective read exists to handle.</p>
+
+<p>At thread level, across the 44 threads with at least 30 read comments, the Spearman rank
+correlation between our grief rate and NRC sadness density is <b>rho = 0.655</b>. Two independent
+instruments, one of them a hand-built word list, order the same 44 threads substantially alike.</p>
+
+<p>At corpus level the two instruments agree on the extremes and disagree in the middle. Ranked by NRC
+sadness per 1,000 tokens: human bereavement 36.6, pet loss 34.7, AI-not-loss 16.9, AI loss 13.4,
+consumer loss 10.4. The bereavement corpora are highest and the consumer anchor lowest under both
+instruments, but the lexicon ranks the control corpus <i>above</i> AI loss, reversing our result.</p>
+
+<p>The reversal is diagnostic rather than ambiguous. The sadness words driving the control corpus are
+<i>death, terrorism, kill, violence, lie, hell</i>, which arrive from threads about model manipulation
+and military applications. The sadness words driving human bereavement are <i>loss, lost, grief, pain,
+cancer, cry</i>. A word list cannot separate a comment whose topic is death from a comment whose
+stance is grief; a stance-based read can, and this is the case that separates them. We report the
+divergence as a limit on lexicon-based validation rather than as agreement, but we do not treat it as
+evidence against the seven-system result, because the mechanism producing it is visible in the words.</p>
+
 <h2>5. Results</h2>
 
 <h3>5.1 The anchors separate</h3>
@@ -307,9 +333,10 @@ read in that light.</p>
 <li>The consumer anchor comprises one community and one event. Three further candidate communities
     were searched under the identical rule and yielded no qualifying threads within the window; the
     rule was not relaxed. What is anchored is one documented case of product withdrawal.</li>
-<li>The instrument has not been validated against human ground-truth labels. Discrimination,
-    test-retest reliability and cross-model replication are reported; convergent validity against a
-    human-coded standard is not.</li>
+<li>The instrument has not been validated against human ground-truth labels on these comments.
+    Discrimination, test-retest reliability, cross-model replication and convergent validity against a
+    human-built lexicon are reported; agreement with human coders reading these same comments is not,
+    and remains the most valuable single addition to this work.</li>
 <li>Seeking is insufficiently reliable in this instrument to support claims at the precision used
     here. A registered comparison involving it was withdrawn.</li>
 <li>Communities that post about loss are self-selected, and the corpora describe discourse rather than
@@ -369,4 +396,6 @@ LLM-as-a-judge.</p>
 Journal of the American Statistical Association, 22(158).</p>
 <p>[17] Krippendorff, K. Computing Krippendorff's alpha-reliability. University of Pennsylvania,
 Annenberg School for Communication.</p>
+<p>[18] Mohammad, S. M., & Turney, P. D. (2013). Crowdsourcing a word-emotion association lexicon.
+Computational Intelligence, 29(3).</p>
 </div>

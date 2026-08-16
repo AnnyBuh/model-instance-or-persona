@@ -1,0 +1,31 @@
+{
+ "corpus": [
+  {
+   "corpus": "E",
+   "grief": 80.36697247706422,
+   "nrc_sadness_per_1k": 34.74195370569893
+  },
+  {
+   "corpus": "A",
+   "grief": 76.35561160151325,
+   "nrc_sadness_per_1k": 36.64637719652427
+  },
+  {
+   "corpus": "C",
+   "grief": 27.611443779108452,
+   "nrc_sadness_per_1k": 13.407447175514214
+  },
+  {
+   "corpus": "D",
+   "grief": 10.919540229885058,
+   "nrc_sadness_per_1k": 16.901520451514166
+  },
+  {
+   "corpus": "B",
+   "grief": 7.9422382671480145,
+   "nrc_sadness_per_1k": 10.387727891697766
+  }
+ ],
+ "thread_spearman": 0.6545454545454545,
+ "n_threads": 44
+}
