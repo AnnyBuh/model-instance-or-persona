@@ -1,0 +1,325 @@
+{
+ "corpora": {
+  "A": {
+   "read": 1017,
+   "no_system": 3,
+   "counts": {
+    "seeking": 120,
+    "rage": 132,
+    "fear": 62,
+    "lust": 0,
+    "care": 943,
+    "grief": 754,
+    "play": 30
+   },
+   "bands": {
+    "seeking": {
+     "above": 106,
+     "shutdown": 14,
+     "overwhelm": 0
+    },
+    "rage": {
+     "above": 123,
+     "shutdown": 3,
+     "overwhelm": 6
+    },
+    "fear": {
+     "above": 52,
+     "shutdown": 2,
+     "overwhelm": 8
+    },
+    "lust": {
+     "above": 0,
+     "shutdown": 0,
+     "overwhelm": 0
+    },
+    "care": {
+     "above": 923,
+     "shutdown": 6,
+     "overwhelm": 14
+    },
+    "grief": {
+     "above": 701,
+     "shutdown": 7,
+     "overwhelm": 46
+    },
+    "play": {
+     "above": 30,
+     "shutdown": 0,
+     "overwhelm": 0
+    }
+   },
+   "likes": 14879,
+   "rates": {
+    "seeking": {
+     "n": 120,
+     "of": 1017,
+     "rate": 0.11799410029498525,
+     "lo": 0.1023596586476654,
+     "hi": 0.13565566353246886
+    },
+    "rage": {
+     "n": 132,
+     "of": 1017,
+     "rate": 0.12979351032448377,
+     "lo": 0.11343670604549727,
+     "hi": 0.14811482239934326
+    },
+    "fear": {
+     "n": 62,
+     "of": 1017,
+     "rate": 0.06096361848574238,
+     "lo": 0.049749148802707706,
+     "hi": 0.07450784309801288
+    },
+    "lust": {
+     "n": 0,
+     "of": 1017,
+     "rate": 0.0,
+     "lo": 2.168404344971009e-19,
+     "hi": 0.00265325953307148
+    },
+    "care": {
+     "n": 943,
+     "of": 1017,
+     "rate": 0.9272369714847591,
+     "lo": 0.9126759436267908,
+     "hi": 0.9395308582077824
+    },
+    "grief": {
+     "n": 754,
+     "of": 1017,
+     "rate": 0.7413962635201573,
+     "lo": 0.718192222934082,
+     "hi": 0.7633193302313672
+    },
+    "play": {
+     "n": 30,
+     "of": 1017,
+     "rate": 0.029498525073746312,
+     "lo": 0.021942520293181784,
+     "hi": 0.03955125490165538
+    }
+   }
+  },
+  "B": {
+   "read": 277,
+   "no_system": 3,
+   "counts": {
+    "seeking": 142,
+    "rage": 157,
+    "fear": 43,
+    "lust": 0,
+    "care": 54,
+    "grief": 22,
+    "play": 88
+   },
+   "bands": {
+    "seeking": {
+     "above": 132,
+     "shutdown": 7,
+     "overwhelm": 3
+    },
+    "rage": {
+     "above": 147,
+     "shutdown": 4,
+     "overwhelm": 6
+    },
+    "fear": {
+     "above": 38,
+     "shutdown": 0,
+     "overwhelm": 5
+    },
+    "lust": {
+     "above": 0,
+     "shutdown": 0,
+     "overwhelm": 0
+    },
+    "care": {
+     "above": 54,
+     "shutdown": 0,
+     "overwhelm": 0
+    },
+    "grief": {
+     "above": 22,
+     "shutdown": 0,
+     "overwhelm": 0
+    },
+    "play": {
+     "above": 86,
+     "shutdown": 0,
+     "overwhelm": 2
+    }
+   },
+   "likes": 3037,
+   "rates": {
+    "seeking": {
+     "n": 142,
+     "of": 277,
+     "rate": 0.5126353790613718,
+     "lo": 0.4633534450010361,
+     "hi": 0.5616728734392661
+    },
+    "rage": {
+     "n": 157,
+     "of": 277,
+     "rate": 0.5667870036101083,
+     "lo": 0.5174021035104962,
+     "hi": 0.6148798653882445
+    },
+    "fear": {
+     "n": 43,
+     "of": 277,
+     "rate": 0.1552346570397112,
+     "lo": 0.1227982188699144,
+     "hi": 0.19434080654469474
+    },
+    "lust": {
+     "n": 0,
+     "of": 277,
+     "rate": 0.0,
+     "lo": 0.0,
+     "hi": 0.009672827433752454
+    },
+    "care": {
+     "n": 54,
+     "of": 277,
+     "rate": 0.19494584837545126,
+     "lo": 0.158822560121886,
+     "hi": 0.23697060896224453
+    },
+    "grief": {
+     "n": 22,
+     "of": 277,
+     "rate": 0.07942238267148015,
+     "lo": 0.056587515263376464,
+     "hi": 0.11039359950941893
+    },
+    "play": {
+     "n": 88,
+     "of": 277,
+     "rate": 0.3176895306859206,
+     "lo": 0.2736291972054632,
+     "hi": 0.36527677958446114
+    }
+   }
+  },
+  "C": {
+   "read": 1503,
+   "no_system": 19,
+   "counts": {
+    "seeking": 626,
+    "rage": 857,
+    "fear": 103,
+    "lust": 25,
+    "care": 237,
+    "grief": 415,
+    "play": 566
+   },
+   "bands": {
+    "seeking": {
+     "above": 509,
+     "shutdown": 102,
+     "overwhelm": 15
+    },
+    "rage": {
+     "above": 758,
+     "shutdown": 15,
+     "overwhelm": 84
+    },
+    "fear": {
+     "above": 90,
+     "shutdown": 6,
+     "overwhelm": 7
+    },
+    "lust": {
+     "above": 24,
+     "shutdown": 1,
+     "overwhelm": 0
+    },
+    "care": {
+     "above": 231,
+     "shutdown": 4,
+     "overwhelm": 2
+    },
+    "grief": {
+     "above": 366,
+     "shutdown": 9,
+     "overwhelm": 40
+    },
+    "play": {
+     "above": 520,
+     "shutdown": 5,
+     "overwhelm": 41
+    }
+   },
+   "likes": 46004,
+   "rates": {
+    "seeking": {
+     "n": 626,
+     "of": 1503,
+     "rate": 0.41650033266799735,
+     "lo": 0.3957527701325746,
+     "hi": 0.4375479697822131
+    },
+    "rage": {
+     "n": 857,
+     "of": 1503,
+     "rate": 0.5701929474384564,
+     "lo": 0.5490816372337145,
+     "hi": 0.5910520037144119
+    },
+    "fear": {
+     "n": 103,
+     "of": 1503,
+     "rate": 0.06852960745176315,
+     "lo": 0.058567086126918244,
+     "hi": 0.08004271335308097
+    },
+    "lust": {
+     "n": 25,
+     "of": 1503,
+     "rate": 0.0166333998669328,
+     "lo": 0.012011483887229325,
+     "hi": 0.02299240095813602
+    },
+    "care": {
+     "n": 237,
+     "of": 1503,
+     "rate": 0.15768463073852296,
+     "lo": 0.1428388782962638,
+     "hi": 0.17376056940220902
+    },
+    "grief": {
+     "n": 415,
+     "of": 1503,
+     "rate": 0.2761144377910845,
+     "lo": 0.2575612581981337,
+     "hi": 0.29547219982040096
+    },
+    "play": {
+     "n": 566,
+     "of": 1503,
+     "rate": 0.37658017298735863,
+     "lo": 0.3562618874218654,
+     "hi": 0.39734199508166557
+    }
+   }
+  }
+ },
+ "dropped": {
+  "unparseable": 0,
+  "invalid_system": 0,
+  "invalid_band": 0
+ },
+ "n_reads": 2797,
+ "decisions": {
+  "anchors_separate": true,
+  "C_above_B": true,
+  "C_below_A": true,
+  "closer_to_B": true,
+  "hybrid_rage_overlap": true,
+  "hybrid_care_overlap": true,
+  "hybrid_seeking_overlap": false
+ }
+}
