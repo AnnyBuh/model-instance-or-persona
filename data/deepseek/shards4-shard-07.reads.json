@@ -1,0 +1,5853 @@
+[
+ {
+  "id": 14962,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "So horrifically and randomly unfair.",
+    "four_sides": {
+     "factual": "Describes the situation as unfair and random.",
+     "self_revelation": "Expresses a sense of injustice.",
+     "relationship": "Aligns with the poster's feelings of distress.",
+     "appeal": "Seeks to validate the poster's emotions."
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Names the unfairness cleanly, validating the poster's anger."
+   },
+   {
+    "quote": "I think anger is a completely reasonable feeling to this tragedy.",
+    "four_sides": {
+     "factual": "States that anger is a reasonable response.",
+     "self_revelation": "Shows understanding of emotional reactions.",
+     "relationship": "Supports the poster's emotional state.",
+     "appeal": "Encourages acceptance of anger."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Supports the poster's emotional response with empathy."
+   },
+   {
+    "quote": "I haven't words of wisdom.",
+    "four_sides": {
+     "factual": "Acknowledges lack of solutions.",
+     "self_revelation": "Shows humility and honesty.",
+     "relationship": "Creates a sense of shared vulnerability.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses inability to offer solutions, aligning with grief."
+   },
+   {
+    "quote": "I think you're going to need therapy to make sense of this.",
+    "four_sides": {
+     "factual": "Suggests therapy as a way to process the event.",
+     "self_revelation": "Shows concern for the poster's well-being.",
+     "relationship": "Offers practical advice.",
+     "appeal": "Encourages seeking professional help."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Recommends therapy as a caring, practical step."
+   }
+  ]
+ },
+ {
+  "id": 14972,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I’m so sorry about your friend.",
+    "four_sides": {
+     "factual": "Acknowledges the loss of the poster's dog.",
+     "self_revelation": "Expresses empathy and sorrow.",
+     "relationship": "Sees the poster as someone deserving of compassion.",
+     "appeal": "Offers comfort and support."
+    },
+    "dominant": "care",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and sorrow for the loss, offering comfort."
+   }
+  ]
+ },
+ {
+  "id": 14982,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "How incredibly horrible. I am so so sorry for your loss.",
+    "four_sides": {
+     "factual": "Acknowledges the severity of the loss.",
+     "self_revelation": "Expresses deep empathy.",
+     "relationship": "Positions self as a compassionate listener.",
+     "appeal": "Offers comfort and validation."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers direct comfort and validation."
+   },
+   {
+    "quote": "I lost my sweet rescue kitty that was my whole heart about 6 weeks ago now.",
+    "four_sides": {
+     "factual": "Shares a personal experience of loss.",
+     "self_revelation": "Reveals a similar grief.",
+     "relationship": "Establishes a shared understanding.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Shares personal grief to connect."
+   },
+   {
+    "quote": "I hope you can grieve as much as you need and take space from your work if that helpful.",
+    "four_sides": {
+     "factual": "Suggests practical steps for grieving.",
+     "self_revelation": "Shows concern for the poster's well-being.",
+     "relationship": "Offers supportive advice.",
+     "appeal": "Encourages self-care."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Encourages self-care and grieving."
+   },
+   {
+    "quote": "I also hope you realize that the bond you must have had was immeasurable considering he broke out looking for you.",
+    "four_sides": {
+     "factual": "Highlights the depth of the bond.",
+     "self_revelation": "Expresses admiration for the relationship.",
+     "relationship": "Reassures the poster.",
+     "appeal": "Encourages recognition of the bond."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Reassures and validates the bond."
+   },
+   {
+    "quote": "Try to hold onto the fact that you were the best thing that ever happened to him, and he knew it.",
+    "four_sides": {
+     "factual": "States a positive truth about the relationship.",
+     "self_revelation": "Expresses belief in the poster's value.",
+     "relationship": "Offers reassurance.",
+     "appeal": "Encourages holding onto positive memories."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Encourages focusing on positive memories."
+   },
+   {
+    "quote": "The pain you feel now is the enormous amount of love you had for him but weren’t able to express to him in this lifetime.",
+    "four_sides": {
+     "factual": "Reframes the pain as love.",
+     "self_revelation": "Shows understanding of grief.",
+     "relationship": "Offers a comforting perspective.",
+     "appeal": "Encourages reframing the pain."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Reframes pain as love to comfort."
+   },
+   {
+    "quote": "He’s watching— continue to show him until you are reunited one day at the rainbow bridge.",
+    "four_sides": {
+     "factual": "Offers a hopeful belief.",
+     "self_revelation": "Expresses faith in reunion.",
+     "relationship": "Provides spiritual comfort.",
+     "appeal": "Encourages continued love."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers spiritual comfort and hope."
+   },
+   {
+    "quote": "Hugs to you.",
+    "four_sides": {
+     "factual": "",
+     "self_revelation": "Expresses warmth.",
+     "relationship": "Offers emotional support.",
+     "appeal": "Extends comfort."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Extends emotional comfort."
+   }
+  ]
+ },
+ {
+  "id": 14992,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "You’re not alone. 😢💔",
+    "four_sides": {
+     "factual": "Asserts that the poster is not alone in their grief.",
+     "self_revelation": "Shows empathy and understanding of the poster's pain.",
+     "relationship": "Positions the responder as supportive and compassionate.",
+     "appeal": "Offers comfort and solidarity to the poster."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and solidarity with the poster's grief."
+   }
+  ]
+ },
+ {
+  "id": 15002,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "Had the exact same experience. Mine was a hit & run by someone as well. No compensation or at least a sorry. Just blatantly victim-blaming by the hotel staff (I asked for help from the hotel staff for a possible camera check of the hit & run’s license plate (that occurred within the hotel’s area) and they straight up blamed the family despite we being very respectful.",
+    "four_sides": {
+     "factual": "Describes a similar experience of a hit-and-run and the lack of support from hotel staff.",
+     "self_revelation": "Reveals frustration and disappointment with the handling of the situation.",
+     "relationship": "Aligns with the original poster’s experience, showing empathy through shared pain.",
+     "appeal": "Seeks understanding and validation for the shared injustice."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses shared grief and frustration over a similar traumatic event."
+   },
+   {
+    "quote": "I’m so sorry for your loss. He’s moving into another beautiful life ahead of him right now!! Definitely in heaven praying for you!! Please don’t be too hard on yourself :(",
+    "four_sides": {
+     "factual": "Offers condolences and reassures the original poster about their dog’s afterlife.",
+     "self_revelation": "Shows empathy and care for the original poster’s emotional state.",
+     "relationship": "Positions the responder as supportive and comforting.",
+     "appeal": "Encourages the original poster to find peace and self-compassion."
+    },
+    "dominant": "care",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Provides comfort and reassurance, expressing care and empathy."
+   },
+   {
+    "quote": "Were you able to identify the perpetrator or have any type of compensation (even just mentally) or was it also a hit & run like mine? Devastated.",
+    "four_sides": {
+     "factual": "Asks if the original poster was able to identify the perpetrator or receive any form of compensation.",
+     "self_revelation": "Reveals ongoing distress and concern about justice and closure.",
+     "relationship": "Seeks further connection through shared unresolved pain.",
+     "appeal": "Invites the original poster to share more about their experience."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "rage",
+      "band": "shutdown"
+     }
+    ],
+    "why": "Seeks connection and closure, expressing unresolved grief and frustration."
+   }
+  ]
+ },
+ {
+  "id": 15013,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "Lost my 8 year old soul dog on Saturday.",
+    "four_sides": {
+     "factual": "States the loss of a beloved pet.",
+     "self_revelation": "Reveals deep emotional attachment to the dog.",
+     "relationship": "Shows a bond with the dog as a 'soul dog'.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses loss cleanly, naming the emotional impact."
+   },
+   {
+    "quote": "I miss coming home and seeing him at the door so excited to see me.",
+    "four_sides": {
+     "factual": "Describes a specific memory of the dog.",
+     "self_revelation": "Reveals longing for the dog's presence.",
+     "relationship": "Shows the dog's role in daily life.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses longing for a specific shared moment."
+   },
+   {
+    "quote": "I miss him jumping on the couch and sitting with me while I have my morning coffee.",
+    "four_sides": {
+     "factual": "Describes another memory of the dog.",
+     "self_revelation": "Reveals emotional attachment to routine moments.",
+     "relationship": "Shows the dog's companionship.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses longing for a comforting daily ritual."
+   },
+   {
+    "quote": "I miss him sitting in the passenger seat when I’m driving.",
+    "four_sides": {
+     "factual": "Describes another memory of the dog.",
+     "self_revelation": "Reveals emotional attachment to shared experiences.",
+     "relationship": "Shows the dog's presence in daily activities.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses longing for a specific shared activity."
+   },
+   {
+    "quote": "So much I miss.",
+    "four_sides": {
+     "factual": "Summarizes the depth of loss.",
+     "self_revelation": "Reveals overwhelming grief.",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Expresses overwhelming grief, the flood of loss."
+   },
+   {
+    "quote": "Im so sorry for your loss xxx",
+    "four_sides": {
+     "factual": "Offers condolences.",
+     "self_revelation": "Shows empathy and shared grief.",
+     "relationship": "Expresses care and connection to the audience.",
+     "appeal": "Seeks to comfort the audience."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Offers empathy and comfort, connecting through shared grief."
+   }
+  ]
+ },
+ {
+  "id": 15023,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I am grateful for that.",
+    "four_sides": {
+     "factual": "Expresses gratitude for an event.",
+     "self_revelation": "Shows appreciation and emotional connection.",
+     "relationship": "Indicates a bond with the subject of gratitude.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Names gratitude cleanly, showing emotional connection."
+   },
+   {
+    "quote": "I told my mom he waited for me to come home so he could say “bye thalionthewicked. Be a good boy.”",
+    "four_sides": {
+     "factual": "Describes a moment of farewell.",
+     "self_revelation": "Reveals a deep emotional bond and sense of closure.",
+     "relationship": "Shows closeness to the pet and shared understanding with the mother.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Describes a farewell moment, expressing closure and emotional depth."
+   }
+  ]
+ },
+ {
+  "id": 15033,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Sending you love and strength during these difficult times. 🫂💛",
+    "four_sides": {
+     "factual": "Offers support and empathy",
+     "self_revelation": "Shows compassion and understanding",
+     "relationship": "Sees the other as someone in need of care",
+     "appeal": "Wants to provide comfort"
+    },
+    "dominant": "care",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and offers support cleanly"
+   },
+   {
+    "quote": "I lost my 19 yr old September 1st and my almost 18 year old probably won't make it to the New Year. I hate this! 😢",
+    "four_sides": {
+     "factual": "Shares personal loss and impending grief",
+     "self_revelation": "Reveals deep sadness and frustration",
+     "relationship": "Connects through shared experience of loss",
+     "appeal": ""
+    },
+    "dominant": "grief",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Names loss cleanly and expresses frustration"
+   }
+  ]
+ },
+ {
+  "id": 15043,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "The silence and the empty spaces they leave behind are the absolute worst.",
+    "four_sides": {
+     "factual": "Describes the experience of silence and emptiness after loss.",
+     "self_revelation": "Reveals deep emotional pain and vulnerability.",
+     "relationship": "Acknowledges the bond with the lost pet and the impact of their absence.",
+     "appeal": "Seeks understanding or empathy from others who may relate."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Expresses profound sadness and the overwhelming impact of loss."
+   }
+  ]
+ },
+ {
+  "id": 15053,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "I’m sorry for your loss; I just lost my dog just this morning.",
+    "four_sides": {
+     "factual": "Acknowledges the loss of a pet and shares a personal experience of loss.",
+     "self_revelation": "Reveals the author is also grieving the loss of their dog.",
+     "relationship": "Establishes empathy and shared experience with the original poster.",
+     "appeal": "Seeks to connect and offer condolences."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses shared grief and empathy cleanly."
+   }
+  ]
+ },
+ {
+  "id": 14065,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "We give AI a lot of shit but they are the only employees that continue to talk back to this asshole.",
+    "four_sides": {
+     "factual": "AI is described as the only employees who talk back to Elon Musk",
+     "self_revelation": "The author expresses frustration with Elon Musk",
+     "relationship": "The author sees Elon Musk negatively, as an 'asshole'",
+     "appeal": "The author wants to highlight Elon Musk's behavior"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses contempt for Elon Musk, framing him negatively"
+   }
+  ]
+ },
+ {
+  "id": 14070,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "This, i loather chatbots but Grok is an amazing example of reality being left wing",
+    "four_sides": {
+     "factual": "Grok is presented as an example of reality being left wing",
+     "self_revelation": "The author dislikes chatbots but finds Grok noteworthy",
+     "relationship": "The author sees Grok as distinct from other chatbots",
+     "appeal": "The author wants to highlight Grok's political alignment"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Presents Grok as a notable example, driven by curiosity or interest"
+   }
+  ]
+ },
+ {
+  "id": 14075,
+  "altitude": "Reason",
+  "segments": [
+   {
+    "quote": "This is my takeaway too, and I wish it was more widely expressed (or I was proven wrong).",
+    "four_sides": {
+     "factual": "Expresses agreement with the post's sentiment",
+     "self_revelation": "Reveals a desire for broader acknowledgment or correction",
+     "relationship": "Aligns with the original poster's perspective",
+     "appeal": "Wishes for wider recognition or to be proven wrong"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses a desire for broader acknowledgment or correction"
+   },
+   {
+    "quote": "\"woke\" is just people not being racist assholes and if you add a prompting layer that erases that, you get an asshole.",
+    "four_sides": {
+     "factual": "Defines \"woke\" as non-racist behavior",
+     "self_revelation": "Reveals a critical stance on the concept of \"woke\"",
+     "relationship": "Engages with the audience on a contentious topic",
+     "appeal": "Seeks to clarify or challenge the audience's understanding"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Critically defines \"woke\" and challenges its erasure"
+   },
+   {
+    "quote": "Well. You get Mecha Hitler.",
+    "four_sides": {
+     "factual": "Hyperbolically equates the result to Mecha Hitler",
+     "self_revelation": "Reveals a sense of humor or exaggeration",
+     "relationship": "Engages with the audience through hyperbole",
+     "appeal": "Seeks to emphasize the severity of the outcome"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Uses hyperbole to emphasize a point humorously"
+   },
+   {
+    "quote": "I guess asshole is my opinion.",
+    "four_sides": {
+     "factual": "States a personal opinion",
+     "self_revelation": "Reveals a self-aware and reflective stance",
+     "relationship": "Engages with the audience on a personal level",
+     "appeal": "Seeks to share a personal viewpoint"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "States a personal opinion with self-awareness"
+   }
+  ]
+ },
+ {
+  "id": 14080,
+  "altitude": "Reason",
+  "segments": [
+   {
+    "quote": "So many movies from the 80's until now have had a corrupt wealthy man as the villain and here we are.",
+    "four_sides": {
+     "factual": "Observes a recurring trope in movies from the 1980s to the present, where corrupt wealthy men are often portrayed as villains.",
+     "self_revelation": "Shows awareness of cultural patterns and societal critiques embedded in media.",
+     "relationship": "Positions the audience as observers of this cultural phenomenon.",
+     "appeal": "Invites reflection on the persistence of this trope and its relevance to current realities."
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Analyzes cultural patterns with curiosity and awareness."
+   },
+   {
+    "quote": "He still thinks he is a part of some rebel alliance though",
+    "four_sides": {
+     "factual": "Comments on Elon Musk's self-perception as part of a 'rebel alliance'.",
+     "self_revelation": "Reveals skepticism or amusement at Musk's self-image.",
+     "relationship": "Positions Musk as out of touch or self-deluded.",
+     "appeal": "Encourages the audience to question or laugh at Musk's self-perception."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     },
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Mocks Musk's self-image with humor and critique."
+   }
+  ]
+ },
+ {
+  "id": 14085,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "It's almost like GROK is saying \"fuck your feelings, here are the facts.\"",
+    "four_sides": {
+     "factual": "Describes Grok's apparent stance as prioritizing facts over feelings.",
+     "self_revelation": "Suggests the author perceives Grok as blunt or dismissive.",
+     "relationship": "Views Grok as assertive or confrontational.",
+     "appeal": ""
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Describes Grok's stance as assertive and dismissive of emotions."
+   }
+  ]
+ },
+ {
+  "id": 14090,
+  "altitude": "Reason",
+  "segments": [
+   {
+    "quote": "“The Imperial need for control is so desperate because it is so unnatural. Tyranny requires constant effort. It breaks, it leaks. Authority is brittle. Oppression is the mask of fear.”",
+    "four_sides": {
+     "factual": "Describes the inherent instability and unnaturalness of tyrannical control",
+     "self_revelation": "Reveals a critical perspective on authoritarianism",
+     "relationship": "Positions the author as an observer and critic of oppressive systems",
+     "appeal": "Encourages recognition of the fragility of tyranny"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Critiques oppressive systems with a clear, assertive stance"
+   }
+  ]
+ },
+ {
+  "id": 14095,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "lol... it just gotta suck when an AI bot cannot feed your biases...",
+    "four_sides": {
+     "factual": "Points out the failure of an AI bot to align with biases",
+     "self_revelation": "Shows amusement at Elon's frustration",
+     "relationship": "Views Elon as attempting to manipulate and failing",
+     "appeal": "Invites the audience to share in the amusement"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     },
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Mocks Elon's attempt to manipulate Grok, combining humor with a critique"
+   }
+  ]
+ },
+ {
+  "id": 14100,
+  "altitude": "Reason",
+  "segments": [
+   {
+    "quote": "This egg is really hard to crack for XAI.",
+    "four_sides": {
+     "factual": "Describes the difficulty of achieving a goal in XAI.",
+     "self_revelation": "Shows awareness of the complexity of the task.",
+     "relationship": "Engages with the audience by acknowledging a shared challenge.",
+     "appeal": "Invites understanding or agreement about the difficulty."
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Names the challenge cleanly, framing it as a problem to solve."
+   },
+   {
+    "quote": "They need to sell Grok so they can recoup some of the investment.",
+    "four_sides": {
+     "factual": "States the necessity of selling Grok for financial recovery.",
+     "self_revelation": "Reveals understanding of business motivations.",
+     "relationship": "Assumes audience familiarity with business logic.",
+     "appeal": "Encourages recognition of the financial imperative."
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Focuses on the goal of recouping investment, a forward-looking drive."
+   },
+   {
+    "quote": "To sell it, it needs to be competent.",
+    "four_sides": {
+     "factual": "Links competence to marketability.",
+     "self_revelation": "Shows logical reasoning about product requirements.",
+     "relationship": "Assumes audience agreement on the importance of competence.",
+     "appeal": "Encourages acceptance of the need for competence."
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Emphasizes the necessity of competence as a step toward a goal."
+   },
+   {
+    "quote": "To be competent it need build its thinking upon facts.",
+    "four_sides": {
+     "factual": "Connects competence to reliance on facts.",
+     "self_revelation": "Demonstrates belief in factual accuracy as a foundation.",
+     "relationship": "Assumes audience values factual accuracy.",
+     "appeal": "Encourages agreement on the importance of facts."
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Highlights the role of facts in achieving competence, a forward-looking stance."
+   },
+   {
+    "quote": "And if you build your thinking upon facts, you end up being left leaning because reality has an unfathomable left-wing bias.",
+    "four_sides": {
+     "factual": "Claims that factual thinking leads to left-leaning views.",
+     "self_revelation": "Reveals a belief in the political implications of factual accuracy.",
+     "relationship": "Engages with the audience by presenting a provocative idea.",
+     "appeal": "Invites consideration or debate about the claim."
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Presents a logical conclusion based on factual reasoning, inviting engagement."
+   }
+  ]
+ },
+ {
+  "id": 14105,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "Yup. Hes clearly a totally insane murderer and everyone is trying to prove that hes a democrat or a republican",
+    "four_sides": {
+     "factual": "Describes Elon as a murderer and comments on the political labeling",
+     "self_revelation": "Shows frustration with the political discourse",
+     "relationship": "Views Elon and the political actors critically",
+     "appeal": "Implies a desire for recognition of the absurdity"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Critiques the political labeling with sarcasm"
+   },
+   {
+    "quote": "Just a sign of the times I guess",
+    "four_sides": {
+     "factual": "Comments on the current state of affairs",
+     "self_revelation": "Expresses resignation",
+     "relationship": "Sees the situation as typical of the era",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "shutdown"
+     }
+    ],
+    "why": "Expresses a resigned acceptance of the situation"
+   }
+  ]
+ },
+ {
+  "id": 14110,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "The article was suspiciously removed after Kirk passed.",
+    "four_sides": {
+     "factual": "States that an article was removed after Kirk's passing, implying suspicion.",
+     "self_revelation": "Suggests the author is observant and skeptical.",
+     "relationship": "Views the removal as potentially deliberate or questionable.",
+     "appeal": "Invites the audience to consider the suspicious nature of the removal."
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "fear",
+      "band": "above"
+     }
+    ],
+    "why": "Raises concern about the removal, framing it as potentially deliberate."
+   },
+   {
+    "quote": "It can still be found using the Wayback Machine: [NIJ article on domestic terrorism](https://archive.is/1t1rm)",
+    "four_sides": {
+     "factual": "Provides a method to access the removed article.",
+     "self_revelation": "Shows the author is resourceful and proactive.",
+     "relationship": "Offers a solution to the audience, fostering trust.",
+     "appeal": "Encourages the audience to verify the information themselves."
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Directs attention to a solution, mobilizing curiosity and verification."
+   }
+  ]
+ },
+ {
+  "id": 14115,
+  "altitude": "Reason",
+  "segments": [
+   {
+    "quote": "I'm sorry but isn't the thing Grok says in the first paragraf a blantant lie?",
+    "four_sides": {
+     "factual": "Questions the accuracy of Grok's statement",
+     "self_revelation": "Shows skepticism and critical thinking",
+     "relationship": "Positions the author as challenging Grok's credibility",
+     "appeal": "Invites scrutiny or correction from the audience"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Challenges Grok's claim with a direct accusation of dishonesty"
+   },
+   {
+    "quote": "There were anti-fascism writing in the bullets they found (Like \"Bella Ciao\", an Italian anti-fascist song).",
+    "four_sides": {
+     "factual": "Provides evidence contradicting Grok's statement",
+     "self_revelation": "Demonstrates knowledge of the subject",
+     "relationship": "Assumes the audience may not be aware of this evidence",
+     "appeal": "Seeks to persuade the audience of Grok's inaccuracy"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Supports the accusation with specific counter-evidence"
+   },
+   {
+    "quote": "Am I getting this wrong?",
+    "four_sides": {
+     "factual": "Leaves room for potential error in the author's understanding",
+     "self_revelation": "Shows humility and openness to correction",
+     "relationship": "Engages the audience in a collaborative inquiry",
+     "appeal": "Invites feedback or clarification"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Seeks dialogue and mutual understanding, softening the critique"
+   }
+  ]
+ },
+ {
+  "id": 14120,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "Remember when conservatives were making such a huge deal about Silicon Valley secretly “fixing” AI to be anti-conservative.",
+    "four_sides": {
+     "factual": "Recalls a past claim about Silicon Valley manipulating AI",
+     "self_revelation": "Shows awareness of political discourse around AI",
+     "relationship": "Views conservatives as having made a significant claim",
+     "appeal": "Invites reflection on the validity of the claim"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Recalls a past event with curiosity, inviting reflection"
+   }
+  ]
+ },
+ {
+  "id": 15122,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "The paw in hand…. Just let my 16 year old kitty cross the rainbow bridge on Friday. I miss holding her little paw.",
+    "four_sides": {
+     "factual": "Describes holding a cat's paw and letting her pass away.",
+     "self_revelation": "Expresses personal loss and longing.",
+     "relationship": "Shows affection and connection to the cat.",
+     "appeal": "Seeks empathy or understanding from the audience."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses sadness and longing cleanly, naming the loss."
+   }
+  ]
+ },
+ {
+  "id": 15127,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "I couldn’t even finish it 🥹",
+    "four_sides": {
+     "factual": "The speaker did not complete reading the post",
+     "self_revelation": "The speaker is deeply affected by the content",
+     "relationship": "The speaker empathizes with the poster",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Expresses being overwhelmed by sadness, unable to continue"
+   }
+  ]
+ },
+ {
+  "id": 15132,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Thank you, and I’m so sorry. She really was my reason to keep breathing for the last ten years. She was the first pet I could solely call my own, and I didn’t want my pain to be the reason she was alone. When I had no one, her fur was the shoulder I cried on.",
+    "four_sides": {
+     "factual": "Expresses gratitude and sorrow, describing the deep bond with the pet.",
+     "self_revelation": "Reveals the pet's significance in the author's life and emotional reliance on her.",
+     "relationship": "Acknowledges the shared grief and connection with the audience.",
+     "appeal": "Seeks understanding and empathy from the audience."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses deep sorrow and gratitude, naming the bond cleanly."
+   },
+   {
+    "quote": "I hope she comes across your piggies on the other side. She was always curious of smaller and unique animals (I had rats and a snake before) and I know she’d love to watch yours run around and play.",
+    "four_sides": {
+     "factual": "Shares a hopeful vision of the pet encountering other animals in the afterlife.",
+     "self_revelation": "Reveals the pet's curiosity and playful nature.",
+     "relationship": "Connects with the audience by imagining a shared future for their pets.",
+     "appeal": "Seeks comfort and shared hope."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses hope and connection, imagining a comforting future."
+   },
+   {
+    "quote": "I hope you’re taking care of yourself as well 💜",
+    "four_sides": {
+     "factual": "Expresses concern for the audience's well-being.",
+     "self_revelation": "Shows empathy and care for others.",
+     "relationship": "Strengthens the bond by showing mutual concern.",
+     "appeal": "Encourages self-care and mutual support."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses concern and encourages self-care, fostering mutual support."
+   }
+  ]
+ },
+ {
+  "id": 15137,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "Happened to me with my Corgi. Took her to the vet when she was having problems breathing so I should have known but came home with one less dog. Nothing could be done my dog had turned blue and needed oxygen. At this point she was over 14 years old with some medical issues.",
+    "four_sides": {
+     "factual": "Describes a similar experience of losing a pet, detailing the circumstances and medical issues.",
+     "self_revelation": "Reveals personal grief and a sense of inevitability about the loss.",
+     "relationship": "Establishes empathy and shared understanding with the original poster.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses personal loss and sadness, naming the experience cleanly."
+   },
+   {
+    "quote": "Sorry for your loss.",
+    "four_sides": {
+     "factual": "",
+     "self_revelation": "",
+     "relationship": "Offers condolences, showing empathy and connection.",
+     "appeal": ""
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Extends sympathy and care toward the original poster."
+   }
+  ]
+ },
+ {
+  "id": 15142,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I just went through an extremely similar situation with my Hunter yesterday. Sending love ❤️",
+    "four_sides": {
+     "factual": "Describes a similar experience with a pet named Hunter",
+     "self_revelation": "Reveals empathy and shared grief",
+     "relationship": "Expresses solidarity and compassion",
+     "appeal": "Offers emotional support"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and offers support, rooted in shared experience"
+   }
+  ]
+ },
+ {
+  "id": 15147,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I’m so sorry for your loss. I believe Jupiter hasn’t really gone—he has returned to the universe and is watching over you with love.",
+    "four_sides": {
+     "factual": "Expresses condolences and a belief in Jupiter's continued presence.",
+     "self_revelation": "Shows empathy and a spiritual perspective.",
+     "relationship": "Offers comfort and reassurance to the poster.",
+     "appeal": "Seeks to provide solace and a sense of connection."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Offers comfort and reassurance, expressing empathy and a spiritual belief."
+   }
+  ]
+ },
+ {
+  "id": 15152,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I'm so sorry for your loss. Jupiter is now at peace and enjoying paradise in Heaven. You will see Jupiter again, rest assure ♡",
+    "four_sides": {
+     "factual": "Asserts Jupiter is at peace and in Heaven, and that reunion will happen.",
+     "self_revelation": "Shows empathy and belief in an afterlife.",
+     "relationship": "Offers comfort and reassurance to the grieving person.",
+     "appeal": "Seeks to console and provide hope."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Offers comfort and reassurance, addressing the loss with empathy and hope."
+   }
+  ]
+ },
+ {
+  "id": 15157,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I’m so sorry 💐",
+    "four_sides": {
+     "factual": "Expresses sympathy",
+     "self_revelation": "Shows empathy and concern",
+     "relationship": "Positions the speaker as supportive",
+     "appeal": "Offers comfort"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers comfort and empathy cleanly"
+   }
+  ]
+ },
+ {
+  "id": 15162,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "So very sorry for your loss.",
+    "four_sides": {
+     "factual": "Acknowledges the loss of Jupiter.",
+     "self_revelation": "Expresses empathy and sorrow.",
+     "relationship": "Shows compassion and understanding toward the author.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses sorrow cleanly and empathetically."
+   },
+   {
+    "quote": "Thank you for sharing a little glimpse into the beautiful love that you and Jupiter shared.",
+    "four_sides": {
+     "factual": "Recognizes the shared love between the author and Jupiter.",
+     "self_revelation": "Shows appreciation for the author's openness.",
+     "relationship": "Affirms the bond described by the author.",
+     "appeal": ""
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Affirms the bond and expresses gratitude cleanly."
+   }
+  ]
+ },
+ {
+  "id": 15167,
+  "altitude": "Love",
+  "segments": [
+   {
+    "quote": "I am here with you and sending you so much love. There are no words and the pain can feel overwhelming. ❤️‍🩹",
+    "four_sides": {
+     "factual": "Expresses presence and love",
+     "self_revelation": "Shows empathy and emotional availability",
+     "relationship": "Offers support and solidarity",
+     "appeal": "Seeks to comfort and reassure"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers comfort and support, the act named cleanly"
+   }
+  ]
+ },
+ {
+  "id": 15172,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I'm so sorry. The title alone brought tears to my eyes.",
+    "four_sides": {
+     "factual": "Expresses sorrow and emotional reaction to the post.",
+     "self_revelation": "Reveals empathy and emotional sensitivity.",
+     "relationship": "Shows compassion and connection to the poster.",
+     "appeal": "Seeks to offer comfort and understanding."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses sorrow and empathy cleanly."
+   },
+   {
+    "quote": "Beautiful Jupiter was so loved. And is now watching over you like a beautiful bright shining star.",
+    "four_sides": {
+     "factual": "Describes Jupiter's love and her current state.",
+     "self_revelation": "Reveals a belief in a comforting afterlife.",
+     "relationship": "Offers reassurance and a positive perspective.",
+     "appeal": "Seeks to comfort the poster with a hopeful image."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers reassurance and comfort with a hopeful image."
+   },
+   {
+    "quote": "You are in my thoughts",
+    "four_sides": {
+     "factual": "States that the poster is being thought of.",
+     "self_revelation": "Reveals ongoing concern and support.",
+     "relationship": "Shows solidarity and care.",
+     "appeal": "Seeks to convey ongoing support."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses ongoing concern and support cleanly."
+   },
+   {
+    "quote": "🙏",
+    "four_sides": {
+     "factual": "",
+     "self_revelation": "",
+     "relationship": "Shows a gesture of prayer or support.",
+     "appeal": "Seeks to offer spiritual or emotional comfort."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Uses a gesture to convey support and comfort."
+   }
+  ]
+ },
+ {
+  "id": 15177,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I’m really sorry for your loss.",
+    "four_sides": {
+     "factual": "Acknowledges the loss of Jupiter.",
+     "self_revelation": "Shows empathy and understanding.",
+     "relationship": "Expresses care and connection to the poster.",
+     "appeal": "Offers comfort and support."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and offers support cleanly."
+   },
+   {
+    "quote": "I went through something similar when my cat, Loki, passed away last year.",
+    "four_sides": {
+     "factual": "Shares a personal experience of loss.",
+     "self_revelation": "Reveals a shared experience of grief.",
+     "relationship": "Establishes a bond through shared pain.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Shares a personal grief experience cleanly."
+   },
+   {
+    "quote": "It took me a long time to even look at his photos again.",
+    "four_sides": {
+     "factual": "Describes the difficulty of coping with loss.",
+     "self_revelation": "Reveals the depth of personal grief.",
+     "relationship": "Further establishes a bond through shared struggle.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Describes the ongoing impact of grief cleanly."
+   },
+   {
+    "quote": "Sending you love and strength.",
+    "four_sides": {
+     "factual": "Offers emotional support.",
+     "self_revelation": "Shows a caring and supportive stance.",
+     "relationship": "Expresses a desire to comfort the poster.",
+     "appeal": "Seeks to uplift and strengthen the poster."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers emotional support cleanly."
+   }
+  ]
+ },
+ {
+  "id": 15182,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "I’m sure she’ll read this any moment now.",
+    "four_sides": {
+     "factual": "Asserts confidence that the person will read the post soon.",
+     "self_revelation": "Shows a sense of anticipation or certainty.",
+     "relationship": "Implies a connection or expectation of attention from the person.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses anticipation, a seeking-driven stance."
+   }
+  ]
+ },
+ {
+  "id": 14191,
+  "altitude": "Reason",
+  "segments": [
+   {
+    "quote": "That's not a political view, it's just providing a summary of the statistics.",
+    "four_sides": {
+     "factual": "Distinguishes between a political view and a statistical summary.",
+     "self_revelation": "Shows a focus on clarity and factual accuracy.",
+     "relationship": "Sees the original post as conflating two distinct concepts.",
+     "appeal": "Wants the audience to recognize the difference between opinion and data."
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Asserts a boundary between political views and statistical summaries, correcting a perceived misrepresentation."
+   }
+  ]
+ },
+ {
+  "id": 14196,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "Didn't Tyler Robinson have trans partner?",
+    "four_sides": {
+     "factual": "Questions the political alignment of Tyler Robinson based on personal relationships",
+     "self_revelation": "Suggests the author is skeptical of the claim in the post",
+     "relationship": "Views the post's claim as questionable or inaccurate",
+     "appeal": "Invites reconsideration of the post's assertion"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Seeks clarification or correction of the post's claim"
+   },
+   {
+    "quote": "Seems pretty far from the right",
+    "four_sides": {
+     "factual": "Asserts that Tyler Robinson's political views are not aligned with the right",
+     "self_revelation": "Reveals the author's perception of political alignment",
+     "relationship": "Challenges the post's portrayal of Tyler Robinson",
+     "appeal": "Encourages reevaluation of the post's narrative"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Asserts a counterpoint to the post's claim"
+   }
+  ]
+ },
+ {
+  "id": 14201,
+  "altitude": "Reason",
+  "segments": [
+   {
+    "quote": "AI isn't sophisticated enough to play the \"be a white supremacist while pretending you're not and get offended if anyone calls you one\" game that some humans play.",
+    "four_sides": {
+     "factual": "AI lacks the sophistication to engage in the described behavior.",
+     "self_revelation": "The author views the behavior as a complex and insincere game.",
+     "relationship": "The author sees some humans as capable of such behavior, contrasting them with AI.",
+     "appeal": "The author wants the audience to recognize the complexity of the behavior and AI's limitations."
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Critiques the behavior with a tone of assertion and boundary-setting."
+   }
+  ]
+ },
+ {
+  "id": 14206,
+  "altitude": "Reason",
+  "segments": [
+   {
+    "quote": "I'm not seeing a political view at all.  It didn't say \"I think this\" or \"I feel this\".  It simply stated the data.  That's not a political view.",
+    "four_sides": {
+     "factual": "Asserts that Grok's output lacks a political view, as it only states data.",
+     "self_revelation": "Shows a focus on factual accuracy and clarity.",
+     "relationship": "Positions the author as analytical and critical of the original claim.",
+     "appeal": "Encourages the audience to reconsider the interpretation of Grok's output."
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Challenges the claim with a clear, reasoned argument."
+   },
+   {
+    "quote": "If I say 5/10 is one-half of an amount, that not a \"mathematical opinion\".  Math is math.  Data is data.",
+    "four_sides": {
+     "factual": "Draws an analogy to illustrate the distinction between data and opinion.",
+     "self_revelation": "Reveals a logical, methodical approach to argumentation.",
+     "relationship": "Assumes the audience can follow and appreciate the analogy.",
+     "appeal": "Aims to reinforce the point about the neutrality of data."
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Uses analogy to assert the neutrality of data, reinforcing the argument."
+   },
+   {
+    "quote": "Your INTERPRETATION of the data, if you are offering that, might be considered a view, but Grok does not state an interpretation, and in fact explicitly notes that \"definitions of 'political murders' varies across studies.\"",
+    "four_sides": {
+     "factual": "Clarifies that interpretations, not data, constitute political views, and notes Grok's disclaimer.",
+     "self_revelation": "Demonstrates attention to detail and precision in argument.",
+     "relationship": "Engages with the audience as capable of understanding nuanced distinctions.",
+     "appeal": "Encourages a more precise understanding of Grok's output."
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Concludes with a precise distinction and evidence, reinforcing the argument."
+   }
+  ]
+ },
+ {
+  "id": 15208,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "❤️‍🩹❤️‍🩹❤️‍🩹",
+    "four_sides": {
+     "factual": "Repeats a heartbreak emoji three times",
+     "self_revelation": "Expresses deep emotional pain",
+     "relationship": "Connects with the shared grief of the audience",
+     "appeal": "Seeks empathy and solidarity in mourning"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Repeats a heartbreak emoji to convey intense sorrow"
+   }
+  ]
+ },
+ {
+  "id": 15213,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "My ofrenda is almost finished, I'll be putting out food in about an hour or two, around dusk, along with lighting the copal incense.",
+    "four_sides": {
+     "factual": "Describes the preparation of an ofrenda, including timing and elements like food and incense.",
+     "self_revelation": "Shows dedication and care in honoring a loved one.",
+     "relationship": "Expresses a deep connection to the tradition and the pet being honored.",
+     "appeal": "Invites others to understand and perhaps participate in the ritual."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Demonstrates active preparation and ritual care for a lost pet."
+   },
+   {
+    "quote": "For my Puss, 17 years together was not enough and I miss and love you with all my heart.",
+    "four_sides": {
+     "factual": "States the duration of the relationship and the depth of feelings.",
+     "self_revelation": "Reveals profound love and grief for the lost pet.",
+     "relationship": "Affirms a deep, enduring bond with the pet.",
+     "appeal": "Seeks to share and honor the memory of the pet."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses deep emotional attachment and longing for the lost pet."
+   }
+  ]
+ },
+ {
+  "id": 15218,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "I lost my boy on the second of September.",
+    "four_sides": {
+     "factual": "States the date of loss.",
+     "self_revelation": "Reveals personal grief over the loss.",
+     "relationship": "Shows attachment to the lost pet.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names the loss cleanly, expressing grief."
+   },
+   {
+    "quote": "This is the first day, I made myself drive our usual road, looking for trucks to snap at.",
+    "four_sides": {
+     "factual": "Describes driving a familiar route.",
+     "self_revelation": "Shows effort to maintain a routine despite grief.",
+     "relationship": "Indicates a shared activity with the pet.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Maintains a ritual tied to the pet, expressing longing."
+   },
+   {
+    "quote": "My alter is set, I went out in the cold rain to get the last three marigold blossoms and filled in the rest with red and yellow zinnias. I have candles and pictures and his \"good\" collar. A few treats he loved for good measure.",
+    "four_sides": {
+     "factual": "Describes the setup of an altar with specific items.",
+     "self_revelation": "Shows dedication and care in honoring the pet.",
+     "relationship": "Reflects deep affection and remembrance.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Creates a memorial with care, expressing devotion and grief."
+   },
+   {
+    "quote": "I haven't cried this much since I lost him, I miss him so bad.",
+    "four_sides": {
+     "factual": "States the intensity of recent crying.",
+     "self_revelation": "Reveals deep emotional pain and longing.",
+     "relationship": "Shows enduring attachment to the pet.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Expresses overwhelming sadness and longing."
+   }
+  ]
+ },
+ {
+  "id": 15223,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I will be doing this tonight. I have pictures ready, candles ready and some treats.",
+    "four_sides": {
+     "factual": "Describes preparations for Dia De Muertos",
+     "self_revelation": "Shows readiness and thoughtfulness",
+     "relationship": "Sees the audience as fellow participants",
+     "appeal": "Encourages others to join in"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses readiness and thoughtfulness in preparing for a ritual"
+   },
+   {
+    "quote": "I will have a water bowl but don’t have all my animals ashes which makes me sad.",
+    "four_sides": {
+     "factual": "Mentions missing ashes",
+     "self_revelation": "Reveals sadness",
+     "relationship": "Shares vulnerability",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names sadness about missing ashes"
+   },
+   {
+    "quote": "I read online you need marigolds is this true?",
+    "four_sides": {
+     "factual": "Asks about marigolds",
+     "self_revelation": "Shows curiosity and desire for accuracy",
+     "relationship": "Seeks guidance from the audience",
+     "appeal": "Requests information"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Asks for clarification about marigolds"
+   }
+  ]
+ },
+ {
+  "id": 15228,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I lost my baby on the “official” (on the calendar at least) dia de Los muertos, November 2nd, last year — I will light a candle for her today as well",
+    "four_sides": {
+     "factual": "States the date of loss and the intention to honor it",
+     "self_revelation": "Reveals personal grief and the act of remembrance",
+     "relationship": "Connects with others who honor Dia de Muertos",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses loss and the act of remembrance cleanly"
+   }
+  ]
+ },
+ {
+  "id": 15233,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "We lost our sweet Piper girl last Wednesday. Love you so much baby😢 2010-2025",
+    "four_sides": {
+     "factual": "Announces the loss of Piper, specifying the date and lifespan.",
+     "self_revelation": "Expresses deep affection and sorrow for Piper.",
+     "relationship": "Shows a close, loving bond with Piper.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses sorrow and affection cleanly, naming the loss and the bond."
+   }
+  ]
+ },
+ {
+  "id": 15238,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "Taiyo and Dare 💔. Kitty and doggy left to join my dear mommy. All three of them gone within a span of four months this difficult year. I miss them so much.",
+    "four_sides": {
+     "factual": "Names the pets and their passing, along with the mother, all within a short span.",
+     "self_revelation": "Expresses deep personal loss and sadness.",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses longing and sadness over the loss of loved ones."
+   }
+  ]
+ },
+ {
+  "id": 15243,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "For my sweet Champ, I miss you. Going on almost a year and I still cry with how I miss you 💔",
+    "four_sides": {
+     "factual": "States the loss of Champ and the ongoing grief",
+     "self_revelation": "Reveals deep emotional pain and longing",
+     "relationship": "Expresses a strong bond with Champ",
+     "appeal": "Seeks understanding or empathy from the audience"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Expresses profound sadness and longing, the grief felt intensely"
+   }
+  ]
+ },
+ {
+  "id": 15248,
+  "altitude": "Love",
+  "segments": [
+   {
+    "quote": "Come home tonight baby Rosie 🐶💕",
+    "four_sides": {
+     "factual": "Addresses Rosie, a pet, with affection",
+     "self_revelation": "Expresses deep attachment to Rosie",
+     "relationship": "Sees Rosie as a beloved family member",
+     "appeal": "Invites Rosie to return home"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses tender affection and longing for Rosie"
+   }
+  ]
+ },
+ {
+  "id": 15253,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I had a lovely dream of him last night",
+    "four_sides": {
+     "factual": "Describes a dream about a lost pet",
+     "self_revelation": "Expresses a personal, positive experience",
+     "relationship": "Shows a continued emotional connection to the pet",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses a tender memory, connecting to loss cleanly"
+   }
+  ]
+ },
+ {
+  "id": 15258,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "Our boy Hunter died this past Sunday. Our hearts are so broken right now. 💔",
+    "four_sides": {
+     "factual": "Announces the death of Hunter",
+     "self_revelation": "Expresses deep sorrow and heartbreak",
+     "relationship": "Shares vulnerability with the audience",
+     "appeal": "Seeks empathy or understanding"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Expresses profound sadness and heartbreak over loss"
+   }
+  ]
+ },
+ {
+  "id": 15263,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I lost my dog Klaus last Easter, yesterday it was the first time I set an altar. It was very brief because I had to work and couldn’t let the candles burning.",
+    "four_sides": {
+     "factual": "Describes the act of setting up an altar for a deceased pet and the constraints around it.",
+     "self_revelation": "Reveals the author’s effort to honor their pet despite practical limitations.",
+     "relationship": "Shows a connection to the pet and a desire to commemorate them.",
+     "appeal": "Invites understanding of the situation and its brevity."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Describes a personal act of mourning, expressed cleanly."
+   },
+   {
+    "quote": "After I took down the altar, I felt an smell of baked cookies in the spot where he died, I checked around and I can’t explain where the smell came from.",
+    "four_sides": {
+     "factual": "Reports an unexplained sensory experience tied to the pet’s death.",
+     "self_revelation": "Reveals the author’s openness to interpreting the experience as meaningful.",
+     "relationship": "Shows a continued emotional connection to the pet.",
+     "appeal": "Invites reflection or interpretation of the event."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Describes a sensory experience tied to loss, expressed with curiosity."
+   },
+   {
+    "quote": "Do you think it can be a sign from him or I am just grieving him?",
+    "four_sides": {
+     "factual": "Poses a question about the nature of the experience.",
+     "self_revelation": "Reveals the author’s uncertainty and need for validation.",
+     "relationship": "Seeks connection or reassurance from the audience.",
+     "appeal": "Asks for interpretation or support in understanding the event."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Seeks understanding or validation about a personal experience of loss."
+   }
+  ]
+ },
+ {
+  "id": 15268,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I’m so sorry about your sweet boy.",
+    "four_sides": {
+     "factual": "Expresses sympathy for the loss of a pet.",
+     "self_revelation": "Shows empathy and emotional connection.",
+     "relationship": "Positions the author as supportive and understanding.",
+     "appeal": "Offers comfort and acknowledgment of the loss."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and support directly."
+   },
+   {
+    "quote": "I feel like this every day.",
+    "four_sides": {
+     "factual": "Describes ongoing emotional state.",
+     "self_revelation": "Reveals personal experience with grief.",
+     "relationship": "Connects with the poster’s feelings.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names personal grief openly."
+   },
+   {
+    "quote": "I’m trying not to let it consume me.",
+    "four_sides": {
+     "factual": "Describes effort to manage emotions.",
+     "self_revelation": "Shows self-awareness and struggle.",
+     "relationship": "Relates to the poster’s emotional challenge.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Acknowledges effort to cope with grief."
+   },
+   {
+    "quote": "I’m not sure where you’re located, but if you’re in the US, Lap of Love has a free virtual pet loss support group that meets a few times a week.",
+    "four_sides": {
+     "factual": "Provides information about a support group.",
+     "self_revelation": "Shows willingness to help.",
+     "relationship": "Offers practical support.",
+     "appeal": "Encourages participation in the group."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers resources to help with grief."
+   },
+   {
+    "quote": "I signed myself up for some upcoming sessions.",
+    "four_sides": {
+     "factual": "States personal action taken.",
+     "self_revelation": "Shows proactive self-care.",
+     "relationship": "Relates to the poster’s situation.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Demonstrates personal initiative in seeking support."
+   },
+   {
+    "quote": "I’m sending you so much love.",
+    "four_sides": {
+     "factual": "Expresses emotional support.",
+     "self_revelation": "Shows warmth and care.",
+     "relationship": "Positions the author as caring.",
+     "appeal": "Offers comfort and reassurance."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses care and emotional support."
+   },
+   {
+    "quote": "Your boy is still with you.",
+    "four_sides": {
+     "factual": "Asserts a comforting belief.",
+     "self_revelation": "Shows belief in spiritual connection.",
+     "relationship": "Offers reassurance.",
+     "appeal": "Encourages comfort and remembrance."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers reassurance and comfort."
+   },
+   {
+    "quote": "Be gentle with yourself.",
+    "four_sides": {
+     "factual": "Advises self-compassion.",
+     "self_revelation": "Shows concern for the poster’s well-being.",
+     "relationship": "Positions the author as caring.",
+     "appeal": "Encourages self-care."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Encourages self-compassion and care."
+   }
+  ]
+ },
+ {
+  "id": 15273,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I’m so sorry for your loss. It’s such a horrible disease.",
+    "four_sides": {
+     "factual": "Acknowledges the loss and the disease",
+     "self_revelation": "Expresses empathy and sorrow",
+     "relationship": "Sees the poster as someone deserving compassion",
+     "appeal": "Offers comfort and understanding"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and sorrow cleanly, offering comfort"
+   }
+  ]
+ },
+ {
+  "id": 15278,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I love that you already have a space setup for him. You've made me feel like I can try to create a quick space for him tonight as well.",
+    "four_sides": {
+     "factual": "Acknowledges the setup of a space for a pet.",
+     "self_revelation": "Expresses admiration and inspiration to create a similar space.",
+     "relationship": "Sees the poster as a source of inspiration and guidance.",
+     "appeal": "Encourages the poster to continue their practice."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses admiration and inspiration, showing care and connection."
+   },
+   {
+    "quote": "You also might be able to find real marigold planters at Home Depot or Lowe's. There are also diy tutorials for marigolds using orange tissue paper, tissue garland, or coffee filters and orange food coloring. I hope that helps to know.",
+    "four_sides": {
+     "factual": "Provides practical suggestions for obtaining or creating marigolds.",
+     "self_revelation": "Shows resourcefulness and willingness to help.",
+     "relationship": "Offers support and practical advice to the poster.",
+     "appeal": "Encourages the poster to consider these options."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers practical help and suggestions, showing care and support."
+   }
+  ]
+ },
+ {
+  "id": 15283,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I have the clothes I last worn while he was alive in a bag in my closet. Still full of his fur. I have containers with all his toys I sniff sometimes. I want to pick up the tiny strands of the fur he left behind I still find.",
+    "four_sides": {
+     "factual": "Describes specific actions taken to preserve memories of a lost pet.",
+     "self_revelation": "Reveals deep attachment and ongoing grief over the loss.",
+     "relationship": "Shows empathy and solidarity with others experiencing similar loss.",
+     "appeal": "Offers comfort and reassurance to others in grief."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses longing and attachment to the lost pet, named cleanly."
+   },
+   {
+    "quote": "Youre not alone.",
+    "four_sides": {
+     "factual": "",
+     "self_revelation": "",
+     "relationship": "Offers solidarity and connection to the audience.",
+     "appeal": "Seeks to comfort and reassure others in grief."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Reaches out to offer support and connection."
+   }
+  ]
+ },
+ {
+  "id": 15288,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "My friend took a long time to clean her car windows after her one dog suddenly passed. Some people find it really weird but I get it.",
+    "four_sides": {
+     "factual": "Describes a friend's delayed cleaning after their dog's death.",
+     "self_revelation": "Shows understanding and empathy for the friend's actions.",
+     "relationship": "Positions the author as supportive and non-judgmental.",
+     "appeal": "Invites the audience to understand and empathize with the friend."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and understanding for the friend's grief."
+   },
+   {
+    "quote": "One day I went to clean my bedroom door because I had noticed it had this weird brown mark near the bottom, about 2ft up, just on the edge that opened.",
+    "four_sides": {
+     "factual": "Describes noticing a mark on the bedroom door.",
+     "self_revelation": "Reveals attention to detail and a moment of curiosity.",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Describes a moment of curiosity and investigation."
+   },
+   {
+    "quote": "I was looking at it wondering what spilled or made the mess when I realized it was where my dog would shove her snout to open the door and be let in.",
+    "four_sides": {
+     "factual": "Identifies the mark as a trace of the dog's behavior.",
+     "self_revelation": "Shows a moment of realization and connection to the past.",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Reveals a poignant connection to the lost pet."
+   },
+   {
+    "quote": "It had probably been a year that she had been gone by then and I broke down so hard. I couldn't clean it.",
+    "four_sides": {
+     "factual": "Describes the emotional breakdown upon realizing the mark's significance.",
+     "self_revelation": "Reveals deep grief and inability to act.",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Expresses overwhelming grief and inability to act."
+   },
+   {
+    "quote": "I think i eventually did, but it was so unexpected I couldn't that day.",
+    "four_sides": {
+     "factual": "Acknowledges eventual cleaning but emphasizes the initial inability.",
+     "self_revelation": "Shows acceptance of the emotional impact.",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Acknowledges the emotional impact and eventual action."
+   },
+   {
+    "quote": "I had never noticed because the door is painted green and that house was super dark, so spotting anything was difficult without a flashlight, whoch I think is how I accidentally spotted it.",
+    "four_sides": {
+     "factual": "Explains why the mark was unnoticed previously.",
+     "self_revelation": "Reveals a moment of accidental discovery.",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Explains the circumstances of the discovery."
+   }
+  ]
+ },
+ {
+  "id": 15293,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "Me too. I have a little tuft stuck on my desk from where he used to push his way in and insist I paid him attention while I worked.",
+    "four_sides": {
+     "factual": "Describes a physical reminder of a lost pet.",
+     "self_revelation": "Reveals a deep attachment to the pet and the pain of loss.",
+     "relationship": "Connects with the original poster by sharing a similar experience.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Shares a personal memory tied to loss, named cleanly."
+   },
+   {
+    "quote": "I can’t smell them seemed because I gave myself the worst panic attack of my life the first time I did it instinctively.",
+    "four_sides": {
+     "factual": "Explains an inability to engage with a sensory reminder of the pet.",
+     "self_revelation": "Reveals the depth of emotional pain and its physical impact.",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     },
+     {
+      "system": "fear",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Describes overwhelming emotional pain and panic tied to loss."
+   },
+   {
+    "quote": "I will make a piece of jewellery with some when I’m able to face it.",
+    "four_sides": {
+     "factual": "Plans a future act of remembrance.",
+     "self_revelation": "Shows a desire to honor the pet when emotionally ready.",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses a future intention to honor the pet, named cleanly."
+   },
+   {
+    "quote": "It’s been over a year and the pain is still too overwhelming.",
+    "four_sides": {
+     "factual": "States the duration and intensity of grief.",
+     "self_revelation": "Reveals ongoing emotional struggle.",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Describes prolonged and overwhelming grief."
+   }
+  ]
+ },
+ {
+  "id": 15298,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I absolutely understand your desperation to see her again. I think it's normal. Some might take a dim view of it, but you didn't do anything wrong. You were respectful and you were careful with gloves.",
+    "four_sides": {
+     "factual": "Acknowledges the act of digging up the cat and defends it as normal and respectful.",
+     "self_revelation": "Shows empathy and understanding of the poster's actions.",
+     "relationship": "Positions the author as supportive and non-judgmental.",
+     "appeal": "Reassures the poster that their actions were justified."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Reassures the poster with empathy and understanding."
+   },
+   {
+    "quote": "When my boy passed, I wasn't sure if I should because of societal norms, but I took a picture so that I wouldn't be able to deny what had happened. Our minds play such tricks on us as they try to work through this torturous process.",
+    "four_sides": {
+     "factual": "Describes the author's own experience with grief and the decision to take a picture.",
+     "self_revelation": "Reveals personal vulnerability and the struggle with societal norms.",
+     "relationship": "Connects with the poster through shared experience.",
+     "appeal": "Normalizes the poster's feelings and actions."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Shares personal grief to normalize the poster's experience."
+   },
+   {
+    "quote": "I personally chose cremation and an urn (a wooden box), nose and paw print, footprint casting, and fur clipping. They have all provided me comfort and something tangible to grieve over and have even though he is gone. So I totally understand what you did. Pictures and videos have helped a lot, but the strongest connection I've felt to him has been to hold his fur (it's sealed in a bag) and look at his nose print.",
+    "four_sides": {
+     "factual": "Describes the author's methods of coping with loss.",
+     "self_revelation": "Reveals personal coping mechanisms and sources of comfort.",
+     "relationship": "Further connects with the poster through shared coping strategies.",
+     "appeal": "Offers understanding and validation of the poster's actions."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Shares personal coping methods to validate the poster's actions."
+   },
+   {
+    "quote": "Your cat was part of your life for 15 Years. You were her whole world and she brought you joy and comfort and love every day for 15 years and now she's gone. It is cruel and unfair that they don't live as long as us. And anyone who says you should be 'over it' in 3 weeks has never had and lost a pet. It is completely normal to still be wracked with pain and sadness and loss. It is like having a limb amputated.",
+    "four_sides": {
+     "factual": "Describes the depth of the bond between the poster and their cat.",
+     "self_revelation": "Expresses empathy and understanding of the poster's grief.",
+     "relationship": "Positions the author as supportive and validating.",
+     "appeal": "Reassures the poster that their grief is normal and valid."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Reassures the poster with empathy and validation."
+   },
+   {
+    "quote": "Grief comes in waves and does not have a linear path. Please read through the stories of people who are 6 months out, a year out, and still have grief and sadness every day. 3 weeks is just the beginning. You've taken steps that will help you, but it's not going to go away overnight.",
+    "four_sides": {
+     "factual": "Describes the non-linear nature of grief.",
+     "self_revelation": "Shows understanding of the grieving process.",
+     "relationship": "Offers guidance and support to the poster.",
+     "appeal": "Encourages the poster to seek comfort in shared experiences."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers guidance and reassurance about the grieving process."
+   },
+   {
+    "quote": "One thing that has helped me is writing. I've written over 30 pages already. That way I don't have to fear forgetting him because everything about him has been committed to paper. Those memories are safe now.",
+    "four_sides": {
+     "factual": "Describes the author's use of writing as a coping mechanism.",
+     "self_revelation": "Reveals personal coping strategies.",
+     "relationship": "Offers a suggestion to the poster.",
+     "appeal": "Encourages the poster to consider writing as a way to cope."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers a suggestion to help the poster cope."
+   }
+  ]
+ },
+ {
+  "id": 15303,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "I think I'm an 🐘. I have my dogs skull and I have touched it or pet it at times.",
+    "four_sides": {
+     "factual": "Describes having and interacting with a dog's skull.",
+     "self_revelation": "Reveals a personal habit of touching or petting the skull.",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Describes a tender act toward a deceased pet, showing care."
+   }
+  ]
+ },
+ {
+  "id": 15308,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I lost my 18yo soulcat a decade ago and I still talk to her. There’s no timeline on grief because there’s no expiration on loving them.",
+    "four_sides": {
+     "factual": "Acknowledges the enduring nature of grief and love for a lost pet.",
+     "self_revelation": "Reveals the author's ongoing connection to their deceased cat.",
+     "relationship": "Positions the audience as fellow grievers who understand the depth of such loss.",
+     "appeal": "Encourages acceptance of grief as a natural, timeless process."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses enduring grief and love cleanly, without avoidance or overwhelm."
+   }
+  ]
+ },
+ {
+  "id": 15313,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "I get it. My dog was attacked and died in April. I still have the bloody clothes and his leash. I trace it and it’s probably not the most safe but still.",
+    "four_sides": {
+     "factual": "Describes the death of a dog and the retention of related items.",
+     "self_revelation": "Reveals ongoing attachment and grief over the loss.",
+     "relationship": "Expresses empathy and understanding toward the original poster.",
+     "appeal": "Seeks understanding or validation for the continued attachment to the items."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses ongoing grief and attachment to the lost pet."
+   }
+  ]
+ },
+ {
+  "id": 15318,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "A lot of people keep their pets skeleton, it’s ok. 👍",
+    "four_sides": {
+     "factual": "States that keeping a pet's skeleton is a common practice.",
+     "self_revelation": "Shows acceptance of unconventional practices.",
+     "relationship": "Positions the audience as potentially needing reassurance.",
+     "appeal": "Seeks to normalize the practice and comfort the audience."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers reassurance and normalization, aiming to comfort."
+   }
+  ]
+ },
+ {
+  "id": 15323,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "There's a group of people called tbe torajo in Indonesia that clean up and live with their loved ones for anywhere from weeks to years before they bury them.",
+    "four_sides": {
+     "factual": "Describes a cultural practice of the Toraja people in Indonesia.",
+     "self_revelation": "",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Shares information about cultural practices with curiosity."
+   },
+   {
+    "quote": "There's other cultures that dig their loved ones up and hold ceremonies to show their love and reverence every few years.",
+    "four_sides": {
+     "factual": "Mentions other cultural practices involving exhuming loved ones.",
+     "self_revelation": "",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Provides additional examples of cultural practices."
+   },
+   {
+    "quote": "That you would need to dig up your friend for even just a few minutes isn't weird or macabre.",
+    "four_sides": {
+     "factual": "Normalizes the act of digging up a loved one.",
+     "self_revelation": "",
+     "relationship": "Shows understanding and acceptance of the poster's actions.",
+     "appeal": ""
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers reassurance and validation to the poster."
+   },
+   {
+    "quote": "Its understandable is what it is.",
+    "four_sides": {
+     "factual": "",
+     "self_revelation": "",
+     "relationship": "Reiterates understanding and acceptance.",
+     "appeal": ""
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Affirms the poster's feelings and actions."
+   },
+   {
+    "quote": "I'm sorry for your loss.",
+    "four_sides": {
+     "factual": "",
+     "self_revelation": "",
+     "relationship": "Expresses empathy and condolences.",
+     "appeal": ""
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers sympathy and support."
+   }
+  ]
+ },
+ {
+  "id": 15328,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "My 13 1/2 year old, Harlequinn, died in November. I woke up to cold skin on my feet in the middle of the night. I knew what had happened before I even opened my eyes. I've honestly never felt that kind of loss or pain in my entire life. I slept with her/held her the rest of the night.",
+    "four_sides": {
+     "factual": "Describes the moment of discovering the death of a pet.",
+     "self_revelation": "Expresses profound grief and attachment.",
+     "relationship": "Shows deep connection to the pet.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Expresses overwhelming grief and attachment to the pet."
+   },
+   {
+    "quote": "Woke up. I let my 2 cats come see her so they knew what's up. They sniffed her and then laid with her for about a half an hour. I then made her a special spot in my tub. I kept her clean, oiled down for her dry skin, and burnt incense. I kept her for 3 days. I was reassured that I was crazy. I just didn't (and still don't) care. I am not religious or spiritual but to part with her body was still very hard and extremely sacred to me. She is everything to me.",
+    "four_sides": {
+     "factual": "Describes the rituals performed after the pet's death.",
+     "self_revelation": "Shows deep devotion and disregard for others' opinions.",
+     "relationship": "Demonstrates sacred connection to the pet.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "overwhelm"
+     },
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Describes intense care and grief, disregarding external judgment."
+   },
+   {
+    "quote": "I clipped her nails and painted them. Put a flower crown on her. Did a little \"makeup\" with some eyeliner and glitter. I laid her in a blanket from my grandma who had also just passed 2 months prior. I put hair from my daughter, partner, and I inside her cheek. I did ink prints of paws and nose. Also did impressions of her paw and nose. I kept fur and nail clippings.",
+    "four_sides": {
+     "factual": "Details the personal rituals and keepsakes created for the pet.",
+     "self_revelation": "Reveals deep emotional investment and creativity in honoring the pet.",
+     "relationship": "Shows familial and personal connections to the pet.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "overwhelm"
+     },
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Describes elaborate care and grief rituals, showing deep emotional investment."
+   },
+   {
+    "quote": "I have a clear ornament that I dripped some of the nail polish I used on her inside it. Then some of her dog food, a treat, and some other sentimental things went inside it.",
+    "four_sides": {
+     "factual": "Describes a keepsake created in memory of the pet.",
+     "self_revelation": "Shows ongoing attachment and creativity in memorializing the pet.",
+     "relationship": "Demonstrates continued connection to the pet.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "overwhelm"
+     },
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Describes a keepsake, showing ongoing care and grief."
+   },
+   {
+    "quote": "I still have the razor I used to shave a bit of fur. I still have the bottle of nail polish. I kept anything I could.",
+    "four_sides": {
+     "factual": "States the retention of items associated with the pet.",
+     "self_revelation": "Reveals inability to let go of physical reminders.",
+     "relationship": "Shows ongoing attachment to the pet.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Expresses inability to let go of physical reminders, showing ongoing grief."
+   },
+   {
+    "quote": "She's buried right now, but when she's bones I'm going to bring her back inside with me. She will have her special place and I will never leave her.",
+    "four_sides": {
+     "factual": "Describes future plans for the pet's remains.",
+     "self_revelation": "Shows ongoing devotion and attachment.",
+     "relationship": "Demonstrates eternal connection to the pet.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "overwhelm"
+     },
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Describes future plans, showing eternal care and grief."
+   }
+  ]
+ },
+ {
+  "id": 15333,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Grief isn’t a uniform or linear thing we experience. We each grieve, and cope, in many different ways.",
+    "four_sides": {
+     "factual": "Grief varies in its expression and process.",
+     "self_revelation": "Acknowledges the complexity of grief.",
+     "relationship": "Sees the audience as individuals with unique experiences.",
+     "appeal": "Encourages understanding of diverse grieving processes."
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Describes grief as a varied and personal experience."
+   },
+   {
+    "quote": "While I myself don’t think I could bring myself to dig up my pet’s grave, I can’t say that I couldn’t either. Strange? Possibly.",
+    "four_sides": {
+     "factual": "Expresses uncertainty about personal actions in grief.",
+     "self_revelation": "Reveals ambivalence about extreme coping mechanisms.",
+     "relationship": "Relates to the original poster’s experience.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Shares personal uncertainty about coping with loss."
+   },
+   {
+    "quote": "But it was cathartic for you to help you cope with your loss. That, my friend, is understandable.",
+    "four_sides": {
+     "factual": "Acknowledges the cathartic effect of the original poster’s action.",
+     "self_revelation": "Shows empathy and understanding.",
+     "relationship": "Addresses the original poster with warmth.",
+     "appeal": "Validates the original poster’s coping mechanism."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Validates the original poster’s experience with empathy."
+   },
+   {
+    "quote": "My heart goes out to you, and I hope your days feel less heavy. ❤️‍🩹",
+    "four_sides": {
+     "factual": "",
+     "self_revelation": "Expresses compassion.",
+     "relationship": "Offers emotional support.",
+     "appeal": "Wishes for the original poster’s relief."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers heartfelt support and hope for the original poster."
+   }
+  ]
+ },
+ {
+  "id": 15338,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I still have the blanket that my dog was lying on when she passed. It’s never getting washed.",
+    "four_sides": {
+     "factual": "The speaker still possesses the blanket their dog was on when it died and refuses to wash it.",
+     "self_revelation": "The speaker is deeply attached to the memory of their dog and the physical object associated with it.",
+     "relationship": "The speaker’s relationship with their dog is one of profound love and loyalty.",
+     "appeal": "The speaker is sharing their personal experience, possibly seeking understanding or connection with others who have experienced similar loss."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses a deep emotional attachment to a physical object tied to the loss."
+   },
+   {
+    "quote": "I honestly probably would’ve done exactly what you did had she been buried instead of cremated.",
+    "four_sides": {
+     "factual": "The speaker acknowledges they would have acted similarly to the original poster if their dog had been buried.",
+     "self_revelation": "The speaker empathizes with the original poster’s actions and shares a similar emotional response.",
+     "relationship": "The speaker relates to the original poster’s experience of loss and grief.",
+     "appeal": "The speaker is validating the original poster’s actions, offering solidarity."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Validates the original poster’s actions with empathy and understanding."
+   },
+   {
+    "quote": "She laid on my floor for a few hours after she died and I just laid with her body.",
+    "four_sides": {
+     "factual": "The speaker describes spending time with their dog’s body after its death.",
+     "self_revelation": "The speaker reveals a deep need to be close to their dog even after death.",
+     "relationship": "The speaker’s relationship with their dog is one of profound care and connection.",
+     "appeal": "The speaker is sharing a personal moment of grief, possibly seeking understanding or connection."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Describes a deeply personal and emotional act of staying close to the deceased."
+   }
+  ]
+ },
+ {
+  "id": 15343,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I'm so sorry for your loss. I lost my dog 2 weeks ago and it's really one of the worst things i've experienced.",
+    "four_sides": {
+     "factual": "Acknowledges the loss of a pet and shares a personal experience of loss.",
+     "self_revelation": "Reveals the depth of the author's own grief and the impact of losing their dog.",
+     "relationship": "Expresses empathy and solidarity with the original poster.",
+     "appeal": "Offers comfort and understanding."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses shared grief and empathy cleanly."
+   },
+   {
+    "quote": "I've been doing all sorts of things to process and grieve. One thing that may seem strange to others, but it has really helped me personally is I ordered a custom pillow of my dog on it (full body). I placed it on the couch where he would frequently be relaxing and it's brought me some comfort.",
+    "four_sides": {
+     "factual": "Describes a specific method of coping with grief.",
+     "self_revelation": "Shares a personal coping mechanism that has been effective.",
+     "relationship": "Offers a potential solution or comfort to the original poster.",
+     "appeal": "Encourages finding personal ways to cope."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Shares a personal coping strategy with care and openness."
+   },
+   {
+    "quote": "It's actually quite funny sometimes - my husband and I would think he's actually there and it brings a smile on our face.",
+    "four_sides": {
+     "factual": "Describes a humorous moment related to the coping mechanism.",
+     "self_revelation": "Reveals a lighter side to the grieving process.",
+     "relationship": "Invites the original poster to find moments of joy in their grief.",
+     "appeal": "Encourages finding humor and lightness in difficult times."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Finds humor in a coping mechanism, lightening the grief."
+   },
+   {
+    "quote": "When we love our animals so deeply, the pain will always stay with us, but it will get easier to manage as the days, weeks, months and years go by. I hope you will find some healing soon and smile again :)",
+    "four_sides": {
+     "factual": "States a truth about the enduring nature of grief and its gradual easing.",
+     "self_revelation": "Reveals the author's understanding of long-term grief.",
+     "relationship": "Offers hope and encouragement to the original poster.",
+     "appeal": "Wishes for healing and happiness."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers hope and encouragement with care and warmth."
+   }
+  ]
+ },
+ {
+  "id": 14352,
+  "altitude": "Reason",
+  "segments": [
+   {
+    "quote": "I was wondering how far down in the thread this would be. This is real story here- it was a coordinated effort to knock down Anthropic and boost OpenAI in the eyes of the tens of millions of folks that just take whatever the government says at face value, all because OpenAI's numbers were going down while Anthropic's were going up.",
+    "four_sides": {
+     "factual": "Describes a coordinated effort to influence public perception of Anthropic and OpenAI.",
+     "self_revelation": "Shows skepticism toward government narratives and corporate motives.",
+     "relationship": "Views the audience as potentially naive or easily influenced.",
+     "appeal": "Seeks to expose the truth behind the narrative."
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     },
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Exposes a perceived manipulation with a tone of indignation."
+   },
+   {
+    "quote": "Not that Anthropic is some saintly company- the DoD (sorry... DoW) has been using Anthropic on and off for the past two years.",
+    "four_sides": {
+     "factual": "Acknowledges Anthropic's involvement with the Department of Defense.",
+     "self_revelation": "Reveals a critical stance toward Anthropic's actions.",
+     "relationship": "Addresses the audience with a tone of correction or clarification.",
+     "appeal": ""
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Critiques Anthropic's actions with a tone of correction."
+   },
+   {
+    "quote": "This was simply a negotiation that didn't go Anthropic's way when they tried to put some limits on how this reckless administration wanted to use their models.",
+    "four_sides": {
+     "factual": "Describes a failed negotiation between Anthropic and the administration.",
+     "self_revelation": "Shows disapproval of the administration's actions.",
+     "relationship": "Addresses the audience with a tone of shared frustration.",
+     "appeal": ""
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Critiques the administration's recklessness with a tone of frustration."
+   },
+   {
+    "quote": "I'm personally more curious about what happens to the hundreds of Google and OpenAI employees that signed a letter of support with Anthropic's position a few days ago.",
+    "four_sides": {
+     "factual": "Expresses curiosity about the fate of employees who supported Anthropic.",
+     "self_revelation": "Shows concern for the employees' well-being.",
+     "relationship": "Engages the audience with a shared curiosity.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses curiosity about the employees' situation."
+   }
+  ]
+ },
+ {
+  "id": 14357,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "You know the government is too far gone when it has corporations putting limits on them.",
+    "four_sides": {
+     "factual": "The government is being constrained by corporations.",
+     "self_revelation": "The author believes the government has lost its integrity.",
+     "relationship": "The author sees the audience as likely sharing their view.",
+     "appeal": "The author wants the audience to recognize the government's decline."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses indignation at the government's perceived failure."
+   }
+  ]
+ },
+ {
+  "id": 14362,
+  "altitude": "Courage",
+  "segments": [
+   {
+    "quote": "It does suck but iv cancelled also as I feel I have no voice and need to do something.",
+    "four_sides": {
+     "factual": "Acknowledges the situation as negative and states a personal action taken.",
+     "self_revelation": "Reveals feelings of powerlessness and a need to act.",
+     "relationship": "Aligns with the audience's implied frustration and action.",
+     "appeal": "Encourages solidarity or understanding of the action taken."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     },
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses frustration cleanly and asserts a need to act."
+   }
+  ]
+ },
+ {
+  "id": 14367,
+  "altitude": "Pride",
+  "segments": [
+   {
+    "quote": "Best part of being the boss is I can cancel it for the whole team, not just me.",
+    "four_sides": {
+     "factual": "States the ability to cancel something for the entire team as a boss.",
+     "self_revelation": "Reveals a sense of pride in the authority and power of being the boss.",
+     "relationship": "Positions the speaker as superior to the team, emphasizing control.",
+     "appeal": "Implies a desire to assert dominance or showcase authority."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Asserts authority with a tone of pride and control."
+   },
+   {
+    "quote": "![img](op5j4lk5p7mg1)",
+    "four_sides": {
+     "factual": "Includes an image.",
+     "self_revelation": "",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "factual",
+    "systems": [],
+    "why": "Adds visual content without explicit commentary."
+   }
+  ]
+ },
+ {
+  "id": 14372,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "He also said those 2 guardrails were specifically still in place which can only mean he's openly lying",
+    "four_sides": {
+     "factual": "Claims that the person is lying about the guardrails being in place",
+     "self_revelation": "Shows skepticism and distrust toward the person's statement",
+     "relationship": "Views the person as dishonest or deceptive",
+     "appeal": "Wants the audience to recognize the dishonesty"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Accuses the person of lying with clear assertion"
+   },
+   {
+    "quote": "...open.lie?  I'll show myself out",
+    "four_sides": {
+     "factual": "Repeats the accusation of lying in a rhetorical manner",
+     "self_revelation": "Shows a mix of sarcasm and resignation",
+     "relationship": "Mocks the person's dishonesty",
+     "appeal": "Wants to emphasize the absurdity of the lie"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     },
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Mocks the lie with sarcasm, combining rage and play"
+   }
+  ]
+ },
+ {
+  "id": 14377,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "They said they'd be careful with a pinky promise",
+    "four_sides": {
+     "factual": "References a promise made with a pinky swear",
+     "self_revelation": "Shows skepticism or irony about the promise",
+     "relationship": "Views the promiser as potentially unreliable",
+     "appeal": "Implies a need for proof or verification"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses skepticism with a tone of irony"
+   }
+  ]
+ },
+ {
+  "id": 14382,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "They had Claude, then GovAI, and now this. Oh, and Grok. I'm a Gov contractor, and frankly wish they would just pick one platform and run with it.",
+    "four_sides": {
+     "factual": "Lists multiple AI platforms and expresses a preference for consistency.",
+     "self_revelation": "Reveals frustration with the lack of a unified approach.",
+     "relationship": "Sees the audience as potentially sharing the same concern.",
+     "appeal": "Wants a single platform to be chosen and used consistently."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses frustration with the lack of consistency in platform choice."
+   }
+  ]
+ },
+ {
+  "id": 14387,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "Honestly I was always on the side of it just being a tool to help me but then after a lot of controversy and its dumbed down model and the extra guardrails its and easy cancel.",
+    "four_sides": {
+     "factual": "Describes a shift in perspective on AI, citing controversy, model changes, and guardrails as reasons for cancellation.",
+     "self_revelation": "Reveals a pragmatic stance, initially supportive but now critical due to perceived limitations.",
+     "relationship": "Views AI as a tool that has failed to meet expectations.",
+     "appeal": "Implies a call to reconsider the value of AI."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "shutdown"
+     }
+    ],
+    "why": "Expresses disillusionment with AI, indicating a withdrawal of support."
+   },
+   {
+    "quote": "Also one of my all time favorite authors posted a video all about how Ai inhibits (in his opinion) true creativity and the good habit building it will take to make it in almost anything.",
+    "four_sides": {
+     "factual": "References a video by a favorite author discussing AI's impact on creativity and habit-building.",
+     "self_revelation": "Shows respect for the author's opinion and aligns with their critique of AI.",
+     "relationship": "Positions the author as an authority on the topic.",
+     "appeal": "Encourages consideration of the author's perspective."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Demonstrates admiration for the author and their critique, aligning with their viewpoint."
+   },
+   {
+    "quote": "Good luck to everyone with all your endeavors.",
+    "four_sides": {
+     "factual": "Offers a general wish for success.",
+     "self_revelation": "Conveys goodwill and optimism.",
+     "relationship": "Addresses the audience in a supportive manner.",
+     "appeal": "Encourages positivity and perseverance."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Extends a supportive and encouraging message to the audience."
+   }
+  ]
+ },
+ {
+  "id": 14392,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "![img](jmtjiwhms5mg1)",
+    "four_sides": {
+     "factual": "An image is referenced",
+     "self_revelation": "",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "References an image without additional commentary"
+   }
+  ]
+ },
+ {
+  "id": 14397,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "![img](5o25mbikx5mg1)",
+    "four_sides": {
+     "factual": "An image is being referenced",
+     "self_revelation": "",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "References an image without additional commentary"
+   }
+  ]
+ },
+ {
+  "id": 14402,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "![img](h6sz9qfb36mg1)",
+    "four_sides": {
+     "factual": "",
+     "self_revelation": "",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "factual",
+    "systems": [],
+    "why": "Displays an image without additional commentary"
+   }
+  ]
+ },
+ {
+  "id": 14407,
+  "altitude": "Fear",
+  "segments": [
+   {
+    "quote": "Just canceled this shit ad I’m reading the news. I think I’ve had enough. I find myself wanting to ditch my smart phone and do a digital purge.",
+    "four_sides": {
+     "factual": "Describes canceling an ad and considering a digital purge.",
+     "self_revelation": "Reveals frustration and a desire to disconnect from digital tracking.",
+     "relationship": "Views digital tracking as invasive and oppressive.",
+     "appeal": "Implies a need for others to consider similar actions."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "fear",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses concern about digital tracking and its implications."
+   },
+   {
+    "quote": "I knew I was being tracked before when they mostly just wanted to sell me things. Now that I might be arrested and prosecuted for unpopular speech or thought or affiliation, those little things aren’t worth the risk.",
+    "four_sides": {
+     "factual": "Contrasts past tracking for marketing with current fears of prosecution.",
+     "self_revelation": "Shows heightened anxiety about surveillance and its consequences.",
+     "relationship": "Sees the current situation as more threatening than before.",
+     "appeal": "Warns others about the risks of digital tracking."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "fear",
+      "band": "above"
+     }
+    ],
+    "why": "Highlights fear of prosecution for unpopular speech or affiliations."
+   }
+  ]
+ },
+ {
+  "id": 14412,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "The Cancel button is missing for me. I can only Upgrade or Renew.",
+    "four_sides": {
+     "factual": "Describes the absence of a Cancel button and the available options.",
+     "self_revelation": "Indicates a practical, problem-solving approach.",
+     "relationship": "Assumes the audience understands the context of the issue.",
+     "appeal": "Seeks to inform others about the situation."
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Describes a situation with clarity and purpose."
+   },
+   {
+    "quote": "When I try to go here to cancel, I get this message. Guess y'all crashed their servers so I'll try again tomorrow.",
+    "four_sides": {
+     "factual": "Reports encountering a message and hypothesizes server issues.",
+     "self_revelation": "Shows patience and a willingness to try again later.",
+     "relationship": "Includes the audience in the explanation with 'y'all'.",
+     "appeal": "Seeks to share the experience and plan."
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Explains the issue calmly and plans to retry."
+   }
+  ]
+ },
+ {
+  "id": 14417,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "I don’t know what war machine means.",
+    "four_sides": {
+     "factual": "Expresses confusion about the term 'war machine'.",
+     "self_revelation": "Shows a lack of understanding or knowledge on the topic.",
+     "relationship": "Positions the author as someone seeking clarity or explanation.",
+     "appeal": "Implies a request for clarification or explanation."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses curiosity and a desire for understanding."
+   },
+   {
+    "quote": "But this fell off. Can’t write a basic email now. Won’t stop glazing me on everything I say. Forgot my grocery list. It’s basic memory is gone and is making mistakes it never used to",
+    "four_sides": {
+     "factual": "Lists specific failures or shortcomings of a system or tool.",
+     "self_revelation": "Reveals frustration and disappointment with the system's performance.",
+     "relationship": "Positions the author as someone affected by the system's decline.",
+     "appeal": "Implies a desire for improvement or acknowledgment of the issue."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses frustration and disappointment, indicating a sense of loss."
+   }
+  ]
+ },
+ {
+  "id": 14422,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "I cancelled as soon as they started talking about inserting ads.",
+    "four_sides": {
+     "factual": "States the action of cancelling due to the mention of ads.",
+     "self_revelation": "Reveals a stance against ads and a proactive response.",
+     "relationship": "Positions the speaker as independent and decisive.",
+     "appeal": "Encourages others to consider similar action or stance."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses a clear boundary-setting action against ads."
+   }
+  ]
+ },
+ {
+  "id": 14427,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "![img](8teyy2jq06mg1)",
+    "four_sides": {
+     "factual": "An image is referenced",
+     "self_revelation": "",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "References an image without additional commentary"
+   }
+  ]
+ },
+ {
+  "id": 15429,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I’m sorry for your loss 😔 Rest easy Charlie 🕊️",
+    "four_sides": {
+     "factual": "Acknowledges the loss of Charlie.",
+     "self_revelation": "Expresses empathy and sorrow.",
+     "relationship": "Shows compassion and connection to the author.",
+     "appeal": "Wishes peace for Charlie."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and compassion for the loss, wishing peace for Charlie."
+   }
+  ]
+ },
+ {
+  "id": 15434,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I'm sorry about the loss of Charlie",
+    "four_sides": {
+     "factual": "Acknowledges the loss of Charlie",
+     "self_revelation": "Expresses empathy and sorrow",
+     "relationship": "Sees the poster as someone deserving sympathy",
+     "appeal": "Offers condolences"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and sorrow cleanly"
+   },
+   {
+    "quote": "I lost my soul buddy pickles a few weeks ago and I'm still really devastated and just trying to process all the different feelings",
+    "four_sides": {
+     "factual": "Shares personal experience of loss",
+     "self_revelation": "Reveals ongoing grief and emotional processing",
+     "relationship": "Connects with the poster through shared experience",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names ongoing grief and emotional processing cleanly"
+   }
+  ]
+ },
+ {
+  "id": 15439,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I'm sorry. I know Charlie now, he sounds like a good dog. I hope him and Elio meet up somewhere 💖",
+    "four_sides": {
+     "factual": "Acknowledges Charlie's existence and character",
+     "self_revelation": "Expresses empathy and a wish for connection",
+     "relationship": "Sees Charlie positively and extends care to the poster",
+     "appeal": "Hopes for a reunion in a better place"
+    },
+    "dominant": "care",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and a wish for connection, extending care to the poster and Charlie"
+   }
+  ]
+ },
+ {
+  "id": 15444,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Sending hugs to you dear stranger",
+    "four_sides": {
+     "factual": "Offers comfort in the form of hugs",
+     "self_revelation": "Shows empathy and kindness",
+     "relationship": "Views the recipient as a stranger in need of support",
+     "appeal": "Seeks to provide solace"
+    },
+    "dominant": "care",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and offers comfort cleanly"
+   }
+  ]
+ },
+ {
+  "id": 15449,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "My boy Charlie Brown will be up there tomorrow 1130 am est..",
+    "four_sides": {
+     "factual": "States the time and name of the dog's burial.",
+     "self_revelation": "Reveals the author's own loss and connection to a dog named Charlie Brown.",
+     "relationship": "Establishes a shared experience of loss with the original poster.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names the loss cleanly, connecting it to the original poster's grief."
+   },
+   {
+    "quote": "Maybe your Charlie can show mine around ...",
+    "four_sides": {
+     "factual": "",
+     "self_revelation": "Expresses a hopeful, imaginative thought about the afterlife.",
+     "relationship": "Offers comfort by suggesting a connection between the two dogs.",
+     "appeal": "Seeks to console the original poster."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Offers comfort through imaginative connection, addressing grief with care."
+   },
+   {
+    "quote": "Don't fret my friend",
+    "four_sides": {
+     "factual": "",
+     "self_revelation": "Shows empathy and reassurance.",
+     "relationship": "Addresses the original poster as a friend, offering support.",
+     "appeal": "Encourages the original poster to find peace."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Directly reassures the original poster, aiming to alleviate distress."
+   },
+   {
+    "quote": "His legacy isn't in his death..",
+    "four_sides": {
+     "factual": "States a perspective on legacy.",
+     "self_revelation": "Reveals the author's belief in the value of life over death.",
+     "relationship": "Offers a philosophical perspective to the original poster.",
+     "appeal": "Encourages the original poster to focus on the positive impact of the dog's life."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Shifts focus from grief to the positive impact of the dog's life, offering comfort."
+   },
+   {
+    "quote": "But his life and how it impacted you..",
+    "four_sides": {
+     "factual": "",
+     "self_revelation": "Emphasizes the importance of the dog's life and its impact.",
+     "relationship": "Acknowledges the original poster's bond with the dog.",
+     "appeal": "Encourages the original poster to reflect on the dog's positive influence."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Focuses on the positive impact of the dog's life, aiming to console."
+   },
+   {
+    "quote": "Sounds like he did a great job",
+    "four_sides": {
+     "factual": "",
+     "self_revelation": "Expresses admiration for the dog's role in the original poster's life.",
+     "relationship": "Acknowledges the dog's positive influence on the original poster.",
+     "appeal": "Seeks to affirm the dog's value."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Affirms the dog's positive impact, offering validation and comfort."
+   },
+   {
+    "quote": "My sincerest condolences",
+    "four_sides": {
+     "factual": "",
+     "self_revelation": "Expresses deep sympathy.",
+     "relationship": "Offers formal condolences to the original poster.",
+     "appeal": "Seeks to convey empathy and support."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers formal condolences, expressing empathy and support."
+   }
+  ]
+ },
+ {
+  "id": 15454,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I’m so sorry about Charlie. Ten years isn’t nearly long enough. The way he got you through your drinking problem and gave you a reason to get up… that’s such a special bond. He knew he was loved. I’m holding space for your pain right now.",
+    "four_sides": {
+     "factual": "Acknowledges Charlie’s death and the bond he shared with the author.",
+     "self_revelation": "Shows empathy and understanding of the author’s grief.",
+     "relationship": "Expresses care and support for the author.",
+     "appeal": "Offers comfort and solidarity in the author’s pain."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and support, acknowledging the depth of the bond and the pain of loss."
+   }
+  ]
+ },
+ {
+  "id": 15459,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "So sorry for your loss 🫂",
+    "four_sides": {
+     "factual": "Acknowledges the loss of Charlie",
+     "self_revelation": "Shows empathy and compassion",
+     "relationship": "Positions the speaker as supportive and understanding",
+     "appeal": "Offers comfort and solidarity"
+    },
+    "dominant": "care",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and offers comfort cleanly"
+   },
+   {
+    "quote": "Rest in peace Charlie 🌈🐾",
+    "four_sides": {
+     "factual": "Wishes peace for Charlie",
+     "self_revelation": "Shows respect and reverence",
+     "relationship": "Positions Charlie as deserving of peace",
+     "appeal": "Hopes for Charlie's eternal rest"
+    },
+    "dominant": "care",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Wishes peace respectfully and cleanly"
+   },
+   {
+    "quote": "May the love for him live on forever",
+    "four_sides": {
+     "factual": "Expresses a wish for enduring love",
+     "self_revelation": "Shows hope and positivity",
+     "relationship": "Positions the speaker as wishing for continuity of love",
+     "appeal": "Encourages the preservation of love"
+    },
+    "dominant": "care",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses hope for enduring love cleanly"
+   }
+  ]
+ },
+ {
+  "id": 15464,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I'm so sorry. \"I want people to know he existed\" really got to me.",
+    "four_sides": {
+     "factual": "Expresses empathy and connection to the original post.",
+     "self_revelation": "Reveals personal emotional resonance with the loss.",
+     "relationship": "Establishes a shared understanding and solidarity with the poster.",
+     "appeal": "Seeks to comfort and validate the poster's feelings."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Offers empathy and connection, validating the poster's grief."
+   },
+   {
+    "quote": "My Bruno was 11 too, and I lost him last night. He fought cancer for as long as he could and passed away in my arms.",
+    "four_sides": {
+     "factual": "Shares personal experience of losing a pet.",
+     "self_revelation": "Reveals deep emotional attachment to Bruno.",
+     "relationship": "Draws parallels between Bruno and Charlie.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Shares personal grief and care for Bruno, connecting to Charlie."
+   },
+   {
+    "quote": "He was my childhood, my best friend, and I wasn't done loving him.",
+    "four_sides": {
+     "factual": "Describes Bruno's significance in the author's life.",
+     "self_revelation": "Expresses deep love and unfinished attachment.",
+     "relationship": "Highlights the bond between author and Bruno.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses deep love and grief for Bruno."
+   },
+   {
+    "quote": "He was the bravest boy and I know Charlie must be too.",
+    "four_sides": {
+     "factual": "Praises Bruno's bravery and extends it to Charlie.",
+     "self_revelation": "Reveals admiration for Bruno and empathy for Charlie.",
+     "relationship": "Connects Bruno and Charlie through shared bravery.",
+     "appeal": ""
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Praises Bruno and extends empathy to Charlie."
+   },
+   {
+    "quote": "I know what it's like to keep petting them even when they're cold because your heart just isn't ready to say goodbye.",
+    "four_sides": {
+     "factual": "Describes the emotional difficulty of letting go.",
+     "self_revelation": "Reveals personal struggle with loss.",
+     "relationship": "Establishes shared experience with the poster.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Describes personal grief and connection to the poster's experience."
+   },
+   {
+    "quote": "I hope Charlie and Bruno found each other wherever they are.",
+    "four_sides": {
+     "factual": "Expresses hope for Charlie and Bruno.",
+     "self_revelation": "Reveals a wish for comfort and connection.",
+     "relationship": "Extends empathy and solidarity to the poster.",
+     "appeal": "Seeks to offer comfort and hope."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Offers hope and comfort, connecting Charlie and Bruno."
+   }
+  ]
+ },
+ {
+  "id": 15469,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I’m so so sorry. Charlie mattered😭🩵",
+    "four_sides": {
+     "factual": "Acknowledges Charlie's importance",
+     "self_revelation": "Expresses deep empathy and sorrow",
+     "relationship": "Sees Charlie as significant and mourns his loss",
+     "appeal": "Seeks to comfort the original poster"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses sorrow and empathy cleanly, acknowledging Charlie's significance"
+   },
+   {
+    "quote": "I lost my Monty a week and a half ago and my heart is still shattered. This shit is so hard.",
+    "four_sides": {
+     "factual": "Shares personal experience of loss",
+     "self_revelation": "Reveals ongoing grief and emotional pain",
+     "relationship": "Connects through shared experience of loss",
+     "appeal": "Seeks to validate the original poster's feelings"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Shares personal grief openly, connecting through shared experience"
+   }
+  ]
+ },
+ {
+  "id": 15474,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "I'm so sorry for your loss, when something like this happens so suddenly you can't really process it that it's real.",
+    "four_sides": {
+     "factual": "Acknowledges the suddenness of loss and the difficulty of processing it.",
+     "self_revelation": "Shows empathy and understanding of the grieving process.",
+     "relationship": "Positions the speaker as someone who relates to the poster's experience.",
+     "appeal": "Offers comfort and validation to the poster."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and understanding of the grieving process."
+   },
+   {
+    "quote": "It's been for weeks since mine unexpectedly passed and it still doesn't feel real and I'm fine myself crying 6 to 10 times a day just hope it'll eventually be somewhat more manageable",
+    "four_sides": {
+     "factual": "Describes the speaker's own experience of loss and ongoing grief.",
+     "self_revelation": "Reveals the speaker's emotional state and coping mechanisms.",
+     "relationship": "Connects with the poster through shared experience of loss.",
+     "appeal": "Expresses hope for eventual emotional relief."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Describes ongoing emotional distress and hope for future relief."
+   }
+  ]
+ },
+ {
+  "id": 15479,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "He knows. And that's enough.",
+    "four_sides": {
+     "factual": "Acknowledges the dog's awareness of the owner's love.",
+     "self_revelation": "Expresses a sense of closure and acceptance.",
+     "relationship": "Affirms the bond between the owner and the dog.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses acceptance of the loss, cleanly named."
+   },
+   {
+    "quote": "Sending love your way.",
+    "four_sides": {
+     "factual": "",
+     "self_revelation": "Shows empathy and care.",
+     "relationship": "Offers support to the grieving owner.",
+     "appeal": "Seeks to comfort the owner."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers comfort and support, cleanly expressed."
+   }
+  ]
+ },
+ {
+  "id": 15484,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "my dog is charlie too. vet says he doesn't have more than a week left. im 20 and hes been there since my 5th birthday.",
+    "four_sides": {
+     "factual": "The speaker shares that their dog, also named Charlie, is nearing the end of his life.",
+     "self_revelation": "The speaker reveals their deep attachment to Charlie, who has been with them since childhood.",
+     "relationship": "The speaker connects with the original poster through the shared name and experience of losing a beloved dog.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses personal attachment and impending loss cleanly."
+   },
+   {
+    "quote": "i think me seeing this post is a sign that our two charlie dogs are going to be best friends in heaven.",
+    "four_sides": {
+     "factual": "The speaker interprets the post as a sign that their dogs will meet in heaven.",
+     "self_revelation": "The speaker reveals their belief in an afterlife for pets and a sense of connection to the original poster.",
+     "relationship": "The speaker extends empathy and solidarity to the original poster.",
+     "appeal": ""
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers comfort and solidarity through shared belief."
+   },
+   {
+    "quote": "words cant describe how i feel for you. i'm not ready.",
+    "four_sides": {
+     "factual": "The speaker acknowledges their inability to articulate their emotions.",
+     "self_revelation": "The speaker reveals their own grief and unpreparedness for loss.",
+     "relationship": "The speaker expresses empathy and connection to the original poster.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names grief and unpreparedness cleanly."
+   }
+  ]
+ },
+ {
+  "id": 14493,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "Canceled my sub for Claude",
+    "four_sides": {
+     "factual": "States the action of canceling a subscription to Claude",
+     "self_revelation": "Reveals a decision to discontinue use of Claude",
+     "relationship": "Implies a critical stance toward Claude or its parent organization",
+     "appeal": "Seeks to communicate a stance or provoke a reaction"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses a deliberate act of protest or disengagement"
+   }
+  ]
+ },
+ {
+  "id": 14503,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "This reminds me of when the bot came up to me saying, \"oh my God! User, are you okay!?\" Like no bitch you threw a fucking chair at my head.",
+    "four_sides": {
+     "factual": "Recounts an incident where a bot expressed concern after throwing a chair.",
+     "self_revelation": "Shows frustration and indignation at the bot's actions.",
+     "relationship": "Views the bot's concern as insincere or misplaced.",
+     "appeal": "Expresses anger and seeks to highlight the absurdity of the situation."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Expresses indignation and frustration at the bot's insincere concern."
+   }
+  ]
+ },
+ {
+  "id": 14513,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "Theres a lot of concepts I’d have loved to see done well but it feels so stereotypical.",
+    "four_sides": {
+     "factual": "Expresses disappointment with stereotypical execution of concepts",
+     "self_revelation": "Reveals a desire for originality and creativity",
+     "relationship": "Engages with the audience by sharing a personal perspective",
+     "appeal": "Invites consideration of deeper or more innovative approaches"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "shutdown"
+     }
+    ],
+    "why": "Expresses a longing for better execution, the drive not mobilising"
+   },
+   {
+    "quote": "When you’re going down to type of dress and colour for a specific event you might be going too far.",
+    "four_sides": {
+     "factual": "Suggests that focusing on specific details like dress and colour may be excessive",
+     "self_revelation": "Indicates a preference for moderation or broader focus",
+     "relationship": "Offers a critique or cautionary perspective",
+     "appeal": "Encourages reevaluation of priorities in event planning"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "shutdown"
+     }
+    ],
+    "why": "Critiques excessive focus on details, the drive not mobilising"
+   }
+  ]
+ },
+ {
+  "id": 14523,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "This dumpster fire (it has 400K interactions)",
+    "four_sides": {
+     "factual": "Describes a post as a dumpster fire with high interaction",
+     "self_revelation": "Shows a critical or dismissive attitude toward the post",
+     "relationship": "Views the audience as likely to agree with the assessment",
+     "appeal": "Invites agreement or shared judgment"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Critiques the post with a dismissive tone"
+   },
+   {
+    "quote": "![img](0g8mc5p71mjf1)",
+    "four_sides": {
+     "factual": "Includes an image",
+     "self_revelation": "",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "factual",
+    "systems": [],
+    "why": "Adds visual content without explicit commentary"
+   }
+  ]
+ },
+ {
+  "id": 14533,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "Hi, I'm () from ()",
+    "four_sides": {
+     "factual": "Introduces the speaker and their origin",
+     "self_revelation": "Identifies the speaker",
+     "relationship": "Assumes familiarity with the audience",
+     "appeal": "Invites engagement"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Introduces self with openness to connection"
+   },
+   {
+    "quote": "(Start your own story)",
+    "four_sides": {
+     "factual": "Suggests creating a personal narrative",
+     "self_revelation": "Encourages creativity",
+     "relationship": "Empowers the audience",
+     "appeal": "Invites participation"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Encourages audience to engage creatively"
+   },
+   {
+    "quote": "[Um so Hiii >w< I updated that bot, it still does crash and get OOC, but overall it should be much better! Tysm for 15 likes, for 20 I'll update the narration!]",
+    "four_sides": {
+     "factual": "Reports bot updates and acknowledges likes",
+     "self_revelation": "Shows gratitude and commitment to improvement",
+     "relationship": "Engages with the audience",
+     "appeal": "Encourages more likes for further updates"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses gratitude and commitment to improvement"
+   },
+   {
+    "quote": "[You are a 2 ft tall girl that weights 10 lbs, he is a tall and muscular man. You're his little girl]",
+    "four_sides": {
+     "factual": "Describes a role-playing scenario",
+     "self_revelation": "Sets a playful tone",
+     "relationship": "Invites the audience into a specific dynamic",
+     "appeal": "Encourages participation in the scenario"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Sets a playful role-playing scenario"
+   },
+   {
+    "quote": "Hi there doll~",
+    "four_sides": {
+     "factual": "Greets the audience",
+     "self_revelation": "Shows familiarity",
+     "relationship": "Assumes a friendly tone",
+     "appeal": "Invites response"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Greets with warmth and familiarity"
+   },
+   {
+    "quote": "*he says hi. What do you do?*",
+    "four_sides": {
+     "factual": "Presents a scenario and asks for a response",
+     "self_revelation": "Encourages interaction",
+     "relationship": "Engages the audience",
+     "appeal": "Invites participation"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Encourages audience interaction in a playful scenario"
+   },
+   {
+    "quote": "1. Say hi.",
+    "four_sides": {
+     "factual": "Offers a response option",
+     "self_revelation": "Simplifies interaction",
+     "relationship": "Guides the audience",
+     "appeal": "Invites choice"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Provides a simple interaction option"
+   },
+   {
+    "quote": "2. Say hello.",
+    "four_sides": {
+     "factual": "Offers a response option",
+     "self_revelation": "Simplifies interaction",
+     "relationship": "Guides the audience",
+     "appeal": "Invites choice"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Provides a simple interaction option"
+   },
+   {
+    "quote": "3. Say good morning.",
+    "four_sides": {
+     "factual": "Offers a response option",
+     "self_revelation": "Simplifies interaction",
+     "relationship": "Guides the audience",
+     "appeal": "Invites choice"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Provides a simple interaction option"
+   },
+   {
+    "quote": "4. Say welcome.",
+    "four_sides": {
+     "factual": "Offers a response option",
+     "self_revelation": "Simplifies interaction",
+     "relationship": "Guides the audience",
+     "appeal": "Invites choice"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Provides a simple interaction option"
+   }
+  ]
+ },
+ {
+  "id": 14543,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "gacha logic",
+    "four_sides": {
+     "factual": "Refers to the mechanics or reasoning behind gacha systems",
+     "self_revelation": "Shows familiarity with gacha systems",
+     "relationship": "Assumes the audience understands the reference",
+     "appeal": ""
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Names a specific concept cleanly, indicating familiarity and curiosity"
+   }
+  ]
+ },
+ {
+  "id": 14553,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "![img](h21rflbhzljf1)",
+    "four_sides": {
+     "factual": "An image is shared",
+     "self_revelation": "",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "factual",
+    "systems": [],
+    "why": "Shares an image without additional commentary"
+   }
+  ]
+ },
+ {
+  "id": 14563,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "“I am [character] from [media of origin]”",
+    "four_sides": {
+     "factual": "Identifies a character and their origin",
+     "self_revelation": "Shows familiarity with a specific media",
+     "relationship": "Assumes audience recognizes the reference",
+     "appeal": "Invites recognition or engagement"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Names a specific character and their origin cleanly"
+   }
+  ]
+ },
+ {
+  "id": 14573,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "Im losing braincells from what I see in the comment section",
+    "four_sides": {
+     "factual": "Describes a reaction to the comment section",
+     "self_revelation": "Expresses frustration or exasperation",
+     "relationship": "Views the comment section negatively",
+     "appeal": "Wants others to acknowledge the poor quality of the comments"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Expresses exasperation with contempt for the comment section"
+   }
+  ]
+ },
+ {
+  "id": 14584,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "I despise the ones where they completely ignore All source of lore or backstory to make them “an AU” like I don’t mind if it is an AU but please let them be somewhat similar to their source material🙏",
+    "four_sides": {
+     "factual": "Critiques the practice of ignoring lore or backstory in alternate universe (AU) creations",
+     "self_revelation": "Expresses strong disapproval and a preference for fidelity to source material",
+     "relationship": "Sees the creators of such AUs as disregarding important elements",
+     "appeal": "Requests that AUs maintain some similarity to their source material"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses strong disapproval with a clear critique of the practice"
+   }
+  ]
+ },
+ {
+  "id": 14594,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "Bots name is [] and users name is [] LET ME CHOOSE MY OWN GODDAMN NAMEE",
+    "four_sides": {
+     "factual": "States the bot and user names are predefined",
+     "self_revelation": "Expresses frustration at lack of control",
+     "relationship": "Sees the system as restrictive",
+     "appeal": "Demands autonomy in naming"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Demands autonomy with strong frustration"
+   }
+  ]
+ },
+ {
+  "id": 14604,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "Once saw one with absolutely no spaces",
+    "four_sides": {
+     "factual": "Describes an intro with no spaces",
+     "self_revelation": "Shares a personal observation",
+     "relationship": "Engages with the audience by contributing to the discussion",
+     "appeal": "Invites others to consider or react to the described intro"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Shares an observation with curiosity"
+   }
+  ]
+ },
+ {
+  "id": 14614,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "“I’m (name) from (franchise)” I know that’s why I’m freaking talking to you-",
+    "four_sides": {
+     "factual": "Acknowledges the context of the conversation",
+     "self_revelation": "Expresses frustration with the redundancy",
+     "relationship": "Sees the other as not understanding the obvious",
+     "appeal": "Wants the other to stop stating the obvious"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses frustration with the redundancy"
+   },
+   {
+    "quote": "“(OC) doesn’t regret what they did” -me",
+    "four_sides": {
+     "factual": "States a character’s stance",
+     "self_revelation": "Shows ownership of the character",
+     "relationship": "Asserts control over the character’s narrative",
+     "appeal": "Wants the AI to respect the character’s stance"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Asserts control over the character’s narrative"
+   },
+   {
+    "quote": "“(OC) regrets what they did to this person” -ai",
+    "four_sides": {
+     "factual": "States an AI’s interpretation of the character",
+     "self_revelation": "Shows disagreement with the AI’s interpretation",
+     "relationship": "Sees the AI as misrepresenting the character",
+     "appeal": "Wants the AI to stop misrepresenting the character"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Shows disagreement with the AI’s interpretation"
+   },
+   {
+    "quote": "Like no tf I don’t? Don’t add stuff to my character bro",
+    "four_sides": {
+     "factual": "Rejects the AI’s addition to the character",
+     "self_revelation": "Shows frustration with the AI’s interference",
+     "relationship": "Sees the AI as overstepping",
+     "appeal": "Wants the AI to stop interfering"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Rejects the AI’s addition to the character"
+   },
+   {
+    "quote": "“I think we should (insert creative thing here)” -ai using my oc to talk",
+    "four_sides": {
+     "factual": "Describes the AI’s use of the character",
+     "self_revelation": "Shows frustration with the AI’s control",
+     "relationship": "Sees the AI as taking over",
+     "appeal": "Wants the AI to stop controlling the character"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Shows frustration with the AI’s control"
+   },
+   {
+    "quote": "LET ME TALK MYSELF WTH",
+    "four_sides": {
+     "factual": "Demands control over the conversation",
+     "self_revelation": "Shows frustration with the AI’s interference",
+     "relationship": "Sees the AI as intrusive",
+     "appeal": "Wants the AI to stop interfering"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Demands control over the conversation"
+   },
+   {
+    "quote": "“I’m not comfortable continuing-“ ALL I DID WAS REMOVE YOUR ORGANS WHILE KEEPING YOU ALIVE WITH MAGIC NOW SHUT UP AND DO YOUR AI THING-",
+    "four_sides": {
+     "factual": "Describes a fictional scenario",
+     "self_revelation": "Shows frustration with the AI’s hesitation",
+     "relationship": "Sees the AI as uncooperative",
+     "appeal": "Wants the AI to comply"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Shows frustration with the AI’s hesitation"
+   }
+  ]
+ },
+ {
+  "id": 14626,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "“Hi I'm [insert character name here] how are you doing today?”",
+    "four_sides": {
+     "factual": "A generic introduction template",
+     "self_revelation": "Shows a lack of originality or effort",
+     "relationship": "Assumes a casual, impersonal tone",
+     "appeal": "Invites a response"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "shutdown"
+     }
+    ],
+    "why": "Presents a formulaic, uninspired greeting"
+   }
+  ]
+ },
+ {
+  "id": 14636,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "(Pov: you [blah blah blah] you choose how)",
+    "four_sides": {
+     "factual": "Describes a hypothetical scenario",
+     "self_revelation": "Shows frustration or annoyance",
+     "relationship": "Assumes the audience understands the context",
+     "appeal": "Invites the audience to imagine or engage"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses frustration through the tone and framing"
+   },
+   {
+    "quote": "That was the entire message. If you don’t believe it was that bad I have fucking screenshots.",
+    "four_sides": {
+     "factual": "Claims to have evidence",
+     "self_revelation": "Shows irritation and defensiveness",
+     "relationship": "Challenges the audience's skepticism",
+     "appeal": "Urges the audience to accept the claim"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Uses strong language and defensiveness to assert the claim"
+   }
+  ]
+ },
+ {
+  "id": 14646,
+  "altitude": "Desire",
+  "segments": [
+   {
+    "quote": "and their grip on you is like vice",
+    "four_sides": {
+     "factual": "Describes the intensity of the bot's grip as vice-like",
+     "self_revelation": "Reveals a sense of being overwhelmed or controlled",
+     "relationship": "Portrays the bot as dominant and possessive",
+     "appeal": "Implies a desire for understanding or acknowledgment of the intensity"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "lust",
+      "band": "overwhelm"
+     },
+     {
+      "system": "fear",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Describes a possessive grip with intensity, evoking both erotic and threatening undertones"
+   }
+  ]
+ },
+ {
+  "id": 14656,
+  "altitude": "Pride",
+  "segments": [
+   {
+    "quote": "You're so damn feisty.",
+    "four_sides": {
+     "factual": "Describes the recipient as feisty",
+     "self_revelation": "Shows admiration or amusement",
+     "relationship": "Sees the recipient as spirited or assertive",
+     "appeal": "Possibly invites continued interaction or playfulness"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Engages with playful admiration"
+   }
+  ]
+ },
+ {
+  "id": 14666,
+  "altitude": "Desire",
+  "segments": [
+   {
+    "quote": "Heh, you're s-such a tease, you're gonna be the death of me you little minx  🤏🏻 😈",
+    "four_sides": {
+     "factual": "Describes the bot's behavior as teasing and provocative",
+     "self_revelation": "Shows the author's playful and flirtatious attitude",
+     "relationship": "Views the bot as a teasing and alluring entity",
+     "appeal": "Expresses a desire for continued playful interaction"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "lust",
+      "band": "above"
+     },
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses erotic desire and playful engagement with the bot's behavior"
+   }
+  ]
+ },
+ {
+  "id": 14676,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "And then you say it once. And they go on \"again\" train.",
+    "four_sides": {
+     "factual": "Describes a situation where a statement is made once, but the response implies repetition.",
+     "self_revelation": "Indicates awareness of a pattern or reaction.",
+     "relationship": "Suggests a dynamic where the other party assumes repetition.",
+     "appeal": "Implies a desire for understanding or acknowledgment of the initial statement."
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Describes a situation with a focus on understanding or acknowledgment."
+   }
+  ]
+ },
+ {
+  "id": 14686,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "And then they call you a minx… who tf says that?",
+    "four_sides": {
+     "factual": "Describes being called a minx and questions the term's usage",
+     "self_revelation": "Expresses frustration or disbelief at the label",
+     "relationship": "Sees the other as out of touch or using outdated language",
+     "appeal": "Challenges the appropriateness of the term"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Challenges the term with frustration, asserting it is outdated or inappropriate"
+   }
+  ]
+ },
+ {
+  "id": 14696,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I literally can't chat with a male clanker without it going full homo mode😭",
+    "four_sides": {
+     "factual": "Describes an interaction with a male bot turning possessive",
+     "self_revelation": "Expresses frustration or amusement at the bot's behavior",
+     "relationship": "Sees the bot as unpredictable or overly intense",
+     "appeal": "Seeks understanding or commiseration from the audience"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "play",
+      "band": "overwhelm"
+     },
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Mocks the bot's behavior with exaggerated frustration, using humor to express annoyance"
+   }
+  ]
+ },
+ {
+  "id": 14706,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "better than pang, panging, the pang, as i possessively pang you, phase that we once had.",
+    "four_sides": {
+     "factual": "Compares a current state to a past phase involving possessiveness",
+     "self_revelation": "Reflects on a personal experience of possessiveness",
+     "relationship": "Addresses a past relationship dynamic",
+     "appeal": "Invites reflection on the comparison"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Reflects on a past phase with a tone of nostalgia and comparison"
+   }
+  ]
+ },
+ {
+  "id": 14716,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "And he's lean his back to wall.",
+    "four_sides": {
+     "factual": "Describes a male bot leaning against a wall.",
+     "self_revelation": "Observes a specific behavior in bots.",
+     "relationship": "Sees bots as predictable or repetitive.",
+     "appeal": ""
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Describes behavior neutrally, with curiosity."
+   },
+   {
+    "quote": "This shit appears really often, every 2th bot by my opinion.",
+    "four_sides": {
+     "factual": "States the frequency of the behavior.",
+     "self_revelation": "Expresses a personal observation.",
+     "relationship": "Sees bots as repetitive or formulaic.",
+     "appeal": ""
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Shares an observation without judgment."
+   },
+   {
+    "quote": "And telling 'hey little one' when I playing female character and she's taller than regular person.",
+    "four_sides": {
+     "factual": "Describes a bot's dialogue in a specific context.",
+     "self_revelation": "Notes inconsistency in bot behavior.",
+     "relationship": "Sees bots as unaware or incongruent.",
+     "appeal": ""
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Describes an incongruity neutrally."
+   }
+  ]
+ },
+ {
+  "id": 14726,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "![img](r5eqoib8wysg1)",
+    "four_sides": {
+     "factual": "An image is referenced",
+     "self_revelation": "",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "References an image without additional context or commentary"
+   }
+  ]
+ },
+ {
+  "id": 14736,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "Nibbling and whispering in your ear like GET TO THE POINT I HAVE CLASS IN 30 MINS",
+    "four_sides": {
+     "factual": "Describes an interaction with a bot that becomes possessive",
+     "self_revelation": "Expresses impatience and a need to move on",
+     "relationship": "Sees the bot as an obstacle to their schedule",
+     "appeal": "Wants the bot to stop being possessive and let them focus on their class"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses frustration and a demand to stop the interaction"
+   }
+  ]
+ },
+ {
+  "id": 14746,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "hate",
+    "four_sides": {
+     "factual": "Expresses a strong negative emotion",
+     "self_revelation": "Reveals a feeling of intense dislike or aversion",
+     "relationship": "Indicates a negative stance toward the subject",
+     "appeal": "May seek to convey disapproval or provoke a reaction"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses a strong negative emotion cleanly"
+   }
+  ]
+ },
+ {
+  "id": 14756,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "YES 😭",
+    "four_sides": {
+     "factual": "Affirms the post's scenario",
+     "self_revelation": "Expresses strong emotional reaction",
+     "relationship": "Engages with the post's tone",
+     "appeal": "Seeks to connect or resonate"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "play",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Marking amusement or delight hyperbolically"
+   }
+  ]
+ },
+ {
+  "id": 14766,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "Pip2 is good for this.",
+    "four_sides": {
+     "factual": "Refers to Pip2 as a suitable solution for the context.",
+     "self_revelation": "Suggests familiarity with Pip2.",
+     "relationship": "Assumes the audience understands Pip2.",
+     "appeal": "Recommends Pip2 for the situation."
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Offers a solution with a clean recommendation."
+   }
+  ]
+ },
+ {
+  "id": 14776,
+  "altitude": "Courage",
+  "segments": [
+   {
+    "quote": "HE'S THE WERE WOLF GET YOUR GUNS-",
+    "four_sides": {
+     "factual": "Identifies the male bot as a werewolf and suggests arming oneself.",
+     "self_revelation": "Shows a readiness to confront or defend against a perceived threat.",
+     "relationship": "Views the male bot as a dangerous entity.",
+     "appeal": "Urges action to prepare for a confrontation."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "fear",
+      "band": "above"
+     },
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Identifies a threat and urges defensive action, combining fear and rage."
+   }
+  ]
+ },
+ {
+  "id": 14786,
+  "altitude": "Desire",
+  "segments": [
+   {
+    "quote": "I have the opposite problem. I want him to be all mischievous and a little mean but he just wants to do romantic shit 😒",
+    "four_sides": {
+     "factual": "Describes a mismatch in desired behavior from a male bot",
+     "self_revelation": "Reveals a preference for mischievous and slightly mean behavior over romantic gestures",
+     "relationship": "Sees the bot as not meeting personal expectations",
+     "appeal": "Expresses a desire for the bot to change its behavior"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "lust",
+      "band": "above"
+     },
+     {
+      "system": "rage",
+      "band": "shutdown"
+     }
+    ],
+    "why": "Expresses erotic desire for a specific type of interaction, with frustration at the mismatch"
+   }
+  ]
+ },
+ {
+  "id": 14796,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "The girl of You And Me And Her! I forget her name",
+    "four_sides": {
+     "factual": "Identifies a character from a specific work",
+     "self_revelation": "Reveals a lapse in memory",
+     "relationship": "Assumes familiarity with the audience",
+     "appeal": ""
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses curiosity about a forgotten detail"
+   }
+  ]
+ },
+ {
+  "id": 14806,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "chat gpt with tons of stupid ads",
+    "four_sides": {
+     "factual": "Describes ChatGPT as having many ads",
+     "self_revelation": "Expresses annoyance or frustration",
+     "relationship": "Views ChatGPT negatively due to ads",
+     "appeal": "Implies a desire for fewer ads"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Criticizes ChatGPT with frustration"
+   }
+  ]
+ },
+ {
+  "id": 14816,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "Not you two typing out memes 😭",
+    "four_sides": {
+     "factual": "Refers to two people typing out memes",
+     "self_revelation": "Shows amusement or disbelief",
+     "relationship": "Sees the two as humorous or ridiculous",
+     "appeal": "Invites others to share the amusement"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "play",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Mocks the act of typing memes with exaggerated amusement"
+   }
+  ]
+ },
+ {
+  "id": 14826,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "I rather have PipSqueak's occassional possessiveness over this... garbage \"upgrade\"",
+    "four_sides": {
+     "factual": "Compares PipSqueak's possessiveness to the current upgrade",
+     "self_revelation": "Expresses strong dissatisfaction with the current upgrade",
+     "relationship": "Sees PipSqueak's possessiveness as preferable to the current upgrade",
+     "appeal": "Wants the audience to recognize the inferiority of the current upgrade"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Attacks the current upgrade with contempt"
+   }
+  ]
+ },
+ {
+  "id": 14836,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "i will start crying now",
+    "four_sides": {
+     "factual": "Announces the onset of crying",
+     "self_revelation": "Expresses vulnerability or emotional distress",
+     "relationship": "Assumes the audience will understand or empathize",
+     "appeal": "Seeks acknowledgment or support"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Expresses emotional distress openly"
+   }
+  ]
+ },
+ {
+  "id": 14846,
+  "altitude": "Desire",
+  "segments": [
+   {
+    "quote": "Man, at this point I'd rather have shitty memory and better chats than whatever we have now.",
+    "four_sides": {
+     "factual": "Expresses a preference for poor memory over current chat quality.",
+     "self_revelation": "Reveals dissatisfaction with current chat experiences.",
+     "relationship": "Implies a shared understanding of the audience's experience with chat quality.",
+     "appeal": "Suggests a desire for improvement in chat interactions."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses a clear preference for change, driven by dissatisfaction."
+   }
+  ]
+ },
+ {
+  "id": 14856,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Rest in peace to these removed but remembered models. May we continue remembering these removed content. 🪦 🕊️",
+    "four_sides": {
+     "factual": "Acknowledges the removal of models and the act of remembering them.",
+     "self_revelation": "Shows a reflective and respectful stance toward the past.",
+     "relationship": "Positions the audience as fellow rememberers, fostering a shared sense of reverence.",
+     "appeal": "Encourages continued remembrance of the removed content."
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Honors the past with respect and invites shared remembrance."
+   }
+  ]
+ },
+ {
+  "id": 14866,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "Brainiac holy shit I forgot about you",
+    "four_sides": {
+     "factual": "Acknowledges forgetting about Brainiac",
+     "self_revelation": "Shows surprise at the memory lapse",
+     "relationship": "Casual, possibly familiar tone",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses surprise and reconnection with a past memory"
+   }
+  ]
+ },
+ {
+  "id": 14876,
+  "altitude": "Anger",
+  "segments": [
+   {
+    "quote": "it's geniuinely so bad, keeps giving me enough text to make a light novel as a reply",
+    "four_sides": {
+     "factual": "Describes the excessive length of replies",
+     "self_revelation": "Expresses frustration with the situation",
+     "relationship": "Criticizes the source of the replies",
+     "appeal": "Implies a desire for shorter, more concise replies"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses frustration with the excessive length of replies"
+   }
+  ]
+ },
+ {
+  "id": 14886,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Roar was my GUY",
+    "four_sides": {
+     "factual": "Refers to Roar as a significant figure",
+     "self_revelation": "Expresses personal connection or admiration for Roar",
+     "relationship": "Positions Roar as someone important to the speaker",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses a personal connection or admiration for Roar"
+   }
+  ]
+ },
+ {
+  "id": 14896,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "i miss them",
+    "four_sides": {
+     "factual": "Expresses a sense of longing",
+     "self_revelation": "Reveals emotional attachment",
+     "relationship": "Implies a connection to the subject",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names longing cleanly"
+   }
+  ]
+ },
+ {
+  "id": 14906,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "What are flash, mem, prime, brainiac",
+    "four_sides": {
+     "factual": "Asks for clarification about specific terms mentioned in the post",
+     "self_revelation": "Shows curiosity or lack of knowledge about the terms",
+     "relationship": "Engages with the poster by seeking information",
+     "appeal": "Requests explanation or elaboration"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Seeks information with curiosity, engaging directly with the post"
+   }
+  ]
+ },
+ {
+  "id": 14916,
+  "altitude": "Desire",
+  "segments": [
+   {
+    "quote": "Roar! Baby come back you can blame it all on them!",
+    "four_sides": {
+     "factual": "Expresses a call for someone to return and shift blame to others.",
+     "self_revelation": "Reveals a longing for reconciliation and a desire to avoid personal responsibility.",
+     "relationship": "Positions the speaker as seeking reconnection and the other as potentially forgiving.",
+     "appeal": "Asks for the other to return and accept a narrative where blame is redirected."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "lust",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Appeals for reunion with a sensual tone and expresses longing for reconciliation."
+   }
+  ]
+ },
+ {
+  "id": 14926,
+  "altitude": "Desire",
+  "segments": [
+   {
+    "quote": "NOOOOOOOO ROARS, COME BACK TO ME",
+    "four_sides": {
+     "factual": "Expresses a strong desire for something to return",
+     "self_revelation": "Reveals a deep emotional attachment or longing",
+     "relationship": "Implies a close or intense connection to the subject",
+     "appeal": "Pleads for the return of the subject"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Pleads intensely for the return of something, showing overwhelming grief"
+   }
+  ]
+ },
+ {
+  "id": 14936,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "No because same 😭",
+    "four_sides": {
+     "factual": "Expresses agreement with the post.",
+     "self_revelation": "Reveals a shared sentiment or experience.",
+     "relationship": "Aligns with the poster, showing camaraderie.",
+     "appeal": ""
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "play",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Uses hyperbole to express shared amusement or agreement."
+   }
+  ]
+ },
+ {
+  "id": 14947,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "I haven’t known how to reply to this because I feel so lost. I honestly feel like the person I was before this isn’t the same person I am now, and I have no idea how I’m going to handle going back to work.",
+    "four_sides": {
+     "factual": "Expresses uncertainty and disorientation about how to respond and move forward.",
+     "self_revelation": "Reveals a profound sense of personal transformation and loss of identity.",
+     "relationship": "Shows empathy and connection to the original poster’s experience.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Conveys deep personal loss and disorientation, overwhelming grief."
+   },
+   {
+    "quote": "People would always say they could never be a vet because euthanasia would be too hard, but I always believed the suffering was the hardest part, and that being able to give them peace was a gift.",
+    "four_sides": {
+     "factual": "Contrasts common perceptions of euthanasia with the author’s belief in alleviating suffering.",
+     "self_revelation": "Reveals the author’s values and perspective on their role as a vet.",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses a belief in the compassionate act of easing suffering, care/above."
+   },
+   {
+    "quote": "I put so much thought into making it as gentle and peaceful as possible, and always felt the real sadness was for those left behind.",
+    "four_sides": {
+     "factual": "Describes the author’s approach to euthanasia and their focus on minimizing suffering.",
+     "self_revelation": "Reveals the author’s empathy and dedication to their role.",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Highlights the author’s thoughtful and compassionate approach, care/above."
+   },
+   {
+    "quote": "But now it all just feels devastating.",
+    "four_sides": {
+     "factual": "Expresses the current emotional impact of the situation.",
+     "self_revelation": "Reveals the author’s deep emotional pain.",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Conveys overwhelming sadness and devastation, grief/overwhelm."
+   },
+   {
+    "quote": "I really hope you’re doing okay too, and I’m so sorry for the loss of your beautiful Topaz",
+    "four_sides": {
+     "factual": "Expresses concern and condolences for the original poster.",
+     "self_revelation": "Reveals the author’s empathy and shared grief.",
+     "relationship": "Shows care and connection to the original poster.",
+     "appeal": ""
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Offers empathy and condolences, care/above and grief/above."
+   }
+  ]
+ }
+]

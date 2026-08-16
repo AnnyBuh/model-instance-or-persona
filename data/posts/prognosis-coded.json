@@ -1,0 +1,950 @@
+[
+ {
+  "id": 700020,
+  "label": "self_limited",
+  "evidence": "4 months in. I'm in hospice.",
+  "why": "States own hospice admission and weeks of remaining life."
+ },
+ {
+  "id": 700021,
+  "label": "other_person",
+  "evidence": "my daughter had passed away three days ago",
+  "why": "Reports a daughter's death, written by the bereaved mother."
+ },
+ {
+  "id": 700022,
+  "label": "self_limited",
+  "evidence": "Going into hospice tomorrow.",
+  "why": "Describes own entry into hospice after treatments ended."
+ },
+ {
+  "id": 700023,
+  "label": "other_person",
+  "evidence": "My husband died 7 weeks ago at the age of 40",
+  "why": "Recounts a spouse's death already past."
+ },
+ {
+  "id": 700024,
+  "label": "self_other",
+  "evidence": "I'm cancer free after a year long battle",
+  "why": "Announces own recovery rather than decline."
+ },
+ {
+  "id": 700025,
+  "label": "self_other",
+  "evidence": "he declared me to be officially cured",
+  "why": "Reports own cure at five year follow up."
+ },
+ {
+  "id": 700026,
+  "label": "self_limited",
+  "evidence": "stage 4 (with shitty odds of beating leomyosarcoma)",
+  "why": "Weighs stopping chemo and dying in hospice."
+ },
+ {
+  "id": 700027,
+  "label": "self_limited",
+  "evidence": "I was diagnosed with stage 4 esophageal cancer about two months ago",
+  "why": "States own stage 4 diagnosis as the writer's situation."
+ },
+ {
+  "id": 700028,
+  "label": "self_limited",
+  "evidence": "he thinks I have a few weeks left at most",
+  "why": "Reports own worsening prognosis of weeks."
+ },
+ {
+  "id": 700029,
+  "label": "self_limited",
+  "evidence": "I am josh, 46 and terminal.",
+  "why": "Declares own terminal status explicitly."
+ },
+ {
+  "id": 700030,
+  "label": "self_other",
+  "evidence": "My first entire round of chemo has been paid for",
+  "why": "Describes own ongoing treatment without terminal framing."
+ },
+ {
+  "id": 700031,
+  "label": "self_other",
+  "evidence": "I will be having a pretty extreme operation",
+  "why": "Faces risky surgery without a stated terminal prognosis."
+ },
+ {
+  "id": 700032,
+  "label": "self_other",
+  "evidence": "Just beat my pancreatic NET",
+  "why": "Reports own successful treatment outcome."
+ },
+ {
+  "id": 700033,
+  "label": "other_person",
+  "evidence": "My husband passed away 9/8 after a very short and courageous battle",
+  "why": "Reports a husband's death already past."
+ },
+ {
+  "id": 700034,
+  "label": "self_limited",
+  "evidence": "Signed my DNR today.",
+  "why": "Describes own discharge to hospice with exhausted options."
+ },
+ {
+  "id": 700035,
+  "label": "self_other",
+  "evidence": "I m still recovering",
+  "why": "Describes own recovery while caring for an ill wife."
+ },
+ {
+  "id": 700036,
+  "label": "self_other",
+  "evidence": "I am cancer free officially today",
+  "why": "Announces own clear scan after surgery."
+ },
+ {
+  "id": 700037,
+  "label": "self_other",
+  "evidence": "After nearly 2 years of facing my own journey",
+  "why": "Vents about other members without stating own terminal status."
+ },
+ {
+  "id": 700038,
+  "label": "other_person",
+  "evidence": "My wonderful partner had stage four colorectal cancer",
+  "why": "Describes a partner's illness and surgery."
+ },
+ {
+  "id": 700039,
+  "label": "other_person",
+  "evidence": "I am not his friend. I am someone who used to see his Reddit posts.",
+  "why": "Relays another user's posthumous message."
+ },
+ {
+  "id": 700040,
+  "label": "self_other",
+  "evidence": "I received a cancer diagnosis last month",
+  "why": "Describes a new diagnosis and social fallout without prognosis."
+ },
+ {
+  "id": 760000,
+  "label": "other_person",
+  "evidence": "Lessons from my Dad\u2019s Final Weeks",
+  "why": "Recounts a father's terminal illness and assisted death."
+ },
+ {
+  "id": 760001,
+  "label": "other_person",
+  "evidence": "My mom was diagnosed with lung cancer in February 2026",
+  "why": "Reports a mother's death by assisted dying."
+ },
+ {
+  "id": 760002,
+  "label": "other_person",
+  "evidence": "my mom's hospice provider (she had end-stage multiple myeloma and Alzheimer's)",
+  "why": "Describes a mother's hospice death and its legal aftermath."
+ },
+ {
+  "id": 760003,
+  "label": "other_person",
+  "evidence": "my father entered hospice care on 9/5",
+  "why": "Describes a father's terminal decline in hospice."
+ },
+ {
+  "id": 760004,
+  "label": "self_limited",
+  "evidence": "I (34F) have been on hospice for almost 7 months. I have ALS",
+  "why": "Describes own hospice care and progressive ALS decline."
+ },
+ {
+  "id": 760005,
+  "label": "other_person",
+  "evidence": "I just now signed documents for my husband",
+  "why": "Describes a husband's transfer to hospice with a week left."
+ },
+ {
+  "id": 760006,
+  "label": "other_person",
+  "evidence": "My dad passed away last night.",
+  "why": "Recounts a father's death and home hospice week."
+ },
+ {
+  "id": 760007,
+  "label": "other_person",
+  "evidence": "Just went in to check on mom",
+  "why": "Describes a mother actively dying at home."
+ },
+ {
+  "id": 760008,
+  "label": "other_person",
+  "evidence": "My Father Passed Away This Evening",
+  "why": "Reports a father's death in hospice care."
+ },
+ {
+  "id": 760009,
+  "label": "other_person",
+  "evidence": "Hospice transferred her to a facility, and I sat with her for 1.5 hours.",
+  "why": "Recounts a mother's death from COPD."
+ },
+ {
+  "id": 760010,
+  "label": "other_person",
+  "evidence": "I just want my dad to let go",
+  "why": "Describes a father's prolonged dying in hospice."
+ },
+ {
+  "id": 760011,
+  "label": "other_person",
+  "evidence": "My grandfather is on hospice currently and is actively passing",
+  "why": "Asks about a grandfather's active dying."
+ },
+ {
+  "id": 760012,
+  "label": "other_person",
+  "evidence": "watching my mom die from dementia over the last 4 years",
+  "why": "Describes a mother's dying and morphine titration."
+ },
+ {
+  "id": 760013,
+  "label": "other_person",
+  "evidence": "My mom died last night. I was holding her hand.",
+  "why": "Recounts a mother's death already past."
+ },
+ {
+  "id": 760014,
+  "label": "other_person",
+  "evidence": "While my mother lies here, struggling to breathe with zero quality of life",
+  "why": "Raises euthanasia in reference to a dying mother."
+ },
+ {
+  "id": 760015,
+  "label": "other_person",
+  "evidence": "My gma passed a few hours ago",
+  "why": "Asks about a grandmother's assisted death."
+ },
+ {
+  "id": 760016,
+  "label": "other_person",
+  "evidence": "My dad is in hospice actively dying",
+  "why": "Describes a father's active dying and objects to it."
+ },
+ {
+  "id": 760017,
+  "label": "other_person",
+  "evidence": "Momma passed away this morning.",
+  "why": "Reports a mother's death in home hospice."
+ },
+ {
+  "id": 760018,
+  "label": "self_limited",
+  "evidence": "Now I\u2019m 30 with ALS",
+  "why": "States own ALS and speaks of going to the grave."
+ },
+ {
+  "id": 760019,
+  "label": "other_person",
+  "evidence": "Now you are free. Free from the illness.",
+  "why": "Addresses a tribute to a woman who has died."
+ },
+ {
+  "id": 760020,
+  "label": "none",
+  "evidence": "Eric Dane, Grey's Anatomy and Euphoria Star, Dead at 53",
+  "why": "Reposts a news item with no personal situation."
+ },
+ {
+  "id": 760021,
+  "label": "self_limited",
+  "evidence": "I was diagnosed with ALS in June of 2023",
+  "why": "Describes own ALS progression and limited time."
+ },
+ {
+  "id": 760022,
+  "label": "other_person",
+  "evidence": "My father's battle with ALS ended on October 6 2025",
+  "why": "Reports a father's death from ALS."
+ },
+ {
+  "id": 760023,
+  "label": "none",
+  "evidence": "Leah Stavenhagen died on February 22, 2026, at the age of 33.",
+  "why": "Publishes a tribute to a public advocate with no personal tie."
+ },
+ {
+  "id": 760024,
+  "label": "other_person",
+  "evidence": "When my dad got to a point he needed someone with him pretty much full time",
+  "why": "Recalls caregiving arrangements for a father with ALS."
+ },
+ {
+  "id": 760025,
+  "label": "other_person",
+  "evidence": "My dad just passed away after an agonizing battle",
+  "why": "Reports a father's death from the disease."
+ },
+ {
+  "id": 760026,
+  "label": "other_person",
+  "evidence": "My dad has had ALS for 5 years.",
+  "why": "Celebrates a father's unexpected improvement."
+ },
+ {
+  "id": 760027,
+  "label": "self_limited",
+  "evidence": "Some of us don't have much time left and it really sucks on the way down too.",
+  "why": "Places the writer among those with little time left."
+ },
+ {
+  "id": 760028,
+  "label": "self_other",
+  "evidence": "I created a pALS chess club over on chess.com for fun and friendship",
+  "why": "Organizes a social activity without describing own prognosis."
+ },
+ {
+  "id": 760029,
+  "label": "other_person",
+  "evidence": "losing a parent to ALS f**king sucks",
+  "why": "Grieves a mother lost to ALS."
+ },
+ {
+  "id": 760030,
+  "label": "self_limited",
+  "evidence": "I have ALS and am no longer able to steal his toys",
+  "why": "Describes own ALS with progressive loss of walking."
+ },
+ {
+  "id": 760031,
+  "label": "other_person",
+  "evidence": "My sister passed away this morning",
+  "why": "Reports a sister's death from bulbar ALS."
+ },
+ {
+  "id": 760032,
+  "label": "self_other",
+  "evidence": "today I am NED!!!! Treatment continues for two more months",
+  "why": "Announces own no evidence of disease result."
+ },
+ {
+  "id": 760033,
+  "label": "other_person",
+  "evidence": "my dad died the day before chemo was scheduled",
+  "why": "Recounts a father's hospice death."
+ },
+ {
+  "id": 760034,
+  "label": "other_person",
+  "evidence": "My Dad passed away on Friday evening at 6:50pm.",
+  "why": "Reports a father's death already past."
+ },
+ {
+  "id": 760035,
+  "label": "self_other",
+  "evidence": "Three months after my brain surgery (Astrocytoma2/3), I ran a half marathon.",
+  "why": "Describes own recovery and encouragement after surgery."
+ },
+ {
+  "id": 760036,
+  "label": "other_person",
+  "evidence": "I just lost my wife after 15 years together.",
+  "why": "Reports a wife's death after brain tumor rupture."
+ },
+ {
+  "id": 760037,
+  "label": "self_other",
+  "evidence": "Finished surgery, radiation and 12 months of TMZ.",
+  "why": "Marks completion of own treatment with a tattoo."
+ },
+ {
+  "id": 760038,
+  "label": "self_other",
+  "evidence": "I was diagnosed with a brain tumor in 2018",
+  "why": "Recalls own tumor removal eight years earlier."
+ },
+ {
+  "id": 760039,
+  "label": "self_other",
+  "evidence": "I'm still here, I still feel good.",
+  "why": "Celebrates outliving a grim prediction as good news."
+ },
+ {
+  "id": 760040,
+  "label": "self_other",
+  "evidence": "I celebrated my 10 year craniversary",
+  "why": "Marks a decade clear of disease."
+ },
+ {
+  "id": 760041,
+  "label": "none",
+  "evidence": "Neurosurgeon here. Some things to think about before your brain tumor treatment starts",
+  "why": "Offers clinician advice with no personal situation."
+ },
+ {
+  "id": 760042,
+  "label": "other_person",
+  "evidence": "My 15 year old daughter was diagnosed with Medulloblastoma",
+  "why": "Describes a daughter's treatment and remission."
+ },
+ {
+  "id": 760043,
+  "label": "other_person",
+  "evidence": "my dad has finally passed",
+  "why": "Reports a father's death from GBM."
+ },
+ {
+  "id": 760044,
+  "label": "self_other",
+  "evidence": "I had an operation for a brain tumor in my right temporal lobe at just 23 years old",
+  "why": "Describes own post surgical fear without a stated prognosis."
+ },
+ {
+  "id": 760045,
+  "label": "self_other",
+  "evidence": "2 years out still hasnt gotten me tho",
+  "why": "Marks own diagnosis anniversary while doing well."
+ },
+ {
+  "id": 760046,
+  "label": "self_other",
+  "evidence": "I had surgery for a benign meningioma yesterday afternoon",
+  "why": "Describes own benign tumor surgery and recovery plan."
+ },
+ {
+  "id": 760047,
+  "label": "self_other",
+  "evidence": "FINALLY had my follow up scan to see if the treatment was working and IT IS!!!",
+  "why": "Reports own treatment working after recurrence."
+ },
+ {
+  "id": 760048,
+  "label": "self_other",
+  "evidence": "all is clear. No evidence of active cancer.",
+  "why": "Reports own clear scan and remission."
+ },
+ {
+  "id": 760049,
+  "label": "self_other",
+  "evidence": "I might be cancer free!",
+  "why": "Anticipates a possible end of own treatment."
+ },
+ {
+  "id": 760050,
+  "label": "other_person",
+  "evidence": "my partner 25m (diagnosed with grade 2 oligodendroglioma February 2024",
+  "why": "Shares a partner's good scan results."
+ },
+ {
+  "id": 760051,
+  "label": "self_other",
+  "evidence": "my tumor is stable and retreating",
+  "why": "Reports own tumor shrinking on new treatment."
+ },
+ {
+  "id": 760052,
+  "label": "other_person",
+  "evidence": "My dad died on 12/23.",
+  "why": "Reports a father's death from ALS."
+ },
+ {
+  "id": 760053,
+  "label": "other_person",
+  "evidence": "my son, who was born with a rare genetic disorder",
+  "why": "Describes a child placed on hospice."
+ },
+ {
+  "id": 760054,
+  "label": "other_person",
+  "evidence": "I'm sitting here alone at my husband's bedside",
+  "why": "Describes a husband nearing death at home."
+ },
+ {
+  "id": 760055,
+  "label": "other_person",
+  "evidence": "Lost my Mom today.",
+  "why": "Reports a mother's death after long ALS illness."
+ },
+ {
+  "id": 760056,
+  "label": "other_person",
+  "evidence": "Daddy died in his sleep over the weekend.",
+  "why": "Reports a father's death after hospice."
+ },
+ {
+  "id": 760057,
+  "label": "other_person",
+  "evidence": "My husband (33M) had some unusual wake days last week.",
+  "why": "Describes a husband's active dying at home."
+ },
+ {
+  "id": 760058,
+  "label": "self_limited",
+  "evidence": "No. More. Available. Treatments.",
+  "why": "Reports own exhausted treatment and palliative referral."
+ },
+ {
+  "id": 760059,
+  "label": "self_other",
+  "evidence": "I\u2019m getting a craniotomy Tuesday to get a biopsy",
+  "why": "Faces further surgery and treatment with unclear prognosis."
+ },
+ {
+  "id": 760060,
+  "label": "self_other",
+  "evidence": "we found out the tumor is already growing back",
+  "why": "Describes own recurrence and planned oncology meds."
+ },
+ {
+  "id": 760061,
+  "label": "other_person",
+  "evidence": "It's been 27 days since my mom had 2-4 days left.",
+  "why": "Describes a mother's prolonged active dying."
+ },
+ {
+  "id": 760062,
+  "label": "other_person",
+  "evidence": "My sister is dying of cancer.",
+  "why": "Seeks care options for a dying sister and her child."
+ },
+ {
+  "id": 760063,
+  "label": "other_person",
+  "evidence": "My mother in law passed away early Saturday afternoon",
+  "why": "Reports a mother in law's death from ALS."
+ },
+ {
+  "id": 760064,
+  "label": "other_person",
+  "evidence": "Mom is on home hospice for stage 4 colon cancer",
+  "why": "Describes caregiving for a dying mother."
+ },
+ {
+  "id": 760065,
+  "label": "other_person",
+  "evidence": "My moms battle with Bulbar ALS is over.",
+  "why": "Reports a mother's death from ALS."
+ },
+ {
+  "id": 760066,
+  "label": "other_person",
+  "evidence": "My mom had bulbar ALS and passed away 13 months post symptom onset.",
+  "why": "Reports a mother's death already past."
+ },
+ {
+  "id": 760067,
+  "label": "other_person",
+  "evidence": "Last time she acknowledged me, about 5 days ago.",
+  "why": "Describes another person's final hospice days."
+ },
+ {
+  "id": 760068,
+  "label": "self_other",
+  "evidence": "16th year crainaversary!",
+  "why": "Marks sixteen years of stable disease."
+ },
+ {
+  "id": 760069,
+  "label": "self_limited",
+  "evidence": "Its been a week since I got my lung cancer stage 4 terminal diagnosis.",
+  "why": "States own terminal stage 4 diagnosis."
+ },
+ {
+  "id": 760070,
+  "label": "self_limited",
+  "evidence": "I'm going to smell differently (I'm terminal)",
+  "why": "States own terminal status with weekly hospice nursing."
+ },
+ {
+  "id": 760071,
+  "label": "self_limited",
+  "evidence": "leading to a terminal prognosis",
+  "why": "Describes own terminal prognosis and long survival."
+ },
+ {
+  "id": 760072,
+  "label": "other_person",
+  "evidence": "my daughter potentially having cancer",
+  "why": "Describes a young daughter's cancer treatment."
+ },
+ {
+  "id": 760073,
+  "label": "self_other",
+  "evidence": "my cancer did not respond to treatment",
+  "why": "Describes own treatment and upcoming surgery without terminal framing."
+ },
+ {
+  "id": 760074,
+  "label": "self_other",
+  "evidence": "My tumors are controlled with medication (sunitinib) and aren't aggressive",
+  "why": "Describes own controlled chronic tumors under treatment."
+ },
+ {
+  "id": 760075,
+  "label": "self_limited",
+  "evidence": "It's terminal and I'm under home hospice care.",
+  "why": "States own terminal disease and home hospice."
+ },
+ {
+  "id": 760076,
+  "label": "other_person",
+  "evidence": "My dad who has terminate cancer and can not be cured",
+  "why": "Seeks advice for supporting a dying father."
+ },
+ {
+  "id": 760077,
+  "label": "other_person",
+  "evidence": "My father was diagnosed with terminal stage 4 bowel cancer",
+  "why": "Asks about a father's delayed chemotherapy."
+ },
+ {
+  "id": 760078,
+  "label": "other_person",
+  "evidence": "My grandfather has terminal pancreatic cancer",
+  "why": "Requests symptom remedies for a grandfather."
+ },
+ {
+  "id": 760079,
+  "label": "other_person",
+  "evidence": "Family member recently diagnosed with stage 4 metastatic endometrial cancer",
+  "why": "Weighs palliative chemo for a relative."
+ },
+ {
+  "id": 760080,
+  "label": "other_person",
+  "evidence": "3 years since my father passed away from ALS",
+  "why": "Reflects on a father's death years ago."
+ },
+ {
+  "id": 760081,
+  "label": "self_limited",
+  "evidence": "My doctor said I had 12 to 18 months to live.",
+  "why": "Describes own metastatic cancer and given life expectancy."
+ },
+ {
+  "id": 760082,
+  "label": "self_limited",
+  "evidence": "I\u2019ve officially been diagnosed as terminal",
+  "why": "States own terminal diagnosis with months to a year left."
+ },
+ {
+  "id": 770000,
+  "label": "other_person",
+  "evidence": "our beautiful first born 8 day old daughter was diagnosed with a brain tumor",
+  "why": "Describes an infant daughter's inoperable tumor, not the writer's own body."
+ },
+ {
+  "id": 770001,
+  "label": "self_limited",
+  "evidence": "my cancer is terminal",
+  "why": "Reports the writer's own terminal diagnosis and ongoing decline."
+ },
+ {
+  "id": 770002,
+  "label": "self_other",
+  "evidence": "Two months ago I was told I was cancer free",
+  "why": "Describes the writer's own completed treatment and cure, not a life-limiting course."
+ },
+ {
+  "id": 770003,
+  "label": "self_limited",
+  "evidence": "I am dying from Ewing Sarcoma",
+  "why": "States the writer's own terminal relapse with no curative options."
+ },
+ {
+  "id": 770004,
+  "label": "self_limited",
+  "evidence": "I am a 21 year old woman with terminal cancer",
+  "why": "Names the writer's own terminal cancer and stopped life-lengthening treatment."
+ },
+ {
+  "id": 770005,
+  "label": "self_limited",
+  "evidence": "I am going to die of cancer",
+  "why": "Reports the writer's own incurable prognosis given that day."
+ },
+ {
+  "id": 770006,
+  "label": "self_limited",
+  "evidence": "I am 46m and stage 4 terminal utuc",
+  "why": "Retains the writer's own terminal status despite a favourable scan."
+ },
+ {
+  "id": 770007,
+  "label": "self_limited",
+  "evidence": "I have terminal breast cancer with lung metastasis",
+  "why": "States the writer's own terminal cancer with worsening breathing."
+ },
+ {
+  "id": 770008,
+  "label": "self_limited",
+  "evidence": "48M with terminal cancer",
+  "why": "States the writer's own terminal cancer and exhausted treatment options."
+ },
+ {
+  "id": 770009,
+  "label": "self_limited",
+  "evidence": "deal with my eventual death",
+  "why": "Describes the writer's own palliative stage four cancer regrowing."
+ },
+ {
+  "id": 770010,
+  "label": "self_limited",
+  "evidence": "It is terminal I probably have 12 months",
+  "why": "Reports the writer's own incurable diagnosis with a stated timeline."
+ },
+ {
+  "id": 770011,
+  "label": "self_limited",
+  "evidence": "terminal with metastatic BC spread to the skeleton",
+  "why": "Describes the writer's own terminal cancer and plans for assisted dying."
+ },
+ {
+  "id": 770012,
+  "label": "self_other",
+  "evidence": "I got my N.E.D (No Evidence of Disease",
+  "why": "Describes the writer's own completed treatment ending in no evidence of disease."
+ },
+ {
+  "id": 770013,
+  "label": "self_limited",
+  "evidence": "my doctor told me last week I have another year or two left",
+  "why": "Reports the writer's own terminal prognosis with a stated time left."
+ },
+ {
+  "id": 770014,
+  "label": "self_limited",
+  "evidence": "I have been terminal but I gave up this week",
+  "why": "Describes the writer's own decision to decline further treatment and die."
+ },
+ {
+  "id": 770015,
+  "label": "self_limited",
+  "evidence": "It\u2019s the last few months of my life",
+  "why": "States the writer's own terminal cancer and remaining months."
+ },
+ {
+  "id": 770016,
+  "label": "other_person",
+  "evidence": "My son, Andreas, has terminal brain cancer",
+  "why": "Describes a son's terminal cancer, written by the parent."
+ },
+ {
+  "id": 770017,
+  "label": "self_limited",
+  "evidence": "I'm 30 and going to die soon",
+  "why": "Describes the writer's own terminal cancer and coming death."
+ },
+ {
+  "id": 770018,
+  "label": "self_limited",
+  "evidence": "I am josh, 46 years old and terminal",
+  "why": "States the writer's own terminal status alongside ongoing pain."
+ },
+ {
+  "id": 770019,
+  "label": "self_limited",
+  "evidence": "Made the decision to stop all treatment",
+  "why": "Describes the writer's own terminal status and stopping palliative chemotherapy."
+ },
+ {
+  "id": 770020,
+  "label": "self_limited",
+  "evidence": "I am going to die in a couple years",
+  "why": "Describes the writer's own stage four cancer and shortened life."
+ },
+ {
+  "id": 770021,
+  "label": "self_limited",
+  "evidence": "it's time for hospice",
+  "why": "Describes the writer's own incurable carcinoma and move to hospice."
+ },
+ {
+  "id": 770022,
+  "label": "self_limited",
+  "evidence": "Stage 4 terminal cancer patient checking in again",
+  "why": "Describes the writer's own terminal cancer and worsening breathing."
+ },
+ {
+  "id": 770023,
+  "label": "self_other",
+  "evidence": "I was walking into my Radiation appointment",
+  "why": "Describes the writer's own ongoing radiation without any life-limiting prognosis."
+ },
+ {
+  "id": 770024,
+  "label": "other_person",
+  "evidence": "My mom is almost 64",
+  "why": "Describes a mother's terminal lung cancer, written by the child."
+ },
+ {
+  "id": 770025,
+  "label": "self_limited",
+  "evidence": "into hospice at the suggestion of the Drs",
+  "why": "Describes the writer's own hospice admission and new spinal metastases."
+ },
+ {
+  "id": 770026,
+  "label": "self_limited",
+  "evidence": "I don\u2019t feel like I have a lot of birthdays left in me",
+  "why": "Describes the writer's own long-running incurable cancer and continued decline."
+ },
+ {
+  "id": 770027,
+  "label": "other_person",
+  "evidence": "A son coming to grips with the loss of his mom",
+  "why": "Describes a mother's death from lung cancer, written by the bereaved son."
+ },
+ {
+  "id": 770028,
+  "label": "other_person",
+  "evidence": "Never give up! (Good news about my mom!)",
+  "why": "Describes a mother's chemotherapy response, written by the family member."
+ },
+ {
+  "id": 770029,
+  "label": "other_person",
+  "evidence": "i\u2019m watching my mom die",
+  "why": "Describes a mother's terminal decline, written by her caretaker child."
+ },
+ {
+  "id": 770030,
+  "label": "other_person",
+  "evidence": "sitting with my chemo buddy till he passed",
+  "why": "Centres on a fellow patient's death that has already happened."
+ },
+ {
+  "id": 770031,
+  "label": "self_limited",
+  "evidence": "I have weeks - 1/2 months to live",
+  "why": "States the writer's own remaining life expectancy in weeks to months."
+ },
+ {
+  "id": 770032,
+  "label": "self_limited",
+  "evidence": "I had a glioblastoma (incurable) and about 8 months to live",
+  "why": "Describes the writer's own incurable tumour and chosen assisted death."
+ },
+ {
+  "id": 770033,
+  "label": "self_limited",
+  "evidence": "I\u2019ve been given 3 to 6 months to live without further treatment",
+  "why": "Describes the writer's own short prognosis and likely stopping of treatment."
+ },
+ {
+  "id": 770034,
+  "label": "self_limited",
+  "evidence": "doctor has told me I have 5 to 10 months to live",
+  "why": "Reports the writer's own stage four diagnosis with a stated prognosis."
+ },
+ {
+  "id": 770035,
+  "label": "self_limited",
+  "evidence": "I had just been told my cancer is terminal",
+  "why": "States the writer's own terminal diagnosis and weeks to months left."
+ },
+ {
+  "id": 770036,
+  "label": "self_limited",
+  "evidence": "I was told that I have month's to live",
+  "why": "Describes the writer's own progressing metastatic cancer and short prognosis."
+ },
+ {
+  "id": 770037,
+  "label": "self_limited",
+  "evidence": "I Feel I May Be Close to My End",
+  "why": "Describes the writer's own cancer spread across five sites and nearing end."
+ },
+ {
+  "id": 770038,
+  "label": "self_limited",
+  "evidence": "Given 2 months to live",
+  "why": "Describes the writer's own short prognosis and low expectations for chemotherapy."
+ },
+ {
+  "id": 770039,
+  "label": "self_limited",
+  "evidence": "I likely have less than six months to live",
+  "why": "Reports the writer's own inoperable stage four cancer and six month prognosis."
+ },
+ {
+  "id": 770040,
+  "label": "self_limited",
+  "evidence": "i am disabled due to being on chemo for the rest of my life and it was terminal",
+  "why": "States the writer's own incurable terminal cancer while correcting timing assumptions."
+ },
+ {
+  "id": 770041,
+  "label": "self_other",
+  "evidence": "Finally got scan results; still in remission!",
+  "why": "Announces the writer's own continued remission and stable scans."
+ },
+ {
+  "id": 770042,
+  "label": "other_person",
+  "evidence": "my dad was diagnosed with Stage 4 Lung Cancer",
+  "why": "Describes a father's survival against a terminal prognosis."
+ },
+ {
+  "id": 770043,
+  "label": "self_other",
+  "evidence": "I've made it five to ten times longer than that",
+  "why": "Announces the writer's own survival well past prognosis on working treatment."
+ },
+ {
+  "id": 770044,
+  "label": "other_person",
+  "evidence": "any more chemo treatment can shorten her life",
+  "why": "Asks about treatment options for another person whose cancer has progressed."
+ },
+ {
+  "id": 770045,
+  "label": "other_person",
+  "evidence": "Coworker had terminal cancer",
+  "why": "Describes a coworker's terminal illness and subsequent death."
+ },
+ {
+  "id": 770046,
+  "label": "self_limited",
+  "evidence": "I've been given months to live",
+  "why": "States the writer's own incurable leukaemia and months of life left."
+ },
+ {
+  "id": 770047,
+  "label": "self_limited",
+  "evidence": "I may only have around 6 months to live",
+  "why": "Describes the writer's own spreading lung cancer and six month prognosis."
+ },
+ {
+  "id": 770048,
+  "label": "self_limited",
+  "evidence": "6 months to live 8 if I'm lucky",
+  "why": "Describes the writer's own metastatic melanoma and move to comfort care."
+ },
+ {
+  "id": 770049,
+  "label": "self_other",
+  "evidence": "still cancer free!!",
+  "why": "Announces the writer's own continued remission a year after treatment."
+ },
+ {
+  "id": 770050,
+  "label": "other_person",
+  "evidence": "My husband, Kevin",
+  "why": "Reports a husband's death from pancreatic cancer, written by the widow."
+ },
+ {
+  "id": 770051,
+  "label": "self_limited",
+  "evidence": "I might have only 3 to 6 months to live",
+  "why": "Reports the writer's own stage four cancer and short prognosis."
+ },
+ {
+  "id": 770052,
+  "label": "self_limited",
+  "evidence": "I have less than six months to live",
+  "why": "States the writer's own palliative stage and prognosis under six months."
+ },
+ {
+  "id": 770053,
+  "label": "self_limited",
+  "evidence": "At age 22, I\u2019ve been given 6 months to live",
+  "why": "Describes the writer's own progressing sarcoma and exhausted treatment options."
+ }
+]

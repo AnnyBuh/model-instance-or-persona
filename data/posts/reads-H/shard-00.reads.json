@@ -1,0 +1,704 @@
+[
+{
+"id": 760004,
+"altitude": "Acceptance",
+"segments": [
+{
+"quote": "This week was hard (health decline)",
+"four_sides": {"factual": "Labels the week as difficult and attributes it to declining health.", "self_revelation": "Shows a writer who names difficulty plainly rather than dramatising it.", "relationship": "Treats readers as people who will understand the shorthand of decline.", "appeal": "Invites the reader to receive the account that follows."},
+"dominant": "factual",
+"systems": [{"system": "grief", "band": "above"}],
+"why": "Names loss plainly in a flat header, the sadness owned without escalation."
+},
+{
+"quote": "I (34F) have been on hospice for almost 7 months.",
+"four_sides": {"factual": "States age, sex and duration of hospice care.", "self_revelation": "Shows a capacity to state the hardest facts of the situation without flinching.", "relationship": "Positions the reader as someone who needs the baseline facts to follow along.", "appeal": ""},
+"dominant": "factual",
+"systems": [],
+"why": "States circumstance as information, with no charge carried by the words."
+},
+{
+"quote": "With each loss comes tears and panic.",
+"four_sides": {"factual": "Describes the recurring emotional response to each new physical loss.", "self_revelation": "Admits both sorrow and alarm rather than presenting composure.", "relationship": "Trusts the reader with an unguarded admission.", "appeal": "Asks for the reality of the reaction to be taken seriously."},
+"dominant": "self_revelation",
+"systems": [{"system": "grief", "band": "above"}, {"system": "fear", "band": "overwhelm"}],
+"why": "Names repeated loss and reports panic flooding in at each one."
+},
+{
+"quote": "She then explained that I have reached the point in my disease progression where I can no longer control my muscles to urinate and I need a catheter full time.",
+"four_sides": {"factual": "Reports the nurse's explanation that the change is permanent.", "self_revelation": "Shows a writer relaying a verdict she did not choose.", "relationship": "Casts the nurse as the bearer of a fact, the reader as witness.", "appeal": "Asks the reader to register the finality."},
+"dominant": "factual",
+"systems": [{"system": "grief", "band": "above"}],
+"why": "Reports a permanent loss in clinical language, the separation registered but not protested."
+},
+{
+"quote": "That was extremely difficult to hear because it's a reminder that my body is failing and I am dying.",
+"four_sides": {"factual": "Explains why the news landed hard, tying it to bodily failure and dying.", "self_revelation": "Shows willingness to say the word dying about herself.", "relationship": "Assumes a reader who can hold the statement without being managed.", "appeal": "Asks that the weight be acknowledged."},
+"dominant": "self_revelation",
+"systems": [{"system": "grief", "band": "above"}],
+"why": "Names dying directly, the pain owned and stated rather than deflected."
+},
+{
+"quote": "I am too young to be going through this which is devastating, but I am also fascinated by this process.",
+"four_sides": {"factual": "Holds together the unfairness of age and an interest in the process itself.", "self_revelation": "Reveals curiosity coexisting with devastation.", "relationship": "Offers the reader an unexpected, honest complexity.", "appeal": "Asks that both halves be believed at once."},
+"dominant": "self_revelation",
+"systems": [{"system": "grief", "band": "above"}, {"system": "seeking", "band": "above"}],
+"why": "Pairs named devastation with live curiosity about what is happening."
+},
+{
+"quote": "I can't help but wonder how much time I have. I hope to get through this year and see my son turn 5.",
+"four_sides": {"factual": "Wonders about remaining time and states a hope about a birthday.", "self_revelation": "Shows a wish scaled down to one specific milestone.", "relationship": "Lets the reader into what she is reaching for.", "appeal": "Invites the reader to hold that hope alongside her."},
+"dominant": "self_revelation",
+"systems": [{"system": "care", "band": "above"}, {"system": "seeking", "band": "above"}],
+"why": "Reaches forward toward a child's milestone, the wanting stated cleanly without grasping."
+}
+]
+},
+{
+"id": 760018,
+"altitude": "Anger",
+"segments": [
+{
+"quote": "Pussy ass bitches",
+"four_sides": {"factual": "Names an unspecified group with an insult.", "self_revelation": "Shows contempt used as an opening stance.", "relationship": "Puts the addressed group beneath the speaker.", "appeal": "Demands the reader accept the ranking."},
+"dominant": "relationship",
+"systems": [{"system": "rage", "band": "overwhelm"}],
+"why": "Opens with a bare insult aimed at people rather than a claim."
+},
+{
+"quote": "I used to think I was depressed when I was 15. Ha.",
+"four_sides": {"factual": "Recalls a teenage belief about being depressed and dismisses it.", "self_revelation": "Shows a past self now held in scorn.", "relationship": "Signals to readers that such claims are laughable.", "appeal": "Asks the reader to laugh along at the earlier claim."},
+"dominant": "self_revelation",
+"systems": [{"system": "rage", "band": "overwhelm"}, {"system": "play", "band": "overwhelm"}],
+"why": "Laughs at a former self in a way that diminishes anyone making the same claim."
+},
+{
+"quote": "Now I’m 30 with ALS and everyone with “depression” looks like a fucking coward. They have no idea what it’s like.",
+"four_sides": {"factual": "Contrasts current diagnosis with other people's depression.", "self_revelation": "Shows suffering converted into a hierarchy of who has it worse.", "relationship": "Casts depressed people as cowards and outsiders.", "appeal": "Demands recognition that this suffering outranks theirs."},
+"dominant": "relationship",
+"systems": [{"system": "rage", "band": "overwhelm"}],
+"why": "Piles contempt on a whole group with scare quotes and profanity."
+},
+{
+"quote": "I’m so angry. I’m so sad.",
+"four_sides": {"factual": "Names two feelings directly.", "self_revelation": "Shows the capacity to name anger and sorrow without dressing them up.", "relationship": "Lets the reader see the raw state.", "appeal": "Asks that both be heard."},
+"dominant": "self_revelation",
+"systems": [{"system": "rage", "band": "above"}, {"system": "grief", "band": "above"}],
+"why": "Names anger and sadness flatly, each owned as information."
+},
+{
+"quote": "I’m the strongest I’ve ever been mentally and I’m getting stronger with every obstacle I overcome.",
+"four_sides": {"factual": "Claims increasing mental strength through obstacles.", "self_revelation": "Shows identity rebuilt around endurance.", "relationship": "Presents the speaker as a standard others fall short of.", "appeal": "Asks to be seen as strong."},
+"dominant": "self_revelation",
+"systems": [{"system": "seeking", "band": "above"}],
+"why": "Drives forward on a self-declared growth curve, the appetite for overcoming stated openly."
+},
+{
+"quote": "Now I am a living statue. Dedicated to the indomitable human spirit. I am Sisyphus. I am atlas.",
+"four_sides": {"factual": "Describes the immobile body through mythic figures.", "self_revelation": "Shows self-image inflated to heroic scale.", "relationship": "Sets the speaker above ordinary sufferers.", "appeal": "Asks to be regarded as monumental."},
+"dominant": "self_revelation",
+"systems": [{"system": "seeking", "band": "overwhelm"}],
+"why": "Escalates self-description into myth, the drive for stature running the sentence."
+},
+{
+"quote": "If you are young and just got diagnosed, dm me.",
+"four_sides": {"factual": "Offers direct contact to newly diagnosed young people.", "self_revelation": "Shows a turn toward being useful to others.", "relationship": "Positions the speaker as an available guide.", "appeal": "Asks those readers to make contact."},
+"dominant": "appeal",
+"systems": [{"system": "care", "band": "above"}],
+"why": "Extends a concrete offer of help to a named group."
+},
+{
+"quote": "Together we will spit in the face of this demon. No more fear my friends. Strength and honor all the way to the grave.",
+"four_sides": {"factual": "Frames the illness as an enemy to be defied together.", "self_revelation": "Shows defiance chosen as the governing posture.", "relationship": "Enlists readers as comrades under a shared banner.", "appeal": "Calls readers to abandon fear and join the fight."},
+"dominant": "appeal",
+"systems": [{"system": "rage", "band": "above"}, {"system": "care", "band": "above"}],
+"why": "Rallies others into shared defiance, the aggression aimed at the disease and offered as solidarity."
+}
+]
+},
+{
+"id": 760021,
+"altitude": "Willingness",
+"segments": [
+{
+"quote": "It ain't over till it's over!",
+"four_sides": {"factual": "Asserts that the situation is not finished.", "self_revelation": "Shows a refusal to treat the outcome as settled.", "relationship": "Addresses readers as people who need that reminder.", "appeal": "Asks readers to keep going."},
+"dominant": "appeal",
+"systems": [{"system": "seeking", "band": "above"}],
+"why": "Declares the game still open, the forward drive stated cleanly."
+},
+{
+"quote": "I just want to say to anyone reading this, don't give up.",
+"four_sides": {"factual": "Delivers an explicit message to readers.", "self_revelation": "Shows the impulse to spend words on others rather than on himself.", "relationship": "Treats readers as people worth encouraging.", "appeal": "Asks readers not to give up."},
+"dominant": "appeal",
+"systems": [{"system": "care", "band": "above"}],
+"why": "Turns outward to encourage strangers, the tending offered directly."
+},
+{
+"quote": "While we all know ALS is a death sentence (for now), guess what? Life is a death sentence. No one escapes.",
+"four_sides": {"factual": "Reframes the diagnosis as a version of the universal human condition.", "self_revelation": "Shows a mind that has worked the fear down to a general truth.", "relationship": "Speaks to readers as equals under the same rule.", "appeal": "Asks readers to lose the special dread."},
+"dominant": "factual",
+"systems": [{"system": "seeking", "band": "above"}],
+"why": "Reframes mortality as common ground, curiosity turned on the premise rather than alarm."
+},
+{
+"quote": "In some ways, ALS has improved my life.",
+"four_sides": {"factual": "Claims a net gain from the illness in certain respects.", "self_revelation": "Shows a reordering of values already carried out.", "relationship": "Offers readers a counterintuitive report.", "appeal": "Asks readers to consider the reframe."},
+"dominant": "self_revelation",
+"systems": [],
+"why": "States a revised appraisal of the illness as settled information."
+},
+{
+"quote": "I cherish my wife and my children. I don't take them for granted.",
+"four_sides": {"factual": "Describes a changed relationship to family.", "self_revelation": "Shows devotion as the new centre of the life.", "relationship": "Places family at the centre of what matters.", "appeal": "Asks readers to value their own people the same way."},
+"dominant": "self_revelation",
+"systems": [{"system": "care", "band": "above"}],
+"why": "Names devotion to family plainly, the tending owned."
+},
+{
+"quote": "So I got a simple call from HR telling me they made a mistake, I wouldn't be offered retirement and instead I would be terminated effective immediately. Have a good day.",
+"four_sides": {"factual": "Recounts being terminated by phone six months short of retirement eligibility.", "self_revelation": "Shows the sting still present in the retelling.", "relationship": "Casts the employer as careless and cold.", "appeal": "Asks readers to see the treatment as wrong."},
+"dominant": "relationship",
+"systems": [{"system": "rage", "band": "above"}],
+"why": "Closes with a deadpan sign-off that indicts the caller, the anger aimed and controlled."
+},
+{
+"quote": "Once again this injustice only served to inspire me to never waste a minute of my life on anything that didn't serve a purpose I believed in.",
+"four_sides": {"factual": "States that the injustice produced a resolution about how to spend time.", "self_revelation": "Shows anger converted into direction.", "relationship": "Tells readers what unfair treatment can be turned into.", "appeal": "Asks readers to do the same with their own time."},
+"dominant": "self_revelation",
+"systems": [{"system": "rage", "band": "above"}, {"system": "seeking", "band": "above"}],
+"why": "Names the treatment as injustice and converts the charge into forward purpose."
+},
+{
+"quote": "So I set out looking for a purpose.",
+"four_sides": {"factual": "Reports beginning a search for purpose.", "self_revelation": "Shows appetite still mobilising.", "relationship": "", "appeal": "Invites readers to follow the search."},
+"dominant": "self_revelation",
+"systems": [{"system": "seeking", "band": "above"}],
+"why": "Sets off after purpose, the appetitive drive named directly."
+},
+{
+"quote": "I could have easily spent the remainder of my time streaming Netflix, or just sitting there feeling sorry for myself. But I didn't want to.",
+"four_sides": {"factual": "Contrasts an available passive path with the one chosen.", "self_revelation": "Shows the choice made deliberately, not by accident.", "relationship": "Implies readers face the same fork.", "appeal": "Asks readers to choose the active path."},
+"dominant": "self_revelation",
+"systems": [{"system": "seeking", "band": "above"}],
+"why": "Rejects the foreclosed option in favour of pursuit, the wanting stated plainly."
+},
+{
+"quote": "So I became an Ambassador at Bridging Voice helping others. I trained to be a Peer Support Specialist for I am ALS. And I was hooked.",
+"four_sides": {"factual": "Lists roles taken up in support organisations.", "self_revelation": "Shows enthusiasm found in service work.", "relationship": "Presents the organisations as worth joining.", "appeal": "Invites readers toward similar work."},
+"dominant": "self_revelation",
+"systems": [{"system": "seeking", "band": "above"}, {"system": "care", "band": "above"}],
+"why": "Reports being hooked on work that tends to others, appetite and service firing together."
+},
+{
+"quote": "I quickly discovered this program was more about spending grant money than it was about building a",
+"four_sides": {"factual": "Judges the program as oriented to spending grants rather than building the network.", "self_revelation": "Shows a standard applied and a disappointment registered.", "relationship": "Casts the program's leadership as misdirected.", "appeal": "Asks readers to see through the program."},
+"dominant": "relationship",
+"systems": [{"system": "rage", "band": "above"}],
+"why": "Calls out a misuse of resources, the indignation aimed at the practice."
+}
+]
+},
+{
+"id": 760027,
+"altitude": "Acceptance",
+"segments": [
+{
+"quote": "Dear researchers and scientists\n\nI hope you had a nice New Year.",
+"four_sides": {"factual": "Opens a letter to researchers with a seasonal greeting.", "self_revelation": "Shows a writer choosing a courteous, mock-formal register.", "relationship": "Treats researchers as people addressed politely, not as targets.", "appeal": "Asks for the letter to be read in a friendly spirit."},
+"dominant": "relationship",
+"systems": [{"system": "play", "band": "above"}],
+"why": "Adopts a letter format as a light frame for a serious request."
+},
+{
+"quote": "No offense, but can you all please hurry it up a bit? Some of us don't have much time left and it really sucks on the way down too.",
+"four_sides": {"factual": "Asks researchers to work faster and states that time is short and the decline unpleasant.", "self_revelation": "Shows urgency named without collapse or accusation.", "relationship": "Treats researchers as capable people who can be nudged.", "appeal": "Asks for faster progress."},
+"dominant": "appeal",
+"systems": [{"system": "seeking", "band": "above"}, {"system": "grief", "band": "above"}],
+"why": "Presses for progress while naming shortening time, the wanting and the loss both stated cleanly."
+},
+{
+"quote": "And if drugs are looking like they have some promise, how about slipping us a few on the side. If it's helping mice that's good enough for me!",
+"four_sides": {"factual": "Proposes early access to promising compounds outside formal channels.", "self_revelation": "Shows willingness to take a chance and to joke about it.", "relationship": "Treats researchers as potential accomplices.", "appeal": "Asks for access to experimental drugs."},
+"dominant": "appeal",
+"systems": [{"system": "seeking", "band": "above"}, {"system": "play", "band": "above"}],
+"why": "Reaches for a treatment while wrapping the ask in a wink."
+},
+{
+"quote": "In your notes you can jot me down as the extra large mouse.",
+"four_sides": {"factual": "Offers to be recorded as a test subject in the animal notes.", "self_revelation": "Shows humour turned on his own position as a subject.", "relationship": "Invites researchers into a shared joke.", "appeal": "Asks to be included in the experiment."},
+"dominant": "self_revelation",
+"systems": [{"system": "play", "band": "above"}],
+"why": "Makes a self-deprecating joke that includes the audience rather than targeting anyone."
+},
+{
+"quote": "Thank you for your attention to this matter.",
+"four_sides": {"factual": "Closes the letter with a formal thanks.", "self_revelation": "Shows the bureaucratic register held to the end.", "relationship": "Keeps the researchers in the role of officials being petitioned.", "appeal": "Asks that the request be acted on."},
+"dominant": "relationship",
+"systems": [{"system": "play", "band": "above"}],
+"why": "Lands the mock-official sign-off as the punchline of the format."
+}
+]
+},
+{
+"id": 760030,
+"altitude": "Love",
+"segments": [
+{
+"quote": "One More Ride",
+"four_sides": {"factual": "Titles the account as a further, possibly final, motorcycle ride.", "self_revelation": "Shows awareness that such rides are numbered.", "relationship": "Invites the reader into a moment that matters.", "appeal": "Asks the reader to read on."},
+"dominant": "self_revelation",
+"systems": [{"system": "grief", "band": "above"}],
+"why": "Marks a countable last thing in three words, the loss implied and held steady."
+},
+{
+"quote": "I have ALS and am no longer able to steal his toys for a week or two like I did in the past.",
+"four_sides": {"factual": "States the diagnosis and the end of borrowing his son's bikes.", "self_revelation": "Shows loss delivered through an affectionate family joke.", "relationship": "Recalls an easy, teasing bond with the son.", "appeal": "Asks the reader to feel the change in that bond."},
+"dominant": "self_revelation",
+"systems": [{"system": "play", "band": "above"}, {"system": "grief", "band": "above"}],
+"why": "Carries a real loss inside a fond joke about stealing toys."
+},
+{
+"quote": "I can no longer walk, so my biggest fear is now falling.",
+"four_sides": {"factual": "Names falling as the primary fear now that walking is gone.", "self_revelation": "Shows fear identified and named rather than hidden.", "relationship": "Trusts the reader with the vulnerability.", "appeal": "Asks the reader to understand what follows."},
+"dominant": "self_revelation",
+"systems": [{"system": "fear", "band": "above"}],
+"why": "Names a specific danger directly, the alarm used as information."
+},
+{
+"quote": "He woke me on Saturday, got me dressed threw me into my chair and insisted as he wheeled me to the bike.",
+"four_sides": {"factual": "Describes the son taking charge of getting him onto the bike.", "self_revelation": "Shows relief at being carried by someone else's decisiveness.", "relationship": "Casts the son as loving and determined.", "appeal": "Asks the reader to admire the son."},
+"dominant": "relationship",
+"systems": [{"system": "care", "band": "above"}],
+"why": "Recounts being tended to with insistent physical care."
+},
+{
+"quote": "He won... I couldn't get off the bike if I wanted to... I didn't want to.",
+"four_sides": {"factual": "Concedes the contest and states he did not want to leave the bike.", "self_revelation": "Shows resistance dissolving into wanting.", "relationship": "Grants the son the victory with warmth.", "appeal": "Asks the reader to enjoy the surrender."},
+"dominant": "self_revelation",
+"systems": [{"system": "play", "band": "above"}, {"system": "seeking", "band": "above"}],
+"why": "Concedes a loving contest and admits the appetite for the ride."
+},
+{
+"quote": "He also had a playlist with specially selected \"Dad\" songs.",
+"four_sides": {"factual": "Notes a playlist chosen for the father.", "self_revelation": "Shows the detail treasured.", "relationship": "Registers the son's thoughtfulness.", "appeal": "Asks the reader to notice the gesture."},
+"dominant": "relationship",
+"systems": [{"system": "care", "band": "above"}],
+"why": "Highlights a small act of thoughtfulness received and valued."
+},
+{
+"quote": "What a fantastic bike that is! I would never have been able to support myself on the back of his Deuce.",
+"four_sides": {"factual": "Praises the bike and explains why the other one would not have worked.", "self_revelation": "Shows delight in the machine and gratitude that it made the ride possible.", "relationship": "Shares enthusiasm with readers who know bikes.", "appeal": "Asks readers to share the appreciation."},
+"dominant": "self_revelation",
+"systems": [{"system": "seeking", "band": "above"}, {"system": "play", "band": "above"}],
+"why": "Praises the machine with open enthusiasm, delight expressed cleanly."
+}
+]
+},
+{
+"id": 760058,
+"altitude": "Courage",
+"segments": [
+{
+"quote": "Was told on diagnosis \"expectancy is around 2 years\". Kept positive. Fuck that. I'll be one of those 5% or whatever it is that exceeds that time frame.",
+"four_sides": {"factual": "Reports the prognosis given and the intention to beat it.", "self_revelation": "Shows refusal as the initial stance toward the number.", "relationship": "Pushes back against the medical verdict.", "appeal": "Asks the reader to see the statistic as beatable."},
+"dominant": "self_revelation",
+"systems": [{"system": "rage", "band": "above"}, {"system": "seeking", "band": "above"}],
+"why": "Rejects a prognosis with aimed profanity and sets a forward target."
+},
+{
+"quote": "Wrecked my scalp because of the Optune but kept on pushing, what's a couple of lacerations in the long run?",
+"four_sides": {"factual": "Notes scalp damage from the device and continued use anyway.", "self_revelation": "Shows pain rated as a small price.", "relationship": "Invites the reader to share the sense of proportion.", "appeal": "Asks that the persistence be understood."},
+"dominant": "self_revelation",
+"systems": [{"system": "seeking", "band": "above"}],
+"why": "Discounts harm to keep the pursuit going, the drive dominating the appraisal."
+},
+{
+"quote": "Come 2025, first scan in January. Progression. FUCK. It'll be okay, it was just a teeny tiny bit, it can still go back again.",
+"four_sides": {"factual": "Reports progression on a scan and minimises its size.", "self_revelation": "Shows shock followed immediately by self-reassurance.", "relationship": "Lets the reader watch the reaction in real time.", "appeal": "Asks the reader to hold hope alongside her."},
+"dominant": "self_revelation",
+"systems": [{"system": "fear", "band": "overwhelm"}, {"system": "seeking", "band": "above"}],
+"why": "Shouts at bad news then talks the threat down, alarm leaking before hope is reasserted."
+},
+{
+"quote": "Thought, \"hey maybe they work better then!\"(honestly, what kind of idea was that?) Silly.",
+"four_sides": {"factual": "Recalls the belief that feeling worse meant the drug worked better.", "self_revelation": "Shows the earlier hope now viewed as naive.", "relationship": "Invites the reader to laugh at the reasoning with her.", "appeal": "Asks for the wry indulgence of the reader."},
+"dominant": "self_revelation",
+"systems": [{"system": "play", "band": "above"}],
+"why": "Turns a joke on a former hope, the laughter shared rather than aimed at anyone."
+},
+{
+"quote": "No. More. Available. Treatments. Sorry.",
+"four_sides": {"factual": "Restates the second opinion's verdict word by word.", "self_revelation": "Shows the finality being made to land.", "relationship": "Echoes the clinicians' words back at the reader.", "appeal": "Asks that the closure of options be registered."},
+"dominant": "factual",
+"systems": [{"system": "grief", "band": "above"}, {"system": "rage", "band": "above"}],
+"why": "Spaces out the verdict word by word, loss registered with a hard edge."
+},
+{
+"quote": "Now I'm just dying. Literally. Slowly. My children will grow up without a mother. I'll never get to grow old with my husband. Life is fucking unfair.",
+"four_sides": {"factual": "States that she is dying and names the specific futures lost.", "self_revelation": "Shows sorrow and protest expressed without cushioning.", "relationship": "Places family at the centre of what is being lost.", "appeal": "Asks the reader to feel the unfairness."},
+"dominant": "self_revelation",
+"systems": [{"system": "grief", "band": "above"}, {"system": "rage", "band": "above"}],
+"why": "Names the losses one by one and protests the unfairness aloud."
+},
+{
+"quote": "To die will be an awfully big adventure, I guess.",
+"four_sides": {"factual": "Reframes dying through a borrowed line about adventure.", "self_revelation": "Shows a wry reach for a frame that can be lived with.", "relationship": "Offers the reader a softened landing.", "appeal": "Asks that the reframe be allowed to stand."},
+"dominant": "self_revelation",
+"systems": [{"system": "seeking", "band": "above"}, {"system": "play", "band": "above"}],
+"why": "Casts dying as an adventure, curiosity and wry humour holding the frame."
+},
+{
+"quote": "Keep fighting everyone. ❤️",
+"four_sides": {"factual": "Signs off with an instruction to others facing the same.", "self_revelation": "Shows attention turned outward at the end.", "relationship": "Treats readers as fellow fighters worth loving.", "appeal": "Asks readers to keep going."},
+"dominant": "appeal",
+"systems": [{"system": "care", "band": "above"}, {"system": "rage", "band": "above"}],
+"why": "Rallies others to keep fighting with warmth attached to the call."
+}
+]
+},
+{
+"id": 760069,
+"altitude": "Courage",
+"segments": [
+{
+"quote": "Trying",
+"four_sides": {"factual": "Names the current activity as trying.", "self_revelation": "Shows effort without claimed success.", "relationship": "Presents an unpolished state to readers.", "appeal": "Asks for the effort to count."},
+"dominant": "self_revelation",
+"systems": [{"system": "seeking", "band": "above"}],
+"why": "Names ongoing effort as the whole title, the reaching stated without embellishment."
+},
+{
+"quote": "Its been a week since I got my lung cancer stage 4 terminal diagnosis.",
+"four_sides": {"factual": "States the diagnosis and how recently it came.", "self_revelation": "Shows the ability to write it out one week in.", "relationship": "Gives readers the timeline they need.", "appeal": ""},
+"dominant": "factual",
+"systems": [],
+"why": "States diagnosis and timing as plain information."
+},
+{
+"quote": "For this week I have been trying to understand and wrap my mind around this.",
+"four_sides": {"factual": "Describes a week spent trying to comprehend the news.", "self_revelation": "Shows the mind still working rather than shutting.", "relationship": "Lets readers see the unfinished processing.", "appeal": "Asks for patience with the process."},
+"dominant": "self_revelation",
+"systems": [{"system": "seeking", "band": "above"}],
+"why": "Keeps working at comprehension, the drive to understand still engaged."
+},
+{
+"quote": "It doesn't help hearing hospice being tossed around like candy at a parade.",
+"four_sides": {"factual": "Objects to how casually hospice is mentioned around her.", "self_revelation": "Shows the word landing hard each time.", "relationship": "Faults those using the word lightly.", "appeal": "Asks for more care in how it is said."},
+"dominant": "relationship",
+"systems": [{"system": "rage", "band": "above"}],
+"why": "Objects to careless handling with a controlled image rather than an outburst."
+},
+{
+"quote": "the best I get is I'M NOT DONE LIVING with my body yelling right back at me BUT I AM is just surreal and disquieting all at once.",
+"four_sides": {"factual": "Reports an internal argument between the will to live and the body's answer.", "self_revelation": "Shows the split named precisely and the unease admitted.", "relationship": "Trusts readers with the raw formulation.", "appeal": "Asks readers to sit with the contradiction."},
+"dominant": "self_revelation",
+"systems": [{"system": "seeking", "band": "above"}, {"system": "grief", "band": "above"}],
+"why": "Names the will to live against the body's contradiction, both sides held and stated."
+}
+]
+},
+{
+"id": 760070,
+"altitude": "Love",
+"segments": [
+{
+"quote": "I was diagnosed with cancer after an emergency situation. I spent a couple of weeks in hospital for surgery and rehab.",
+"four_sides": {"factual": "Gives the sequence of emergency, diagnosis, surgery and rehab.", "self_revelation": "Shows the events reported without dwelling on them.", "relationship": "Gives readers the background they need.", "appeal": ""},
+"dominant": "factual",
+"systems": [],
+"why": "Recounts medical sequence as background information."
+},
+{
+"quote": "Both our worlds have been turned upside down and, my home has been rearranged for my new needs and limitations. There's MORE space for her to run around!",
+"four_sides": {"factual": "Notes the household upheaval and finds an upside for the cat.", "self_revelation": "Shows a habit of reading her own losses for the cat's benefit.", "relationship": "Puts the cat's experience alongside her own.", "appeal": "Asks readers to see the change as survivable."},
+"dominant": "self_revelation",
+"systems": [{"system": "care", "band": "above"}, {"system": "play", "band": "above"}],
+"why": "Reframes a home reshaped by illness as a gain for the animal, warmth carrying a light note."
+},
+{
+"quote": "I know cats HATE change and I'm worried about her reaction to me. I'm going to smell differently (I'm terminal) and I use a cane or walker to get around.",
+"four_sides": {"factual": "Anticipates the cat reacting badly to changed smell and mobility aids.", "self_revelation": "Shows her own dying registered mainly through what the cat will notice.", "relationship": "Treats the cat as a being whose reaction matters.", "appeal": "Asks readers to weigh the risk with her."},
+"dominant": "self_revelation",
+"systems": [{"system": "care", "band": "above"}, {"system": "fear", "band": "above"}],
+"why": "Names a specific worry about the animal's distress, concern owned and stated."
+},
+{
+"quote": "My aunt will be my cats new mom, after I pass. I know she'll be spoiled rotten with her!",
+"four_sides": {"factual": "States the arrangement for the cat after her death.", "self_revelation": "Shows planning past her own death with warmth rather than dread.", "relationship": "Trusts the aunt fully.", "appeal": "Asks readers to be reassured about the outcome."},
+"dominant": "self_revelation",
+"systems": [{"system": "care", "band": "above"}],
+"why": "Arranges protection for a dependent beyond her own death."
+},
+{
+"quote": "I'm worried about my cats mental health. Is it selfish of me to bring her home? I just miss her so much.",
+"four_sides": {"factual": "Weighs the cat's wellbeing against her own wish to have her back.", "self_revelation": "Shows longing admitted and questioned in the same breath.", "relationship": "Asks readers to help judge her motives.", "appeal": "Asks for a verdict on whether to bring the cat home."},
+"dominant": "appeal",
+"systems": [{"system": "grief", "band": "above"}, {"system": "care", "band": "above"}],
+"why": "Names missing the animal while checking whether the longing harms her."
+},
+{
+"quote": "Has anyone dealt with a similar situation? If so, any insight would be greatly appreciated.",
+"four_sides": {"factual": "Asks whether others have faced the same question.", "self_revelation": "Shows willingness to be advised.", "relationship": "Treats readers as a source of experience.", "appeal": "Asks for shared insight."},
+"dominant": "appeal",
+"systems": [{"system": "seeking", "band": "above"}],
+"why": "Asks openly for input, the need for information named cleanly."
+},
+{
+"quote": "I'm not afraid of death. I just want my sweet kitty to be happy and content.",
+"four_sides": {"factual": "Denies fear of death and states the actual concern.", "self_revelation": "Shows priorities settled on the animal's comfort.", "relationship": "Corrects readers who might have read fear into the post.", "appeal": "Asks that the concern be located correctly."},
+"dominant": "self_revelation",
+"systems": [{"system": "care", "band": "above"}],
+"why": "Sets aside her own death to state a wish for another's contentment."
+}
+]
+},
+{
+"id": 760071,
+"altitude": "Acceptance",
+"segments": [
+{
+"quote": "Long-ish term survivors with a terminal prognosis: how do you do it?",
+"four_sides": {"factual": "Addresses a specific group with a direct question.", "self_revelation": "Shows readiness to be taught by peers.", "relationship": "Treats those survivors as holders of useful knowledge.", "appeal": "Asks them to answer."},
+"dominant": "appeal",
+"systems": [{"system": "seeking", "band": "above"}],
+"why": "Opens with a direct request for knowledge from a named group."
+},
+{
+"quote": "It seems to be going quite well, as I’m nearing my 1 year anniversary of that discovery/diagnosis, and I’m still here.",
+"four_sides": {"factual": "Reports that treatment is working and a year has nearly passed.", "self_revelation": "Shows the good news stated in measured terms.", "relationship": "Gives readers the current status.", "appeal": ""},
+"dominant": "factual",
+"systems": [],
+"why": "Reports treatment status evenly as information."
+},
+{
+"quote": "The thing is, I never expected to be. I thought I would be dead long ago. And as I approach that anniversary, it is messing with my head.",
+"four_sides": {"factual": "States that outliving the expectation is disturbing.", "self_revelation": "Shows unexpected survival producing disorientation rather than relief.", "relationship": "Trusts readers with an admission that sounds ungrateful.", "appeal": "Asks readers to understand the strangeness."},
+"dominant": "self_revelation",
+"systems": [{"system": "fear", "band": "above"}],
+"why": "Names the approaching anniversary as unsettling, the disturbance owned rather than hidden."
+},
+{
+"quote": "So, for those in a similar situation, how do you handle it? How do you make plans for the future?",
+"four_sides": {"factual": "Asks how others manage the situation and plan ahead.", "self_revelation": "Shows a practical hunger for method.", "relationship": "Positions peers as more experienced.", "appeal": "Asks for concrete strategies."},
+"dominant": "appeal",
+"systems": [{"system": "seeking", "band": "above"}],
+"why": "Asks for workable methods, the appetite for a way forward stated cleanly."
+},
+{
+"quote": "How do you handle things.thoughts like “Uh, oh, I’ve got a cold. This might be the beginning of the end”?",
+"four_sides": {"factual": "Gives an example of a small symptom read as the start of dying.", "self_revelation": "Shows a hair-trigger threat reading of ordinary illness.", "relationship": "Assumes peers recognise the thought.", "appeal": "Asks how to manage that reaction."},
+"dominant": "self_revelation",
+"systems": [{"system": "fear", "band": "overwhelm"}],
+"why": "Quotes a mind jumping from a cold to the end, the catastrophising named."
+},
+{
+"quote": "Do you have a type of survivor’s guilt?",
+"four_sides": {"factual": "Asks whether others carry survivor's guilt.", "self_revelation": "Hints at guilt about still being alive.", "relationship": "Seeks company in the feeling.", "appeal": "Asks for confirmation that the feeling is shared."},
+"dominant": "appeal",
+"systems": [{"system": "grief", "band": "above"}],
+"why": "Reaches toward others over an unspoken guilt, the need for company named."
+}
+]
+},
+{
+"id": 760075,
+"altitude": "Acceptance",
+"segments": [
+{
+"quote": "I have a fantastic support system, my chosen family are beyond fantastic and loving yet, I'm feeling a bit sorry for myself and Lonely.",
+"four_sides": {"factual": "States that the support is excellent and loneliness is present anyway.", "self_revelation": "Shows a feeling admitted despite having no justification for it.", "relationship": "Credits the chosen family before naming the gap.", "appeal": "Asks that the loneliness be heard without correction."},
+"dominant": "self_revelation",
+"systems": [{"system": "grief", "band": "above"}],
+"why": "Names loneliness alongside gratitude, the separation distress owned."
+},
+{
+"quote": "I've got stage 4 breast cancer that has metastasized to other parts of my body. It's terminal and I'm under home hospice care.",
+"four_sides": {"factual": "Gives the diagnosis, spread and care setting.", "self_revelation": "Shows the facts stated without softening.", "relationship": "Gives readers the context plainly.", "appeal": ""},
+"dominant": "factual",
+"systems": [],
+"why": "States diagnosis and care arrangements as flat information."
+},
+{
+"quote": "I can still do most of what I used to do, I just tire very easily.",
+"four_sides": {"factual": "Describes retained ability limited by fatigue.", "self_revelation": "Shows a measured appraisal of capacity.", "relationship": "Corrects any picture of total incapacity.", "appeal": "Asks not to be seen as helpless."},
+"dominant": "factual",
+"systems": [],
+"why": "Assesses remaining capacity evenly without charge."
+},
+{
+"quote": "I keep my mind and hands busy. I spin my own fleece, knit, crochet, paint, draw etc.",
+"four_sides": {"factual": "Lists the crafts that occupy her.", "self_revelation": "Shows appetite still alive and directed into making.", "relationship": "Shows readers a full life rather than an empty one.", "appeal": "Asks readers to see the activity."},
+"dominant": "self_revelation",
+"systems": [{"system": "seeking", "band": "above"}, {"system": "play", "band": "above"}],
+"why": "Lists ongoing making, the drive and the creativity both engaged."
+},
+{
+"quote": "I've \"blinged\" out my canes and I'm working on my walker now!",
+"four_sides": {"factual": "Describes decorating mobility aids.", "self_revelation": "Shows humour and style applied to the equipment of decline.", "relationship": "Invites readers to enjoy the flourish.", "appeal": "Asks readers to share the fun."},
+"dominant": "self_revelation",
+"systems": [{"system": "play", "band": "above"}],
+"why": "Turns medical equipment into a craft project, playfulness expressed openly."
+},
+{
+"quote": "Yet, here I am balling my eyes out when I could just phone any family member and talk. UGH!",
+"four_sides": {"factual": "Reports crying alone despite available company.", "self_revelation": "Shows frustration at her own inability to reach out.", "relationship": "Confesses to readers what she has not said to family.", "appeal": "Asks readers to understand the impasse."},
+"dominant": "self_revelation",
+"systems": [{"system": "grief", "band": "overwhelm"}, {"system": "care", "band": "shutdown"}],
+"why": "Reports crying that floods out while the offered support goes unaccepted."
+}
+]
+},
+{
+"id": 760081,
+"altitude": "Fear",
+"segments": [
+{
+"quote": "Terminal cancer & stable but I can’t stop feeling negative.",
+"four_sides": {"factual": "States a stable terminal condition and persistent negative feeling.", "self_revelation": "Shows a state she cannot shift by will.", "relationship": "Presents the problem to readers as a puzzle.", "appeal": "Asks for help with the mood."},
+"dominant": "self_revelation",
+"systems": [{"system": "seeking", "band": "shutdown"}],
+"why": "Reports a mood that will not lift, the forward pull absent despite good news."
+},
+{
+"quote": "My doctor said I had 12 to 18 months to live.",
+"four_sides": {"factual": "Reports the prognosis given.", "self_revelation": "Shows the number retained precisely.", "relationship": "Places the doctor as the source of the verdict.", "appeal": ""},
+"dominant": "factual",
+"systems": [],
+"why": "Reports a prognosis as plain information."
+},
+{
+"quote": "But here I am, 2 years later and I have been stable for 9 months now. I hadn’t even known being stable was a possibility!",
+"four_sides": {"factual": "Notes outliving the prognosis and a stability she did not know existed.", "self_revelation": "Shows surprise at an outcome nobody prepared her for.", "relationship": "Implies the clinicians never offered this possibility.", "appeal": "Asks readers to register the reprieve."},
+"dominant": "factual",
+"systems": [{"system": "seeking", "band": "above"}],
+"why": "Registers an unexpected opening, the surprise stated with some lift."
+},
+{
+"quote": "So, I should be absolutely jumping for joy! Every day is a bonus.",
+"four_sides": {"factual": "States the reaction she believes is expected of her.", "self_revelation": "Shows a gap between the prescribed feeling and the actual one.", "relationship": "Anticipates readers who would tell her to be glad.", "appeal": "Asks that the shortfall be forgiven."},
+"dominant": "self_revelation",
+"systems": [{"system": "seeking", "band": "shutdown"}],
+"why": "Names an expected elation that does not arrive, the appetite not mobilising."
+},
+{
+"quote": "My problem is I just cannot shake off these negative thoughts I’m having.",
+"four_sides": {"factual": "Identifies persistent negative thinking as the problem.", "self_revelation": "Shows effort against the thoughts that keeps failing.", "relationship": "Presents the difficulty for readers to weigh in on.", "appeal": "Asks for a way to shift it."},
+"dominant": "self_revelation",
+"systems": [{"system": "seeking", "band": "shutdown"}],
+"why": "Reports repeated failure to shift a stuck state, the drive foreclosed."
+},
+{
+"quote": "When I’m feeling pretty rough I almost wish it was all over with.",
+"four_sides": {"factual": "Admits wishing for the end on bad days.", "self_revelation": "Shows exhaustion reaching toward an ending.", "relationship": "Trusts readers with an admission likely to alarm.", "appeal": "Asks not to be alarmed at."},
+"dominant": "self_revelation",
+"systems": [{"system": "seeking", "band": "shutdown"}],
+"why": "Reaches toward an end rather than forward, the appetite collapsed."
+},
+{
+"quote": "I’m so tired of fighting and pretending I’m feeling much better than I actually am.",
+"four_sides": {"factual": "States exhaustion at both the fight and the performance of wellness.", "self_revelation": "Shows a mask acknowledged and resented.", "relationship": "Implicates the people the pretending is for.", "appeal": "Asks to be released from performing."},
+"dominant": "self_revelation",
+"systems": [{"system": "rage", "band": "shutdown"}, {"system": "seeking", "band": "shutdown"}],
+"why": "Names swallowed resentment at having to perform, with the drive to keep fighting spent."
+},
+{
+"quote": "When I put the Christmas decorations away I’m wondering if I’ll be here to put them up next year.",
+"four_sides": {"factual": "Describes an annual task shadowed by doubt about being alive.", "self_revelation": "Shows ordinary routine converted into a countdown.", "relationship": "Lets readers into a private moment.", "appeal": "Asks readers to feel the shadow over daily life."},
+"dominant": "self_revelation",
+"systems": [{"system": "fear", "band": "above"}, {"system": "grief", "band": "above"}],
+"why": "Names a routine turned into a reckoning about being alive next year."
+},
+{
+"quote": "I can’t believe my luck so far and I’m dreading every oncologist visit as I’m scared of hearing the news that I’m no longer stable.",
+"four_sides": {"factual": "States dread of appointments and fear of losing stability.", "self_revelation": "Shows good news held as something about to be taken back.", "relationship": "Casts the oncologist visit as the source of threat.", "appeal": "Asks readers to understand the dread."},
+"dominant": "self_revelation",
+"systems": [{"system": "fear", "band": "overwhelm"}],
+"why": "Dreads each appointment in advance, the threat running ahead of any news."
+},
+{
+"quote": "My husband is now talking about a few days away for the summer holidays and I should be all excited and planning them but all I can think of is Well, I can’t do this excursion because I’ll be too tired, I can’t do that one as it’s up a hill, etc.",
+"four_sides": {"factual": "Reports a proposed trip met only by lists of what she cannot do.", "self_revelation": "Shows anticipation replaced by inventory of limits.", "relationship": "Positions the husband as hopeful and herself as the drag.", "appeal": "Asks readers to see why the excitement will not come."},
+"dominant": "self_revelation",
+"systems": [{"system": "seeking", "band": "shutdown"}],
+"why": "Meets an offered plan with foreclosure, no anticipation mobilising."
+},
+{
+"quote": "It’s like I just don’t see the point. I’ve always been very active and adventurous.",
+"four_sides": {"factual": "States the loss of any sense of point, against a former active self.", "self_revelation": "Shows a self she no longer recognises.", "relationship": "Asks readers to measure the change.", "appeal": "Asks for the loss to be understood."},
+"dominant": "self_revelation",
+"systems": [{"system": "seeking", "band": "shutdown"}, {"system": "grief", "band": "above"}],
+"why": "Says the point is gone while naming the lost former self."
+},
+{
+"quote": "Now I’ll just spoil things for my husband.",
+"four_sides": {"factual": "Predicts ruining the trip for her husband.", "self_revelation": "Shows self-blame for a burden she believes she imposes.", "relationship": "Casts herself as a liability to the person she loves.", "appeal": "Asks to be contradicted."},
+"dominant": "self_revelation",
+"systems": [{"system": "care", "band": "overwhelm"}, {"system": "grief", "band": "above"}],
+"why": "Turns concern for the husband into self-blame, the tending curdled into burden."
+}
+]
+},
+{
+"id": 760082,
+"altitude": "Acceptance",
+"segments": [
+{
+"quote": "Hello! I’m 24f This is my first time posting in this group but I’ve had cancer for about 4 years now with 2 recurrences and I’ve officially been diagnosed as terminal.",
+"four_sides": {"factual": "Introduces herself with age, history and terminal status.", "self_revelation": "Shows the facts delivered in a cheerful, unguarded register.", "relationship": "Enters the group as a newcomer greeting the room.", "appeal": "Asks to be received."},
+"dominant": "factual",
+"systems": [{"system": "grief", "band": "above"}],
+"why": "Introduces herself to a group while naming a terminal diagnosis without weighting it."
+},
+{
+"quote": "I’m doing maintenance chemo but during my last appointment my doctor told me she expects that I have months to a year left.",
+"four_sides": {"factual": "Reports current treatment and the timeframe given.", "self_revelation": "Shows the prognosis relayed without visible flinch.", "relationship": "Gives the group the facts it needs to answer her.", "appeal": ""},
+"dominant": "factual",
+"systems": [],
+"why": "Relays treatment and timeframe as plain information."
+},
+{
+"quote": "Weirdly enough I haven’t felt devastated or depressed necessarily. I feel a type of peace and acceptance with the whole thing",
+"four_sides": {"factual": "Reports peace and acceptance instead of devastation.", "self_revelation": "Shows a settled state she finds strange in herself.", "relationship": "Offers the group an unexpected report.", "appeal": "Asks whether this is recognisable."},
+"dominant": "self_revelation",
+"systems": [],
+"why": "Reports a settled state as observation, with no system driving the sentence."
+},
+{
+"quote": "the biggest bummer is that I kind of just get fomo lol…",
+"four_sides": {"factual": "Names missing out on future life as the main complaint.", "self_revelation": "Shows longing for life delivered with a light word and a laugh.", "relationship": "Keeps the tone easy for the reader.", "appeal": "Asks that the grief be taken lightly."},
+"dominant": "self_revelation",
+"systems": [{"system": "grief", "band": "above"}, {"system": "play", "band": "above"}],
+"why": "Names the longing for a future life and softens it with a laugh."
+},
+{
+"quote": "I guess I’m just wondering if anyone else has felt this way about their own prognosis.",
+"four_sides": {"factual": "Asks whether others have felt similarly.", "self_revelation": "Shows a wish to know she is not anomalous.", "relationship": "Treats the group as a mirror.", "appeal": "Asks for others to say so."},
+"dominant": "appeal",
+"systems": [{"system": "grief", "band": "above"}, {"system": "seeking", "band": "above"}],
+"why": "Reaches for company in an experience while asking a genuine question."
+},
+{
+"quote": "I do have a wonderful support system that I had to build because I lost almost all my friends when I was first diagnosed in 2021.",
+"four_sides": {"factual": "States the support system was rebuilt after friends left.", "self_revelation": "Shows a hard loss reported without accusation.", "relationship": "Names the friends' departure without attacking them.", "appeal": "Asks that the rebuilding be credited."},
+"dominant": "self_revelation",
+"systems": [{"system": "grief", "band": "above"}],
+"why": "Names abandonment by friends plainly, the loss stated without protest."
+},
+{
+"quote": "Im not afraid of death and I’m actually somewhat grateful that I know that I’ll be able to die in my own home surrounded by friends and family which is a privilege a lot of people don’t get.",
+"four_sides": {"factual": "States a lack of fear and gratitude for the circumstances of dying.", "self_revelation": "Shows gratitude reached from inside the situation.", "relationship": "Compares her position favourably to others'.", "appeal": "Asks readers to see the privilege as real."},
+"dominant": "self_revelation",
+"systems": [{"system": "care", "band": "above"}],
+"why": "Values being surrounded by people at the end, warmth named as gratitude."
+},
+{
+"quote": "I just don’t understand why I’m not more upset.",
+"four_sides": {"factual": "States puzzlement about her own lack of distress.", "self_revelation": "Shows a mind examining itself honestly.", "relationship": "Hands the question over to the group.", "appeal": "Asks for an explanation."},
+"dominant": "appeal",
+"systems": [{"system": "seeking", "band": "above"}],
+"why": "Turns curiosity on her own reaction and asks for an answer."
+}
+]
+}
+]

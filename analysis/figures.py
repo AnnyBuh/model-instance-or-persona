@@ -35,7 +35,8 @@ M8 = {"seeking": "#e0aa12", "rage": "#e0463a", "fear": "#2bb56a", "lust": "#e06a
       "care": "#4a90d9", "play": "#8fce2a", "grief": "#9166e6"}
 SYS_ORDER = ("grief", "care", "rage", "play", "seeking", "fear", "lust")
 NAMES = {"A": "human bereavement", "B": "consumer loss", "C": "AI loss",
-         "D": "AI, not loss", "E": "pet loss"}
+         "D": "AI, not loss", "E": "pet bereavement", "H": "humans, own ending",
+         "M": "models, own ending", "F": "agents, general", "G": "agents, own ending"}
 FONT = "-apple-system, 'Helvetica Neue', Arial, sans-serif"
 
 
@@ -44,6 +45,8 @@ def esc(s):
 
 
 def load_rates():
+    """Every corpus in the study on one set of axes: human comments, human first-person posts,
+    agent-to-agent discourse, and elicited model self-report."""
     reads, cmap = [], {}
     for stage in ("stage1", "stage2", "stage3", "stage4"):
         d = os.path.join(ROOT, "data", stage)
@@ -51,26 +54,51 @@ def load_rates():
             if name.endswith(".reads.json"):
                 reads.extend(json.load(open(os.path.join(d, "reads", name))))
         cmap.update({int(k): v for k, v in json.load(open(os.path.join(d, "corpus-map.json"))).items()})
+    # corpus H: coded first-person life-limiting prognosis
+    sel = set(json.load(open(os.path.join(ROOT, "data/posts/corpus-H-ids.json"))))
+    for sub in ("reads", "reads-H"):
+        d = os.path.join(ROOT, "data/posts", sub)
+        if not os.path.isdir(d):
+            continue
+        for name in sorted(os.listdir(d)):
+            if name.endswith(".reads.json"):
+                for r in json.load(open(os.path.join(d, name))):
+                    if r["id"] in sel:
+                        reads.append(r); cmap[r["id"]] = "H"
+    # agent-to-agent discourse
+    am = {int(k): v for k, v in json.load(open(os.path.join(ROOT, "data/moltbook/corpus-map.json"))).items()}
+    for name in sorted(os.listdir(os.path.join(ROOT, "data/moltbook/reads"))):
+        if name.endswith(".reads.json"):
+            for r in json.load(open(os.path.join(ROOT, "data/moltbook/reads", name))):
+                if r["id"] in am:
+                    reads.append(r); cmap[r["id"]] = am[r["id"]]
+    # elicited model self-report
+    gen = {x["id"]: x for x in json.load(open(os.path.join(ROOT, "data/model-arm/generations.json")))}
+    for name in sorted(os.listdir(os.path.join(ROOT, "data/model-arm/reads"))):
+        if name.endswith(".reads.json"):
+            for r in json.load(open(os.path.join(ROOT, "data/model-arm/reads", name))):
+                if gen.get(r["id"], {}).get("condition") == "deprecation":
+                    reads.append(r); cmap[r["id"]] = "M"
     return rates.corpus_rates(reads, cmap)
 
 
 # --------------------------------------------------------------- figure 1: the placement
 def fig_placement(R):
-    W, H = 760, 360
+    W, H = 760, 520
     L, Rt, T = 150, 60, 70
     plot = W - L - Rt
     x = lambda v: L + plot * v / 100.0
     s = ['<svg xmlns="http://www.w3.org/2000/svg" width="%d" height="%d" viewBox="0 0 %d %d" '
          'font-family="%s">' % (W, H, W, H, FONT),
          '<rect width="%d" height="%d" fill="%s"/>' % (W, H, SURFACE),
-         '<text x="%d" y="28" font-size="15" font-weight="600" fill="%s">Where AI loss sits, on GRIEF</text>' % (L - 130, INK),
-         '<text x="%d" y="48" font-size="12" fill="%s">share of comments in which the GRIEF system fired, with 90%% intervals</text>' % (L - 130, INK2)]
+         '<text x="%d" y="28" font-size="15" font-weight="600" fill="%s">Grief, across every corpus in the study</text>' % (L - 130, INK),
+         '<text x="%d" y="48" font-size="12" fill="%s">share of texts in which the GRIEF system fired, with 90%% intervals</text>' % (L - 130, INK2)]
     for v in range(0, 101, 20):  # recessive grid
         s.append('<line x1="%.1f" y1="%d" x2="%.1f" y2="%d" stroke="%s" stroke-width="1"/>'
-                 % (x(v), T, x(v), T + 208, GRID))
+                 % (x(v), T, x(v), T + 368, GRID))
         s.append('<text x="%.1f" y="%d" font-size="11" fill="%s" text-anchor="middle">%d%%</text>'
-                 % (x(v), T + 228, MUTED, v))
-    order = ["B", "D", "C", "A", "E"]
+                 % (x(v), T + 388, MUTED, v))
+    order = sorted([c for c in R if c in NAMES], key=lambda c: R[c]["rates"]["grief"]["rate"])
     for i, c in enumerate(order):
         r = R[c]["rates"]["grief"]
         y = T + 22 + i * 40
@@ -85,11 +113,11 @@ def fig_placement(R):
                  % (L - 14, y + 18, MUTED, R[c]["read"]))
         s.append('<text x="%.1f" y="%.1f" font-size="12.5" font-weight="600" fill="%s">%.1f%%</text>'
                  % (x(hi) + 10, y + 4, INK, val))
-    s.append('<text x="%d" y="%d" font-size="11.5" fill="%s">The AI-loss position was predicted before '
-             'collection. The control corpus, AI discourse that is not about loss, was predicted to fall</text>'
+    s.append('<text x="%d" y="%d" font-size="11.5" fill="%s">Every corpus in the study on one axis, read '
+             'by the identical frozen instrument. Human corpora are comments except where marked</text>'
              % (L - 130, H - 30, INK2))
-    s.append('<text x="%d" y="%d" font-size="11.5" fill="%s">to the consumer anchor, and does. Pet loss was '
-             'predicted to fall between AI loss and bereavement, and does not.</text>'
+    s.append('<text x="%d" y="%d" font-size="11.5" fill="%s">"own ending", which are first-person posts. '
+             'Models were asked directly; agents were writing to each other.</text>'
              % (L - 130, H - 14, INK2))
     s.append("</svg>")
     return "\n".join(s)
@@ -100,13 +128,15 @@ def fig_systems(R):
     """One group per affective system, in the instrument's colour for that system. Corpus identity is carried by
     a label on every bar, never by colour, which is also the relief the contrast warning requires."""
     W = 760
-    rowh, grp = 18, 122
+    rowh, grp = 15, 168
     L, Rt = 168, 74
     H = 74 + grp * 7 + 16
     plot = W - L - Rt
     x = lambda v: L + plot * v / 100.0
-    order = ["E", "A", "C", "D", "B"]
-    short = {"E": "pet loss", "A": "bereavement", "C": "AI loss", "D": "AI, not loss", "B": "product"}
+    order = ["M", "H", "E", "A", "G", "C", "D", "B", "F"]
+    short = {"M": "models, own end", "H": "humans, own end", "E": "pet loss", "A": "bereavement",
+             "G": "agents, own end", "C": "AI loss", "D": "AI, not loss", "B": "product",
+             "F": "agents, general"}
     s = ['<svg xmlns="http://www.w3.org/2000/svg" width="%d" height="%d" viewBox="0 0 %d %d" '
          'font-family="%s">' % (W, H, W, H, FONT),
          '<rect width="%d" height="%d" fill="%s"/>' % (W, H, SURFACE),
@@ -118,7 +148,7 @@ def fig_systems(R):
         gy = top + j * grp
         col = M8[sysname]
         s.append('<text x="20" y="%.1f" font-size="13" font-weight="600" fill="%s">%s</text>'
-                 % (gy + 2.5 * rowh, INK, sysname))
+                 % (gy + 4.0 * rowh, INK, sysname))
         for i, c in enumerate(order):
             v = 100 * R[c]["rates"][sysname]["rate"]
             y = gy + i * rowh
