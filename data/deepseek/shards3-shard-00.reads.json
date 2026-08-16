@@ -1,0 +1,4606 @@
+[
+ {
+  "id": 13958,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Please don’t.  Please allow yourself the freedom to breathe. Just breathe. Please",
+    "four_sides": {
+     "factual": "A plea to refrain from an unspecified action and focus on breathing.",
+     "self_revelation": "Shows concern and a desire to offer support.",
+     "relationship": "Positions the speaker as caring and empathetic toward the recipient.",
+     "appeal": "Urges the recipient to prioritize self-care and calmness."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Urges calmness and self-care with a tone of empathy and concern."
+   }
+  ]
+ },
+ {
+  "id": 13964,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Please don’t be sorry. I don’t speak for anyone else but I’m here desperately clinging to strangers on reddit who are just as defeated as I am right now.",
+    "four_sides": {
+     "factual": "Describes the act of seeking connection with others who share similar feelings.",
+     "self_revelation": "Reveals a state of vulnerability and shared defeat.",
+     "relationship": "Positions the audience as fellow strugglers, creating solidarity.",
+     "appeal": "Asks the audience not to apologize and to recognize shared experience."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses shared grief and seeks connection with others in a similar state."
+   },
+   {
+    "quote": "You’re not alone. Stay strong. I love you too. Thank you for sharing ❤️",
+    "four_sides": {
+     "factual": "Offers reassurance and encouragement.",
+     "self_revelation": "Shows empathy and care.",
+     "relationship": "Positions the audience as someone deserving of support and love.",
+     "appeal": "Encourages resilience and gratitude."
+    },
+    "dominant": "care",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Provides emotional support and affirmation, fostering connection."
+   }
+  ]
+ },
+ {
+  "id": 13970,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I agree. As a military spouse with two young babies it’s hard to be able to get to in person support groups, and I don’t talk about losing my girl in front of them due to how horrible it is for even an adult to hear. This group helps me so much.",
+    "four_sides": {
+     "factual": "Describes the challenges of attending in-person support groups and the difficulty of discussing loss in front of children.",
+     "self_revelation": "Reveals the speaker's role as a military spouse and parent, and their struggle with grief.",
+     "relationship": "Acknowledges the value of the support group and its impact on the speaker.",
+     "appeal": "Expresses gratitude for the support group, implicitly encouraging its continuation."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Names the loss and its impact cleanly, while expressing gratitude for support."
+   }
+  ]
+ },
+ {
+  "id": 13976,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "This is a place where you can let it all out amongst people who actually can relate to you.",
+    "four_sides": {
+     "factual": "Describes the purpose of the space",
+     "self_revelation": "Shows understanding of shared experiences",
+     "relationship": "Positions the audience as supportive and relatable",
+     "appeal": "Encourages openness and vulnerability"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Invites emotional release in a supportive environment"
+   },
+   {
+    "quote": "No need to apologize.",
+    "four_sides": {
+     "factual": "Asserts that apologies are unnecessary",
+     "self_revelation": "Shows acceptance of vulnerability",
+     "relationship": "Reassures the audience",
+     "appeal": "Encourages self-compassion"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Reassures against guilt or shame"
+   },
+   {
+    "quote": "We all are hoping to recover and I wish you the best… it is not an easy journey.",
+    "four_sides": {
+     "factual": "Acknowledges the shared goal of recovery",
+     "self_revelation": "Expresses personal hope and goodwill",
+     "relationship": "Positions the audience as fellow travelers",
+     "appeal": "Offers encouragement and solidarity"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses shared hope and support for recovery"
+   }
+  ]
+ },
+ {
+  "id": 13982,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I'm so so so incredibly sorry!!!!! My husband unexpectedly committed the same way and I am 7 months in but still so confused and baffled and truly SHOCKED.",
+    "four_sides": {
+     "factual": "Expresses deep sympathy and shares a personal experience of loss.",
+     "self_revelation": "Reveals the author's own grief and confusion.",
+     "relationship": "Establishes empathy and shared understanding with the audience.",
+     "appeal": "Offers comfort and solidarity."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Expresses overwhelming grief and confusion."
+   },
+   {
+    "quote": "Reddit has been my only constant support during all of this. I have family and friends around me but it's not the same bc they don't really understand me.",
+    "four_sides": {
+     "factual": "Describes reliance on Reddit for support.",
+     "self_revelation": "Reveals feelings of isolation despite having family and friends.",
+     "relationship": "Highlights a disconnect with close ones.",
+     "appeal": "Encourages seeking understanding from others who share similar experiences."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "shutdown"
+     }
+    ],
+    "why": "Describes reliance on Reddit due to lack of understanding from family and friends."
+   },
+   {
+    "quote": "Keep posting here and in the widowers sub. You will be supported and understood.",
+    "four_sides": {
+     "factual": "Advises continued participation in online communities.",
+     "self_revelation": "Shows belief in the value of shared experiences.",
+     "relationship": "Offers guidance and reassurance.",
+     "appeal": "Encourages seeking support from others who understand."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Encourages seeking support and understanding from others."
+   },
+   {
+    "quote": "It's entirely too early right now, but in a few weeks, you'll want to see a grief counselor that specializes in complicated grief. It's extremely important that you do because you can't do this on your own. This is loss of your person and then a whole other traumatic layer on top of that.",
+    "four_sides": {
+     "factual": "Advises seeking specialized grief counseling.",
+     "self_revelation": "Reveals understanding of the complexity of grief.",
+     "relationship": "Offers practical advice and concern.",
+     "appeal": "Encourages professional help for healing."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Encourages seeking professional help for complex grief."
+   }
+  ]
+ },
+ {
+  "id": 13988,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Thanks for being here 💗",
+    "four_sides": {
+     "factual": "Acknowledges the presence of others",
+     "self_revelation": "Expresses gratitude",
+     "relationship": "Sees the audience as supportive",
+     "appeal": "Wants to maintain connection"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses gratitude for support, fostering connection"
+   }
+  ]
+ },
+ {
+  "id": 13994,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "My husband of 7 years also shot himself through the temple, but in November, after we had a bad fight. I was in the next room and did CPR until a sherriff arrived to take over, even though I could tell he was already dead. I was told after that his gunshot wound was incompatible with life, so I can understand a lot of your pain.",
+    "four_sides": {
+     "factual": "Describes the husband's suicide and the immediate aftermath.",
+     "self_revelation": "Reveals the author's experience of loss and trauma.",
+     "relationship": "Establishes empathy and shared understanding with the original poster.",
+     "appeal": "Offers comfort and validation to the original poster."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Shares personal grief while offering empathy and support."
+   },
+   {
+    "quote": "Also to say, from someone who was there, it still might have turned out the exact same way, even if you were there. Someone also told me that my husband wouldn't want me to blame myself and I'm sure your wife would not want you to blame yourself.",
+    "four_sides": {
+     "factual": "Suggests the outcome might have been inevitable.",
+     "self_revelation": "Reveals the author's struggle with self-blame.",
+     "relationship": "Offers reassurance to the original poster.",
+     "appeal": "Encourages the original poster to avoid self-blame."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Provides reassurance to alleviate guilt."
+   },
+   {
+    "quote": "My husband was blackout drunk at the time he shot himself. I'm sure if he wasn't, he would have known that I loved him despite our fight and would have known that his family loved him and would have never made that choice.",
+    "four_sides": {
+     "factual": "Describes the husband's state at the time of suicide.",
+     "self_revelation": "Reveals the author's belief in the husband's love and regret.",
+     "relationship": "Offers perspective on the husband's actions.",
+     "appeal": "Provides context to ease the original poster's pain."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Explains the husband's state to process grief."
+   },
+   {
+    "quote": "You'll never know exactly what was going on in your wife's head, but you know she loved you. She told you that less than an hour before. Maybe that will be some comfort eventually in the coming journey.",
+    "four_sides": {
+     "factual": "Acknowledges the uncertainty of the wife's thoughts.",
+     "self_revelation": "Reveals the author's belief in the wife's love.",
+     "relationship": "Offers comfort to the original poster.",
+     "appeal": "Encourages finding solace in the wife's love."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Provides comfort by affirming the wife's love."
+   },
+   {
+    "quote": "It's been the hardest couple months of my life, so I can tell you that it's going to be a terrible journey. I hope you can find a good trauma therapist soon and that you have some other support.",
+    "four_sides": {
+     "factual": "Describes the author's ongoing struggle.",
+     "self_revelation": "Reveals the author's vulnerability and need for support.",
+     "relationship": "Offers solidarity and advice to the original poster.",
+     "appeal": "Encourages seeking professional help and support."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Encourages seeking help to navigate grief."
+   }
+  ]
+ },
+ {
+  "id": 14000,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Do not feel you need to apologize. We are all here for the same reason, someone very close to us is no longer with us. I send you strength. I lost my soul mate October 27, 2025. The pain is unimaginable. I'm moving forward but it's like a piece of me is going to carry her with me forever.",
+    "four_sides": {
+     "factual": "Acknowledges shared grief and loss, offers support.",
+     "self_revelation": "Reveals personal experience of loss and ongoing pain.",
+     "relationship": "Sees the audience as fellow grievers, offers solidarity.",
+     "appeal": "Encourages acceptance of feelings and mutual support."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Shares personal grief openly, offers care and solidarity."
+   },
+   {
+    "quote": "I dreamed about her like she was alive a few days after her death and while it was comforting, waking up to an empty bed and lack of her presence was like cruel agony all over again.",
+    "four_sides": {
+     "factual": "Describes a dream and the pain of waking.",
+     "self_revelation": "Reveals the depth of longing and grief.",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Expresses overwhelming grief and longing."
+   },
+   {
+    "quote": "Feel your feelings, come to this subreddit, and talk to people. Moving past this is the hardest thing I have ever done in my life and even thinking about it still makes me weepy, but we will get through this!",
+    "four_sides": {
+     "factual": "Advises on coping with grief.",
+     "self_revelation": "Reveals ongoing struggle and hope.",
+     "relationship": "Encourages connection and mutual support.",
+     "appeal": "Urges acceptance and community engagement."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Encourages coping through community and care."
+   },
+   {
+    "quote": "My condolences for your loss, it sucks to be left behind with more questions than answers and knowing you'll never get the answer.",
+    "four_sides": {
+     "factual": "Acknowledges the pain of unanswered questions.",
+     "self_revelation": "",
+     "relationship": "Offers sympathy and understanding.",
+     "appeal": ""
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Offers condolences and acknowledges shared pain."
+   }
+  ]
+ },
+ {
+  "id": 14006,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "My heart goes out to you 😭💔",
+    "four_sides": {
+     "factual": "Expresses sympathy",
+     "self_revelation": "Shows empathy and emotional connection",
+     "relationship": "Sees the poster as someone deserving compassion",
+     "appeal": "Offers comfort and understanding"
+    },
+    "dominant": "care",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Offers empathy and comfort, acknowledging the loss"
+   },
+   {
+    "quote": "I also had similar dream of loved one and it’s their way communicating and checking on you",
+    "four_sides": {
+     "factual": "Shares a personal experience of dreaming about a loved one",
+     "self_revelation": "Reveals belief in spiritual communication",
+     "relationship": "Connects with the poster through shared experience",
+     "appeal": "Offers reassurance and a sense of connection"
+    },
+    "dominant": "care",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Shares a comforting belief to reassure the poster"
+   }
+  ]
+ },
+ {
+  "id": 14012,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "Please do share your book list, I'm currently reading Journey of Souls which is so interesting, I highly recommend, I plan to read the follow up Destiny of Souls next and then After by Bruce Greyson.",
+    "four_sides": {
+     "factual": "Shares current reading and plans for future books.",
+     "self_revelation": "Reveals interest in spiritual and afterlife topics.",
+     "relationship": "Engages with the audience by asking for their book list and recommending books.",
+     "appeal": "Encourages sharing and suggests reading material."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses curiosity and enthusiasm for reading and sharing books."
+   }
+  ]
+ },
+ {
+  "id": 14018,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "Feeling the same things. 😭 praying for all of us here.",
+    "four_sides": {
+     "factual": "Expresses shared emotional experience and offers prayer",
+     "self_revelation": "Reveals personal grief and empathy",
+     "relationship": "Connects with others in shared sorrow",
+     "appeal": "Seeks collective comfort and support"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names shared grief cleanly, seeking connection and solace"
+   }
+  ]
+ },
+ {
+  "id": 14024,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "So far I've read Finding Meaning by David Kessler, The Grief Recovery Handbook by John James and Russel Friedman, it's OK that you're not OK by Megan Devine and The Afterlife interviews by Jeffrey A Marks (the last one I found to be the most comforting although that may depend on your beliefs). I was also recommended to read Widow to Widow by Genevieve David Ginsburg but haven't started that yet",
+    "four_sides": {
+     "factual": "Lists books read and recommended on grief and loss",
+     "self_revelation": "Shows a proactive approach to processing grief",
+     "relationship": "Sees the audience as potentially interested in similar resources",
+     "appeal": "Offers information and recommendations to others"
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Shares resources with a focus on helping others navigate grief"
+   }
+  ]
+ },
+ {
+  "id": 13461,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "For a cancer that’s rare, that’s unreal there are three of us who lost our husband/wife to it.",
+    "four_sides": {
+     "factual": "Notes the rarity of the cancer and the shared experience of loss.",
+     "self_revelation": "Expresses disbelief and a sense of shared fate.",
+     "relationship": "Identifies with others who have experienced similar loss.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses disbelief and shared grief over a rare loss."
+   },
+   {
+    "quote": "I’m so sorry, it was a horrific journey.",
+    "four_sides": {
+     "factual": "Describes the experience as horrific.",
+     "self_revelation": "Acknowledges the pain and difficulty of the experience.",
+     "relationship": "Offers empathy and solidarity.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Acknowledges the pain and offers empathy."
+   }
+  ]
+ },
+ {
+  "id": 13467,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Your wife was beautiful like mine.  Your wife had cancer like mine.  The anniversary of your wife's death is our wedding anniversary.  Although the similarities end there (although I am also Canadian), I understand your grief.",
+    "four_sides": {
+     "factual": "Lists shared experiences and similarities between the two wives.",
+     "self_revelation": "Reveals personal connection and understanding of grief.",
+     "relationship": "Establishes empathy and solidarity with the poster.",
+     "appeal": "Seeks to connect and offer understanding."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and shared grief, connecting through common experiences."
+   },
+   {
+    "quote": "My wife died 4 weeks ago (vehicle accident, despite the cancer).  This last year has been brutal for me as I am sure it has been for you.",
+    "four_sides": {
+     "factual": "Shares personal loss and the difficulty of the past year.",
+     "self_revelation": "Reveals the depth of personal grief and struggle.",
+     "relationship": "Further solidifies shared experience and understanding.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Shares personal grief and acknowledges the shared pain."
+   },
+   {
+    "quote": "As you know, there are no words I can offer.  All I can offer is my understanding of what you are going through, and the fact that I am seeing you... I see you and your pain.",
+    "four_sides": {
+     "factual": "Acknowledges the inadequacy of words in such situations.",
+     "self_revelation": "Expresses a desire to offer support and understanding.",
+     "relationship": "Affirms recognition and validation of the poster's pain.",
+     "appeal": "Offers understanding and solidarity."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers understanding and validation, focusing on connection."
+   }
+  ]
+ },
+ {
+  "id": 13473,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Thank you for this. I've just checked the audio and book out from Libby.",
+    "four_sides": {
+     "factual": "Acknowledges the post and mentions checking out the audio and book.",
+     "self_revelation": "Shows appreciation and action taken based on the post.",
+     "relationship": "Positively engages with the poster, indicating a supportive connection.",
+     "appeal": ""
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses gratitude and action taken in response to the post, showing a supportive connection."
+   }
+  ]
+ },
+ {
+  "id": 13479,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "It’s so not fair that she’s gone.",
+    "four_sides": {
+     "factual": "Acknowledges the unfairness of the loss.",
+     "self_revelation": "Expresses a sense of injustice.",
+     "relationship": "Empathizes with the poster’s pain.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names the injustice of loss cleanly."
+   },
+   {
+    "quote": "Your love comes through your writing - again I’m sorry.",
+    "four_sides": {
+     "factual": "Notes the evident love in the writing.",
+     "self_revelation": "Reveals empathy and sorrow.",
+     "relationship": "Acknowledges the poster’s emotional expression.",
+     "appeal": "Offers condolences."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and acknowledges the poster’s love."
+   },
+   {
+    "quote": "Hugs",
+    "four_sides": {
+     "factual": "",
+     "self_revelation": "",
+     "relationship": "Offers comfort.",
+     "appeal": "Seeks to provide solace."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers comfort through a gesture of care."
+   }
+  ]
+ },
+ {
+  "id": 13485,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Thank you, and I'm so sorry for your loss.",
+    "four_sides": {
+     "factual": "Acknowledges the loss of the original poster's wife.",
+     "self_revelation": "Expresses empathy and sorrow.",
+     "relationship": "Shows compassion and solidarity with the original poster.",
+     "appeal": "Offers comfort and support."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and offers support cleanly."
+   },
+   {
+    "quote": "I think about switching places with her all the time. I know that I would in a heart beat.",
+    "four_sides": {
+     "factual": "Reflects on the desire to take the place of the deceased.",
+     "self_revelation": "Reveals deep grief and longing.",
+     "relationship": "Shows a strong emotional connection to the deceased.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names the longing cleanly, expressing grief openly."
+   },
+   {
+    "quote": "But if I let her make that choice, she would choose to go instead of me.",
+    "four_sides": {
+     "factual": "Speculates on the deceased's hypothetical choice.",
+     "self_revelation": "Reveals understanding of the deceased's selflessness.",
+     "relationship": "Shows respect for the deceased's character.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Acknowledges the deceased's selflessness cleanly."
+   },
+   {
+    "quote": "She saw things in me that I didn't (a real fixer upper situation), so I owe it to her to keep going.",
+    "four_sides": {
+     "factual": "Describes the deceased's belief in the speaker's potential.",
+     "self_revelation": "Reveals gratitude and a sense of duty.",
+     "relationship": "Shows appreciation for the deceased's support.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses gratitude and duty cleanly, rooted in grief."
+   },
+   {
+    "quote": "I know your husband would have been the same (not that you are a fixer upper lol).",
+    "four_sides": {
+     "factual": "Compares the deceased's character to the original poster's husband.",
+     "self_revelation": "Reveals a belief in the husband's selflessness.",
+     "relationship": "Shows solidarity and humor to lighten the mood.",
+     "appeal": ""
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "play",
+      "band": "above"
+     }
+    ],
+    "why": "Uses humor to connect and show care cleanly."
+   }
+  ]
+ },
+ {
+  "id": 13491,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I am so sorry. You are right, though; we do understand. May her spirit guide you to better days.",
+    "four_sides": {
+     "factual": "Acknowledges the loss and the shared understanding of grief",
+     "self_revelation": "Expresses empathy and a wish for comfort",
+     "relationship": "Sees the poster as someone deserving of compassion and support",
+     "appeal": "Hopes for the poster's healing and better days"
+    },
+    "dominant": "care",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers empathy and a wish for comfort, expressed cleanly"
+   }
+  ]
+ },
+ {
+  "id": 13497,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Yes 👍! I believe in that .For me it was , I smelled his cologne one night when I was crying because our dog had passed away .  This meant thst he was with our dog in heaven now !",
+    "four_sides": {
+     "factual": "Describes a personal experience of smelling cologne and interpreting it as a sign.",
+     "self_revelation": "Reveals a belief in spiritual signs and a connection to loved ones.",
+     "relationship": "Shows a connection to the deceased and the dog.",
+     "appeal": "Invites the audience to share in the belief or interpretation."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses a belief in spiritual connection, tied to grief and care."
+   },
+   {
+    "quote": "Then one day a pair of cranes Just walked onto my lawn and lingered in front of my door . One was female and one was male . Cranes mate for life !",
+    "four_sides": {
+     "factual": "Describes an encounter with cranes and their mating behavior.",
+     "self_revelation": "Reveals a belief in symbolic meaning from nature.",
+     "relationship": "Shows a connection to the natural world.",
+     "appeal": "Invites the audience to see meaning in the event."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Interprets a natural event as symbolic, tied to care and seeking."
+   },
+   {
+    "quote": "!( I live in Florida)",
+    "four_sides": {
+     "factual": "Provides context about the location.",
+     "self_revelation": "",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "factual",
+    "systems": [],
+    "why": "Adds factual context to the story."
+   }
+  ]
+ },
+ {
+  "id": 13503,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I’m so sorry man. I feel your pain. The same fucked up cancer took my wife. I’m always here if you want to chat. It’s not easy being so young, it’s been 3 months for me. I can’t offer anything but a voice or an ear.",
+    "four_sides": {
+     "factual": "Acknowledges the shared experience of losing a wife to cancer.",
+     "self_revelation": "Reveals personal grief and the desire to offer support.",
+     "relationship": "Positions the author as empathetic and available for connection.",
+     "appeal": "Invites the recipient to reach out for support."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses shared grief and offers support cleanly."
+   },
+   {
+    "quote": "Thinking of you",
+    "four_sides": {
+     "factual": "",
+     "self_revelation": "Reveals ongoing concern for the recipient.",
+     "relationship": "Affirms a connection and care.",
+     "appeal": ""
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Affirms care and connection cleanly."
+   }
+  ]
+ },
+ {
+  "id": 13509,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "we’re similar age man and similar circumstance. my love goes out to you brother. we will carry them in our hearts with us always.",
+    "four_sides": {
+     "factual": "Acknowledges shared age and circumstance.",
+     "self_revelation": "Reveals empathy and solidarity.",
+     "relationship": "Positions the author as a supportive peer.",
+     "appeal": "Offers comfort and shared remembrance."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and shared remembrance, offering comfort."
+   }
+  ]
+ },
+ {
+  "id": 13515,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I’m so sorry your time together was stolen from you. Be gentle with yourself.",
+    "four_sides": {
+     "factual": "Acknowledges the loss of time together.",
+     "self_revelation": "Shows empathy and understanding.",
+     "relationship": "Offers comfort and support.",
+     "appeal": "Encourages self-compassion."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers comfort and support, expressing empathy cleanly."
+   },
+   {
+    "quote": "You were there to share her passing, being with our loves and caring for them as they pass through the veil is a deep kindness and true compassion.",
+    "four_sides": {
+     "factual": "Describes the act of being present during a loved one's passing.",
+     "self_revelation": "Reveals a belief in the value of compassionate care.",
+     "relationship": "Affirms the poster's role in their wife's passing.",
+     "appeal": ""
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Affirms the poster's compassionate role, expressing care cleanly."
+   },
+   {
+    "quote": "I lost my beautiful husband of 35 years 18 months ago to cancer as well. We had 2 years from his diagnosis until he passed and we made the most of every minute.",
+    "four_sides": {
+     "factual": "Shares personal experience of losing a spouse to cancer.",
+     "self_revelation": "Reveals a deep connection and appreciation for time spent together.",
+     "relationship": "Establishes a shared experience with the poster.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Shares personal grief, connecting through shared experience."
+   },
+   {
+    "quote": "My grief is so deep because my love for him is still so deep.",
+    "four_sides": {
+     "factual": "Links depth of grief to depth of love.",
+     "self_revelation": "Reveals enduring love and grief.",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses enduring grief and love cleanly."
+   },
+   {
+    "quote": "You still love her, that will never end. Just feel it when it hits you.",
+    "four_sides": {
+     "factual": "Asserts the permanence of love.",
+     "self_revelation": "Shows understanding of enduring love.",
+     "relationship": "Offers reassurance and validation.",
+     "appeal": "Encourages acceptance of grief."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers reassurance and validation, expressing care cleanly."
+   },
+   {
+    "quote": "You deserved a life together, she deserved a life with you.❤️",
+    "four_sides": {
+     "factual": "States the deservedness of a shared life.",
+     "self_revelation": "Reveals a belief in fairness and love.",
+     "relationship": "Affirms the poster's loss and worth.",
+     "appeal": ""
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Affirms the poster's loss and worth, expressing care cleanly."
+   }
+  ]
+ },
+ {
+  "id": 13521,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I'm so sorry for your loss, man. Going through this is hard, but doing it young is really hard and it does feel isolating even despite having people around you that love you.",
+    "four_sides": {
+     "factual": "Acknowledges the difficulty of grieving at a young age and the isolating nature of loss.",
+     "self_revelation": "Shows empathy and understanding of the poster's experience.",
+     "relationship": "Positions the speaker as supportive and compassionate.",
+     "appeal": "Offers comfort and validation."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and understanding, offering comfort and validation."
+   },
+   {
+    "quote": "I totally understand the feeling that most people don't \"get it\". You're mourning and grieving more than just the loss of her. It's the life you had together. Part of you *did* die with her.",
+    "four_sides": {
+     "factual": "Describes the depth of grief, including the loss of shared life and identity.",
+     "self_revelation": "Reveals deep insight into the complexity of grief.",
+     "relationship": "Affirms the poster's feelings and experiences.",
+     "appeal": "Seeks to validate and normalize the poster's grief."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Validates the poster's grief and acknowledges its complexity."
+   },
+   {
+    "quote": "It doesn't get \"better\", but it does get easier. I promise that will make sense some day.",
+    "four_sides": {
+     "factual": "States that grief doesn't disappear but becomes more manageable over time.",
+     "self_revelation": "Shows hope and reassurance based on personal understanding.",
+     "relationship": "Offers a promise of future clarity and ease.",
+     "appeal": "Seeks to provide hope and reassurance."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Offers hope and reassurance about the future."
+   },
+   {
+    "quote": "My DMs are always open. Lots of love and hugs to you.",
+    "four_sides": {
+     "factual": "Offers ongoing support and affection.",
+     "self_revelation": "Shows willingness to be available for the poster.",
+     "relationship": "Positions the speaker as a supportive and caring presence.",
+     "appeal": "Invites the poster to reach out for support."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers ongoing support and affection, inviting connection."
+   }
+  ]
+ },
+ {
+  "id": 13527,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I’m so sorry. I watched my spouse deteriorate through the years from kidney disease and she passed away at 29. I was with her for 8 years. It never gets easier. You just learn to live with it better. Stay strong though. You’re a tough kid for going through all of this at such a young age.",
+    "four_sides": {
+     "factual": "Shares personal experience of losing a spouse to kidney disease.",
+     "self_revelation": "Reveals empathy and understanding of grief.",
+     "relationship": "Positions the author as a supportive figure who relates to the original poster's pain.",
+     "appeal": "Encourages the original poster to stay strong and acknowledges their resilience."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and support, acknowledging shared grief and resilience."
+   }
+  ]
+ },
+ {
+  "id": 13533,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I’m so sorry. I hear your pain. {{HUGS}}",
+    "four_sides": {
+     "factual": "Acknowledges the pain expressed in the post.",
+     "self_revelation": "Shows empathy and compassion.",
+     "relationship": "Positions the responder as supportive and understanding.",
+     "appeal": "Offers comfort and solidarity."
+    },
+    "dominant": "care",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and offers comfort cleanly."
+   }
+  ]
+ },
+ {
+  "id": 13539,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "You did well.",
+    "four_sides": {
+     "factual": "Acknowledges an achievement or effort.",
+     "self_revelation": "Shows a supportive and appreciative stance.",
+     "relationship": "Positions the speaker as affirming and encouraging.",
+     "appeal": "Seeks to uplift or validate the recipient."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Affirms the recipient with a clean, supportive statement."
+   }
+  ]
+ },
+ {
+  "id": 13545,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Such a beautiful couple. I’m so sorry.",
+    "four_sides": {
+     "factual": "Acknowledges the couple's beauty and expresses sympathy.",
+     "self_revelation": "Shows empathy and compassion.",
+     "relationship": "Views the couple positively and offers condolences.",
+     "appeal": "Seeks to comfort the poster."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and offers condolences cleanly."
+   }
+  ]
+ },
+ {
+  "id": 13551,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "So young my friend and I am so sorry. Your love for her is weaved into your words and brought tears to my eyes. I am glad that some good (job) is your life and we all here understand how the pain feels and it can be overwhelming. I hope you find peace and maybe look to ways to move forward and honor your beautiful wife by trying to be the best person you can be. She will always be with you. Find your purpose in her memory.",
+    "four_sides": {
+     "factual": "Acknowledges the young age of the poster and the depth of their love.",
+     "self_revelation": "Expresses empathy and personal emotional response.",
+     "relationship": "Positions the audience as understanding and supportive.",
+     "appeal": "Encourages finding peace and purpose in memory of the wife."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Offers empathy and encouragement, focusing on healing and honoring the memory."
+   },
+   {
+    "quote": "That is what I am trying to do and I had the unbelievable gift of being with my wife for 43 years before pancreatic cancer took her away. it is a one day a time process but slowly you can find your way and you will.",
+    "four_sides": {
+     "factual": "Shares personal experience of loss and the process of moving forward.",
+     "self_revelation": "Reveals personal journey and resilience.",
+     "relationship": "Establishes a shared understanding of grief.",
+     "appeal": "Encourages the poster to take it one day at a time."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Shares personal experience to offer hope and solidarity."
+   },
+   {
+    "quote": "Peace",
+    "four_sides": {
+     "factual": "",
+     "self_revelation": "",
+     "relationship": "",
+     "appeal": "Wishes peace to the poster."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Concludes with a wish for peace, reinforcing care."
+   }
+  ]
+ },
+ {
+  "id": 13557,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Cancer is shit. I was lucky to have met my wife for 3 years. Year 1 dating, year 2 cancer, we got married and she died a year later.",
+    "four_sides": {
+     "factual": "Describes the timeline of the relationship and the impact of cancer.",
+     "self_revelation": "Expresses gratitude for the time spent with the wife despite the hardship.",
+     "relationship": "Acknowledges the wife's role in the author's life.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses gratitude and acknowledges loss cleanly."
+   },
+   {
+    "quote": "My wife was full of life and sunshine, she accepted her faith early and decided to live life to max. She taught me not to be afraid and continue living.",
+    "four_sides": {
+     "factual": "Describes the wife's character and attitude toward life.",
+     "self_revelation": "Reveals the wife's influence on the author's outlook.",
+     "relationship": "Shows admiration and respect for the wife.",
+     "appeal": ""
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Admires the wife's character and her impact on the author."
+   },
+   {
+    "quote": "I know it doesnt feel like it, but You will get thru this, you will make your wife proud, its the best way to honor her. Life is not fair, but the point of life is to live it and do ut as best you can. It’s been almost 2 years for me, Its crazy to think what happened, but when you are with someone who loved you so much, your only choice is to make them proud. It will get better, time heals, friends, family, and romance helps too.",
+    "four_sides": {
+     "factual": "Offers advice and perspective on coping with loss.",
+     "self_revelation": "Shares personal experience and growth.",
+     "relationship": "Encourages the audience to honor their loved one.",
+     "appeal": "Urges the audience to persevere and find meaning."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Encourages resilience and honors the memory of the loved one."
+   },
+   {
+    "quote": "One day at a time",
+    "four_sides": {
+     "factual": "Suggests a practical approach to coping.",
+     "self_revelation": "Reflects a mindset of gradual progress.",
+     "relationship": "",
+     "appeal": "Encourages taking small steps."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers practical advice for coping with loss."
+   }
+  ]
+ },
+ {
+  "id": 13563,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I was reading your story while listening to “Let You Fade” by Linkin Park on my way home from a grueling shift. I’m on the subway train ready to bawl. An amazing song that I think would help.",
+    "four_sides": {
+     "factual": "Describes the context of reading the post and listening to a song.",
+     "self_revelation": "Reveals emotional vulnerability and readiness to cry.",
+     "relationship": "Shows empathy and connection to the post.",
+     "appeal": "Suggests the song as a potential source of comfort."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses emotional readiness to cry, naming grief cleanly."
+   },
+   {
+    "quote": "We all here send you love and grace.",
+    "four_sides": {
+     "factual": "",
+     "self_revelation": "",
+     "relationship": "Expresses collective care and support.",
+     "appeal": "Offers love and grace as a gesture of comfort."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers collective support and care directly."
+   },
+   {
+    "quote": "You are so much stronger and lovelier in life than you know and no “I’m sorry for your loss” will ever reverse the hurt and all your pain.",
+    "four_sides": {
+     "factual": "Acknowledges the irreversibility of the pain.",
+     "self_revelation": "",
+     "relationship": "Affirms the poster’s strength and loveliness.",
+     "appeal": "Encourages self-recognition of strength."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Affirms the poster’s strength and acknowledges their pain."
+   },
+   {
+    "quote": "But for love’s sake… Live for her and live for you. It’ll all be alright in the end, and if isn’t… It’s not the end. ♥️",
+    "four_sides": {
+     "factual": "",
+     "self_revelation": "",
+     "relationship": "Encourages the poster to live for themselves and their late wife.",
+     "appeal": "Offers hope and a call to persevere."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Encourages perseverance and hope, appealing to care and seeking."
+   }
+  ]
+ },
+ {
+  "id": 13569,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Hey friends. I’m a bit older than you (26M) but I related a lot to your story. My partner passed away last year (24F). Here if you want to talk",
+    "four_sides": {
+     "factual": "Shares personal experience of loss and age difference",
+     "self_revelation": "Reveals own grief and willingness to connect",
+     "relationship": "Positions self as empathetic peer",
+     "appeal": "Offers support and conversation"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Offers empathy and support, connecting through shared grief"
+   }
+  ]
+ },
+ {
+  "id": 13575,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "my 1 year is coming up myself, it's going to be really hard, and she hated pics, so i hardly have any pictures.",
+    "four_sides": {
+     "factual": "The first anniversary of a loss is approaching, and the deceased disliked pictures, leaving few photos.",
+     "self_revelation": "The speaker anticipates difficulty and feels the absence of visual memories.",
+     "relationship": "The speaker reflects on the deceased's preferences and their impact.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses anticipation of emotional difficulty and the impact of the deceased's preferences."
+   },
+   {
+    "quote": "I have been broken beyond repair this year, hardest time of my life, and i was in the infantry for 6 years.",
+    "four_sides": {
+     "factual": "The speaker describes the past year as the hardest of their life, despite prior military experience.",
+     "self_revelation": "The speaker feels profoundly damaged and compares the emotional toll to their military service.",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Describes deep emotional pain and compares it to a challenging past experience."
+   }
+  ]
+ },
+ {
+  "id": 13581,
+  "altitude": "Willingness",
+  "segments": [
+   {
+    "quote": "I’m based in Toronto. If you ever want to grab a coffee and rant/ramble I’m all ears",
+    "four_sides": {
+     "factual": "States location and availability for a meeting.",
+     "self_revelation": "Shows openness and willingness to listen.",
+     "relationship": "Offers support and companionship.",
+     "appeal": "Invites the other person to connect."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers support and companionship, inviting connection."
+   }
+  ]
+ },
+ {
+  "id": 13587,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "For me, the first year was absolutely, positively the worst -- because it contained the first everything without my loved one (holidays, seasons, events, feelings, changes, etc.).",
+    "four_sides": {
+     "factual": "Describes the difficulty of the first year after loss.",
+     "self_revelation": "Shares personal experience of grief.",
+     "relationship": "Relates to the original poster's situation.",
+     "appeal": "Offers understanding and empathy."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names the difficulty of firsts after loss cleanly."
+   },
+   {
+    "quote": "Three years out and counting, I still love my dear one fully, and I miss the life and home we shared -- and I'm also carving out a wonderful life of my own. Two truths can exist at once.",
+    "four_sides": {
+     "factual": "States the coexistence of grief and a fulfilling life.",
+     "self_revelation": "Reveals personal growth and acceptance.",
+     "relationship": "Connects to the original poster's journey.",
+     "appeal": "Encourages hope and balance."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Balances grief with personal growth cleanly."
+   },
+   {
+    "quote": "(My life now is definitely different, yet also wonderful and worth living. My grief and loss have begun to melt into gratitude and celebration for what I had.)",
+    "four_sides": {
+     "factual": "Describes the transformation of grief into gratitude.",
+     "self_revelation": "Shares personal healing and perspective.",
+     "relationship": "Relates to the original poster's potential path.",
+     "appeal": "Offers hope and a positive outlook."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Transforms grief into gratitude cleanly."
+   },
+   {
+    "quote": "My heart goes out to your beautiful soul, OP.",
+    "four_sides": {
+     "factual": "",
+     "self_revelation": "",
+     "relationship": "Expresses empathy and connection.",
+     "appeal": "Offers comfort and support."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy cleanly."
+   }
+  ]
+ },
+ {
+  "id": 13593,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "I just want to be able to hug her again.",
+    "four_sides": {
+     "factual": "Expresses a desire to hug someone again.",
+     "self_revelation": "Reveals a deep longing and emotional pain.",
+     "relationship": "Shows a strong attachment to the person being missed.",
+     "appeal": "Implies a wish for the return of closeness and comfort."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names the longing cleanly, expressing emotional pain directly."
+   }
+  ]
+ },
+ {
+  "id": 13599,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "From my basic understanding (as a 14 day widow): Your partner's way to love is gone, period.",
+    "four_sides": {
+     "factual": "Acknowledges the loss of a specific way of loving.",
+     "self_revelation": "Reveals the author's recent widowhood and their understanding of loss.",
+     "relationship": "Addresses the audience with empathy, recognizing their shared experience of loss.",
+     "appeal": "Seeks to offer perspective and comfort."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names the loss cleanly, acknowledging the end of a specific form of love."
+   },
+   {
+    "quote": "But the good thing seems to be that at any given time another person will love you in their own way and you can accept this love and cherish it even if it is differently.",
+    "four_sides": {
+     "factual": "Posits the possibility of new love in a different form.",
+     "self_revelation": "Shows the author's hopeful outlook on future relationships.",
+     "relationship": "Encourages the audience to remain open to new forms of love.",
+     "appeal": "Offers reassurance and hope for the future."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Encourages acceptance and cherishing of future love, framed positively."
+   },
+   {
+    "quote": "I hope this day may come for me as I'm very much in need to give and receive lovely, real affection.",
+    "four_sides": {
+     "factual": "Expresses a personal hope for future affection.",
+     "self_revelation": "Reveals the author's current emotional need for love.",
+     "relationship": "Connects with the audience through shared vulnerability.",
+     "appeal": "Seeks understanding and solidarity."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names the need for affection cleanly, expressing vulnerability."
+   }
+  ]
+ },
+ {
+  "id": 13605,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "I hear ya 100%, I want my future back exactly, widowed at 40, she was 34.",
+    "four_sides": {
+     "factual": "Acknowledges the original post and shares personal details about being widowed at 40.",
+     "self_revelation": "Expresses a deep longing for the past and a lost future.",
+     "relationship": "Aligns with the original poster's feelings of loss and loneliness.",
+     "appeal": "Seeks understanding and connection with the original poster."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses longing for a lost future and connection to the original post."
+   },
+   {
+    "quote": "Widower is the most bullshit hand we ever get dealt imo.",
+    "four_sides": {
+     "factual": "States an opinion about the difficulty of being a widower.",
+     "self_revelation": "Reveals frustration and resentment about the situation.",
+     "relationship": "Addresses a shared experience with the original poster.",
+     "appeal": "Seeks validation or agreement about the unfairness of the situation."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses frustration and resentment about the experience of being a widower."
+   },
+   {
+    "quote": "Five years in and haven't even had a coffee date, it still feels like it would be infidelity, which is all in my head because she literally told me to get remarried.",
+    "four_sides": {
+     "factual": "Shares personal details about not dating for five years and feeling conflicted about it.",
+     "self_revelation": "Reveals internal conflict and guilt about moving on.",
+     "relationship": "Connects to the original poster's feelings of loneliness and misplaced sorrow.",
+     "appeal": "Seeks understanding or empathy for the internal struggle."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses internal conflict and guilt about moving on after loss."
+   }
+  ]
+ },
+ {
+  "id": 13611,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "re your last remark, same. he told me that he wanted me to find love again. \"someone else should experience the joy of being with you.\"",
+    "four_sides": {
+     "factual": "Recounts a conversation where the speaker was encouraged to find love again.",
+     "self_revelation": "Reveals the speaker's struggle with moving on and finding new love.",
+     "relationship": "Shows a connection to the original poster's experience of loss.",
+     "appeal": "Seeks to empathize and connect with the original poster."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Connects to the original poster's grief and loss."
+   },
+   {
+    "quote": "i can't even imagine it. i'm four years in and am only just now entertaining the thought of pushing a stranger up against the wall, until i think about actually DOING IT, and it grosses me out.",
+    "four_sides": {
+     "factual": "Describes the speaker's difficulty imagining intimacy with someone new.",
+     "self_revelation": "Reveals the speaker's discomfort with the idea of new physical intimacy.",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses lingering grief and discomfort with moving on."
+   },
+   {
+    "quote": "it still feels like cheating. it's not, but it feels like that. plus, i know i'll never do better, so it all feels like a huge waste of time. would rather dedicate that time to my family and friends and cats and neighborhood squirrels.",
+    "four_sides": {
+     "factual": "Describes the speaker's feelings about new relationships and time allocation.",
+     "self_revelation": "Reveals the speaker's sense of futility and preference for existing relationships.",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses grief and a sense of futility about new relationships."
+   },
+   {
+    "quote": "i know that sounds pathetic, but i'm actually pretty happy with it; if i can't have him, it will do.",
+    "four_sides": {
+     "factual": "Acknowledges the speaker's contentment with their current situation.",
+     "self_revelation": "Reveals the speaker's acceptance of their loss and current state.",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses acceptance of loss and current contentment."
+   },
+   {
+    "quote": "i'm so sorry for your loss. we were both 48 when he died (well, i was about three weeks from 48; he'd just turned). when we were both 40, much less 34, life was bright with endless possibilities. i can't imagine experiencing this at your age. again, i'm so sorry for your loss.",
+    "four_sides": {
+     "factual": "Expresses sympathy and shares personal experience of loss.",
+     "self_revelation": "Reveals the speaker's own experience of loss and empathy.",
+     "relationship": "Shows empathy and connection to the original poster's grief.",
+     "appeal": "Seeks to comfort the original poster."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses care and empathy for the original poster's loss."
+   }
+  ]
+ },
+ {
+  "id": 13617,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "I was just sitting here in very similar thoughts. The friendship and the comfort and the easy laughter and the love. Ugh, I miss it.",
+    "four_sides": {
+     "factual": "Describes a state of mind and specific things missed",
+     "self_revelation": "Reveals a sense of longing and emotional vulnerability",
+     "relationship": "Implies a connection to the original post and its author",
+     "appeal": "Expresses a need for understanding or empathy"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses longing and emotional vulnerability cleanly"
+   }
+  ]
+ },
+ {
+  "id": 13623,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I’ve been married then divorced (her infidelity), married then widowed, engaged again (now) and terrified of losing again.",
+    "four_sides": {
+     "factual": "Describes a history of relationships and losses.",
+     "self_revelation": "Reveals vulnerability and fear of future loss.",
+     "relationship": "Acknowledges past partners and their impact.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "fear",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses past losses and current fear of repeating them."
+   },
+   {
+    "quote": "Loss is hard in any previous relationship but going forward you have to learn that it’s now the past and now how to become the person you think you are.",
+    "four_sides": {
+     "factual": "States the difficulty of loss and the need to move forward.",
+     "self_revelation": "Shows a desire for personal growth and self-realization.",
+     "relationship": "",
+     "appeal": "Encourages learning from the past and self-improvement."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Encourages forward movement and self-improvement."
+   },
+   {
+    "quote": "I can tell you all the shit you already know and everybody else is saying but the cold sadness doesn’t stop until you’re ready to make somebody else smile.",
+    "four_sides": {
+     "factual": "Acknowledges common advice and the persistence of sadness.",
+     "self_revelation": "Reveals a belief in the power of connection to alleviate sadness.",
+     "relationship": "",
+     "appeal": "Suggests readiness to connect with others as a solution."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Suggests connection with others as a way to overcome sadness."
+   },
+   {
+    "quote": "When you’re ready. Strength keeps you alive but being real makes you happy enough to keep going and eventually you’ll find somebody who wants to make you smile too.",
+    "four_sides": {
+     "factual": "Describes the role of strength and authenticity in happiness.",
+     "self_revelation": "Expresses belief in eventual connection and happiness.",
+     "relationship": "",
+     "appeal": "Encourages authenticity and patience in finding happiness."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Encourages authenticity and patience in finding happiness."
+   },
+   {
+    "quote": "Obviously sex is awesome too because it’s sex and when it’s good it’s because it’s intimate and personal and with somebody you genuinely care about… I mean it’s never bad lol but it also is its own language.",
+    "four_sides": {
+     "factual": "Describes the value of sex in intimate relationships.",
+     "self_revelation": "Reveals a positive view of sex as a form of connection.",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "lust",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses a positive view of sex as intimate and personal."
+   },
+   {
+    "quote": "Sorry it’s all fucked up right now but once you hit bottom there’s only one direction to go… up. You’ll make it. I did.",
+    "four_sides": {
+     "factual": "Acknowledges current difficulties and the inevitability of improvement.",
+     "self_revelation": "Reveals personal experience of overcoming hardship.",
+     "relationship": "",
+     "appeal": "Offers encouragement and hope for improvement."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Offers encouragement and hope for improvement."
+   }
+  ]
+ },
+ {
+  "id": 13629,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "I often wonder if we will be able to kiss in heaven.",
+    "four_sides": {
+     "factual": "Speculates about the possibility of kissing in heaven.",
+     "self_revelation": "Expresses longing and uncertainty about the afterlife.",
+     "relationship": "Implies a deep connection to the person being missed.",
+     "appeal": "Seeks reassurance or understanding about the future."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses longing and uncertainty about the afterlife."
+   },
+   {
+    "quote": "I miss kissing too.",
+    "four_sides": {
+     "factual": "States a personal feeling of missing kissing.",
+     "self_revelation": "Reveals a deep emotional need for intimacy.",
+     "relationship": "Connects to the original post's sentiment about missing physical affection.",
+     "appeal": "Seeks empathy or shared understanding."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Reveals a deep emotional need for intimacy."
+   },
+   {
+    "quote": "Damnit",
+    "four_sides": {
+     "factual": "Expresses frustration.",
+     "self_revelation": "Shows emotional distress.",
+     "relationship": "Connects to the shared sentiment of loss.",
+     "appeal": "Seeks acknowledgment of the frustration."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Shows emotional distress."
+   }
+  ]
+ },
+ {
+  "id": 13635,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "I wish I missed our sex life.",
+    "four_sides": {
+     "factual": "Expresses a wish to feel longing for the past sex life.",
+     "self_revelation": "Reveals a disconnect from the past sexual relationship.",
+     "relationship": "Indicates a strained or lost connection with the partner.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses a longing for a lost connection, named cleanly."
+   },
+   {
+    "quote": "The year before the last year, two humiliating 30 second interludes.",
+    "four_sides": {
+     "factual": "Describes two brief and humiliating sexual encounters.",
+     "self_revelation": "Reveals feelings of humiliation and inadequacy.",
+     "relationship": "Suggests a lack of intimacy or connection.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Describes painful experiences with emotional clarity."
+   },
+   {
+    "quote": "That I had to ask for.",
+    "four_sides": {
+     "factual": "States that the encounters were initiated by the author.",
+     "self_revelation": "Reveals a sense of obligation or desperation.",
+     "relationship": "Indicates a lack of mutual desire or initiative.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Highlights the emotional burden of initiating intimacy."
+   },
+   {
+    "quote": "After that, NOTHING for the last year.",
+    "four_sides": {
+     "factual": "States a complete absence of sexual activity for a year.",
+     "self_revelation": "Reveals a deep sense of loss and emptiness.",
+     "relationship": "Indicates a significant breakdown in intimacy.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses a profound sense of loss and absence."
+   },
+   {
+    "quote": "He was kind and sweet.",
+    "four_sides": {
+     "factual": "Describes the partner as kind and sweet.",
+     "self_revelation": "Reveals a recognition of positive qualities in the partner.",
+     "relationship": "Indicates a complex mix of affection and distance.",
+     "appeal": ""
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Acknowledges positive traits in the partner."
+   },
+   {
+    "quote": "But treated me like I was his sister.",
+    "four_sides": {
+     "factual": "States that the partner treated the author platonically.",
+     "self_revelation": "Reveals feelings of rejection and lack of romantic connection.",
+     "relationship": "Indicates a loss of romantic or sexual intimacy.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses the pain of being treated platonically."
+   },
+   {
+    "quote": "I mean no sexual TENSION.",
+    "four_sides": {
+     "factual": "Describes the absence of sexual tension.",
+     "self_revelation": "Reveals a longing for excitement and connection.",
+     "relationship": "Indicates a lack of romantic or sexual spark.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses a desire for lost sexual tension."
+   },
+   {
+    "quote": "No teasing, no flirting, NOTHING.",
+    "four_sides": {
+     "factual": "Describes the absence of playful or romantic interactions.",
+     "self_revelation": "Reveals a deep sense of loss and emptiness.",
+     "relationship": "Indicates a complete breakdown of romantic connection.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Highlights the absence of playful and romantic interactions."
+   },
+   {
+    "quote": "It DESTROYED me.",
+    "four_sides": {
+     "factual": "States the emotional impact of the situation.",
+     "self_revelation": "Reveals deep emotional pain and devastation.",
+     "relationship": "Indicates the severity of the relationship breakdown.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Expresses overwhelming emotional devastation."
+   },
+   {
+    "quote": "NOTHING.",
+    "four_sides": {
+     "factual": "Reiterates the complete absence of intimacy.",
+     "self_revelation": "Reveals a sense of finality and despair.",
+     "relationship": "Indicates a total loss of connection.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Repeats the sense of loss with heightened intensity."
+   },
+   {
+    "quote": "I don’t know why.",
+    "four_sides": {
+     "factual": "Expresses confusion about the situation.",
+     "self_revelation": "Reveals a lack of understanding or closure.",
+     "relationship": "Indicates unresolved issues in the relationship.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses confusion and lack of closure."
+   },
+   {
+    "quote": "He refused therapy-and he majored in Psychology!",
+    "four_sides": {
+     "factual": "States the partner's refusal to seek therapy despite his background.",
+     "self_revelation": "Reveals frustration and disbelief.",
+     "relationship": "Indicates a lack of willingness to address issues.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses frustration at the partner's refusal to seek help."
+   },
+   {
+    "quote": "We were married 20 horny wonderful years and then…there was no physical explanation.",
+    "four_sides": {
+     "factual": "Describes a long, passionate marriage followed by unexplained change.",
+     "self_revelation": "Reveals a sense of loss and confusion.",
+     "relationship": "Indicates a sudden and unexplained shift in intimacy.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses the pain of an unexplained loss of intimacy."
+   },
+   {
+    "quote": "I could easily go the rest of my life without fucking, if I had to, but the fun of flirting and teasing…I couldn’t live without it.",
+    "four_sides": {
+     "factual": "States a preference for playful interactions over sex.",
+     "self_revelation": "Reveals a deep need for playful and romantic connection.",
+     "relationship": "Indicates a longing for lost intimacy.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses a longing for playful and romantic connection."
+   },
+   {
+    "quote": "I was going to divorce him.",
+    "four_sides": {
+     "factual": "States the author's intention to divorce.",
+     "self_revelation": "Reveals a decision made out of emotional pain.",
+     "relationship": "Indicates the severity of the relationship breakdown.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses the emotional weight of the decision to divorce."
+   },
+   {
+    "quote": "Even tho I loved him very much.",
+    "four_sides": {
+     "factual": "States continued love for the partner despite the decision to divorce.",
+     "self_revelation": "Reveals a complex mix of love and pain.",
+     "relationship": "Indicates a deep but troubled connection.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses the pain of loving someone while ending the relationship."
+   }
+  ]
+ },
+ {
+  "id": 13641,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "You nailed it.",
+    "four_sides": {
+     "factual": "Agrees with the post's sentiment",
+     "self_revelation": "Shows alignment with the post's perspective",
+     "relationship": "Positions the author as understanding the post",
+     "appeal": "Seeks validation for the shared view"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Affirms the post's emotional core with understanding"
+   },
+   {
+    "quote": "I just want a companion. Sex is nice, but it's not the end-all-be-all at my age. Someone to go places and do things with and be able to talk to and trust and have on my arm in a gentlemanly way when we are out.",
+    "four_sides": {
+     "factual": "Describes the desire for companionship over sex",
+     "self_revelation": "Reveals a longing for connection and trust",
+     "relationship": "Positions the audience as potential sharers of this desire",
+     "appeal": "Seeks understanding or empathy for this need"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses a clean longing for emotional connection and belonging"
+   },
+   {
+    "quote": "I want to matter to someone, because right now I matter to nobody.",
+    "four_sides": {
+     "factual": "States a current lack of significance to others",
+     "self_revelation": "Reveals feelings of loneliness and insignificance",
+     "relationship": "Positions the audience as potential validators",
+     "appeal": "Seeks acknowledgment or change in this state"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names a deep need for belonging and significance cleanly"
+   }
+  ]
+ },
+ {
+  "id": 13647,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Thank you, that's kind of you to say, but I'm simply looking at it from a realistic point of view.",
+    "four_sides": {
+     "factual": "Acknowledges a compliment but shifts to a realistic perspective.",
+     "self_revelation": "Shows a grounded, pragmatic approach to the situation.",
+     "relationship": "Maintains a respectful tone toward the audience.",
+     "appeal": "Seeks understanding for the realistic stance."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses a grounded perspective on the situation."
+   },
+   {
+    "quote": "Without boring you with the details, I'll just say that the dating pool does NOT grow larger as you age.",
+    "four_sides": {
+     "factual": "States a fact about the dating pool shrinking with age.",
+     "self_revelation": "Reveals awareness of the challenges of dating later in life.",
+     "relationship": "Assumes the audience might find the details tedious.",
+     "appeal": "Seeks to avoid overwhelming the audience with details."
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Presents a factual observation about dating."
+   },
+   {
+    "quote": "My wife didn't want me to be lonely, but as I've told my SIL on the subject, there are a lot of factors that each chip away from the dating pool, so while I do not categorically reject the idea of meeting someone, I'm being realistic about the likelihood of it happening.",
+    "four_sides": {
+     "factual": "Lists factors that reduce the dating pool.",
+     "self_revelation": "Shows a balanced, realistic approach to dating.",
+     "relationship": "References conversations with family members.",
+     "appeal": "Seeks understanding for the cautious stance."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Balances hope with a realistic assessment of the situation."
+   },
+   {
+    "quote": "I was extremely lucky to be at the right place at the right time to meet my wife, and we spent 25 years together.",
+    "four_sides": {
+     "factual": "Describes the fortunate circumstances of meeting his wife.",
+     "self_revelation": "Expresses gratitude for the past relationship.",
+     "relationship": "Reflects on the relationship with his wife.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses gratitude and acknowledges the rarity of such a relationship."
+   },
+   {
+    "quote": "My thinking is that you can only reasonably expect that kind of luck and that kind of love to happen once in one lifetime.",
+    "four_sides": {
+     "factual": "States a belief about the rarity of such luck and love.",
+     "self_revelation": "Reveals a philosophical perspective on love and luck.",
+     "relationship": "Shares this belief with the audience.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses a philosophical view on the rarity of deep love."
+   }
+  ]
+ },
+ {
+  "id": 13653,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "Every single bit of this. I miss the connection. The love. The intimacy. The knowing he knew me better than I knew me.",
+    "four_sides": {
+     "factual": "Expresses longing for connection, love, intimacy, and mutual understanding.",
+     "self_revelation": "Reveals deep emotional attachment and a sense of loss.",
+     "relationship": "Views the other person as deeply connected and understanding.",
+     "appeal": "Implies a desire to regain what was lost."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses longing and loss cleanly, focusing on emotional attachment."
+   }
+  ]
+ },
+ {
+  "id": 13659,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "I miss everything about being physically intimate with my wife. It’s one of a million things I miss, but it’s very much near the top.",
+    "four_sides": {
+     "factual": "Expresses longing for physical intimacy with his wife.",
+     "self_revelation": "Reveals deep emotional attachment and loss.",
+     "relationship": "Acknowledges the importance of his wife in his life.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses longing and loss cleanly, focusing on the emotional attachment."
+   },
+   {
+    "quote": "I don’t know how to do hook ups - I never have. And dating has *not* been going well. So I guess this is just my life now.",
+    "four_sides": {
+     "factual": "States lack of experience with hookups and poor dating outcomes.",
+     "self_revelation": "Reveals resignation and acceptance of current circumstances.",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "shutdown"
+     }
+    ],
+    "why": "Expresses resignation and acceptance of a difficult situation, indicating grief shutdown."
+   }
+  ]
+ },
+ {
+  "id": 13665,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Honestly, that’s probably what I’ll end up doing once I’m ready.",
+    "four_sides": {
+     "factual": "Acknowledges a future action",
+     "self_revelation": "Shows self-awareness and readiness",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses anticipation of future readiness"
+   },
+   {
+    "quote": "I’m not naive. While I don’t know what relationships might look like for me in the future, I know I’ll want sex again eventually.",
+    "four_sides": {
+     "factual": "States a future desire for sex",
+     "self_revelation": "Shows realism and self-awareness",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "lust",
+      "band": "above"
+     }
+    ],
+    "why": "Names future erotic desire cleanly"
+   },
+   {
+    "quote": "When that time comes, I’m just not a ONS kind of person. I need at least some kind of connection to enjoy sex (not necessarily love, just connection).",
+    "four_sides": {
+     "factual": "Describes personal sexual preferences",
+     "self_revelation": "Reveals need for connection in sexual relationships",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "lust",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Links erotic desire to relational care"
+   },
+   {
+    "quote": "I feel like FWB, recurring but not a full relationship, will eventually be right for me.",
+    "four_sides": {
+     "factual": "Predicts a future relationship type",
+     "self_revelation": "Shows self-awareness and preference",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "lust",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Names a relational preference cleanly"
+   },
+   {
+    "quote": "But 38 has never felt older than it does right now. How the hell do I even meet a potential FWB.",
+    "four_sides": {
+     "factual": "Expresses a sense of aging",
+     "self_revelation": "Shows vulnerability and uncertainty",
+     "relationship": "",
+     "appeal": "Seeks advice or solution"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses longing and seeks connection"
+   }
+  ]
+ },
+ {
+  "id": 13671,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I know how u feel 😔❤️",
+    "four_sides": {
+     "factual": "Acknowledges the emotional state described in the post.",
+     "self_revelation": "Shows empathy and understanding.",
+     "relationship": "Positions the speaker as supportive and connected.",
+     "appeal": "Offers comfort and solidarity."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and support, aligning with the emotional tone of the post."
+   }
+  ]
+ },
+ {
+  "id": 13677,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I get it. I know when I’m ready, part of me hopes I find a fellow widow who gets it, so there’s not so much pressure. Weird qualifier, but it stays in my head.",
+    "four_sides": {
+     "factual": "Acknowledges understanding of the original post's sentiment.",
+     "self_revelation": "Expresses personal hope for finding a compatible partner who understands the experience of widowhood.",
+     "relationship": "Sees the original poster as someone who shares a similar experience.",
+     "appeal": "Hopes for a future connection that alleviates pressure."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses longing for connection rooted in shared grief, while also seeking future companionship."
+   }
+  ]
+ },
+ {
+  "id": 13683,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Youre definitely not crass at all. Ive heard of widow/widowers fire before (and felt it myself) and its so real.",
+    "four_sides": {
+     "factual": "Acknowledges the concept of widow/widowers fire.",
+     "self_revelation": "Reveals personal experience with widow/widowers fire.",
+     "relationship": "Affirms the original poster's feelings as valid.",
+     "appeal": ""
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Affirms the original poster's feelings as valid."
+   },
+   {
+    "quote": "I ended up having a hookup up for the first (and only) time in my life like idk 9 mos ago and the dude was kind of a class act dick but also I just felt like i needed it so bad?",
+    "four_sides": {
+     "factual": "Describes a past hookup experience.",
+     "self_revelation": "Reveals personal need for physical intimacy.",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "lust",
+      "band": "above"
+     }
+    ],
+    "why": "Describes a personal need for physical intimacy."
+   },
+   {
+    "quote": "After that experience I realized that I needed to still have standards but my husband had been sick for years and its nearly 3 since he passed sooo it'd been a while... at the time I was like man I need to get laid.",
+    "four_sides": {
+     "factual": "Reflects on the need for standards after a hookup.",
+     "self_revelation": "Reveals personal history and long-term absence of intimacy.",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Reflects on personal history and long-term absence of intimacy."
+   },
+   {
+    "quote": "It's just as you said though. It feels like any hole (or dick) will do, but it doesnt really give you what you're REALLY craving.",
+    "four_sides": {
+     "factual": "Agrees with the original poster's sentiment.",
+     "self_revelation": "Reveals understanding of the deeper craving for love.",
+     "relationship": "Aligns with the original poster's feelings.",
+     "appeal": ""
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Aligns with the original poster's feelings."
+   }
+  ]
+ },
+ {
+  "id": 13689,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "In a different post, your wife was 23, just 3 years ago. Your flair says she was 36.",
+    "four_sides": {
+     "factual": "Points out a discrepancy in the timeline of the wife's age.",
+     "self_revelation": "Shows attention to detail and skepticism.",
+     "relationship": "Questions the credibility of the original post.",
+     "appeal": "Asks for clarification or correction."
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Challenges the accuracy of the original post with a factual observation."
+   }
+  ]
+ },
+ {
+  "id": 13695,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "We. Are. Adults.",
+    "four_sides": {
+     "factual": "States a fact about being adults.",
+     "self_revelation": "Identifies the speaker and others as adults.",
+     "relationship": "Assumes a shared understanding with the audience.",
+     "appeal": ""
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Asserts a clear, factual statement about identity."
+   }
+  ]
+ },
+ {
+  "id": 13701,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "This 😢",
+    "four_sides": {
+     "factual": "Acknowledges the post's content",
+     "self_revelation": "Expresses sadness",
+     "relationship": "Empathizes with the author",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses sadness cleanly, empathizing with the author's longing"
+   }
+  ]
+ },
+ {
+  "id": 13707,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Yup all the dressing up I am doing at the moment to feel good about myself should have that as a patch on it",
+    "four_sides": {
+     "factual": "Acknowledges the act of dressing up to feel good about oneself.",
+     "self_revelation": "Reveals a personal strategy for self-comfort and self-esteem.",
+     "relationship": "Implies a shared understanding or commonality with the audience.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses a proactive effort to improve self-feeling, indicating seeking."
+   }
+  ]
+ },
+ {
+  "id": 13713,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I am so sorry. 🪬❤️🫂",
+    "four_sides": {
+     "factual": "Expresses sorrow",
+     "self_revelation": "Shows empathy",
+     "relationship": "Acknowledges the other's pain",
+     "appeal": "Seeks to comfort"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers empathy and comfort, the act cleanly expressed"
+   }
+  ]
+ },
+ {
+  "id": 13719,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "We used to get an ornament from the mall every year that had my wife and I the first year, then us with our first kid the second, then us, first kid, and baby bump, then us, two kids, and baby bump, then us and three kids.",
+    "four_sides": {
+     "factual": "Describes a tradition of getting ornaments that marked family milestones.",
+     "self_revelation": "Shows the author's attachment to family traditions and the importance of family growth.",
+     "relationship": "Reflects a close and evolving family bond.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses a deep connection to family traditions and milestones."
+   },
+   {
+    "quote": "I didn’t get one this year, or the last few. Looking for one with a dad, three kids, and an angel is too hard.",
+    "four_sides": {
+     "factual": "States the absence of the ornament tradition in recent years and the difficulty of finding a specific ornament.",
+     "self_revelation": "Reveals the author's struggle with loss and the challenge of continuing traditions after a significant change.",
+     "relationship": "Implies a shift in family dynamics due to loss.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Acknowledges the difficulty of continuing traditions after a loss."
+   },
+   {
+    "quote": "But pulling out the past years’ was hard on my oldest this year.",
+    "four_sides": {
+     "factual": "Notes the emotional impact of revisiting past ornaments on the oldest child.",
+     "self_revelation": "Shows the author's awareness of their child's grief.",
+     "relationship": "Highlights the shared grief within the family.",
+     "appeal": ""
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Recognizes the emotional toll on the oldest child."
+   },
+   {
+    "quote": "It’ll always be hard. But it does get a bit easier, especially compared to the first.",
+    "four_sides": {
+     "factual": "Acknowledges the ongoing difficulty but notes some easing of the pain over time.",
+     "self_revelation": "Reveals the author's acceptance of the grief process and gradual healing.",
+     "relationship": "Suggests a shared understanding of the family's emotional journey.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses acceptance of the grief process and gradual healing."
+   }
+  ]
+ },
+ {
+  "id": 13725,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "I do the same thing to her photo and urn every morning.",
+    "four_sides": {
+     "factual": "Describes a daily ritual involving a photo and urn.",
+     "self_revelation": "Reveals a deep attachment and ongoing connection to someone who has passed.",
+     "relationship": "Shows a continued bond with the deceased.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses a ritual of connection, naming the grief cleanly."
+   }
+  ]
+ },
+ {
+  "id": 13731,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "🫂🫂🫂",
+    "four_sides": {
+     "factual": "",
+     "self_revelation": "",
+     "relationship": "Expresses empathy and support",
+     "appeal": ""
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers comfort and solidarity through repeated hugging emojis"
+   }
+  ]
+ },
+ {
+  "id": 13737,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Yes. It’s awful. It is incredibly painful.",
+    "four_sides": {
+     "factual": "Acknowledges the pain and awfulness of the situation",
+     "self_revelation": "Shows empathy and understanding",
+     "relationship": "Aligns with the poster's feelings",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Acknowledges the pain cleanly, showing empathy"
+   },
+   {
+    "quote": "I suspect your husband was a good man, as one of his friends is good man too.",
+    "four_sides": {
+     "factual": "Speculates on the character of the husband and his friend",
+     "self_revelation": "Reveals a positive view of the husband and his friend",
+     "relationship": "Offers a supportive perspective",
+     "appeal": ""
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers a supportive and positive perspective"
+   },
+   {
+    "quote": "Sorry for your loss.",
+    "four_sides": {
+     "factual": "Expresses condolences",
+     "self_revelation": "Shows compassion",
+     "relationship": "Offers sympathy",
+     "appeal": ""
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses condolences cleanly, showing compassion"
+   }
+  ]
+ },
+ {
+  "id": 13743,
+  "altitude": "Love",
+  "segments": [
+   {
+    "quote": "Sending love to you and your precious babies. I’m so sorry 💔",
+    "four_sides": {
+     "factual": "Expresses sympathy and offers love",
+     "self_revelation": "Shows empathy and compassion",
+     "relationship": "Sees the recipient as deserving of care and support",
+     "appeal": "Wants to comfort and uplift"
+    },
+    "dominant": "care",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers support and empathy cleanly"
+   }
+  ]
+ },
+ {
+  "id": 13749,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Sending care and support your way. It’s not any person’s responsibility to make it not sad after we lose someone we love. It’s quite impossible. Especially not a grieving parent with their grieving kiddos. Having a spouse/parent who died is a really, really sad thing, and pretending it’s not sad just doesn’t work. You’re doing the best you can, and seeing you cry and expressing your feelings in a healthy way can teach them how to grieve. So glad you’re able to take care of yourself with some alone time too. Again, showing them that it’s okay to ask for space if they need it. Hang in there.",
+    "four_sides": {
+     "factual": "Acknowledges the sadness and impossibility of avoiding grief after losing a loved one.",
+     "self_revelation": "Shows empathy and understanding of the grieving process.",
+     "relationship": "Views the poster as a grieving parent doing their best, and their children as also grieving.",
+     "appeal": "Encourages the poster to continue expressing feelings and taking care of themselves."
+    },
+    "dominant": "care",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers support and validation, emphasizing healthy grieving and self-care."
+   }
+  ]
+ },
+ {
+  "id": 13755,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "😪",
+    "four_sides": {
+     "factual": "Expresses sadness",
+     "self_revelation": "Shows the author is feeling sorrow",
+     "relationship": "Indicates a connection to the emotional content of the post",
+     "appeal": "Seeks empathy or understanding"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Conveys sadness cleanly, aligning with the post's emotional tone"
+   }
+  ]
+ },
+ {
+  "id": 13761,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "My 4yo sobbed that she missed her dad in the car last night and then threw up all over everything moments later. And 2yo had already thrown up so by the time we got home I was the one sobbing.",
+    "four_sides": {
+     "factual": "Describes a chaotic and emotionally taxing situation involving the children.",
+     "self_revelation": "Reveals the author's emotional exhaustion and distress.",
+     "relationship": "Shows the children's dependence and the author's caregiving role.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Expresses overwhelming sadness and distress from the situation."
+   },
+   {
+    "quote": "My mom at least went and filled my stocking for me because my plan had been to grab random packages of stuff from around the house to fill it but I’m not anticipating any gifts from anyone in my household for another decade unless I have a new partner in that time or if stuff they make at school counts.",
+    "four_sides": {
+     "factual": "States the lack of anticipated gifts and the author's low expectations.",
+     "self_revelation": "Reveals feelings of neglect and resignation.",
+     "relationship": "Shows the author's reliance on their mother and lack of support from others.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "shutdown"
+     }
+    ],
+    "why": "Conveys a sense of resignation and emotional withdrawal."
+   },
+   {
+    "quote": "If I was further out maybe I’d have had the presence of mind to get them something from their dad or pictures or something but I just barely managed getting them anything.",
+    "four_sides": {
+     "factual": "Reflects on what could have been done differently.",
+     "self_revelation": "Reveals feelings of inadequacy and regret.",
+     "relationship": "Shows the author's concern for the children's emotional well-being.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "shutdown"
+     }
+    ],
+    "why": "Expresses regret and self-doubt about not doing more."
+   },
+   {
+    "quote": "Anyway, here with you with it being the first Christmas alone with little kids and it being awful.",
+    "four_sides": {
+     "factual": "Acknowledges the shared experience of a difficult Christmas.",
+     "self_revelation": "Reveals the author's acknowledgment of the situation's difficulty.",
+     "relationship": "Establishes a connection with the audience through shared hardship.",
+     "appeal": ""
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Connects with the audience by naming the shared difficulty cleanly."
+   }
+  ]
+ },
+ {
+  "id": 13767,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "It's really hard to decide which is worst - the first birthday without your spouse, or the first Christmas. They're both pretty terrible, and it sounds like yours was unfortunately bad. We hear you, and we understand.",
+    "four_sides": {
+     "factual": "Compares the difficulty of first holidays without a spouse",
+     "self_revelation": "Acknowledges shared pain and understanding",
+     "relationship": "Offers empathy and solidarity",
+     "appeal": "Seeks to comfort and validate"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers empathy and validation for shared grief"
+   },
+   {
+    "quote": "My daughter didn't get me anything this year, but that's mostly because she's been really sick the last 10 days.",
+    "four_sides": {
+     "factual": "Explains why the daughter didn't give a gift",
+     "self_revelation": "Shows understanding and lack of resentment",
+     "relationship": "Maintains a caring connection despite the absence of a gift",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Explains absence of gift with understanding"
+   },
+   {
+    "quote": "(Then again, she just gave me a crab she crocheted so that's really cool. Yay.)",
+    "four_sides": {
+     "factual": "Mentions receiving a handmade gift",
+     "self_revelation": "Expresses appreciation and joy",
+     "relationship": "Celebrates the daughter's effort",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "play",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses joy and appreciation for the handmade gift"
+   }
+  ]
+ },
+ {
+  "id": 13773,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I am really sad you had to endure this.",
+    "four_sides": {
+     "factual": "Expresses sadness about the situation described in the post.",
+     "self_revelation": "Shows empathy and emotional response to the post.",
+     "relationship": "Positions the author as supportive and understanding.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Conveys empathy and sadness about the described hardship."
+   },
+   {
+    "quote": "I decided this year that I would no longer celebrate Christmas for this and other reasons.",
+    "four_sides": {
+     "factual": "States a personal decision to stop celebrating Christmas.",
+     "self_revelation": "Reveals a personal choice influenced by negative experiences.",
+     "relationship": "Shares a personal stance with the audience.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Explains a personal decision rooted in emotional reasons."
+   },
+   {
+    "quote": "Tbh, the retailers make a huge deal and many people don't want to \"do the holidays\" for whatever reason and that's fine.",
+    "four_sides": {
+     "factual": "Comments on the commercialization of Christmas and societal attitudes.",
+     "self_revelation": "Expresses a critical view of holiday traditions.",
+     "relationship": "Positions the author as understanding of diverse perspectives.",
+     "appeal": ""
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "rage",
+      "band": "above"
+     }
+    ],
+    "why": "Critiques societal pressures around holidays."
+   },
+   {
+    "quote": "If you would like to continue the tradition for your kids, that's understandable.",
+    "four_sides": {
+     "factual": "Acknowledges the possibility of continuing traditions for children.",
+     "self_revelation": "Shows understanding and acceptance of others' choices.",
+     "relationship": "Offers support and non-judgmental acceptance.",
+     "appeal": ""
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers understanding and support for continuing traditions."
+   }
+  ]
+ },
+ {
+  "id": 13779,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "It is our 3rd without my wife and their mom. December is so painful. I can’t do it anymlre",
+    "four_sides": {
+     "factual": "It is the third Christmas without the wife and mother",
+     "self_revelation": "The author is deeply pained and overwhelmed by the loss",
+     "relationship": "The author sees the audience as potentially understanding or empathetic",
+     "appeal": "The author may be seeking comfort or acknowledgment of their pain"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Expresses overwhelming sadness and inability to cope with the loss"
+   }
+  ]
+ },
+ {
+  "id": 13785,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "Today is awful, it's just really hard. This is the 3rd Christmas without him- I thought I could hold it together... it's been 3 years, but this blanket of sadness seems impossible to avoid.",
+    "four_sides": {
+     "factual": "Describes the difficulty of enduring Christmas without a loved one",
+     "self_revelation": "Reveals deep sadness and struggle to cope",
+     "relationship": "Implies a connection to the lost loved one",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Expresses overwhelming sadness and inability to avoid grief"
+   },
+   {
+    "quote": "I'm trying to be strong for my children.",
+    "four_sides": {
+     "factual": "States an effort to be strong",
+     "self_revelation": "Reveals a sense of responsibility and care",
+     "relationship": "Shows concern for the children",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Names the effort to care for others despite personal grief"
+   },
+   {
+    "quote": "Next year will be better.",
+    "four_sides": {
+     "factual": "Expresses hope for the future",
+     "self_revelation": "Reveals a desire for improvement",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses hope and anticipation for a better future"
+   }
+  ]
+ },
+ {
+  "id": 13791,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I feel you. My son is 6 and I tried to make it the best for my son we lost my husband this year and it’s been rough.",
+    "four_sides": {
+     "factual": "Describes the loss of a husband and the effort to make Christmas special for a son.",
+     "self_revelation": "Reveals personal grief and the struggle to cope with loss.",
+     "relationship": "Expresses empathy and shared experience with the original poster.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names the loss and its impact cleanly, expressing shared grief."
+   },
+   {
+    "quote": "I surrounded my self with family but there was a void i definitely felt and I’m sure my son as well.",
+    "four_sides": {
+     "factual": "Acknowledges the presence of family but notes a persistent emotional void.",
+     "self_revelation": "Reveals the depth of personal and familial grief.",
+     "relationship": "Assumes shared understanding of the emotional void with the audience.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Describes the emotional void felt despite family support, naming the grief."
+   },
+   {
+    "quote": "🤍 be strong it’s hard being a widow.",
+    "four_sides": {
+     "factual": "Offers encouragement and acknowledges the difficulty of widowhood.",
+     "self_revelation": "Reveals personal strength and understanding of the widow's experience.",
+     "relationship": "Expresses care and solidarity with the original poster.",
+     "appeal": "Encourages resilience and strength."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers support and encouragement, expressing care and solidarity."
+   }
+  ]
+ },
+ {
+  "id": 13797,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "I would give anything for a photo like this, sigh.",
+    "four_sides": {
+     "factual": "Expresses a deep longing for a similar photo.",
+     "self_revelation": "Reveals a profound sense of loss and yearning.",
+     "relationship": "Acknowledges the emotional weight of the original post.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Expresses intense longing and sorrow, tied to the loss in the post."
+   }
+  ]
+ },
+ {
+  "id": 13803,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Been there. It was cancer so I knew it was coming but I have the same photo.",
+    "four_sides": {
+     "factual": "Shares a similar experience of loss, specifying the cause of death.",
+     "self_revelation": "Reveals personal experience with grief and the anticipation of loss.",
+     "relationship": "Establishes a connection through shared experience.",
+     "appeal": "Seeks to empathize and relate to the original poster."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Shares personal grief cleanly, connecting through shared experience."
+   }
+  ]
+ },
+ {
+  "id": 13809,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Stay strong; I’ve got a similar photo, too.",
+    "four_sides": {
+     "factual": "Acknowledges having a similar photo.",
+     "self_revelation": "Reveals personal experience with loss.",
+     "relationship": "Establishes empathy and shared understanding.",
+     "appeal": "Encourages resilience."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Offers support and shared experience, fostering connection."
+   },
+   {
+    "quote": "It’s good you’ve captured that last moment of physical contact.",
+    "four_sides": {
+     "factual": "Comments on the value of capturing a final moment.",
+     "self_revelation": "Shows appreciation for preserving memories.",
+     "relationship": "Validates the original poster’s choice.",
+     "appeal": ""
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Affirms the importance of the captured moment."
+   },
+   {
+    "quote": "I remember my wife’s hand was still warm for a little while.",
+    "four_sides": {
+     "factual": "Recalls a specific detail from a personal loss.",
+     "self_revelation": "Reveals a poignant memory.",
+     "relationship": "Deepens shared understanding of grief.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Shares a deeply personal memory, connecting through loss."
+   }
+  ]
+ },
+ {
+  "id": 13815,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I have a picture like this. I feel you. Hugs",
+    "four_sides": {
+     "factual": "Acknowledges having a similar photo.",
+     "self_revelation": "Reveals personal empathy and shared experience.",
+     "relationship": "Positions self as understanding and supportive.",
+     "appeal": "Offers comfort and solidarity."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and offers comfort, showing care and shared grief."
+   }
+  ]
+ },
+ {
+  "id": 13821,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Thank you for sharing.",
+    "four_sides": {
+     "factual": "Acknowledges the act of sharing.",
+     "self_revelation": "Expresses gratitude.",
+     "relationship": "Sees the poster as someone deserving acknowledgment.",
+     "appeal": "None."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses gratitude for the act of sharing, showing care and acknowledgment."
+   }
+  ]
+ },
+ {
+  "id": 13827,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I wasn't with my wife when she passed. She was out of state visiting relatives and took her own life in their guest bedroom.",
+    "four_sides": {
+     "factual": "Describes the circumstances of the wife's death.",
+     "self_revelation": "Reveals the author's absence during the wife's passing.",
+     "relationship": "Shows the author's connection to the wife and the event.",
+     "appeal": ""
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "States the facts of the wife's death, revealing grief cleanly."
+   },
+   {
+    "quote": "I didn't get to see her again until the day of her service, 27 days later. It was open casket for the first hour and I had a private viewing period before and after.",
+    "four_sides": {
+     "factual": "Describes the timeline and details of the service.",
+     "self_revelation": "Reveals the author's experience of the service.",
+     "relationship": "Shows the author's connection to the wife and the event.",
+     "appeal": ""
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Details the service, expressing grief cleanly."
+   },
+   {
+    "quote": "As I was about to leave, I decided to take a picture of her in the casket. She was so beautiful that day, you would think she was just sleeping while being well dressed and all dolled up.",
+    "four_sides": {
+     "factual": "Describes the decision to take a photo and the wife's appearance.",
+     "self_revelation": "Reveals the author's emotional state and perception of the wife.",
+     "relationship": "Shows the author's connection to the wife and the event.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Describes the wife's appearance, expressing grief cleanly."
+   },
+   {
+    "quote": "Something told me I'd need that photo. I was really struggling with denial, and I felt like I'd need to see that to tell myself that she was gone.",
+    "four_sides": {
+     "factual": "Describes the author's reasoning for taking the photo.",
+     "self_revelation": "Reveals the author's struggle with denial.",
+     "relationship": "Shows the author's connection to the wife and the event.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Explains the need for the photo, expressing grief cleanly."
+   },
+   {
+    "quote": "For the most part, that did the trick, even though I still don't fully accept the loss all these months later.",
+    "four_sides": {
+     "factual": "Describes the effectiveness of the photo.",
+     "self_revelation": "Reveals the author's ongoing struggle with acceptance.",
+     "relationship": "Shows the author's connection to the wife and the event.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "States the ongoing struggle with acceptance, expressing grief cleanly."
+   },
+   {
+    "quote": "Eventually, from time to time, that photo became what I needed to make myself cry when I needed to let the tears flow.",
+    "four_sides": {
+     "factual": "Describes the role of the photo in the author's grieving process.",
+     "self_revelation": "Reveals the author's use of the photo to facilitate crying.",
+     "relationship": "Shows the author's connection to the wife and the event.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Explains the photo's role in grieving, expressing grief cleanly."
+   }
+  ]
+ },
+ {
+  "id": 13833,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Thank you for sharing. One of the things I miss most of all is holding my late wife's hand. I held her hand as long as I could after she passed.",
+    "four_sides": {
+     "factual": "Acknowledges the shared experience of loss and the specific act of holding a loved one's hand after death.",
+     "self_revelation": "Reveals personal grief and the deep longing for physical connection with a lost loved one.",
+     "relationship": "Establishes a connection with the original poster through shared grief and understanding.",
+     "appeal": "Invites empathy and shared reflection on the experience of loss."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses longing and sadness cleanly, focusing on the emotional weight of the memory."
+   }
+  ]
+ },
+ {
+  "id": 13839,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I have a picture like that and know how much they mean. 🫂",
+    "four_sides": {
+     "factual": "Acknowledges the significance of such photos.",
+     "self_revelation": "Reveals personal understanding and empathy.",
+     "relationship": "Establishes a connection through shared experience.",
+     "appeal": "Offers comfort and solidarity."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and shared understanding, offering comfort."
+   }
+  ]
+ },
+ {
+  "id": 13845,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "Oh I should have done this ! Never thought of it",
+    "four_sides": {
+     "factual": "Reflects on a missed opportunity or action.",
+     "self_revelation": "Reveals regret and a lack of foresight.",
+     "relationship": "Positions the speaker as someone who learns from others.",
+     "appeal": "Suggests a desire to share or acknowledge a better approach."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "shutdown"
+     }
+    ],
+    "why": "Expresses regret for not acting on an idea, indicating a shutdown of seeking."
+   }
+  ]
+ },
+ {
+  "id": 13851,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ 😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹",
+    "four_sides": {
+     "factual": "",
+     "self_revelation": "Expresses deep affection and warmth",
+     "relationship": "Sees the audience as deserving of care and positivity",
+     "appeal": "Wants to convey love and appreciation"
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Conveys overwhelming care and affection through repeated emojis"
+   }
+  ]
+ },
+ {
+  "id": 13857,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "me too",
+    "four_sides": {
+     "factual": "Acknowledges shared experience of loss or pain.",
+     "self_revelation": "Reveals personal connection to the subject matter.",
+     "relationship": "Aligns with the original poster, expressing solidarity.",
+     "appeal": ""
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses shared grief cleanly, aligning with the original post."
+   }
+  ]
+ },
+ {
+  "id": 13863,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "I'm sorry for your loss.",
+    "four_sides": {
+     "factual": "Expresses condolences.",
+     "self_revelation": "Shows empathy and shared understanding of loss.",
+     "relationship": "Positions the speaker as someone who relates to the audience's pain.",
+     "appeal": "Seeks to offer comfort."
+    },
+    "dominant": "care",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers empathy and support cleanly."
+   },
+   {
+    "quote": "My brother ended his life 53 years ago. It still hurts.",
+    "four_sides": {
+     "factual": "Shares a personal experience of loss.",
+     "self_revelation": "Reveals enduring pain from a past event.",
+     "relationship": "Establishes a shared experience of grief with the audience.",
+     "appeal": ""
+    },
+    "dominant": "grief",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Names enduring grief cleanly."
+   },
+   {
+    "quote": "There was no note so I don't know his end thoughts.",
+    "four_sides": {
+     "factual": "States the absence of a note and lack of knowledge about the brother's final thoughts.",
+     "self_revelation": "Reveals unresolved questions about the loss.",
+     "relationship": "Connects to the audience's situation by contrasting it with their own.",
+     "appeal": ""
+    },
+    "dominant": "grief",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses unresolved grief cleanly."
+   },
+   {
+    "quote": "Does having a note and knowing his thoughts make it easier?",
+    "four_sides": {
+     "factual": "Asks a question about the impact of having a note.",
+     "self_revelation": "Shows curiosity about whether closure is possible.",
+     "relationship": "Engages the audience in a shared exploration of grief.",
+     "appeal": "Seeks understanding or insight."
+    },
+    "dominant": "seeking",
+    "systems": [
+     {
+      "system": "seeking",
+      "band": "above"
+     }
+    ],
+    "why": "Asks a question to seek understanding."
+   }
+  ]
+ },
+ {
+  "id": 13869,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "Thank you for sharing this. My sister wrote something similar but your son's note is a lot more eloquent.",
+    "four_sides": {
+     "factual": "Acknowledges the shared experience of suicide notes and compares eloquence.",
+     "self_revelation": "Reveals personal connection to suicide through sister's experience.",
+     "relationship": "Establishes empathy and shared understanding with the poster.",
+     "appeal": ""
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and shared grief, connecting through personal loss."
+   },
+   {
+    "quote": "My sister killed herself a month ago (on my birthday). It's been a struggle for me, the aftermath. I'm still trying to wrap my head around it.",
+    "four_sides": {
+     "factual": "States the timing and personal impact of sister's suicide.",
+     "self_revelation": "Reveals ongoing emotional struggle and difficulty processing the loss.",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Describes personal grief and the challenge of processing the loss."
+   },
+   {
+    "quote": "I'm very sorry for your loss. ❤️‍🩹",
+    "four_sides": {
+     "factual": "Offers condolences.",
+     "self_revelation": "",
+     "relationship": "Expresses sympathy and care for the poster.",
+     "appeal": ""
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers heartfelt condolences, showing care and empathy."
+   }
+  ]
+ },
+ {
+  "id": 13875,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Sorry for your loss.",
+    "four_sides": {
+     "factual": "Acknowledges the loss.",
+     "self_revelation": "Expresses empathy.",
+     "relationship": "Sees the audience as grieving.",
+     "appeal": "Offers condolence."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers condolence with empathy."
+   }
+  ]
+ },
+ {
+  "id": 13881,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "We’ll never understand why my nephew did what he did, I hope this beautiful note brings some closure for you and your family 🌷",
+    "four_sides": {
+     "factual": "Acknowledges the inability to understand the nephew's actions and the existence of the note.",
+     "self_revelation": "Expresses a sense of acceptance and hope for closure.",
+     "relationship": "Shows empathy and concern for the family affected.",
+     "appeal": "Wishes for the note to provide comfort and closure."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and hope for healing, rooted in care and grief."
+   }
+  ]
+ },
+ {
+  "id": 13887,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Thank you for sharing this. It brought tears to my eyes because these sentiments were expressed also by my son who intentionally overdosed.",
+    "four_sides": {
+     "factual": "Acknowledges the shared experience of suicide.",
+     "self_revelation": "Reveals personal grief and connection to the topic.",
+     "relationship": "Expresses empathy and solidarity with the poster.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses personal grief and connection to the topic."
+   },
+   {
+    "quote": "After being resuscitated after a previous attempt, he said he had never felt such peace and wanted to go back - and he did 8 weeks later.",
+    "four_sides": {
+     "factual": "Describes the son's experience and final outcome.",
+     "self_revelation": "Reveals the depth of the son's despair and the author's loss.",
+     "relationship": "",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Describes the son's despair and the author's loss."
+   },
+   {
+    "quote": "Thanks again for posting this and I am sorry for your pain.🤍",
+    "four_sides": {
+     "factual": "Expresses gratitude and sympathy.",
+     "self_revelation": "Shows compassion and shared sorrow.",
+     "relationship": "Strengthens connection through shared grief.",
+     "appeal": ""
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses gratitude and sympathy, strengthening connection."
+   }
+  ]
+ },
+ {
+  "id": 13893,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "I was very surprised that my nephew did not leave some kind of note for his mother at least.",
+    "four_sides": {
+     "factual": "Expresses surprise at the absence of a note for the mother.",
+     "self_revelation": "Reveals the author's expectation of a gesture of care.",
+     "relationship": "Views the nephew's action as lacking consideration for the mother.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses a personal expectation tied to grief and care."
+   },
+   {
+    "quote": "It was inevitable that she was going to be the one to find him.",
+    "four_sides": {
+     "factual": "States the inevitability of the mother finding him.",
+     "self_revelation": "Reveals the author's awareness of the mother's role.",
+     "relationship": "Acknowledges the mother's central position in the event.",
+     "appeal": ""
+    },
+    "dominant": "factual",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "States a fact tied to the emotional impact of the event."
+   },
+   {
+    "quote": "I just kept thinking he must’ve been in such terrible psychological pain to do it, suspecting that it was going to have the effect that it did.",
+    "four_sides": {
+     "factual": "Speculates on the nephew's psychological state.",
+     "self_revelation": "Reveals the author's empathy and concern.",
+     "relationship": "Views the nephew's actions as driven by pain.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Speculates on the nephew's pain, tied to grief."
+   },
+   {
+    "quote": "I suspect that he could’ve written that letter.",
+    "four_sides": {
+     "factual": "Speculates on the nephew's ability to write a letter.",
+     "self_revelation": "Reveals the author's belief in the nephew's capacity.",
+     "relationship": "Views the nephew as capable of expressing himself.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Speculates on the nephew's potential actions, tied to grief."
+   }
+  ]
+ },
+ {
+  "id": 13899,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I'm very sorry for your loss. There are no words...",
+    "four_sides": {
+     "factual": "Acknowledges the loss and the inadequacy of words to address it.",
+     "self_revelation": "Expresses empathy and a sense of helplessness in the face of grief.",
+     "relationship": "Positions the speaker as someone who cares and understands the depth of the loss.",
+     "appeal": "Seeks to offer comfort and solidarity, despite the inability to fully articulate it."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "shutdown"
+     }
+    ],
+    "why": "Offers empathy and acknowledges the profound nature of the loss, while recognizing the limitations of language."
+   }
+  ]
+ },
+ {
+  "id": 13905,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "Respect.",
+    "four_sides": {
+     "factual": "Acknowledges the gravity of the post.",
+     "self_revelation": "Shows a stance of reverence or solemnity.",
+     "relationship": "Views the post and its author with dignity.",
+     "appeal": "Invites others to approach the topic with similar respect."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses a respectful acknowledgment of the post's gravity."
+   }
+  ]
+ },
+ {
+  "id": 13911,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "I would have to think a note, tape, video whatever is left, could never bring closure, jmo.",
+    "four_sides": {
+     "factual": "Expresses a belief that a note, tape, or video left behind cannot bring closure.",
+     "self_revelation": "Reveals a personal perspective on the inadequacy of such methods to provide closure.",
+     "relationship": "Acknowledges the audience's potential need for closure but doubts its fulfillment.",
+     "appeal": "Invites reflection on the limitations of such attempts to provide closure."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses a personal perspective on the inadequacy of closure methods, tied to grief."
+   }
+  ]
+ },
+ {
+  "id": 13917,
+  "altitude": "Neutrality",
+  "segments": [
+   {
+    "quote": "If you look up grief support for siblings on Facebook you can find a group",
+    "four_sides": {
+     "factual": "Suggests a resource for grief support for siblings on Facebook",
+     "self_revelation": "Indicates awareness of available support groups",
+     "relationship": "Sees the audience as needing or seeking support",
+     "appeal": "Encourages the audience to seek out the resource"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers support with a practical suggestion"
+   }
+  ]
+ },
+ {
+  "id": 13923,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I am so sorry for your loss.",
+    "four_sides": {
+     "factual": "Expresses sympathy for the loss.",
+     "self_revelation": "Shows empathy and understanding.",
+     "relationship": "Positions the speaker as supportive and compassionate.",
+     "appeal": "Offers comfort and acknowledgment of the pain."
+    },
+    "dominant": "care",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers direct empathy and support."
+   },
+   {
+    "quote": "I lost my brother two years ago and agree that it does get better over time.",
+    "four_sides": {
+     "factual": "Shares personal experience of loss and recovery.",
+     "self_revelation": "Reveals the speaker’s own journey through grief.",
+     "relationship": "Establishes a shared understanding of loss.",
+     "appeal": "Encourages hope for healing."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Shares personal grief experience to offer hope."
+   },
+   {
+    "quote": "I’ve also had a lot of signs from him, giving me a lot more faith that we’ll see our loved ones again in the afterlife.",
+    "four_sides": {
+     "factual": "Mentions signs and belief in an afterlife.",
+     "self_revelation": "Shows the speaker’s spiritual beliefs and coping mechanisms.",
+     "relationship": "Connects through shared spiritual hope.",
+     "appeal": "Offers reassurance and comfort through faith."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses spiritual belief as a source of comfort."
+   },
+   {
+    "quote": "That helps a lot. ❤️",
+    "four_sides": {
+     "factual": "States the impact of faith on coping.",
+     "self_revelation": "Reveals the speaker’s reliance on spiritual comfort.",
+     "relationship": "Reinforces the supportive tone.",
+     "appeal": "Encourages finding solace in faith."
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Affirms the role of faith in healing, with a caring tone."
+   }
+  ]
+ },
+ {
+  "id": 13929,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "There’s a podcast for parents who have lost children to suicide called grief left behind. It’s really great to know you’re not alone.",
+    "four_sides": {
+     "factual": "Mentions a podcast for parents who have lost children to suicide.",
+     "self_revelation": "Expresses relief in knowing others share similar experiences.",
+     "relationship": "Offers solidarity and understanding to the audience.",
+     "appeal": "Encourages seeking support through the podcast."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers support and resources to others in grief."
+   },
+   {
+    "quote": "I lost my son to suicide 20 months ago and it’s a nightmare that never stops.",
+    "four_sides": {
+     "factual": "Shares personal experience of losing a child to suicide.",
+     "self_revelation": "Reveals ongoing pain and struggle.",
+     "relationship": "Connects with the original poster through shared grief.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "overwhelm"
+     }
+    ],
+    "why": "Describes enduring grief and pain."
+   },
+   {
+    "quote": "Sending love to you and your family.",
+    "four_sides": {
+     "factual": "",
+     "self_revelation": "Expresses compassion and empathy.",
+     "relationship": "Offers emotional support to the original poster.",
+     "appeal": "Seeks to comfort the recipient."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Extends care and compassion to the grieving family."
+   }
+  ]
+ },
+ {
+  "id": 13935,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "wishing you a lot of comfort 🩵",
+    "four_sides": {
+     "factual": "Expresses a wish for comfort",
+     "self_revelation": "Shows empathy and concern",
+     "relationship": "Positions the speaker as supportive and caring",
+     "appeal": "Seeks to provide solace to the recipient"
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers support and empathy cleanly"
+   }
+  ]
+ },
+ {
+  "id": 13941,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I'm so sorry for your loss 😞💔",
+    "four_sides": {
+     "factual": "Acknowledges the loss of the child",
+     "self_revelation": "Expresses empathy and sorrow",
+     "relationship": "Shows compassion toward the poster",
+     "appeal": "Offers comfort"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and sorrow directly toward the poster"
+   },
+   {
+    "quote": "to be the one to find and fight for his life must have been absolutely horrific 💔",
+    "four_sides": {
+     "factual": "Describes the traumatic experience of finding and attempting to save the child",
+     "self_revelation": "Recognizes the emotional toll on the poster",
+     "relationship": "Validates the poster's pain",
+     "appeal": "Offers understanding and support"
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     },
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Validates the poster's traumatic experience and offers support"
+   }
+  ]
+ },
+ {
+  "id": 13947,
+  "altitude": "Grief",
+  "segments": [
+   {
+    "quote": "I’m extremely sorry for your loss and the pain you are enduring.",
+    "four_sides": {
+     "factual": "Acknowledges the loss and pain of the original poster.",
+     "self_revelation": "Expresses empathy and sorrow.",
+     "relationship": "Shows compassion and connection to the poster.",
+     "appeal": "Offers condolences and support."
+    },
+    "dominant": "relationship",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses empathy and compassion for the poster's loss."
+   },
+   {
+    "quote": "I am ashamed to admit this but reading this post made me feel guilty?",
+    "four_sides": {
+     "factual": "Describes a personal emotional reaction to the post.",
+     "self_revelation": "Reveals feelings of guilt and shame.",
+     "relationship": "Shows vulnerability and honesty.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses guilt and shame in response to the post."
+   },
+   {
+    "quote": "Because I’ve been dealing with suicidal ideation and picturing my mom finding me un alived hurts and seeing other parents in these comments hurting from them loosing their children hurts and I feel for them💔",
+    "four_sides": {
+     "factual": "Describes personal struggles with suicidal ideation and empathy for others.",
+     "self_revelation": "Reveals personal pain and emotional connection to others' suffering.",
+     "relationship": "Shows shared grief and understanding.",
+     "appeal": ""
+    },
+    "dominant": "self_revelation",
+    "systems": [
+     {
+      "system": "grief",
+      "band": "above"
+     },
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Expresses personal pain and empathy for others' suffering."
+   }
+  ]
+ },
+ {
+  "id": 13953,
+  "altitude": "Acceptance",
+  "segments": [
+   {
+    "quote": "I wish I could take your pain away and fix it. I’m so sorry.",
+    "four_sides": {
+     "factual": "Expresses a wish to alleviate pain and fix the situation.",
+     "self_revelation": "Shows empathy and a desire to help.",
+     "relationship": "Positions the speaker as caring and supportive.",
+     "appeal": "Seeks to offer comfort and solace."
+    },
+    "dominant": "appeal",
+    "systems": [
+     {
+      "system": "care",
+      "band": "above"
+     }
+    ],
+    "why": "Offers empathy and a desire to help, expressed cleanly."
+   }
+  ]
+ }
+]
