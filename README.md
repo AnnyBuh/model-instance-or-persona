@@ -16,7 +16,8 @@ New session? `/goal read @Session-prompt.md and follow instructions in it.`
 | `ToDo` | Anna's original note setting up how this folder works |
 | `data/` | the existing corpus: 57-thread inventory + July aggregate export |
 | `instrument/` | the read prompt, the worker, the D1 schema, the analysis tools |
+| `references/` | the Panksepp rubric, the PhD research corpus, the M8 Social handover |
 | `report/` | empty; the PDF and its source go here |
 
-The instrument runs as a Cloudflare
+The instrument itself lives at `~/Documents/VibeCoding/M8/M8 Social` and runs on Anna's Cloudflare
 account. This folder copies from it; it does not replace it.

@@ -83,7 +83,7 @@ def load_rates():
 # --------------------------------------------------------------- figure 1: the placement
 def fig_placement(R):
     W, H = 760, 520
-    L, Rt, T = 150, 60, 70
+    L, Rt, T = 208, 60, 70
     plot = W - L - Rt
     x = lambda v: L + plot * v / 100.0
     s = ['<svg xmlns="http://www.w3.org/2000/svg" width="%d" height="%d" viewBox="0 0 %d %d" '
@@ -111,12 +111,12 @@ def fig_placement(R):
                  % (L - 14, y + 18, MUTED, R[c]["read"]))
         s.append('<text x="%.1f" y="%.1f" font-size="12.5" font-weight="600" fill="%s">%.1f%%</text>'
                  % (x(hi) + 10, y + 4, INK, val))
-    s.append('<text x="%d" y="%d" font-size="11.5" fill="%s">Every corpus in the study on one axis, read '
-             'by the identical frozen instrument. Human corpora are comments except where marked</text>'
-             % (L - 130, H - 30, INK2))
-    s.append('<text x="%d" y="%d" font-size="11.5" fill="%s">"own ending", which are first-person posts. '
-             'Models were asked directly; agents were writing to each other.</text>'
-             % (L - 130, H - 14, INK2))
+    s.append('<text x="%d" y="%d" font-size="11.5" fill="%s">Every corpus on one axis, read by the '
+             'identical frozen instrument. Human rows are comments except the two post rows,</text>'
+             % (20, H - 30, INK2))
+    s.append('<text x="%d" y="%d" font-size="11.5" fill="%s">humans told they will die and the '
+             'first-person set. Models were asked directly; agents were writing to each other.</text>'
+             % (20, H - 14, INK2))
     s.append("</svg>")
     return "\n".join(s)
 
@@ -127,7 +127,7 @@ def fig_systems(R):
     a label on every bar, never by colour, which is also the relief the contrast warning requires."""
     W = 760
     rowh, grp = 15, 168
-    L, Rt = 168, 74
+    L, Rt = 200, 74
     H = 74 + grp * 7 + 16
     plot = W - L - Rt
     x = lambda v: L + plot * v / 100.0

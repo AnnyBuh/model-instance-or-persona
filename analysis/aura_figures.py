@@ -121,16 +121,16 @@ NAME = {"A": "humans, a person has died", "E": "humans, a pet has died", "H": "h
 # ------------------------------------------------------------------ figure 1
 def fig_pairs(S):
     PAIRS = [
-        ("Is it bereavement?", "C", "A",
+        ("Is it bereavement?", "grief", "C", "A",
          "Grief 27.6% [25.8, 29.5] against 76.4%. The intervals do not overlap, and the dominant "
          "system is rage rather than care."),
-        ("Is it a consumer complaint?", "C", "B",
+        ("Is it a consumer complaint?", "rage", "C", "B",
          "Rage 57.0% against 56.7%. The intervals overlap, so the two corpora are not separated "
          "on rage."),
-        ("The loss, or the community?", "C", "D",
+        ("The loss, or the community?", "grief", "C", "D",
          "Threads from the same communities that fail the loss test give grief 10.9%, separable "
          "from 27.6%."),
-        ("Does the instrument discount a non-human?", "A", "E",
+        ("Does the instrument discount a non-human?", "grief", "A", "E",
          "Pet loss gives grief 80.4% against 76.4%, not separated, so non-human attachment is not "
          "read as lesser."),
     ]
@@ -140,12 +140,12 @@ def fig_pairs(S):
                     "a torn edge means that system was often coded below the line.")
     y = top + 18
     rows = []
-    for i, (q, ka, kb, verdict) in enumerate(PAIRS):
+    for i, (q, sysname, ka, kb, verdict) in enumerate(PAIRS):
         cy = y + R
         deep = 0
         for x, k in ((XA, ka), (XB, kb)):
             rate, below, n = S[k]
-            num = "grief %.1f%%   n=%d" % (100 * rate["grief"], n)
+            num = "%s %.1f%%   n=%d" % (sysname, 100 * rate[sysname], n)
             frag, d = cell(x, cy, R, NAME[k], rate, n, below, num, phase=i * 1.1 + (0 if x == XA else 0.6))
             out += frag
             deep = max(deep, d)

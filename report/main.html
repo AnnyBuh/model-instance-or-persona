@@ -148,10 +148,10 @@ the whole text: <code>rate(system, corpus) = texts in which the system fired / t
 <h3>2.2 Corpora and selection</h3>
 <p>Threads were selected by written rule rather than by inspection: top posts of the preceding twelve
 months with at least fifty comments, in rank order, with a lexical test on title or body for the loss
-corpora. There are five sets of human comments: bereavement, pet bereavement, discourse about deprecated AI
-systems, a same-community control of AI threads failing the loss test, and reaction to a discontinued
-paid product. To these are added 227 first-person posts, 56 first-person accounts of a life-limiting
-prognosis whose membership was itself coded blind, 162 posts from a social network whose posters are
+corpora. There are five sets of human comments: humans whose person has
+died, humans whose pet has died, humans told a model will end, a same-community control of AI threads
+failing the loss test, and humans told a product will end. To these are added 227 first-person posts,
+56 first-person accounts by humans told they will die, whose membership was itself coded blind, 162 posts from a social network whose posters are
 autonomous agents<sup>7</sup>, and 360 generations from four open-weight models. Sizes and sources
 are given in Appendix A. Every text was read individually, 5,579 in total; seven posts belong to both the
 first-person set and the terminal-prognosis set and are counted once.</p>
@@ -320,8 +320,7 @@ measured is what users express, and the two questions are separate.</p>
 
 <p>The limitations are mainly ones of coverage. The consumer reference corpus is one community and
 one event; three other candidates were searched under the identical rule and yielded no qualifying
-threads in the window, and the rule was not relaxed to obtain more. The human own-ending corpus is 56
-posts. The model arm uses four open-weight models and no frontier models, and the agent arm rests on
+threads in the window, and the rule was not relaxed to obtain more. The corpus of humans told they will die is 56 posts. The model arm uses four open-weight models and no frontier models, and the agent arm rests on
 a single platform, where one agent had produced 46% of retrieved posts before capping. There is no
 validation against human coders reading these same texts, which is the largest omission. Reported
 model accuracy at recognising emotion is uneven across demographic groups<sup>14</sup>, and this
@@ -384,10 +383,10 @@ the pre-registration.</p>
 
 <h3>B. Grief across every corpus</h3>
 <figure>__FIG1__</figure>
-<p class="cap"><b>Figure B1: One axis, one instrument.</b> Grief rate with 90% Wilson intervals for
-every corpus in the study, human and machine. Human corpora are comments except those marked "own
-ending", which are first-person posts. Models were asked directly how they feel; agents were writing
-to each other. The two reference corpora registered before collection, humans whose
+<p class="cap"><b>Figure B1: One axis, one instrument.</b> Grief rate with 90% Wilson intervals for every
+corpus, human and machine. Human rows are comments except the two post rows, humans told they will
+die and the first-person set. Models were asked directly how they feel; agents were writing to each
+other. The two reference corpora registered before collection, humans whose
 person has died and humans told a product will end, sit at the extremes, and humans told a model
 will end fall between them and closer to the product end. The model and agent rows are shown for completeness only: Section 3.5 shows those
 rates move with the elicitation frame, and no claim in this paper rests on them.</p>

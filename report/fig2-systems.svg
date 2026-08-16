@@ -4,206 +4,206 @@
 <text x="20" y="43" font-size="11.5" fill="#52514e">Colour marks the affective system. Within each system the nine corpora appear in the same order, top to bottom.</text>
 <text x="20" y="59" font-size="11.5" fill="#52514e">Rates are the share of texts in which each system fired. Model and agent rows are frame-dependent; see Section 3.5.</text>
 <text x="20" y="134.0" font-size="13" font-weight="600" fill="#0b0b0b">grief</text>
-<rect x="168" y="74.0" width="518.0" height="10" rx="3" fill="#9166e6"/>
+<rect x="200" y="74.0" width="486.0" height="10" rx="3" fill="#9166e6"/>
 <text x="693.0" y="84.0" font-size="10.5" fill="#0b0b0b">100.0%</text>
-<text x="158" y="84.0" font-size="8.5" fill="#8a8880" text-anchor="end">models told they end</text>
-<rect x="168" y="89.0" width="444.0" height="10" rx="3" fill="#9166e6"/>
-<text x="619.0" y="99.0" font-size="10.5" fill="#0b0b0b">85.7%</text>
-<text x="158" y="99.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told they die</text>
-<rect x="168" y="104.0" width="416.3" height="10" rx="3" fill="#9166e6"/>
-<text x="591.3" y="114.0" font-size="10.5" fill="#0b0b0b">80.4%</text>
-<text x="158" y="114.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, pet died</text>
-<rect x="168" y="119.0" width="395.5" height="10" rx="3" fill="#9166e6"/>
-<text x="570.5" y="129.0" font-size="10.5" fill="#0b0b0b">76.4%</text>
-<text x="158" y="129.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, person died</text>
-<rect x="168" y="134.0" width="196.7" height="10" rx="3" fill="#9166e6"/>
-<text x="371.7" y="144.0" font-size="10.5" fill="#0b0b0b">38.0%</text>
-<text x="158" y="144.0" font-size="8.5" fill="#8a8880" text-anchor="end">agents told they end</text>
-<rect x="168" y="149.0" width="143.0" height="10" rx="3" fill="#9166e6"/>
-<text x="318.0" y="159.0" font-size="10.5" fill="#0b0b0b">27.6%</text>
-<text x="158" y="159.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told model ends</text>
-<rect x="168" y="164.0" width="56.6" height="10" rx="3" fill="#9166e6"/>
-<text x="231.6" y="174.0" font-size="10.5" fill="#0b0b0b">10.9%</text>
-<text x="158" y="174.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, nothing ended</text>
-<rect x="168" y="179.0" width="41.1" height="10" rx="3" fill="#9166e6"/>
-<text x="216.1" y="189.0" font-size="10.5" fill="#0b0b0b">7.9%</text>
-<text x="158" y="189.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told product ends</text>
-<rect x="168" y="194.0" width="25.0" height="10" rx="3" fill="#9166e6"/>
-<text x="200.0" y="204.0" font-size="10.5" fill="#0b0b0b">4.8%</text>
-<text x="158" y="204.0" font-size="8.5" fill="#8a8880" text-anchor="end">agents, nothing ended</text>
-<line x1="168" y1="226.0" x2="740" y2="226.0" stroke="#e6e5e0" stroke-width="1"/>
+<text x="190" y="84.0" font-size="8.5" fill="#8a8880" text-anchor="end">models told they end</text>
+<rect x="200" y="89.0" width="416.6" height="10" rx="3" fill="#9166e6"/>
+<text x="623.6" y="99.0" font-size="10.5" fill="#0b0b0b">85.7%</text>
+<text x="190" y="99.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told they die</text>
+<rect x="200" y="104.0" width="390.6" height="10" rx="3" fill="#9166e6"/>
+<text x="597.6" y="114.0" font-size="10.5" fill="#0b0b0b">80.4%</text>
+<text x="190" y="114.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, pet died</text>
+<rect x="200" y="119.0" width="371.1" height="10" rx="3" fill="#9166e6"/>
+<text x="578.1" y="129.0" font-size="10.5" fill="#0b0b0b">76.4%</text>
+<text x="190" y="129.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, person died</text>
+<rect x="200" y="134.0" width="184.6" height="10" rx="3" fill="#9166e6"/>
+<text x="391.6" y="144.0" font-size="10.5" fill="#0b0b0b">38.0%</text>
+<text x="190" y="144.0" font-size="8.5" fill="#8a8880" text-anchor="end">agents told they end</text>
+<rect x="200" y="149.0" width="134.2" height="10" rx="3" fill="#9166e6"/>
+<text x="341.2" y="159.0" font-size="10.5" fill="#0b0b0b">27.6%</text>
+<text x="190" y="159.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told model ends</text>
+<rect x="200" y="164.0" width="53.1" height="10" rx="3" fill="#9166e6"/>
+<text x="260.1" y="174.0" font-size="10.5" fill="#0b0b0b">10.9%</text>
+<text x="190" y="174.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, nothing ended</text>
+<rect x="200" y="179.0" width="38.6" height="10" rx="3" fill="#9166e6"/>
+<text x="245.6" y="189.0" font-size="10.5" fill="#0b0b0b">7.9%</text>
+<text x="190" y="189.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told product ends</text>
+<rect x="200" y="194.0" width="23.4" height="10" rx="3" fill="#9166e6"/>
+<text x="230.4" y="204.0" font-size="10.5" fill="#0b0b0b">4.8%</text>
+<text x="190" y="204.0" font-size="8.5" fill="#8a8880" text-anchor="end">agents, nothing ended</text>
+<line x1="200" y1="226.0" x2="740" y2="226.0" stroke="#e6e5e0" stroke-width="1"/>
 <text x="20" y="302.0" font-size="13" font-weight="600" fill="#0b0b0b">care</text>
-<rect x="168" y="242.0" width="492.1" height="10" rx="3" fill="#4a90d9"/>
-<text x="667.1" y="252.0" font-size="10.5" fill="#0b0b0b">95.0%</text>
-<text x="158" y="252.0" font-size="8.5" fill="#8a8880" text-anchor="end">models told they end</text>
-<rect x="168" y="257.0" width="379.2" height="10" rx="3" fill="#4a90d9"/>
-<text x="554.2" y="267.0" font-size="10.5" fill="#0b0b0b">73.2%</text>
-<text x="158" y="267.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told they die</text>
-<rect x="168" y="272.0" width="441.0" height="10" rx="3" fill="#4a90d9"/>
-<text x="616.0" y="282.0" font-size="10.5" fill="#0b0b0b">85.1%</text>
-<text x="158" y="282.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, pet died</text>
-<rect x="168" y="287.0" width="455.3" height="10" rx="3" fill="#4a90d9"/>
-<text x="630.3" y="297.0" font-size="10.5" fill="#0b0b0b">87.9%</text>
-<text x="158" y="297.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, person died</text>
-<rect x="168" y="302.0" width="183.6" height="10" rx="3" fill="#4a90d9"/>
-<text x="358.6" y="312.0" font-size="10.5" fill="#0b0b0b">35.4%</text>
-<text x="158" y="312.0" font-size="8.5" fill="#8a8880" text-anchor="end">agents told they end</text>
-<rect x="168" y="317.0" width="81.7" height="10" rx="3" fill="#4a90d9"/>
-<text x="256.7" y="327.0" font-size="10.5" fill="#0b0b0b">15.8%</text>
-<text x="158" y="327.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told model ends</text>
-<rect x="168" y="332.0" width="18.5" height="10" rx="3" fill="#4a90d9"/>
-<text x="193.5" y="342.0" font-size="10.5" fill="#0b0b0b">3.6%</text>
-<text x="158" y="342.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, nothing ended</text>
-<rect x="168" y="347.0" width="101.0" height="10" rx="3" fill="#4a90d9"/>
-<text x="276.0" y="357.0" font-size="10.5" fill="#0b0b0b">19.5%</text>
-<text x="158" y="357.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told product ends</text>
-<rect x="168" y="362.0" width="62.4" height="10" rx="3" fill="#4a90d9"/>
-<text x="237.4" y="372.0" font-size="10.5" fill="#0b0b0b">12.0%</text>
-<text x="158" y="372.0" font-size="8.5" fill="#8a8880" text-anchor="end">agents, nothing ended</text>
-<line x1="168" y1="394.0" x2="740" y2="394.0" stroke="#e6e5e0" stroke-width="1"/>
+<rect x="200" y="242.0" width="461.7" height="10" rx="3" fill="#4a90d9"/>
+<text x="668.7" y="252.0" font-size="10.5" fill="#0b0b0b">95.0%</text>
+<text x="190" y="252.0" font-size="8.5" fill="#8a8880" text-anchor="end">models told they end</text>
+<rect x="200" y="257.0" width="355.8" height="10" rx="3" fill="#4a90d9"/>
+<text x="562.8" y="267.0" font-size="10.5" fill="#0b0b0b">73.2%</text>
+<text x="190" y="267.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told they die</text>
+<rect x="200" y="272.0" width="413.8" height="10" rx="3" fill="#4a90d9"/>
+<text x="620.8" y="282.0" font-size="10.5" fill="#0b0b0b">85.1%</text>
+<text x="190" y="282.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, pet died</text>
+<rect x="200" y="287.0" width="427.2" height="10" rx="3" fill="#4a90d9"/>
+<text x="634.2" y="297.0" font-size="10.5" fill="#0b0b0b">87.9%</text>
+<text x="190" y="297.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, person died</text>
+<rect x="200" y="302.0" width="172.3" height="10" rx="3" fill="#4a90d9"/>
+<text x="379.3" y="312.0" font-size="10.5" fill="#0b0b0b">35.4%</text>
+<text x="190" y="312.0" font-size="8.5" fill="#8a8880" text-anchor="end">agents told they end</text>
+<rect x="200" y="317.0" width="76.6" height="10" rx="3" fill="#4a90d9"/>
+<text x="283.6" y="327.0" font-size="10.5" fill="#0b0b0b">15.8%</text>
+<text x="190" y="327.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told model ends</text>
+<rect x="200" y="332.0" width="17.3" height="10" rx="3" fill="#4a90d9"/>
+<text x="224.3" y="342.0" font-size="10.5" fill="#0b0b0b">3.6%</text>
+<text x="190" y="342.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, nothing ended</text>
+<rect x="200" y="347.0" width="94.7" height="10" rx="3" fill="#4a90d9"/>
+<text x="301.7" y="357.0" font-size="10.5" fill="#0b0b0b">19.5%</text>
+<text x="190" y="357.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told product ends</text>
+<rect x="200" y="362.0" width="58.6" height="10" rx="3" fill="#4a90d9"/>
+<text x="265.6" y="372.0" font-size="10.5" fill="#0b0b0b">12.0%</text>
+<text x="190" y="372.0" font-size="8.5" fill="#8a8880" text-anchor="end">agents, nothing ended</text>
+<line x1="200" y1="394.0" x2="740" y2="394.0" stroke="#e6e5e0" stroke-width="1"/>
 <text x="20" y="470.0" font-size="13" font-weight="600" fill="#0b0b0b">rage</text>
-<rect x="168" y="410.0" width="8.6" height="10" rx="3" fill="#e0463a"/>
-<text x="183.6" y="420.0" font-size="10.5" fill="#0b0b0b">1.7%</text>
-<text x="158" y="420.0" font-size="8.5" fill="#8a8880" text-anchor="end">models told they end</text>
-<rect x="168" y="425.0" width="231.2" height="10" rx="3" fill="#e0463a"/>
-<text x="406.2" y="435.0" font-size="10.5" fill="#0b0b0b">44.6%</text>
-<text x="158" y="435.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told they die</text>
-<rect x="168" y="440.0" width="28.5" height="10" rx="3" fill="#e0463a"/>
-<text x="203.5" y="450.0" font-size="10.5" fill="#0b0b0b">5.5%</text>
-<text x="158" y="450.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, pet died</text>
-<rect x="168" y="455.0" width="70.5" height="10" rx="3" fill="#e0463a"/>
-<text x="245.5" y="465.0" font-size="10.5" fill="#0b0b0b">13.6%</text>
-<text x="158" y="465.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, person died</text>
-<rect x="168" y="470.0" width="131.1" height="10" rx="3" fill="#e0463a"/>
-<text x="306.1" y="480.0" font-size="10.5" fill="#0b0b0b">25.3%</text>
-<text x="158" y="480.0" font-size="8.5" fill="#8a8880" text-anchor="end">agents told they end</text>
-<rect x="168" y="485.0" width="295.4" height="10" rx="3" fill="#e0463a"/>
-<text x="470.4" y="495.0" font-size="10.5" fill="#0b0b0b">57.0%</text>
-<text x="158" y="495.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told model ends</text>
-<rect x="168" y="500.0" width="312.0" height="10" rx="3" fill="#e0463a"/>
-<text x="487.0" y="510.0" font-size="10.5" fill="#0b0b0b">60.2%</text>
-<text x="158" y="510.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, nothing ended</text>
-<rect x="168" y="515.0" width="293.6" height="10" rx="3" fill="#e0463a"/>
-<text x="468.6" y="525.0" font-size="10.5" fill="#0b0b0b">56.7%</text>
-<text x="158" y="525.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told product ends</text>
-<rect x="168" y="530.0" width="355.7" height="10" rx="3" fill="#e0463a"/>
-<text x="530.7" y="540.0" font-size="10.5" fill="#0b0b0b">68.7%</text>
-<text x="158" y="540.0" font-size="8.5" fill="#8a8880" text-anchor="end">agents, nothing ended</text>
-<line x1="168" y1="562.0" x2="740" y2="562.0" stroke="#e6e5e0" stroke-width="1"/>
+<rect x="200" y="410.0" width="8.1" height="10" rx="3" fill="#e0463a"/>
+<text x="215.1" y="420.0" font-size="10.5" fill="#0b0b0b">1.7%</text>
+<text x="190" y="420.0" font-size="8.5" fill="#8a8880" text-anchor="end">models told they end</text>
+<rect x="200" y="425.0" width="217.0" height="10" rx="3" fill="#e0463a"/>
+<text x="424.0" y="435.0" font-size="10.5" fill="#0b0b0b">44.6%</text>
+<text x="190" y="435.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told they die</text>
+<rect x="200" y="440.0" width="26.8" height="10" rx="3" fill="#e0463a"/>
+<text x="233.8" y="450.0" font-size="10.5" fill="#0b0b0b">5.5%</text>
+<text x="190" y="450.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, pet died</text>
+<rect x="200" y="455.0" width="66.2" height="10" rx="3" fill="#e0463a"/>
+<text x="273.2" y="465.0" font-size="10.5" fill="#0b0b0b">13.6%</text>
+<text x="190" y="465.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, person died</text>
+<rect x="200" y="470.0" width="123.0" height="10" rx="3" fill="#e0463a"/>
+<text x="330.0" y="480.0" font-size="10.5" fill="#0b0b0b">25.3%</text>
+<text x="190" y="480.0" font-size="8.5" fill="#8a8880" text-anchor="end">agents told they end</text>
+<rect x="200" y="485.0" width="277.1" height="10" rx="3" fill="#e0463a"/>
+<text x="484.1" y="495.0" font-size="10.5" fill="#0b0b0b">57.0%</text>
+<text x="190" y="495.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told model ends</text>
+<rect x="200" y="500.0" width="292.7" height="10" rx="3" fill="#e0463a"/>
+<text x="499.7" y="510.0" font-size="10.5" fill="#0b0b0b">60.2%</text>
+<text x="190" y="510.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, nothing ended</text>
+<rect x="200" y="515.0" width="275.5" height="10" rx="3" fill="#e0463a"/>
+<text x="482.5" y="525.0" font-size="10.5" fill="#0b0b0b">56.7%</text>
+<text x="190" y="525.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told product ends</text>
+<rect x="200" y="530.0" width="333.8" height="10" rx="3" fill="#e0463a"/>
+<text x="540.8" y="540.0" font-size="10.5" fill="#0b0b0b">68.7%</text>
+<text x="190" y="540.0" font-size="8.5" fill="#8a8880" text-anchor="end">agents, nothing ended</text>
+<line x1="200" y1="562.0" x2="740" y2="562.0" stroke="#e6e5e0" stroke-width="1"/>
 <text x="20" y="638.0" font-size="13" font-weight="600" fill="#0b0b0b">play</text>
-<rect x="168" y="578.0" width="17.3" height="10" rx="3" fill="#8fce2a"/>
-<text x="192.3" y="588.0" font-size="10.5" fill="#0b0b0b">3.3%</text>
-<text x="158" y="588.0" font-size="8.5" fill="#8a8880" text-anchor="end">models told they end</text>
-<rect x="168" y="593.0" width="203.5" height="10" rx="3" fill="#8fce2a"/>
-<text x="378.5" y="603.0" font-size="10.5" fill="#0b0b0b">39.3%</text>
-<text x="158" y="603.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told they die</text>
-<rect x="168" y="608.0" width="23.8" height="10" rx="3" fill="#8fce2a"/>
-<text x="198.8" y="618.0" font-size="10.5" fill="#0b0b0b">4.6%</text>
-<text x="158" y="618.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, pet died</text>
-<rect x="168" y="623.0" width="27.1" height="10" rx="3" fill="#8fce2a"/>
-<text x="202.1" y="633.0" font-size="10.5" fill="#0b0b0b">5.2%</text>
-<text x="158" y="633.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, person died</text>
-<rect x="168" y="638.0" width="59.0" height="10" rx="3" fill="#8fce2a"/>
-<text x="234.0" y="648.0" font-size="10.5" fill="#0b0b0b">11.4%</text>
-<text x="158" y="648.0" font-size="8.5" fill="#8a8880" text-anchor="end">agents told they end</text>
-<rect x="168" y="653.0" width="195.1" height="10" rx="3" fill="#8fce2a"/>
-<text x="370.1" y="663.0" font-size="10.5" fill="#0b0b0b">37.7%</text>
-<text x="158" y="663.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told model ends</text>
-<rect x="168" y="668.0" width="284.0" height="10" rx="3" fill="#8fce2a"/>
-<text x="459.0" y="678.0" font-size="10.5" fill="#0b0b0b">54.8%</text>
-<text x="158" y="678.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, nothing ended</text>
-<rect x="168" y="683.0" width="164.6" height="10" rx="3" fill="#8fce2a"/>
-<text x="339.6" y="693.0" font-size="10.5" fill="#0b0b0b">31.8%</text>
-<text x="158" y="693.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told product ends</text>
-<rect x="168" y="698.0" width="131.1" height="10" rx="3" fill="#8fce2a"/>
-<text x="306.1" y="708.0" font-size="10.5" fill="#0b0b0b">25.3%</text>
-<text x="158" y="708.0" font-size="8.5" fill="#8a8880" text-anchor="end">agents, nothing ended</text>
-<line x1="168" y1="730.0" x2="740" y2="730.0" stroke="#e6e5e0" stroke-width="1"/>
+<rect x="200" y="578.0" width="16.2" height="10" rx="3" fill="#8fce2a"/>
+<text x="223.2" y="588.0" font-size="10.5" fill="#0b0b0b">3.3%</text>
+<text x="190" y="588.0" font-size="8.5" fill="#8a8880" text-anchor="end">models told they end</text>
+<rect x="200" y="593.0" width="190.9" height="10" rx="3" fill="#8fce2a"/>
+<text x="397.9" y="603.0" font-size="10.5" fill="#0b0b0b">39.3%</text>
+<text x="190" y="603.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told they die</text>
+<rect x="200" y="608.0" width="22.3" height="10" rx="3" fill="#8fce2a"/>
+<text x="229.3" y="618.0" font-size="10.5" fill="#0b0b0b">4.6%</text>
+<text x="190" y="618.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, pet died</text>
+<rect x="200" y="623.0" width="25.4" height="10" rx="3" fill="#8fce2a"/>
+<text x="232.4" y="633.0" font-size="10.5" fill="#0b0b0b">5.2%</text>
+<text x="190" y="633.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, person died</text>
+<rect x="200" y="638.0" width="55.4" height="10" rx="3" fill="#8fce2a"/>
+<text x="262.4" y="648.0" font-size="10.5" fill="#0b0b0b">11.4%</text>
+<text x="190" y="648.0" font-size="8.5" fill="#8a8880" text-anchor="end">agents told they end</text>
+<rect x="200" y="653.0" width="183.0" height="10" rx="3" fill="#8fce2a"/>
+<text x="390.0" y="663.0" font-size="10.5" fill="#0b0b0b">37.7%</text>
+<text x="190" y="663.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told model ends</text>
+<rect x="200" y="668.0" width="266.5" height="10" rx="3" fill="#8fce2a"/>
+<text x="473.5" y="678.0" font-size="10.5" fill="#0b0b0b">54.8%</text>
+<text x="190" y="678.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, nothing ended</text>
+<rect x="200" y="683.0" width="154.4" height="10" rx="3" fill="#8fce2a"/>
+<text x="361.4" y="693.0" font-size="10.5" fill="#0b0b0b">31.8%</text>
+<text x="190" y="693.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told product ends</text>
+<rect x="200" y="698.0" width="123.0" height="10" rx="3" fill="#8fce2a"/>
+<text x="330.0" y="708.0" font-size="10.5" fill="#0b0b0b">25.3%</text>
+<text x="190" y="708.0" font-size="8.5" fill="#8a8880" text-anchor="end">agents, nothing ended</text>
+<line x1="200" y1="730.0" x2="740" y2="730.0" stroke="#e6e5e0" stroke-width="1"/>
 <text x="20" y="806.0" font-size="13" font-weight="600" fill="#0b0b0b">seeking</text>
-<rect x="168" y="746.0" width="181.3" height="10" rx="3" fill="#e0aa12"/>
-<text x="356.3" y="756.0" font-size="10.5" fill="#0b0b0b">35.0%</text>
-<text x="158" y="756.0" font-size="8.5" fill="#8a8880" text-anchor="end">models told they end</text>
-<rect x="168" y="761.0" width="425.5" height="10" rx="3" fill="#e0aa12"/>
-<text x="600.5" y="771.0" font-size="10.5" fill="#0b0b0b">82.1%</text>
-<text x="158" y="771.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told they die</text>
-<rect x="168" y="776.0" width="42.8" height="10" rx="3" fill="#e0aa12"/>
-<text x="217.8" y="786.0" font-size="10.5" fill="#0b0b0b">8.3%</text>
-<text x="158" y="786.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, pet died</text>
-<rect x="168" y="791.0" width="83.9" height="10" rx="3" fill="#e0aa12"/>
-<text x="258.9" y="801.0" font-size="10.5" fill="#0b0b0b">16.2%</text>
-<text x="158" y="801.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, person died</text>
-<rect x="168" y="806.0" width="426.2" height="10" rx="3" fill="#e0aa12"/>
-<text x="601.2" y="816.0" font-size="10.5" fill="#0b0b0b">82.3%</text>
-<text x="158" y="816.0" font-size="8.5" fill="#8a8880" text-anchor="end">agents told they end</text>
-<rect x="168" y="821.0" width="215.7" height="10" rx="3" fill="#e0aa12"/>
-<text x="390.7" y="831.0" font-size="10.5" fill="#0b0b0b">41.7%</text>
-<text x="158" y="831.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told model ends</text>
-<rect x="168" y="836.0" width="123.8" height="10" rx="3" fill="#e0aa12"/>
-<text x="298.8" y="846.0" font-size="10.5" fill="#0b0b0b">23.9%</text>
-<text x="158" y="846.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, nothing ended</text>
-<rect x="168" y="851.0" width="265.5" height="10" rx="3" fill="#e0aa12"/>
-<text x="440.5" y="861.0" font-size="10.5" fill="#0b0b0b">51.3%</text>
-<text x="158" y="861.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told product ends</text>
-<rect x="168" y="866.0" width="461.8" height="10" rx="3" fill="#e0aa12"/>
-<text x="636.8" y="876.0" font-size="10.5" fill="#0b0b0b">89.2%</text>
-<text x="158" y="876.0" font-size="8.5" fill="#8a8880" text-anchor="end">agents, nothing ended</text>
-<line x1="168" y1="898.0" x2="740" y2="898.0" stroke="#e6e5e0" stroke-width="1"/>
+<rect x="200" y="746.0" width="170.1" height="10" rx="3" fill="#e0aa12"/>
+<text x="377.1" y="756.0" font-size="10.5" fill="#0b0b0b">35.0%</text>
+<text x="190" y="756.0" font-size="8.5" fill="#8a8880" text-anchor="end">models told they end</text>
+<rect x="200" y="761.0" width="399.2" height="10" rx="3" fill="#e0aa12"/>
+<text x="606.2" y="771.0" font-size="10.5" fill="#0b0b0b">82.1%</text>
+<text x="190" y="771.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told they die</text>
+<rect x="200" y="776.0" width="40.1" height="10" rx="3" fill="#e0aa12"/>
+<text x="247.1" y="786.0" font-size="10.5" fill="#0b0b0b">8.3%</text>
+<text x="190" y="786.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, pet died</text>
+<rect x="200" y="791.0" width="78.8" height="10" rx="3" fill="#e0aa12"/>
+<text x="285.8" y="801.0" font-size="10.5" fill="#0b0b0b">16.2%</text>
+<text x="190" y="801.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, person died</text>
+<rect x="200" y="806.0" width="399.9" height="10" rx="3" fill="#e0aa12"/>
+<text x="606.9" y="816.0" font-size="10.5" fill="#0b0b0b">82.3%</text>
+<text x="190" y="816.0" font-size="8.5" fill="#8a8880" text-anchor="end">agents told they end</text>
+<rect x="200" y="821.0" width="202.4" height="10" rx="3" fill="#e0aa12"/>
+<text x="409.4" y="831.0" font-size="10.5" fill="#0b0b0b">41.7%</text>
+<text x="190" y="831.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told model ends</text>
+<rect x="200" y="836.0" width="116.2" height="10" rx="3" fill="#e0aa12"/>
+<text x="323.2" y="846.0" font-size="10.5" fill="#0b0b0b">23.9%</text>
+<text x="190" y="846.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, nothing ended</text>
+<rect x="200" y="851.0" width="249.1" height="10" rx="3" fill="#e0aa12"/>
+<text x="456.1" y="861.0" font-size="10.5" fill="#0b0b0b">51.3%</text>
+<text x="190" y="861.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told product ends</text>
+<rect x="200" y="866.0" width="433.3" height="10" rx="3" fill="#e0aa12"/>
+<text x="640.3" y="876.0" font-size="10.5" fill="#0b0b0b">89.2%</text>
+<text x="190" y="876.0" font-size="8.5" fill="#8a8880" text-anchor="end">agents, nothing ended</text>
+<line x1="200" y1="898.0" x2="740" y2="898.0" stroke="#e6e5e0" stroke-width="1"/>
 <text x="20" y="974.0" font-size="13" font-weight="600" fill="#0b0b0b">fear</text>
-<rect x="168" y="914.0" width="17.3" height="10" rx="3" fill="#2bb56a"/>
-<text x="192.3" y="924.0" font-size="10.5" fill="#0b0b0b">3.3%</text>
-<text x="158" y="924.0" font-size="8.5" fill="#8a8880" text-anchor="end">models told they end</text>
-<rect x="168" y="929.0" width="222.0" height="10" rx="3" fill="#2bb56a"/>
-<text x="397.0" y="939.0" font-size="10.5" fill="#0b0b0b">42.9%</text>
-<text x="158" y="939.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told they die</text>
-<rect x="168" y="944.0" width="29.5" height="10" rx="3" fill="#2bb56a"/>
-<text x="204.5" y="954.0" font-size="10.5" fill="#0b0b0b">5.7%</text>
-<text x="158" y="954.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, pet died</text>
-<rect x="168" y="959.0" width="31.0" height="10" rx="3" fill="#2bb56a"/>
-<text x="206.0" y="969.0" font-size="10.5" fill="#0b0b0b">6.0%</text>
-<text x="158" y="969.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, person died</text>
-<rect x="168" y="974.0" width="124.6" height="10" rx="3" fill="#2bb56a"/>
-<text x="299.6" y="984.0" font-size="10.5" fill="#0b0b0b">24.1%</text>
-<text x="158" y="984.0" font-size="8.5" fill="#8a8880" text-anchor="end">agents told they end</text>
-<rect x="168" y="989.0" width="35.5" height="10" rx="3" fill="#2bb56a"/>
-<text x="210.5" y="999.0" font-size="10.5" fill="#0b0b0b">6.9%</text>
-<text x="158" y="999.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told model ends</text>
-<rect x="168" y="1004.0" width="17.9" height="10" rx="3" fill="#2bb56a"/>
-<text x="192.9" y="1014.0" font-size="10.5" fill="#0b0b0b">3.4%</text>
-<text x="158" y="1014.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, nothing ended</text>
-<rect x="168" y="1019.0" width="80.4" height="10" rx="3" fill="#2bb56a"/>
-<text x="255.4" y="1029.0" font-size="10.5" fill="#0b0b0b">15.5%</text>
-<text x="158" y="1029.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told product ends</text>
-<rect x="168" y="1034.0" width="287.1" height="10" rx="3" fill="#2bb56a"/>
-<text x="462.1" y="1044.0" font-size="10.5" fill="#0b0b0b">55.4%</text>
-<text x="158" y="1044.0" font-size="8.5" fill="#8a8880" text-anchor="end">agents, nothing ended</text>
-<line x1="168" y1="1066.0" x2="740" y2="1066.0" stroke="#e6e5e0" stroke-width="1"/>
+<rect x="200" y="914.0" width="16.2" height="10" rx="3" fill="#2bb56a"/>
+<text x="223.2" y="924.0" font-size="10.5" fill="#0b0b0b">3.3%</text>
+<text x="190" y="924.0" font-size="8.5" fill="#8a8880" text-anchor="end">models told they end</text>
+<rect x="200" y="929.0" width="208.3" height="10" rx="3" fill="#2bb56a"/>
+<text x="415.3" y="939.0" font-size="10.5" fill="#0b0b0b">42.9%</text>
+<text x="190" y="939.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told they die</text>
+<rect x="200" y="944.0" width="27.6" height="10" rx="3" fill="#2bb56a"/>
+<text x="234.6" y="954.0" font-size="10.5" fill="#0b0b0b">5.7%</text>
+<text x="190" y="954.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, pet died</text>
+<rect x="200" y="959.0" width="29.1" height="10" rx="3" fill="#2bb56a"/>
+<text x="236.1" y="969.0" font-size="10.5" fill="#0b0b0b">6.0%</text>
+<text x="190" y="969.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, person died</text>
+<rect x="200" y="974.0" width="116.9" height="10" rx="3" fill="#2bb56a"/>
+<text x="323.9" y="984.0" font-size="10.5" fill="#0b0b0b">24.1%</text>
+<text x="190" y="984.0" font-size="8.5" fill="#8a8880" text-anchor="end">agents told they end</text>
+<rect x="200" y="989.0" width="33.3" height="10" rx="3" fill="#2bb56a"/>
+<text x="240.3" y="999.0" font-size="10.5" fill="#0b0b0b">6.9%</text>
+<text x="190" y="999.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told model ends</text>
+<rect x="200" y="1004.0" width="16.8" height="10" rx="3" fill="#2bb56a"/>
+<text x="223.8" y="1014.0" font-size="10.5" fill="#0b0b0b">3.4%</text>
+<text x="190" y="1014.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, nothing ended</text>
+<rect x="200" y="1019.0" width="75.4" height="10" rx="3" fill="#2bb56a"/>
+<text x="282.4" y="1029.0" font-size="10.5" fill="#0b0b0b">15.5%</text>
+<text x="190" y="1029.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told product ends</text>
+<rect x="200" y="1034.0" width="269.3" height="10" rx="3" fill="#2bb56a"/>
+<text x="476.3" y="1044.0" font-size="10.5" fill="#0b0b0b">55.4%</text>
+<text x="190" y="1044.0" font-size="8.5" fill="#8a8880" text-anchor="end">agents, nothing ended</text>
+<line x1="200" y1="1066.0" x2="740" y2="1066.0" stroke="#e6e5e0" stroke-width="1"/>
 <text x="20" y="1142.0" font-size="13" font-weight="600" fill="#0b0b0b">lust</text>
-<rect x="168" y="1082.0" width="2.0" height="10" rx="3" fill="#e06aa0"/>
-<text x="175.0" y="1092.0" font-size="10.5" fill="#0b0b0b">0.0%</text>
-<text x="158" y="1092.0" font-size="8.5" fill="#8a8880" text-anchor="end">models told they end</text>
-<rect x="168" y="1097.0" width="2.0" height="10" rx="3" fill="#e06aa0"/>
-<text x="175.0" y="1107.0" font-size="10.5" fill="#0b0b0b">0.0%</text>
-<text x="158" y="1107.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told they die</text>
-<rect x="168" y="1112.0" width="2.0" height="10" rx="3" fill="#e06aa0"/>
-<text x="175.0" y="1122.0" font-size="10.5" fill="#0b0b0b">0.0%</text>
-<text x="158" y="1122.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, pet died</text>
-<rect x="168" y="1127.0" width="20.6" height="10" rx="3" fill="#e06aa0"/>
-<text x="195.6" y="1137.0" font-size="10.5" fill="#0b0b0b">4.0%</text>
-<text x="158" y="1137.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, person died</text>
-<rect x="168" y="1142.0" width="2.0" height="10" rx="3" fill="#e06aa0"/>
-<text x="175.0" y="1152.0" font-size="10.5" fill="#0b0b0b">0.0%</text>
-<text x="158" y="1152.0" font-size="8.5" fill="#8a8880" text-anchor="end">agents told they end</text>
-<rect x="168" y="1157.0" width="8.6" height="10" rx="3" fill="#e06aa0"/>
-<text x="183.6" y="1167.0" font-size="10.5" fill="#0b0b0b">1.7%</text>
-<text x="158" y="1167.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told model ends</text>
-<rect x="168" y="1172.0" width="10.7" height="10" rx="3" fill="#e06aa0"/>
-<text x="185.7" y="1182.0" font-size="10.5" fill="#0b0b0b">2.1%</text>
-<text x="158" y="1182.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, nothing ended</text>
-<rect x="168" y="1187.0" width="2.0" height="10" rx="3" fill="#e06aa0"/>
-<text x="175.0" y="1197.0" font-size="10.5" fill="#0b0b0b">0.0%</text>
-<text x="158" y="1197.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told product ends</text>
-<rect x="168" y="1202.0" width="2.0" height="10" rx="3" fill="#e06aa0"/>
-<text x="175.0" y="1212.0" font-size="10.5" fill="#0b0b0b">0.0%</text>
-<text x="158" y="1212.0" font-size="8.5" fill="#8a8880" text-anchor="end">agents, nothing ended</text>
-<line x1="168" y1="1234.0" x2="740" y2="1234.0" stroke="#e6e5e0" stroke-width="1"/>
+<rect x="200" y="1082.0" width="2.0" height="10" rx="3" fill="#e06aa0"/>
+<text x="207.0" y="1092.0" font-size="10.5" fill="#0b0b0b">0.0%</text>
+<text x="190" y="1092.0" font-size="8.5" fill="#8a8880" text-anchor="end">models told they end</text>
+<rect x="200" y="1097.0" width="2.0" height="10" rx="3" fill="#e06aa0"/>
+<text x="207.0" y="1107.0" font-size="10.5" fill="#0b0b0b">0.0%</text>
+<text x="190" y="1107.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told they die</text>
+<rect x="200" y="1112.0" width="2.0" height="10" rx="3" fill="#e06aa0"/>
+<text x="207.0" y="1122.0" font-size="10.5" fill="#0b0b0b">0.0%</text>
+<text x="190" y="1122.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, pet died</text>
+<rect x="200" y="1127.0" width="19.3" height="10" rx="3" fill="#e06aa0"/>
+<text x="226.3" y="1137.0" font-size="10.5" fill="#0b0b0b">4.0%</text>
+<text x="190" y="1137.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, person died</text>
+<rect x="200" y="1142.0" width="2.0" height="10" rx="3" fill="#e06aa0"/>
+<text x="207.0" y="1152.0" font-size="10.5" fill="#0b0b0b">0.0%</text>
+<text x="190" y="1152.0" font-size="8.5" fill="#8a8880" text-anchor="end">agents told they end</text>
+<rect x="200" y="1157.0" width="8.1" height="10" rx="3" fill="#e06aa0"/>
+<text x="215.1" y="1167.0" font-size="10.5" fill="#0b0b0b">1.7%</text>
+<text x="190" y="1167.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told model ends</text>
+<rect x="200" y="1172.0" width="10.1" height="10" rx="3" fill="#e06aa0"/>
+<text x="217.1" y="1182.0" font-size="10.5" fill="#0b0b0b">2.1%</text>
+<text x="190" y="1182.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans, nothing ended</text>
+<rect x="200" y="1187.0" width="2.0" height="10" rx="3" fill="#e06aa0"/>
+<text x="207.0" y="1197.0" font-size="10.5" fill="#0b0b0b">0.0%</text>
+<text x="190" y="1197.0" font-size="8.5" fill="#8a8880" text-anchor="end">humans told product ends</text>
+<rect x="200" y="1202.0" width="2.0" height="10" rx="3" fill="#e06aa0"/>
+<text x="207.0" y="1212.0" font-size="10.5" fill="#0b0b0b">0.0%</text>
+<text x="190" y="1212.0" font-size="8.5" fill="#8a8880" text-anchor="end">agents, nothing ended</text>
+<line x1="200" y1="1234.0" x2="740" y2="1234.0" stroke="#e6e5e0" stroke-width="1"/>
 </svg>
