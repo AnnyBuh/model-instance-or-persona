@@ -34,9 +34,7 @@ SERIES = {"E": "#4a3aa7", "A": "#1baf7a", "C": "#eb6834", "D": "#2a78d6", "B": "
 M8 = {"seeking": "#e0aa12", "rage": "#e0463a", "fear": "#2bb56a", "lust": "#e06aa0",
       "care": "#4a90d9", "play": "#8fce2a", "grief": "#9166e6"}
 SYS_ORDER = ("grief", "care", "rage", "play", "seeking", "fear", "lust")
-NAMES = {"A": "human bereavement", "B": "consumer loss", "C": "AI loss",
-         "D": "AI, not loss", "E": "pet bereavement", "H": "humans, own ending",
-         "M": "models, own ending", "F": "agents, general", "G": "agents, own ending"}
+NAMES = {"A": "humans, a person has died", "E": "humans, a pet has died", "H": "humans told they will die", "C": "humans told a model will end", "B": "humans told a product will end", "D": "humans, AI talk, nothing ended", "M": "models told they will end", "G": "agents told they will end", "F": "agents, nothing ended"}
 FONT = "-apple-system, 'Helvetica Neue', Arial, sans-serif"
 
 
@@ -134,15 +132,13 @@ def fig_systems(R):
     plot = W - L - Rt
     x = lambda v: L + plot * v / 100.0
     order = ["M", "H", "E", "A", "G", "C", "D", "B", "F"]
-    short = {"M": "models, own end", "H": "humans, own end", "E": "pet loss", "A": "bereavement",
-             "G": "agents, own end", "C": "AI loss", "D": "AI, not loss", "B": "product",
-             "F": "agents, general"}
+    short = {"A": "humans, person died", "E": "humans, pet died", "H": "humans told they die", "C": "humans told model ends", "B": "humans told product ends", "D": "humans, nothing ended", "M": "models told they end", "G": "agents told they end", "F": "agents, nothing ended"}
     s = ['<svg xmlns="http://www.w3.org/2000/svg" width="%d" height="%d" viewBox="0 0 %d %d" '
          'font-family="%s">' % (W, H, W, H, FONT),
          '<rect width="%d" height="%d" fill="%s"/>' % (W, H, SURFACE),
          '<text x="20" y="24" font-size="15" font-weight="600" fill="%s">The shape of each corpus, on seven systems</text>' % INK,
-         '<text x="20" y="43" font-size="11.5" fill="%s">Colour marks the affective system. Within each system the five corpora are in the same order, top to bottom.</text>' % INK2,
-         '<text x="20" y="59" font-size="11.5" fill="%s">AI loss is not a smaller bereavement, and AI discourse that is not about loss is not AI loss.</text>' % INK2]
+         '<text x="20" y="43" font-size="11.5" fill="%s">Colour marks the affective system. Within each system the nine corpora appear in the same order, top to bottom.</text>' % INK2,
+         '<text x="20" y="59" font-size="11.5" fill="%s">Rates are the share of texts in which each system fired. Model and agent rows are frame-dependent; see Section 3.5.</text>' % INK2]
     top = 74
     for j, sysname in enumerate(SYS_ORDER):
         gy = top + j * grp

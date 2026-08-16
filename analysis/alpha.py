@@ -60,7 +60,7 @@ def krippendorff_nominal(units):
 
 def load_claude_by_id():
     out = {}
-    for stage in ("stage1", "stage2", "stage3"):
+    for stage in ("stage1", "stage2", "stage3", "stage4"):
         d = os.path.join(ROOT, "data", stage, "reads")
         for name in sorted(os.listdir(d)):
             if name.endswith(".reads.json"):
@@ -86,7 +86,7 @@ def main():
 
     print("Krippendorff's alpha, nominal, per system")
     print("  binary variable per comment: did this system fire\n")
-    print("  %-9s %-28s %s" % ("system", "within-rater (4 reads, n=%d)" % len(have), "between-rater (n=3365)"))
+    print("  %-9s %-28s %s" % ("system", "within-rater (4 reads, n=%d)" % len(have), "between-rater (full overlap)"))
 
     ds = {}
     dd = os.path.join(ROOT, "data", "deepseek")

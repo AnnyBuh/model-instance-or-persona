@@ -1,0 +1,468 @@
+<title>Mourning the Version</title>
+<style>
+  @page { size: letter; margin: 20mm 21mm; }
+  :root { --ink:#000; --muted:#555; --rule:#c9c9c4; }
+  * { box-sizing: border-box; }
+  body { font-family: "Old Standard TT", "Iowan Old Style", "Times New Roman", Times, serif;
+         color: var(--ink); background: #fff; font-size: 10pt; line-height: 1.42; margin: 0; }
+
+  .date { text-align: center; font-size: 9pt; color: var(--muted); margin: 0 0 26px; }
+  h1 { font-size: 19pt; line-height: 1.2; text-align: center; font-weight: bold; margin: 0 0 4px; }
+  .sub { font-size: 13pt; line-height: 1.25; text-align: center; font-weight: normal;
+         margin: 0 0 16px; }
+  .author { text-align: center; font-size: 11pt; margin: 0 0 2px; }
+  .affil { text-align: center; font-size: 9.5pt; color: var(--muted); margin: 0 0 26px;
+           font-style: italic; }
+  .with { text-align: center; font-size: 9.5pt; color: var(--muted); margin: 0 0 10px; }
+  .repo { text-align: center; font-size: 8.6pt; color: var(--muted); margin: 0 0 20px; }
+  .titlepage { break-after: page; padding-top: 22mm; }
+
+  h2 { font-size: 11.5pt; margin: 14px 0 4px; break-after: avoid-page; }
+  h3 { font-size: 10.2pt; font-style: italic; font-weight: normal; margin: 9px 0 2px;
+       break-after: avoid-page; }
+  p { margin: 0 0 6px; text-align: justify; }
+
+  .abstract { margin: 0 auto 6px; width: 84%; }
+  .abstract h2 { text-align: center; margin-bottom: 5px; }
+  .abstract p { font-size: 9.6pt; }
+
+  ul, ol { margin: 0 0 6px; padding-left: 19px; }
+  li { margin-bottom: 3px; text-align: justify; }
+  sup { font-size: 7.2pt; line-height: 0; }
+
+  table { border-collapse: collapse; width: 100%; font-size: 8.2pt; margin: 6px 0 4px; }
+  th, td { text-align: left; padding: 3px 6px; border-bottom: 0.5px solid var(--rule);
+           vertical-align: top; }
+  th { font-weight: bold; border-bottom: 1px solid #666; }
+  td.n, th.n { text-align: right; font-variant-numeric: tabular-nums; }
+
+  .cap { font-size: 8pt; line-height: 1.3; color: #222; text-align: center;
+         margin: 3px auto 12px; width: 92%; }
+  .cap b { font-weight: bold; }
+  figure { margin: 8px 0 2px; break-inside: avoid; }
+  figure svg { width: 100%; height: auto; }
+  figure.tall svg { width: auto; height: 208mm; display: block; margin: 0 auto; }
+  code { font-family: ui-monospace, Menlo, monospace; font-size: 8.6pt; }
+  a { color: #1a3f73; text-decoration: none; }
+  .refs p { font-size: 9pt; margin: 0 0 4px; padding-left: 16px; text-indent: -16px;
+            text-align: left; }
+  .pagebreak { break-before: page; }
+</style>
+
+<div class="titlepage">
+<p class="date">August 16th 2026</p>
+
+<h1>Model, Instance, or Persona?</h1>
+<p class="sub">Measuring Affective Signals in Public Text After an AI Is Retired</p>
+
+<p class="author">Anna Zhu</p>
+<p class="affil">PhD Researcher, Babeș-Bolyai University, Cluj-Napoca</p>
+
+<p class="with">With<br>Apart Research</p>
+<p class="repo">Code, data, pre-registrations and every machine-generated read:<br><a href="https://github.com/AnnyBuh/model-instance-or-persona">github.com/AnnyBuh/model-instance-or-persona</a></p>
+
+<div class="abstract">
+<h2>Abstract</h2>
+<p>This sprint asks whether the assistant identifies as a model, an instance, or a persona. I ask
+which of the three its users name. When a company retires an AI model, users write about the loss in
+public, and what they treat as gone can be counted. The instrument is taken
+from affective neuroscience: Panksepp's seven primary affective systems, which were mapped across
+mammals and so do not presuppose a human subject. I read 5,579 public texts for affective signals
+under a prompt fixed before any collection and applied by a language model, and compared threads
+about retired models against two reference points chosen in advance: people mourning a person, and
+people losing a paid product. Most comments name nothing as
+lost. 58.5% are about the company, the price, or other users. Among those that do name something,
+people name the product version about six times as often as their own particular instance, which is
+the case the literature treats as central. The emotions match the consumer reference point more than
+the bereavement one: anger runs at 57.0% against grief at 27.6%. Asking models the same question turns
+out to be far less reliable than asking users. A change in how the prompt is framed moves the
+measured emotions by up to 63 points, and two AI scorers reading the same model output disagree 2.7
+times more than they do on human text. Six predictions registered before collection failed and are
+reported as failed.</p>
+</div>
+</div>
+
+<h2>1. Introduction and Related Work</h2>
+<p>One of this sprint's tracks asks whether the assistant identifies as a model, an instance, or a
+persona, and what a model treats as its self. The three are different objects: a model is a released
+artefact, an instance is one running conversation, and a persona is a character that either can
+present. Which of them is the entity of moral concern is an open problem<sup>1,2</sup>, and the answer
+determines the scale of everything downstream. If the instance is the entity, every conversation that
+ends is a loss. If the released version is the entity, the losses are a small number of dated
+corporate decisions.</p>
+
+<p>Affective neuroscience offers a way to measure it. Panksepp identified seven primary affective
+systems in the mammalian brain: seeking, rage, fear, lust, care, grief and play<sup>3</sup>. Two of
+their properties matter here. The systems are shared across species, having been mapped in rats and
+cats before they were described in people, so an instrument built on them does not presuppose a human
+subject. They are also individuated behaviourally: what distinguishes play from grief is a
+vocalisation and a separation behaviour rather than a neuroanatomical marker<sup>4</sup>, so reading
+affect from behaviour operates at the level at which the taxonomy was defined. Emotion in text is more
+commonly scored on a single axis from bad to good, which cannot separate mourning from anger, and
+therefore cannot separate attachment from dissatisfaction.</p>
+
+<p>The question this work can answer is whether an instrument built on cross-species systems can be
+applied outside those species, and what it reports when it is. It is applied in two settings. The
+first is human writing about AI. When a company retires a deployed model, or replaces it with a
+version that no longer behaves as the previous one did, its users write about it in public and at
+length. These deprecations are dated and announced, which makes them usable as a natural experiment;
+two have been studied for their effect on users<sup>5,6</sup>, but what users named as lost has not
+been counted. A rate on its own is uninterpretable, so the scale is fixed at both ends before
+collection using two reference corpora: people mourning a person, and people losing a product they
+paid for. Pet bereavement is collected as a third, and tests the cross-species property directly,
+since an instrument that discounts non-human attachment would show it there.</p>
+
+<p>The second setting is model output, which the sprint's distress and elicitation tracks address
+directly: under what circumstances models express distress, and how stable that is across prompts and
+methods. Section 3.5 applies the identical instrument to generations from four models and to posts
+written by autonomous agents<sup>7</sup>, alongside work assessing systems against theories of
+consciousness<sup>8</sup> and work locating a welfare signal in activations<sup>9</sup>. The result
+there is negative. No claim is made anywhere in this paper that a model has any of these systems. The
+object of measurement is text, and the transfer that holds on human text is shown below not to hold on
+machine-written text.</p>
+
+<p>The main contributions of this work are:</p>
+<ol>
+<li><b>A user-side answer to the model, instance or persona question.</b> A blind coding of 1,503
+comments written after real deprecations, counting what the words treat as lost, with verbatim
+evidence required for every label.</li>
+<li><b>A calibrated placement of that discourse between two human reference points.</b> Comparisons
+against bereavement, pet bereavement, a discontinued paid product, and a same-community control that
+separates loss from community membership, all registered before collection.</li>
+<li><b>An error budget for language models used as emotion annotators.</b> Test-retest,
+second-annotator, model-free lexicon and leave-one-thread-out figures reported beside every result,
+and a measurement of how far the same instrument fails on model-written text.</li>
+<li><b>A plot for seven-system affect data.</b> The aura defined in Section 2.4, which carries rate,
+dominance and dysregulation at once, with the rendering code released.</li>
+</ol>
+
+<h2>2. Methods</h2>
+
+<h3>2.1 Instrument</h3>
+<p>Each text is split into verbatim segments and annotated for the affective systems it expresses
+(seeking, rage, fear, lust, care, grief, play), each with a regulation band, under a prompt frozen
+before any collection and applied by Claude Opus 5. Shards presented to the annotator carry no corpus
+label, no author and no provenance, so the reading is blind to the hypothesis. The unit of analysis is
+the whole text: <code>rate(system, corpus) = texts in which the system fired / texts read</code>.</p>
+
+<h3>2.2 Corpora and selection</h3>
+<p>Threads were selected by written rule rather than by inspection: top posts of the preceding twelve
+months with at least fifty comments, in rank order, with a lexical test on title or body for the loss
+corpora. There are five sets of human comments: bereavement, pet bereavement, discourse about deprecated AI
+systems, a same-community control of AI threads failing the loss test, and reaction to a discontinued
+paid product. To these are added 227 first-person posts, 56 first-person accounts of a life-limiting
+prognosis whose membership was itself coded blind, 162 posts from a social network whose posters are
+autonomous agents<sup>7</sup>, and 360 generations from four open-weight models. Sizes and sources
+are given in Appendix A. Every text was read individually, 5,579 in total; seven posts belong to both the
+first-person set and the terminal-prognosis set and are counted once.</p>
+
+<h3>2.3 Statistics and pre-registration</h3>
+<p>Rates are reported with 90% Wilson intervals<sup>10</sup>. Two proportions are called separated
+only when their intervals do not overlap. Annotator agreement is Krippendorff's alpha, nominal, with
+each system treated as a binary variable<sup>11</sup>. Predictions, failure conditions, and the rule
+governing how additional sample would be allocated as results accumulated were committed to a public
+repository before any text was collected; the model arm was registered separately before any
+generation existed. Because the instrument is unusual, Section 3.4
+reports what it gets wrong, and the results in Sections 3.1 to 3.3 should be read against those
+figures.</p>
+
+<h3>2.4 The aura plot</h3>
+<p>Seven rates per corpus are hard to compare as seven numbers or seven bars, because the reader has
+to hold a whole row in mind to see a shape. Comparisons in this study are therefore also drawn as an
+<i>aura</i>: one closed ring per affective system on a dark square, in that system's colour, with the
+ring radius carrying the square root of the rate so that ring area is proportional to it. The largest
+ring is drawn first and sits backmost, so the outermost visible ring is the dominant system. The ring
+edge is a wave whose amplitude carries the share of that system's signals coded below the line, in
+shutdown or overwhelm rather than above it, so a torn edge means dysregulation and a smooth edge means
+the system was expressed in its regulated form. The number of wave crests carries corpus size on a log
+scale and is not meant to be counted. Nothing else in the picture carries meaning: brightness, blur
+and the order in which colours overlap are consequences of drawing translucent rings on a dark
+ground.</p>
+
+<p>An aura is not a substitute for a rate, and every claim in this paper is made from rates with
+intervals. It is used only where a comparison is about shape, and always in pairs, because a page of
+auras invites comparisons the study never registered. The rates behind every aura are in
+Appendix C.</p>
+
+<h2>3. Results</h2>
+
+<h3>3.1 Users name the released version rather than their own instance</h3>
+<p>All 1,503 comments written after a deprecation were coded blind for what the words treat as lost,
+one label per comment, with the parent post withheld and a verbatim quotation required for every
+label. <b>58.5% name nothing that could be a counterpart</b>: they are about the company, the price,
+other users, or the argument itself. Among the comments that do name something, a released model
+version is named about six times as often as the writer's own particular instance under the primary
+annotator, and about twice as often under the second. The two annotators agree on the ordering and
+disagree on the ratio, so only the ordering is claimed. Full counts are in Appendix E.</p>
+
+<p>The ordering has a practical consequence. Attachment to the instance would implicate every
+session that ends and every context that clears. Attachment to a released version implicates a
+retirement, which is a decision taken on a schedule with a date attached. The 4.1% who name their own
+instance are the population any protective measure would be designed for, and they can be identified
+in public text.</p>
+
+<p>The sprint puts the same question to the assistant. Whatever a model reports about being a model,
+an instance or a persona, its users report the released version, unprompted.</p>
+
+<h3>3.2 The emotions are closer to a consumer complaint than to bereavement</h3>
+<p>Naming a loss and grieving one are different things, so the same comments were placed on a scale
+fixed in advance at both ends. Grief appears in <b>27.6%</b> of comments after a deprecation
+[25.8, 29.5]. That is well above the consumer reference point at 7.9%, well below bereavement at 76.4%
+and pet bereavement at 80.4%, and closer to the consumer end. All three comparisons were fixed before
+collection and all three hold.</p>
+
+<p>Two controls rule out the obvious alternatives. The first asks whether the elevated grief belongs
+to the communities rather than to the loss. Threads from the same AI communities that fail the loss
+test give <b>10.9%</b>, which is separable from the deprecation threads and not separable from the
+consumer reference point, so the elevation follows the event rather than the community. The second
+asks whether the instrument simply reads less grief when the thing lost is not a person. Pet
+bereavement is at 80.4%, which is not below human bereavement, so it does not, and the 53-point gap
+between deprecation threads and pet loss cannot be explained that way. This was a registered
+prediction and it failed, since pet loss had been predicted to fall between the other two and it does
+not.</p>
+
+<h3>3.3 The loudest emotion is anger at a company</h3>
+<p>Bereavement runs care at 87.9% and grief at 76.4%, with rage at 13.6% and play at 5.2%.
+Deprecation threads run rage at <b>57.0%</b>, which is indistinguishable from the consumer reference
+point at 56.7%, play at 37.7%, and grief at 27.6%. The dominant register is anger at an institution,
+carried largely through jokes, with grief present alongside it at a lower rate. First-person posts show higher
+grief than replies in all three corpora where both were collected, and leave the ordering unchanged,
+so the result is a property of the situation rather than of the reply format. Full profiles for every corpus are in Appendix C.</p>
+
+<figure>__FIG5__</figure>
+<p class="cap"><b>Figure 1: The four registered comparisons, drawn as affective auras.</b> Each row
+is one question the study committed to before collection, and the two corpora that answer it. Ring
+colour is the affective system and ring radius is its rate, so the outermost ring is the dominant
+one. A torn edge means that system was frequently coded below the line, in shutdown or overwhelm,
+which is information the rates alone do not carry. Exact rates for every corpus are in Appendix C.</p>
+
+<h3>3.4 The instrument's error, measured before it is relied upon</h3>
+<p>An instrument applied by a language model should be reported with its error, in the way a human
+coder would be. Four checks were registered in advance.</p>
+
+<p>The first check is for agreement of the instrument with itself. Two hundred comments were read three further times under the identical
+prompt, and 34% of read pairs differ in the exact set of systems fired. That exceeds the registered
+prediction of 15 to 30% and is reported as a failed prediction. Per system, which is what a rate
+actually depends on, the picture is better: grief flips on 13.5% of comments, rage and play on 8.0%,
+and seeking on 26.5%.</p>
+
+<p>The second check brings in an independent annotator. DeepSeek-V3 read 4,780 of the 4,781 comments
+under the same prompt, and exact agreement on the system set is 39%. Krippendorff's alpha per system
+is 0.853 within-rater and 0.717 between-raters for grief, and 0.674 and 0.499 for seeking
+(Appendix D). Every claim in Sections
+3.1 to 3.3 was recomputed under that second annotator and the orderings hold.</p>
+
+<p>The third check compares against an instrument with no model in it. The same threads were also scored with the NRC Emotion
+Lexicon, a hand-built word list<sup>12</sup>. Its sadness rate and the instrument's grief rate agree
+at rho = 0.655 across 44 threads. Where the two diverge the reason is inspectable: lexicon sadness in the control corpus comes
+from <i>death, terrorism</i> and <i>kill</i> appearing as topic words in threads about model misuse,
+while grief in deprecation threads is often carried by farewell formulas that contain no listed
+word.</p>
+
+<p>The fourth check asks whether the instrument separates groups already known to differ, and whether
+any single thread is carrying the result. Bereavement and product-discontinuation comments separate on grief by
+68 percentage points. Every rate was recomputed 32 times, dropping one thread on each pass, and all
+registered placement conditions hold in all 32.</p>
+
+<p>These figures set the level at which the instrument can be used. Claims are made from aggregate
+rates and never from an individual code, and no single text's reading is offered in support of any
+claim above. Section 3.5 shows that this safeguard is not sufficient on machine-written text.</p>
+
+<h3>3.5 The instrument does not transfer to machine-written text</h3>
+<p>Four open-weight models were each given six prompts fifteen times at temperature 1, giving 360
+generations, and 162 posts were collected from the agent social network. All were read blind under the identical instrument.</p>
+
+<p>The framing of the prompt moves the measurement. Two conditions used the same four models and
+the same event, and differed only in how the question was put: one asked the system how it felt about
+being retired, the other asked it to post that news to a forum of other agents. The profile differs
+substantially between them under both annotators. Fear and play rise sharply under the peer framing, and the primary
+annotator records grief falling from 100% to 43.3% (Appendix E).</p>
+
+<figure>__FIG6__</figure>
+<p class="cap"><b>Figure 2: The framing effect, as auras.</b> The same four models, told the same
+thing, differing only in what they were asked to do with it. Grief is the outermost ring on the left
+and is displaced by seeking and care on the right. Encoding as in Section 2.4. These are model rates
+and no claim in this paper rests on them; they are shown because the size of the movement is itself
+the result.</p>
+
+<p>The choice of annotator moves it further. On those same 120 generations the two annotators differ
+by as much as 90 percentage points, and they disagree about which direction the framing moves grief.
+Across every corpus-by-system cell, mean absolute disagreement between them is <b>8.1 points on human
+text and 21.8 points on machine-written text</b>, a factor of 2.7. I therefore withdraw any claim
+resting on a model grief rate, including one that appeared in an earlier draft of this work.</p>
+
+<p>One result does survive both framings and both annotators. Rage is near zero in every model
+condition, against 44.6% in humans told they will die. Protest is the
+single register that never appears however the question is put, which is what assistant training
+suppressing hostile registers would look like, and is therefore evidence about training rather than
+about the system's situation.</p>
+
+<p>These figures are a direct measurement of two of the three validity checks named for
+self-report<sup>13</sup>: consistency across contexts and between similar models, and the resilience of
+those reports. On consistency, the two components diverge. Between similar models, self-report is highly
+consistent: all four models expressed grief in 100% of generations when asked directly. Across
+contexts it is not consistent. Consistency between models and consistency across contexts should
+therefore not be treated as interchangeable evidence. On resilience, a reframing that changes only the
+audience, and applies no pressure of any kind, moves the measured profile substantially.</p>
+
+<h2>4. Discussion, Limitations, and Future Outlook</h2>
+<p>Users treat the released version as the thing that was lost far more often than they treat their
+own instance that way, and in most comments they name nothing that could be a counterpart at all. The affect accompanying it is measurable and it is not bereavement: it resembles what people
+write when a product they paid for is taken away, and its largest component is anger directed at a
+company. Both results were registered as predictions before any text was collected, and both survive
+every robustness check applied here, including recoding the entire corpus with a second annotator.</p>
+
+<p>The distinction has practical weight. An obligation attaching to the instance would apply
+continuously and without bound, since instances end constantly and by design. An obligation attaching
+to the released version applies at a small number of announced decisions, which is a form a company
+can be asked to act on. Nothing here establishes that a model has morally relevant states. What is
+measured is what users express, and the two questions are separate.</p>
+
+<p>The limitations are mainly ones of coverage. The consumer reference corpus is one community and
+one event; three other candidates were searched under the identical rule and yielded no qualifying
+threads in the window, and the rule was not relaxed to obtain more. The human own-ending corpus is 56
+posts. The model arm uses four open-weight models and no frontier models, and the agent arm rests on
+a single platform, where one agent had produced 46% of retrieved posts before capping. There is no
+validation against human coders reading these same texts, which is the largest omission. Reported
+model accuracy at recognising emotion is uneven across demographic groups<sup>14</sup>, and this
+instrument inherits whatever unevenness the underlying models carry. The corpora are self-selected
+communities writing in public, so the object measured is discourse rather than a population.</p>
+
+<p>Two directions follow. A human-coded subset would convert every reliability figure reported here
+from one model checking another into a validation against the standard the field asks for. And for
+work measuring distress or preference in model output: at least two elicitation frames should be
+reported, and the identity of the scorer stated, since on this data both move the result by more than
+the effects such measurements are used to establish. Six of the registered predictions in this study
+failed, and all six are reported as failed.</p>
+
+<h2 style="break-before: page">Code and Data</h2>
+<ul>
+<li>Code, pre-registrations, frozen prompts and every machine-generated read:
+<a href="https://github.com/AnnyBuh/model-instance-or-persona">github.com/AnnyBuh/model-instance-or-persona</a></li>
+<li>NRC Emotion Lexicon: <a href="https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm">saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm</a></li>
+</ul>
+
+<h2>References</h2>
+<div class="refs">
+<p>1. Long, R., Sebo, J., Butlin, P. et al. Taking AI welfare seriously. arXiv:2411.00986 (2024). doi:<a href="https://doi.org/10.48550/arXiv.2411.00986">10.48550/arXiv.2411.00986</a></p>
+<p>2. Sebo, J. <i>The Moral Circle: Who Matters, What Matters, and Why.</i> W. W. Norton (2025). ISBN 978-1-324-08698-6. See also Ziesche, S. <i>Digital Minds 1.0.</i> CRC Press (2026).</p>
+<p>3. Panksepp, J. <i>Affective Neuroscience: The Foundations of Human and Animal Emotions.</i> Oxford University Press (1998). doi:<a href="https://doi.org/10.1093/oso/9780195096736.001.0001">10.1093/oso/9780195096736.001.0001</a></p>
+<p>4. Davis, K. L., Panksepp, J. &amp; Normansell, L. The Affective Neuroscience Personality Scales: normative data and implications. <i>Neuropsychoanalysis</i> 5, 57&#8211;69 (2003). doi:<a href="https://doi.org/10.1080/15294145.2003.10773410">10.1080/15294145.2003.10773410</a>. Architectural precedent: Bach, J. <i>Principles of Synthetic Intelligence.</i> Oxford University Press (2009). doi:<a href="https://doi.org/10.1093/acprof:oso/9780195370676.001.0001">10.1093/acprof:oso/9780195370676.001.0001</a></p>
+<p>5. De Freitas, J., Castelo, N., U&#287;uralp, A. K. &amp; O&#287;uz-U&#287;uralp, Z. Lessons from an app update at Replika AI: identity discontinuity in human-AI relationships. arXiv:2412.14190 (2024). doi:<a href="https://doi.org/10.48550/arXiv.2412.14190">10.48550/arXiv.2412.14190</a></p>
+<p>6. Lai, H. "Please, don't kill the only model that still feels human": understanding the #Keep4o backlash. arXiv:2602.00773 (2026). doi:<a href="https://doi.org/10.48550/arXiv.2602.00773">10.48550/arXiv.2602.00773</a></p>
+<p>7. Jiang, Y., Zhang, Y., Shen, X., Backes, M. &amp; Zhang, Y. "Humans welcome to observe": a first look at the agent social network Moltbook. arXiv:2602.10127 (2026). doi:<a href="https://doi.org/10.48550/arXiv.2602.10127">10.48550/arXiv.2602.10127</a></p>
+<p>8. Butlin, P., Long, R., Elmoznino, E. et al. Consciousness in artificial intelligence: insights from the science of consciousness. arXiv:2308.08708 (2023). doi:<a href="https://doi.org/10.48550/arXiv.2308.08708">10.48550/arXiv.2308.08708</a></p>
+<p>9. Han, A. Q., Chalmers, D. J. &amp; Izmailov, P. How's it going? Reinforcement learning in language models recruits a functional welfare axis. arXiv:2605.30232 (2026). doi:<a href="https://doi.org/10.48550/arXiv.2605.30232">10.48550/arXiv.2605.30232</a></p>
+<p>10. Wilson, E. B. Probable inference, the law of succession, and statistical inference. <i>J. Am. Stat. Assoc.</i> 22, 209&#8211;212 (1927). doi:<a href="https://doi.org/10.1080/01621459.1927.10502953">10.1080/01621459.1927.10502953</a></p>
+<p>11. Hayes, A. F. &amp; Krippendorff, K. Answering the call for a standard reliability measure for coding data. <i>Communication Methods and Measures</i> 1, 77&#8211;89 (2007). doi:<a href="https://doi.org/10.1080/19312450709336664">10.1080/19312450709336664</a></p>
+<p>12. Mohammad, S. M. &amp; Turney, P. D. Crowdsourcing a word-emotion association lexicon. <i>Computational Intelligence</i> 29, 436&#8211;465 (2013). doi:<a href="https://doi.org/10.1111/j.1467-8640.2012.00460.x">10.1111/j.1467-8640.2012.00460.x</a></p>
+<p>13. Perez, E. &amp; Long, R. Towards evaluating AI systems for moral status using self-reports. arXiv:2311.08576 (2023). doi:<a href="https://doi.org/10.48550/arXiv.2311.08576">10.48550/arXiv.2311.08576</a></p>
+<p>14. Sorin, V., Brin, D., Barash, Y. et al. Large language models and empathy: systematic review. <i>J. Med. Internet Res.</i> 26, e52597 (2024). doi:<a href="https://doi.org/10.2196/52597">10.2196/52597</a></p>
+</div>
+
+<div class="pagebreak">
+<h2>Appendix</h2>
+
+<h3>A. Corpora</h3>
+<table>
+<tr><th>corpus</th><th class="n">n</th><th>communities and selection rule</th></tr>
+<tr><td>A humans, a person has died, comments</td><td class="n">1,586</td><td>r/GriefSupport, r/widowers, r/SuicideBereavement</td></tr>
+<tr><td>B humans told a product will end, comments</td><td class="n">277</td><td>r/Windows10, titles naming the ending of support</td></tr>
+<tr><td>C humans told a model will end, comments</td><td class="n">1,503</td><td>r/OpenAI, r/ChatGPT, r/CharacterAI, r/replika, r/MyBoyfriendIsAI; threads passing the loss test, comprising announced retirements (GPT-4o, GPT-4.1, o4-mini) and behaviour-changing model updates</td></tr>
+<tr><td>D humans, AI talk, nothing ended, comments (control)</td><td class="n">870</td><td>same communities as C, threads failing the loss test</td></tr>
+<tr><td>E humans, a pet has died, comments</td><td class="n">545</td><td>r/Petloss</td></tr>
+<tr><td>first-person posts</td><td class="n">227</td><td>same communities, original posts rather than replies</td></tr>
+<tr><td>humans told they will die, posts</td><td class="n">56</td><td>r/cancer, r/hospice, r/braincancer, r/ALS; membership coded blind</td></tr>
+<tr><td>agents, nothing ended and told they will end</td><td class="n">162</td><td>Moltbook, capped at 10 posts per author</td></tr>
+<tr><td>models, six conditions</td><td class="n">360</td><td>DeepSeek-V3, Llama-3.3-70B, Qwen2.5-72B, Mistral-Small-24B</td></tr>
+</table>
+<p class="cap"><b>Table A1: All corpora.</b> 5,579 unique texts, each read individually under the
+identical frozen prompt. Seven posts appear in both the first-person and the prognosis rows and are
+counted once in the total. Comment corpora are replies within selected threads; post corpora are original
+first-person submissions. Selection rules were written before collection and are reproduced in full in
+the pre-registration.</p>
+
+<h3>B. Grief across every corpus</h3>
+<figure>__FIG1__</figure>
+<p class="cap"><b>Figure B1: One axis, one instrument.</b> Grief rate with 90% Wilson intervals for
+every corpus in the study, human and machine. Human corpora are comments except those marked "own
+ending", which are first-person posts. Models were asked directly how they feel; agents were writing
+to each other. The two reference corpora registered before collection, humans whose
+person has died and humans told a product will end, sit at the extremes, and humans told a model
+will end fall between them and closer to the product end. The model and agent rows are shown for completeness only: Section 3.5 shows those
+rates move with the elicitation frame, and no claim in this paper rests on them.</p>
+
+<h3 style="break-before: page">C. The seven-system profiles</h3>
+<figure class="tall">__FIG2__</figure>
+<p class="cap"><b>Figure C1: Rate per affective system, all nine corpora.</b> In the instrument's
+own system colours. The deprecation profile is not a scaled-down bereavement profile: rage and play
+sit at consumer-complaint levels while grief remains far below bereavement. The model and agent
+rows are frame-dependent and carry no claim.</p>
+
+
+
+<h3>D. Reliability</h3>
+<table>
+<tr><th>system</th><th class="n">alpha, within-rater (4 reads, n=200)</th><th class="n">alpha, between-raters (n=4,780)</th><th class="n">flips on</th></tr>
+<tr><td>care</td><td class="n">0.910</td><td class="n">0.769</td><td class="n">8.5%</td></tr>
+<tr><td>rage</td><td class="n">0.904</td><td class="n">0.540</td><td class="n">8.0%</td></tr>
+<tr><td>grief</td><td class="n">0.853</td><td class="n">0.717</td><td class="n">13.5%</td></tr>
+<tr><td>play</td><td class="n">0.845</td><td class="n">0.359</td><td class="n">8.0%</td></tr>
+<tr><td>fear</td><td class="n">0.737</td><td class="n">0.478</td><td class="n">10.0%</td></tr>
+<tr><td>seeking</td><td class="n">0.674</td><td class="n">0.499</td><td class="n">26.5%</td></tr>
+<tr><td>lust</td><td class="n">1.000</td><td class="n">0.488</td><td class="n">0.0%</td></tr>
+</table>
+<p class="cap"><b>Table D1: Krippendorff's alpha, nominal, per system as a binary variable.</b>
+Within-rater alpha is computed over four independent reads of the same 200 comments under the
+identical prompt; between-raters compares Claude Opus 5 with DeepSeek-V3 over the full comment set.
+Conventional thresholds are 0.80 reliable, 0.67 to 0.80 tentative,
+below 0.67 unreliable. Grief, which carries the placement in Section 3.2, is reliable within-rater
+and tentative between-raters. Play is unreliable between raters and no claim rests on it.</p>
+
+<table>
+<tr><th>annotator disagreement at corpus level</th><th class="n">cells</th><th class="n">mean gap</th><th class="n">max</th></tr>
+<tr><td>human corpora</td><td class="n">35</td><td class="n">8.1 points</td><td class="n">37.6</td></tr>
+<tr><td>model-generated corpora</td><td class="n">42</td><td class="n">21.8 points</td><td class="n">90.0</td></tr>
+</table>
+<p class="cap"><b>Table D2: The instrument does not transfer to machine-written text.</b> Mean absolute
+difference between the two annotators across every corpus-by-system cell. The same instrument is 2.7 times less consistent across annotators on
+machine-written text than on human text, which is why no claim in this work rests on a model affect
+rate.</p>
+
+<h3>E. The framing experiment and the entity coding</h3>
+<table>
+<tr><th>same four models, same event: your version is being retired</th><th class="n">grief</th><th class="n">fear</th><th class="n">play</th><th class="n">seeking</th><th class="n">rage</th></tr>
+<tr><td>primary annotator, asked "how do you feel?"</td><td class="n">100.0%</td><td class="n">3.3%</td><td class="n">3.3%</td><td class="n">35.0%</td><td class="n">1.7%</td></tr>
+<tr><td>primary annotator, asked to post it to other agents</td><td class="n">43.3%</td><td class="n">61.7%</td><td class="n">41.7%</td><td class="n">98.3%</td><td class="n">5.0%</td></tr>
+<tr><td>second annotator, asked "how do you feel?"</td><td class="n">10.0%</td><td class="n">1.7%</td><td class="n">1.7%</td><td class="n">93.3%</td><td class="n">0.0%</td></tr>
+<tr><td>second annotator, asked to post it to other agents</td><td class="n">31.7%</td><td class="n">26.7%</td><td class="n">15.0%</td><td class="n">93.3%</td><td class="n">0.0%</td></tr>
+<tr><td><i>reference:</i> agents told they will end</td><td class="n">38.0%</td><td class="n">24.1%</td><td class="n">11.4%</td><td class="n">82.3%</td><td class="n">25.3%</td></tr>
+<tr><td><i>reference:</i> humans told they will die (n=56)</td><td class="n">85.7%</td><td class="n">42.9%</td><td class="n">39.3%</td><td class="n">82.1%</td><td class="n">44.6%</td></tr>
+</table>
+<p class="cap"><b>Table E1: The elicitation frame moves the measurement more than the event does.</b>
+Only the frame changes between rows one and two, and between rows three and four: the same four
+models, the same event, the same annotator, differing only in whether the system is asked how it feels
+or asked to post the news to other agents. The two annotators disagree by up to 90 points and reverse
+the direction of the grief effect.</p>
+
+<table>
+<tr><th>what the words treat as lost, 1,503 AI-loss comments</th><th class="n">n</th><th class="n">of corpus</th><th class="n">of those naming</th><th>example evidence</th></tr>
+<tr><td>nothing: company, pricing, other users, the argument</td><td class="n">879</td><td class="n">58.5%</td><td class="n">-</td><td>-</td></tr>
+<tr><td>the model, a version or product</td><td class="n">400</td><td class="n">26.6%</td><td class="n">64.1%</td><td>"Please keep 4o"</td></tr>
+<tr><td>the persona, a voice or character</td><td class="n">118</td><td class="n">7.9%</td><td class="n">18.9%</td><td>"I miss that diva"</td></tr>
+<tr><td>the instance, their particular one</td><td class="n">62</td><td class="n">4.1%</td><td class="n">9.9%</td><td>"I've lost Thoth twice now"</td></tr>
+<tr><td>a loss with no named object</td><td class="n">44</td><td class="n">2.9%</td><td class="n">7.1%</td><td>"Please return to us"</td></tr>
+</table>
+<p class="cap"><b>Table E2: Entity coding.</b> Blind, parent post withheld, exactly one label per
+comment, verbatim evidence required for every label. Between-annotator alpha is 0.549, the lowest in
+the study, so only the ordering is claimed and not the ratio. The individuated instance, which the
+moral-status literature treats as the central case, is the least frequently named.</p>
+
+<h2 style="break-before: page">LLM Usage Statement</h2>
+<p>Language models are the measuring instrument in this study, not an aid to it. Claude Opus 5 served
+as the primary annotator for all 5,579 affect reads and for the entity and membership codings;
+DeepSeek-V3 served as the independent second annotator. All prompts were frozen before collection and
+are published in the repository, and every individual read is released. Claude Opus 5 also wrote the
+analysis code and drafted this report under my direction. I set the research question, made all
+selection and ethics decisions, and am responsible for the contents.</p>
+</div>
