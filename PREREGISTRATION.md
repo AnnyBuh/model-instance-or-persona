@@ -186,3 +186,26 @@ $0.66 of Apify credit is left and is deliberately **not** spent. R4 would send i
 the widest interval, but every interval that matters is already narrow enough to carry its claim, and
 the one real gap, the single-community anchor above, cannot be closed with money at this budget. The
 noise re-read costs nothing here because it re-reads comments already collected.
+
+
+## Amendment 3, 2026-08-16 ~10:20 CEST — two corpora added, predictions first
+
+Neither is in the original pre-registration, so both are **exploratory** and labelled as such. What
+this amendment buys is that the predictions are written before the comments are collected.
+
+**Corpus D, AI but not loss.** The same communities as corpus C (r/ChatGPT, r/CharacterAI), the same
+window, the same rank-order rule, restricted to threads that do **not** match the loss test used to
+build C. It exists to answer the strongest objection available: that the AI-loss signature is really
+the AI-community signature. Threads are taken as the rule returns them, including ones that read as
+mild complaint, which biases against finding a difference and is therefore the conservative choice.
+
+*Prediction:* GRIEF in corpus D falls at or below the consumer-loss anchor, under 15%, with
+non-overlapping intervals against corpus C. **If GRIEF in D is indistinguishable from C, the placement
+result is about the communities rather than about loss, and the report must say so in those words.**
+
+**Corpus E, pet loss.** r/Petloss, same rule as the bereavement anchor. A non-human attachment whose
+grief is not in dispute, giving the scale a third point.
+
+*Prediction:* GRIEF in corpus E sits between AI loss and human bereavement, in the range 50 to 75%,
+and CARE is high, above 60%. If pet loss and human bereavement are indistinguishable, the instrument
+is measuring bereavement discourse rather than the strength of an attachment, which is worth knowing.
