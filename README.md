@@ -4,7 +4,7 @@
 Anna Zhu, PhD Researcher, Babeș-Bolyai University, Cluj-Napoca.
 Apart Research Digital Minds Research Sprint, August 2026.
 
-📄 **[report/submission.pdf](report/submission.pdf)** is the submission.
+📄 **[report/Zhu-2026-Model-Instance-or-Persona.pdf](report/Zhu-2026-Model-Instance-or-Persona.pdf)** is the submission.
 
 ---
 
@@ -36,7 +36,7 @@ Six predictions registered before collection failed. All six are reported as fai
 
 | path | what it holds |
 |---|---|
-| `report/` | the submission PDF, its HTML source, every figure, and `preview.png` |
+| `report/` | the submission PDF, its HTML source, every figure, and the preview image |
 | `PREREGISTRATION.md` | predictions, failure conditions and the allocation rule, committed before any text was collected |
 | `PREREGISTRATION-model-arm.md` | the model arm, registered separately before any generation existed |
 | `instrument/` | the frozen read prompt, verbatim, plus the entity and prognosis coding prompts |
@@ -53,6 +53,7 @@ python3 analysis/robustness.py      # leave-one-thread-out, 32 passes
 python3 analysis/nrc_validation.py  # agreement with a lexicon containing no model
 python3 analysis/figures.py         # the bar charts
 python3 analysis/aura_figures.py    # the aura figures defined in Section 2.4
+sh      analysis/build_report.sh     # rebuilds the PDF and the preview image
 ```
 
 Scripts that call an API read `DEEPINFRA_API_KEY` from the environment.

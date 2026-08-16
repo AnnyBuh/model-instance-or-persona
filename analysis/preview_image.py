@@ -17,4 +17,4 @@ for i,(k,lab,sub) in enumerate(TRIO):
     o.append('<text x="%d" y="%d" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#8b8b98">%s   n=%d</text>'%(cx,cy+172+len(AF.wrap(lab,26))*22,sub,n))
 o.append('<text x="%d" y="%d" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#6d6d7a">Seven Panksepp systems, 5,579 public texts, two reference corpora fixed before collection   |   Anna Zhu, Babe&#537;-Bolyai University</text>'%(W//2,H-26))
 o.append('</svg>')
-open('report/preview.svg','w').write('\n'.join(o)); print("wrote report/preview.svg")
+open('report/Zhu-2026-Model-Instance-or-Persona-preview.svg','w').write('\n'.join(o)); print("wrote report/Zhu-2026-Model-Instance-or-Persona-preview.svg")
