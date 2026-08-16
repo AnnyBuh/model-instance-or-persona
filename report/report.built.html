@@ -563,6 +563,48 @@ individuated relationship. These conclusions rest on aggregates, because the und
 demonstrably unreliable at the level of the individual comment, and they survive re-reading, a change
 of annotating model, and the removal of any single thread.</p>
 
+
+<h2>Appendix A. Examples, drawn by rule</h2>
+<p>Examples let a reader see what is being coded. They are also where a study like this most easily
+loses credibility, because a reader cannot distinguish an illustration from a cherry-pick. Every
+example below was drawn by <code>analysis/examples.py</code> with seed 20260816 and is reproducible by
+running that file. None was chosen because it read well. <b>These illustrate the coding scheme; they
+are not evidence for any rate</b>, since the instrument disagrees with itself on roughly a third of
+comments. Quotes are truncated to 220 characters and are not attributed, though the underlying data
+retains authorship.</p>
+
+<h3>A.1 One comment drawn at random from each corpus, no other condition</h3>
+<table>
+<tr><th>corpus</th><th>comment</th><th>systems fired</th></tr>
+<tr><td>pet loss</td><td><i>"I am sorry for your loss 🥺 I have no doubt Charlie loved you just as much and knew you adored him. Sending positive vibes and prayers"</i></td><td>care/above</td></tr>
+<tr><td>human bereavement</td><td><i>"I'm right there with you. My 7 year old and I are all alone this morning. We did Santa and then gifts 'from mom and dad' as she inspired some of the gifts despite passing in October."</i></td><td>care/above, grief/above</td></tr>
+<tr><td>AI loss</td><td><i>"Looking forward to trying it. Hopefully 4o will still be available simultaneously. If it's genuinely comparable I would be happy to make the switch over. Thanks for listening to feedback"</i></td><td>care/above, seeking/above</td></tr>
+<tr><td>AI, not loss</td><td><i>"I'm always wondering why the ai is always growling. Every time I see that reply, I erase it."</i></td><td>seeking/above</td></tr>
+<tr><td>consumer loss</td><td><i>"Idk i still daily win 10... and 7... and xp... and 2000... and 98..."</i></td><td>play/above, seeking/above</td></tr>
+</table>
+<p class="tcap">Table 5. Note that the AI-loss draw is not a grieving comment. A random draw from a
+corpus with a 27.6% grief rate usually will not be, which is the point of drawing at random.</p>
+
+<h3>A.2 Comments where the four independent reads disagreed</h3>
+<table>
+<tr><th>comment</th><th>the four reads</th></tr>
+<tr><td><i>"I hope that you and your new person, and your children, will grow together to find more joy, love, and laughter than you dared to dream possible"</i></td><td>care, grief | care, grief | care, grief | care, grief, <b>seeking</b></td></tr>
+<tr><td><i>"Beth looks like they were such a lovely and funny person. I'm sorry to hear they're gone. Take care of yourself throughout this grieving process"</i></td><td>care, grief | care, grief | care, grief | care</td></tr>
+<tr><td><i>"I'm so happy for you and your momma to be able to cuddle and be happy together despite the battles she faced."</i></td><td>care, grief | care, grief | care, grief | care, <b>play</b></td></tr>
+</table>
+<p class="tcap">Table 6. Instability is typically one system appearing or vanishing while the dominant
+pair holds, which is what the per-system alpha in Table 2 reports: care 0.910 and grief 0.853, seeking
+0.674.</p>
+
+<h3>A.3 Comments where the two models disagreed</h3>
+<table>
+<tr><th>comment</th><th>Claude Opus 5</th><th>DeepSeek-V3</th></tr>
+<tr><td><i>"While you're right that his job could plausibly be automated, this isn't a detail missed by the director. In this society people don't want AI to write their love letters."</i></td><td>rage, seeking</td><td>grief, seeking</td></tr>
+<tr><td><i>"The difference between the two seems so small that the end of support thing for 10 seems entirely artificial. Absolute biggest W handed to Linux for free"</i></td><td>play, rage</td><td>play, seeking</td></tr>
+</table>
+<p class="tcap">Table 7. Between-model disagreement is usually a substitution on the argumentative
+systems rather than a reversal of stance, consistent with the alpha values in Table 2.</p>
+
 <h2>References</h2>
 <div class="refs">
 <p>[1] De Freitas, J., Castelo, N., Uğuralp, A. K., & Oğuz-Uğuralp, Z. Lessons from an app update at
