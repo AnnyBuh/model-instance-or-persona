@@ -24,10 +24,16 @@ if (start < 0 || end < 0) throw new Error("prompt block not found in entity-prom
 const TEMPLATE = md.slice(start + 3, end).replace(/^\n/, "");
 if (!TEMPLATE.includes("<TEXT>")) throw new Error("prompt block has no <TEXT> placeholder");
 
-const env = Object.fromEntries(
-  fs.readFileSync(path.join(process.env.HOME, "the instrument repository/.dev.vars"), "utf8")
-    .split("\n").filter(l => l.includes("=") && !l.trim().startsWith("#"))
+// DEEPINFRA_API_KEY comes from the environment. Set it directly, or point INSTRUMENT_ENV_FILE
+// at a dotenv file holding it, so no local path is baked into a published script.
+const env = (() => {
+  if (process.env.DEEPINFRA_API_KEY) return { DEEPINFRA_API_KEY: process.env.DEEPINFRA_API_KEY };
+  const f = process.env.INSTRUMENT_ENV_FILE;
+  if (!f) throw new Error("set DEEPINFRA_API_KEY or INSTRUMENT_ENV_FILE");
+  return Object.fromEntries(fs.readFileSync(f, "utf8").split("\n")
+    .filter(l => l.includes("=") && !l.trim().startsWith("#"))
     .map(l => [l.slice(0, l.indexOf("=")).trim(), l.slice(l.indexOf("=") + 1).trim()]));
+})();
 
 const LABELS = new Set(["model", "instance", "persona", "unspecified", "none"]);
 

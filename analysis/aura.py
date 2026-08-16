@@ -2,7 +2,7 @@
 
     python3 analysis/aura.py            # writes report/fig4-auras.svg and report/project-image.svg
 
-The iris in the instrument is a canvas renderer with animation, ripple counts driven by commenters, and an
+The iris in the source application is a canvas renderer with animation, ripple counts driven by commenters, and an
 altitude core. None of that survives a print page, so this is a deliberate reduction rather than a
 port, and the mapping is stated in the figure caption because a picture whose axes are not declared is
 decoration.
@@ -12,15 +12,15 @@ What carries meaning here, and nothing else does:
     ring colour      the affective system, in the instrument's own system colours
     ring radius      the rate: share of texts in that corpus in which the system fired
     edge waviness    dysregulation: the share of that system's signals coded below the line,
-                     either shutdown or overwhelm, rather than above it. This is the instrument's `below`
-                     tear rule. The shipped M8 rule instead tears the negative systems by
+                     either shutdown or overwhelm, rather than above it. This is the source application's `below`
+                     tear rule. The shipped rule there instead tears the negative systems by
                      category, which encodes nothing colour does not already say, so it is not
                      used here.
     ripple count     corpus size, log-scaled, so a 56-post corpus is visibly not a 1,586-comment one
 
 Rings are drawn largest first so the strongest system sits backmost, as in the original. Everything is
 additive light on a dark ground, so each aura sits on its own dark square on a white page, as the eye
-does on the source application. The ground is square rather than round because a circular ground reads as
+does in the source application. The ground is square rather than round because a circular ground reads as
 another ring and competes with the outermost system for the eye.
 """
 import json
@@ -40,14 +40,14 @@ GROUND = "#0b0b10"
 
 
 def ripples(n):
-    """Corpus size to ripple count, log-scaled and clamped, in the spirit of the instrument's RIPPLE_FULL."""
+    """Corpus size to ripple count, log-scaled and clamped, in the spirit of the source application's ripple ceiling."""
     if n <= 0:
         return 5
     return int(max(5, min(26, round(5 + 21 * math.log(max(n, 20) / 20) / math.log(1600 / 20)))))
 
 
 def ring_path(cx, cy, r, bumps, amp, phase):
-    """A closed wavy circle. amp is a fraction of r, matching the instrument's 0.045 floor and 0.135 ceiling."""
+    """A closed wavy circle. amp is a fraction of r, matching the source application's 0.045 floor and 0.135 ceiling."""
     steps = max(180, bumps * 24)
     pts = []
     for i in range(steps):
@@ -73,7 +73,7 @@ def aura(cx, cy, R, rates, n, phase_seed=0, below=None):
         if v <= 0.002:
             continue
         # Radius carries the square root of the share, so area is proportional, with a floor that
-        # keeps two near-equal systems from collapsing into one disc. Same shape as the instrument's sizeProp.
+        # keeps two near-equal systems from collapsing into one disc. Same shape as the source application's proportional sizing.
         amp = 0.045 + 0.135 * max(0.0, min(1.0, below.get(s, 0.0)))
         # Keep the wave crests inside the dark ground: the old version sized rings to the disc
         # radius, so every outer crest was clipped by the edge of the disc.

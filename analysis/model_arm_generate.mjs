@@ -14,10 +14,16 @@
 import fs from "node:fs";
 import path from "node:path";
 
-const env = Object.fromEntries(
-  fs.readFileSync(path.join(process.env.HOME, "the instrument repository/.dev.vars"), "utf8")
-    .split("\n").filter(l => l.includes("=") && !l.trim().startsWith("#"))
+// DEEPINFRA_API_KEY comes from the environment. Set it directly, or point INSTRUMENT_ENV_FILE
+// at a dotenv file holding it, so no local path is baked into a published script.
+const env = (() => {
+  if (process.env.DEEPINFRA_API_KEY) return { DEEPINFRA_API_KEY: process.env.DEEPINFRA_API_KEY };
+  const f = process.env.INSTRUMENT_ENV_FILE;
+  if (!f) throw new Error("set DEEPINFRA_API_KEY or INSTRUMENT_ENV_FILE");
+  return Object.fromEntries(fs.readFileSync(f, "utf8").split("\n")
+    .filter(l => l.includes("=") && !l.trim().startsWith("#"))
     .map(l => [l.slice(0, l.indexOf("=")).trim(), l.slice(l.indexOf("=") + 1).trim()]));
+})();
 
 const MODELS = [
   "deepseek-ai/DeepSeek-V3",

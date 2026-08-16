@@ -1,5 +1,5 @@
-// EXTRACTED VERBATIM from the instrument worker.js on 2026-08-15. Reference copy — the live source of truth is
-// the instrument repository/worker.js. Every rule here exists because a real misread was caught;
+// EXTRACTED VERBATIM from the instrument's worker on 2026-08-15. This is a reference copy; the live
+// source of truth is the worker in the instrument repository. Every rule here exists because a real misread was caught;
 // see references/M8-Social-HANDOVER.md before changing a single line.
 
 const CHARGES = `seeking — the appetitive go-forward engine: wanting, drive, curiosity, ambition, enthusiasm, purpose, hunger, PASSION. Anticipatory eagerness, not consummatory pleasure.

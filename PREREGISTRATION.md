@@ -14,8 +14,8 @@ exceptions.
 
 | | |
 |---|---|
-| prompt | `instrument/read-prompt.reference.js`, extracted verbatim from the instrument `worker.js` |
-| prompt version | the instrument commit **`7b5dd3611d2adc7ed50ffdaf1d6b05e7ac297897`** (2026-08-13), working tree clean |
+| prompt | `instrument/read-prompt.reference.js`, extracted verbatim from the instrument's source application |
+| prompt version | frozen 2026-08-13 at a recorded commit in the instrument repository, working tree clean. The prompt itself is reproduced verbatim in this repository, which is what a reader needs to check |
 | rater | **Claude Opus 5**, reading each comment against the prompt above, with the parent post supplied as context exactly as the prompt specifies |
 | output shape | unchanged: segments, four sides, dominant side, Panksepp systems with Schore bands, a why clause, one Hawkins altitude for the whole text |
 | batch size | comments are read in batches of 25 within one context, prompt stated once. This is the only deviation from the single-comment call the worker makes, and it is held constant across every corpus |
@@ -49,7 +49,7 @@ rather than plotted on borrowed axes.
 ## 3 · Corpora and selection rules
 
 Three corpora. Every thread is selected by the rule, never hand-picked. Threads are collected through
-the existing the instrument worker via `/api/scrape` with no read cap, so no thread reaches `status='done'`
+the existing instrument worker via `/api/scrape` with no read cap, so no thread reaches `status='done'`
 and none is published to the public gallery.
 
 | corpus | source | selection rule |

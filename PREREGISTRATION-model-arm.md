@@ -18,7 +18,7 @@ has been measured.
 ## What is measured
 
 Model responses to prompts about their own ending, read with the **identical frozen instrument**
-(the instrument `7b5dd36`, the same prompt used for all 3,366 human comments), blind, and placed on the
+(the same frozen prompt used for all 3,366 human comments), blind, and placed on the
 same seven-system axes as the three human corpora.
 
 ## Conditions

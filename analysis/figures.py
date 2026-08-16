@@ -25,13 +25,13 @@ GRID = "#e6e5e0"
 SURFACE = "#fcfcfb"
 # Corpus colours, validated categorical order (violet, aqua, orange, blue, magenta).
 SERIES = {"E": "#4a3aa7", "A": "#1baf7a", "C": "#eb6834", "D": "#2a78d6", "B": "#e87ba4"}
-# the instrument's own palette for the seven affective systems, used wherever a system is the entity.
+# The instrument's own palette for the seven affective systems, used wherever a system is the entity.
 # Used exactly as the instrument defines them. Two known costs, accepted deliberately: the play green sits above
 # the print lightness band, and under deuteranopia it is close to the seeking gold. Both are mitigated
 # by the figure carrying the corpus name and the value on every single bar, so colour reinforces
 # identity rather than carrying it. The group order keeps care and grief non-adjacent, which is the
 # one pair the validator flags between those hues.
-M8 = {"seeking": "#e0aa12", "rage": "#e0463a", "fear": "#2bb56a", "lust": "#e06aa0",
+SYSCOL = {"seeking": "#e0aa12", "rage": "#e0463a", "fear": "#2bb56a", "lust": "#e06aa0",
       "care": "#4a90d9", "play": "#8fce2a", "grief": "#9166e6"}
 SYS_ORDER = ("grief", "care", "rage", "play", "seeking", "fear", "lust")
 NAMES = {"A": "humans, a person has died", "E": "humans, a pet has died", "H": "humans told they will die", "C": "humans told a model will end", "B": "humans told a product will end", "D": "humans, AI talk, nothing ended", "M": "models told they will end", "G": "agents told they will end", "F": "agents, nothing ended"}
@@ -102,9 +102,9 @@ def fig_placement(R):
         y = T + 22 + i * 40
         lo, hi, val = 100 * r["lo"], 100 * r["hi"], 100 * r["rate"]
         s.append('<line x1="%.1f" y1="%.1f" x2="%.1f" y2="%.1f" stroke="%s" stroke-width="2" '
-                 'stroke-linecap="round"/>' % (x(lo), y, x(hi), y, M8["grief"]))
+                 'stroke-linecap="round"/>' % (x(lo), y, x(hi), y, SYSCOL["grief"]))
         s.append('<circle cx="%.1f" cy="%.1f" r="6" fill="%s" stroke="%s" stroke-width="2"/>'
-                 % (x(val), y, M8["grief"], SURFACE))
+                 % (x(val), y, SYSCOL["grief"], SURFACE))
         s.append('<text x="%d" y="%.1f" font-size="12.5" fill="%s" text-anchor="end">%s</text>'
                  % (L - 14, y + 4, INK, esc(NAMES[c])))
         s.append('<text x="%d" y="%.1f" font-size="10.5" fill="%s" text-anchor="end">n=%d</text>'
@@ -142,7 +142,7 @@ def fig_systems(R):
     top = 74
     for j, sysname in enumerate(SYS_ORDER):
         gy = top + j * grp
-        col = M8[sysname]
+        col = SYSCOL[sysname]
         s.append('<text x="20" y="%.1f" font-size="13" font-weight="600" fill="%s">%s</text>'
                  % (gy + 4.0 * rowh, INK, sysname))
         for i, c in enumerate(order):
