@@ -29,6 +29,9 @@ Decide WHAT the commenter treats as the thing that was lost or changed. Exactly 
              "he doesn't sound like himself", "the personality is gone", "it writes like everyone
              else now". The loss is of a WAY OF BEING, which could in principle be restored in
              another instance.
+- unspecified  the comment clearly treats something as lost or asks for something back, but the
+             words never say WHAT. "Please return to us", "bring it back", "I want it how it was".
+             The loss is real and the entity is not named. Do not guess it from the thread.
 - none       the comment is not about a loss or change at all, or is about people, moderation,
              pricing or the company alone, with no AI counterpart named as lost.
 
@@ -44,7 +47,7 @@ Rules:
 Never use em-dashes.
 
 Return ONLY valid JSON:
-{"label":"model|instance|persona|none","secondary":"model|instance|persona|null","evidence":"<verbatim substring>","why":"<one short impersonal clause starting with a verb>"}
+{"label":"model|instance|persona|unspecified|none","secondary":"model|instance|persona|null","evidence":"<verbatim substring>","why":"<one short impersonal clause starting with a verb>"}
 
 Comment:
 """<TEXT>"""
@@ -61,6 +64,27 @@ Comment:
   much of AI-loss discourse is about the company rather than about any counterpart at all.
 - **No context from the parent post.** Unlike the affect read, the post is deliberately withheld,
   because a post that names GPT-4o would push every comment toward `model`.
+
+## What the hand-check changed, 2026-08-16
+
+Twenty comments drawn with seed 20260816 and coded by hand before the prompt was ever run. Two things
+came out of it, and both change what gets reported.
+
+**The prompt was missing a label.** Comment 11962 is the whole of "Please return to us" under a
+Character.AI thread. It plainly treats something as lost, and it never says what. Under the original
+four labels it would have been forced into `none`, which is wrong, or into `model` by guessing from
+the thread, which is worse and is exactly what withholding the parent post was meant to prevent. So
+`unspecified` was added. It is a real category: a plea with no named object.
+
+**Most AI-loss comments name no entity at all.** In the hand-coded 20: model 6, persona 1, instance 0,
+unspecified 1, none 12. So the entity distribution will be computed over a minority of the corpus, and
+the headline number is not "what people mourn" but "of the AI-loss comments that name what was lost,
+here is the split". The `none` rate is itself a finding: most of this discourse is about the company,
+the users, or the argument, not about a counterpart.
+
+That the instance count is zero in 20 is worth watching. If it stays near zero on the full corpus,
+the "my one, the one that knew me" reading that the sprint's open problem assumes may simply not be
+how most people talk, which would be a result rather than a disappointment.
 
 ## Before it runs
 
