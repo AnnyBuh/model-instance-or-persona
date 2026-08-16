@@ -33,7 +33,7 @@
 <h1>Where the concern is already going</h1>
 <p class="subtitle">An affective map of human attachment to AI systems, anchored between bereavement and consumer loss</p>
 <p class="byline">Apart Research Digital Minds Research Sprint, August 2026. Solo submission.
-Pre-registration, prompts, analysis code and all 3,366 machine reads:
+Pre-registration, prompts, analysis code and all 4,781 machine reads:
 <a href="https://github.com/AnnyBuh/apartresearch">github.com/AnnyBuh/apartresearch</a></p>
 
 <div class="abstract">
@@ -41,8 +41,8 @@ Pre-registration, prompts, analysis code and all 3,366 machine reads:
 complementary question, whether human concern is being allocated to systems that do not, is a question
 about people and is empirically tractable now. We measure the affective content of public discourse
 about AI systems being deprecated, restricted or withdrawn, and place it on a scale defined by two
-reference corpora: human bereavement at one end and the discontinuation of a paid consumer product at
-the other. We read 3,366 Reddit comments from nine communities comment by comment with a frozen
+reference corpora, human bereavement at one end and the discontinuation of a paid consumer product at
+the other, plus two controls. We read 3,366 Reddit comments from nine communities comment by comment with a frozen
 prompt implementing seven Panksepp primary affective systems, each with a regulation band, using a
 large language model as annotator. Predictions were registered before collection. Grief expressions
 occur in 76.4% of bereavement comments (n=1,586), 7.9% of consumer-loss comments (n=277) and 27.6% of
@@ -125,6 +125,8 @@ sets and rejected candidates are in the repository.</p>
 <tr><td>A. Bereavement</td><td class="n">16</td><td class="n">1,586</td><td>r/GriefSupport, r/widowers, r/SuicideBereavement</td></tr>
 <tr><td>B. Consumer loss</td><td class="n">3</td><td class="n">277</td><td>r/Windows10 (end of support)</td></tr>
 <tr><td>C. AI loss</td><td class="n">13</td><td class="n">1,503</td><td>r/OpenAI, r/ChatGPT, r/CharacterAI, r/replika, r/MyBoyfriendIsAI</td></tr>
+<tr><td>D. AI, not loss (control)</td><td class="n">6</td><td class="n">870</td><td>r/ChatGPT, r/CharacterAI (threads failing the loss test)</td></tr>
+<tr><td>E. Pet bereavement</td><td class="n">6</td><td class="n">545</td><td>r/Petloss</td></tr>
 </table>
 <p class="tcap">Table 1. Corpora. Comment counts are readable comments after excluding deleted
 tombstones, bare links and bot posts, applied identically in all three.</p>
@@ -203,7 +205,7 @@ consumer-loss comments. The intervals are widely separated, establishing that th
 discriminates mourning a person from losing a product, and providing an empirical response on text to
 the fear-sadness overlap reported for the ANPS [8].</p>
 
-<h3>5.2 Placement of AI loss</h3>
+<h3>5.2 Placement of AI loss, and the two controls</h3>
 <figure>__FIG1__<figcaption>Figure 1. Grief rate by corpus with 90% Wilson intervals. The three
 comparisons shown were specified before data collection.</figcaption></figure>
 <p>AI loss lies at 27.6% [25.8, 29.5]: above consumer loss, below bereavement, and closer to consumer
@@ -211,12 +213,32 @@ loss. All three registered comparisons hold. In relative terms, discourse about 
 carries approximately 3.5 times the grief rate of discourse about a withdrawn paid product, and
 approximately one third that of bereavement.</p>
 
+<p>Two additional corpora address the obvious alternative explanations, each with its prediction
+registered before collection.</p>
+
+<p><i>Is the signal about loss, or about these communities?</i> Corpus D applies the identical rule to
+the same two AI communities in the same window, restricted to threads that fail the loss test. Grief
+falls to 10.9% [9.3, 12.8], separable from AI loss and <i>not</i> separable from the consumer anchor at
+7.9%. Ordinary discourse in AI communities resembles ordinary consumer discourse; the elevation is
+specific to threads about withdrawal. This was the registered prediction and it holds.</p>
+
+<p><i>Does the instrument simply score non-human attachment lower?</i> Corpus E applies the
+bereavement rule to a pet-loss community. The registered prediction was 50 to 75%, between AI loss and
+human bereavement. The observed rate is 80.4% [77.4, 83.0], which is not separable from human
+bereavement at 76.4%, with care at 85.1% against 87.9%. <b>The prediction failed.</b> Grief over an
+animal is, on this instrument, indistinguishable from grief over a person. The failure is informative:
+the instrument does not discount non-human attachment, so the distance between pet loss and AI loss,
+53 percentage points, cannot be attributed to the target not being human.</p>
+
 <h3>5.3 Composition</h3>
 <figure>__FIG2__<figcaption>Figure 2. Rate per system per corpus.</figcaption></figure>
-<p>AI loss is not a scaled-down bereavement. Bereavement is dominated by care (87.9%) and grief
-(76.4%) with little rage (13.6%) and almost no play (5.2%). AI loss combines rage at 57.0%, which is
-indistinguishable from the consumer anchor at 56.7%, with play at 37.7%, higher than either anchor,
-and grief at 27.6%. The registered prediction that AI-loss rage would match consumer-loss levels was
+<p>AI loss is not a scaled-down bereavement. Both bereavement corpora are dominated by care (87.9%
+human, 85.1% pet) and grief (76.4%, 80.4%) with little rage (13.6%, 5.5%) and almost no play (5.2%,
+4.6%). AI loss combines rage at 57.0%, which is indistinguishable from the consumer anchor at 56.7%,
+with play at 37.7%, higher than either bereavement corpus by a factor of seven, and grief at 27.6%.
+The control corpus is instructive here too: it carries the highest rage (60.2%) and the highest play
+(54.8%) of any corpus with the lowest care (3.6%), which is what AI-community discourse looks like
+without a loss in it. The registered prediction that AI-loss rage would match consumer-loss levels was
 confirmed; the prediction that care would be elevated above the consumer anchor failed, care being
 lower (15.8% vs 19.5%).</p>
 
@@ -260,7 +282,10 @@ largest Character.AI thread is removed, still approximately three times the cons
 <h2>6. Discussion</h2>
 <p>Two findings are relevant to how concern about AI systems should be interpreted. The magnitude is
 intermediate and closer to consumer dissatisfaction than to bereavement, which argues against reading
-public reaction to a deprecation as equivalent to mourning a person. The composition, however, is not
+public reaction to a deprecation as equivalent to mourning a person. The two controls make that
+reading harder to dismiss: the elevation disappears in AI discourse that is not about loss, and it is
+not an artefact of the target being non-human, since pet bereavement scores at human-bereavement
+levels. The composition, however, is not
 consumer dissatisfaction with a grief component bolted on: it is a distinct profile in which anger at
 an institution, humour and grief co-occur, alongside a foreclosed motivational register visible only
 in the regulation bands.</p>
@@ -289,6 +314,9 @@ read in that light.</p>
     here. A registered comparison involving it was withdrawn.</li>
 <li>Communities that post about loss are self-selected, and the corpora describe discourse rather than
     users. No inference to prevalence in any population is intended.</li>
+<li>The control corpus was drawn from two of the five AI communities rather than all five, and
+    contains threads that read as mild complaint. Both choices bias against finding a difference, so
+    the separation reported is if anything conservative.</li>
 <li>The largest AI-companion withdrawal of the period, the July 2026 regulatory shutdown in China, is
     absent because the affected users write in Chinese and outside Reddit. The findings concern
     English-language discourse.</li>

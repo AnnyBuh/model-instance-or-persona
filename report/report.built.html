@@ -33,7 +33,7 @@
 <h1>Where the concern is already going</h1>
 <p class="subtitle">An affective map of human attachment to AI systems, anchored between bereavement and consumer loss</p>
 <p class="byline">Apart Research Digital Minds Research Sprint, August 2026. Solo submission.
-Pre-registration, prompts, analysis code and all 3,366 machine reads:
+Pre-registration, prompts, analysis code and all 4,781 machine reads:
 <a href="https://github.com/AnnyBuh/apartresearch">github.com/AnnyBuh/apartresearch</a></p>
 
 <div class="abstract">
@@ -41,8 +41,8 @@ Pre-registration, prompts, analysis code and all 3,366 machine reads:
 complementary question, whether human concern is being allocated to systems that do not, is a question
 about people and is empirically tractable now. We measure the affective content of public discourse
 about AI systems being deprecated, restricted or withdrawn, and place it on a scale defined by two
-reference corpora: human bereavement at one end and the discontinuation of a paid consumer product at
-the other. We read 3,366 Reddit comments from nine communities comment by comment with a frozen
+reference corpora, human bereavement at one end and the discontinuation of a paid consumer product at
+the other, plus two controls. We read 3,366 Reddit comments from nine communities comment by comment with a frozen
 prompt implementing seven Panksepp primary affective systems, each with a regulation band, using a
 large language model as annotator. Predictions were registered before collection. Grief expressions
 occur in 76.4% of bereavement comments (n=1,586), 7.9% of consumer-loss comments (n=277) and 27.6% of
@@ -125,6 +125,8 @@ sets and rejected candidates are in the repository.</p>
 <tr><td>A. Bereavement</td><td class="n">16</td><td class="n">1,586</td><td>r/GriefSupport, r/widowers, r/SuicideBereavement</td></tr>
 <tr><td>B. Consumer loss</td><td class="n">3</td><td class="n">277</td><td>r/Windows10 (end of support)</td></tr>
 <tr><td>C. AI loss</td><td class="n">13</td><td class="n">1,503</td><td>r/OpenAI, r/ChatGPT, r/CharacterAI, r/replika, r/MyBoyfriendIsAI</td></tr>
+<tr><td>D. AI, not loss (control)</td><td class="n">6</td><td class="n">870</td><td>r/ChatGPT, r/CharacterAI (threads failing the loss test)</td></tr>
+<tr><td>E. Pet bereavement</td><td class="n">6</td><td class="n">545</td><td>r/Petloss</td></tr>
 </table>
 <p class="tcap">Table 1. Corpora. Comment counts are readable comments after excluding deleted
 tombstones, bare links and bot posts, applied identically in all three.</p>
@@ -203,39 +205,50 @@ consumer-loss comments. The intervals are widely separated, establishing that th
 discriminates mourning a person from losing a product, and providing an empirical response on text to
 the fear-sadness overlap reported for the ANPS [8].</p>
 
-<h3>5.2 Placement of AI loss</h3>
-<figure><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="280" viewBox="0 0 760 280" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif">
-<rect width="760" height="280" fill="#fcfcfb"/>
-<text x="40" y="28" font-size="15" font-weight="600" fill="#0b0b0b">Where AI loss sits, on GRIEF</text>
-<text x="40" y="48" font-size="12" fill="#52514e">share of comments in which the GRIEF system fired, with 90% intervals</text>
-<line x1="150.0" y1="70" x2="150.0" y2="198" stroke="#e6e5e0" stroke-width="1"/>
-<text x="150.0" y="218" font-size="11" fill="#8a8880" text-anchor="middle">0%</text>
-<line x1="260.0" y1="70" x2="260.0" y2="198" stroke="#e6e5e0" stroke-width="1"/>
-<text x="260.0" y="218" font-size="11" fill="#8a8880" text-anchor="middle">20%</text>
-<line x1="370.0" y1="70" x2="370.0" y2="198" stroke="#e6e5e0" stroke-width="1"/>
-<text x="370.0" y="218" font-size="11" fill="#8a8880" text-anchor="middle">40%</text>
-<line x1="480.0" y1="70" x2="480.0" y2="198" stroke="#e6e5e0" stroke-width="1"/>
-<text x="480.0" y="218" font-size="11" fill="#8a8880" text-anchor="middle">60%</text>
-<line x1="590.0" y1="70" x2="590.0" y2="198" stroke="#e6e5e0" stroke-width="1"/>
-<text x="590.0" y="218" font-size="11" fill="#8a8880" text-anchor="middle">80%</text>
-<line x1="700.0" y1="70" x2="700.0" y2="198" stroke="#e6e5e0" stroke-width="1"/>
-<text x="700.0" y="218" font-size="11" fill="#8a8880" text-anchor="middle">100%</text>
-<line x1="181.1" y1="94.0" x2="210.7" y2="94.0" stroke="#eb6834" stroke-width="2" stroke-linecap="round"/>
-<circle cx="193.7" cy="94.0" r="6" fill="#eb6834" stroke="#fcfcfb" stroke-width="2"/>
-<text x="136" y="98.0" font-size="12.5" fill="#0b0b0b" text-anchor="end">consumer loss</text>
-<text x="136" y="112.0" font-size="10.5" fill="#8a8880" text-anchor="end">n=277</text>
-<text x="220.7" y="98.0" font-size="12.5" font-weight="600" fill="#0b0b0b">7.9%</text>
-<line x1="291.7" y1="134.0" x2="312.5" y2="134.0" stroke="#1baf7a" stroke-width="2" stroke-linecap="round"/>
-<circle cx="301.9" cy="134.0" r="6" fill="#1baf7a" stroke="#fcfcfb" stroke-width="2"/>
-<text x="136" y="138.0" font-size="12.5" fill="#0b0b0b" text-anchor="end">AI loss</text>
-<text x="136" y="152.0" font-size="10.5" fill="#8a8880" text-anchor="end">n=1503</text>
-<text x="322.5" y="138.0" font-size="12.5" font-weight="600" fill="#0b0b0b">27.6%</text>
-<line x1="560.1" y1="174.0" x2="579.4" y2="174.0" stroke="#2a78d6" stroke-width="2" stroke-linecap="round"/>
-<circle cx="570.0" cy="174.0" r="6" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
-<text x="136" y="178.0" font-size="12.5" fill="#0b0b0b" text-anchor="end">bereavement</text>
-<text x="136" y="192.0" font-size="10.5" fill="#8a8880" text-anchor="end">n=1586</text>
-<text x="589.4" y="178.0" font-size="12.5" font-weight="600" fill="#0b0b0b">76.4%</text>
-<text x="40" y="264" font-size="11.5" fill="#52514e">Every condition was written down before collection: above consumer loss, below bereavement, closer to consumer loss.</text>
+<h3>5.2 Placement of AI loss, and the two controls</h3>
+<figure><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="360" viewBox="0 0 760 360" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif">
+<rect width="760" height="360" fill="#fcfcfb"/>
+<text x="20" y="28" font-size="15" font-weight="600" fill="#0b0b0b">Where AI loss sits, on GRIEF</text>
+<text x="20" y="48" font-size="12" fill="#52514e">share of comments in which the GRIEF system fired, with 90% intervals</text>
+<line x1="150.0" y1="70" x2="150.0" y2="278" stroke="#e6e5e0" stroke-width="1"/>
+<text x="150.0" y="298" font-size="11" fill="#8a8880" text-anchor="middle">0%</text>
+<line x1="260.0" y1="70" x2="260.0" y2="278" stroke="#e6e5e0" stroke-width="1"/>
+<text x="260.0" y="298" font-size="11" fill="#8a8880" text-anchor="middle">20%</text>
+<line x1="370.0" y1="70" x2="370.0" y2="278" stroke="#e6e5e0" stroke-width="1"/>
+<text x="370.0" y="298" font-size="11" fill="#8a8880" text-anchor="middle">40%</text>
+<line x1="480.0" y1="70" x2="480.0" y2="278" stroke="#e6e5e0" stroke-width="1"/>
+<text x="480.0" y="298" font-size="11" fill="#8a8880" text-anchor="middle">60%</text>
+<line x1="590.0" y1="70" x2="590.0" y2="278" stroke="#e6e5e0" stroke-width="1"/>
+<text x="590.0" y="298" font-size="11" fill="#8a8880" text-anchor="middle">80%</text>
+<line x1="700.0" y1="70" x2="700.0" y2="278" stroke="#e6e5e0" stroke-width="1"/>
+<text x="700.0" y="298" font-size="11" fill="#8a8880" text-anchor="middle">100%</text>
+<line x1="181.1" y1="92.0" x2="210.7" y2="92.0" stroke="#9166e6" stroke-width="2" stroke-linecap="round"/>
+<circle cx="193.7" cy="92.0" r="6" fill="#9166e6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="136" y="96.0" font-size="12.5" fill="#0b0b0b" text-anchor="end">consumer loss</text>
+<text x="136" y="110.0" font-size="10.5" fill="#8a8880" text-anchor="end">n=277</text>
+<text x="220.7" y="96.0" font-size="12.5" font-weight="600" fill="#0b0b0b">7.9%</text>
+<line x1="201.1" y1="132.0" x2="220.3" y2="132.0" stroke="#9166e6" stroke-width="2" stroke-linecap="round"/>
+<circle cx="210.1" cy="132.0" r="6" fill="#9166e6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="136" y="136.0" font-size="12.5" fill="#0b0b0b" text-anchor="end">AI, not loss</text>
+<text x="136" y="150.0" font-size="10.5" fill="#8a8880" text-anchor="end">n=870</text>
+<text x="230.3" y="136.0" font-size="12.5" font-weight="600" fill="#0b0b0b">10.9%</text>
+<line x1="291.7" y1="172.0" x2="312.5" y2="172.0" stroke="#9166e6" stroke-width="2" stroke-linecap="round"/>
+<circle cx="301.9" cy="172.0" r="6" fill="#9166e6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="136" y="176.0" font-size="12.5" fill="#0b0b0b" text-anchor="end">AI loss</text>
+<text x="136" y="190.0" font-size="10.5" fill="#8a8880" text-anchor="end">n=1503</text>
+<text x="322.5" y="176.0" font-size="12.5" font-weight="600" fill="#0b0b0b">27.6%</text>
+<line x1="560.1" y1="212.0" x2="579.4" y2="212.0" stroke="#9166e6" stroke-width="2" stroke-linecap="round"/>
+<circle cx="570.0" cy="212.0" r="6" fill="#9166e6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="136" y="216.0" font-size="12.5" fill="#0b0b0b" text-anchor="end">human bereavement</text>
+<text x="136" y="230.0" font-size="10.5" fill="#8a8880" text-anchor="end">n=1586</text>
+<text x="589.4" y="216.0" font-size="12.5" font-weight="600" fill="#0b0b0b">76.4%</text>
+<line x1="575.8" y1="252.0" x2="606.6" y2="252.0" stroke="#9166e6" stroke-width="2" stroke-linecap="round"/>
+<circle cx="592.0" cy="252.0" r="6" fill="#9166e6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="136" y="256.0" font-size="12.5" fill="#0b0b0b" text-anchor="end">pet loss</text>
+<text x="136" y="270.0" font-size="10.5" fill="#8a8880" text-anchor="end">n=545</text>
+<text x="616.6" y="256.0" font-size="12.5" font-weight="600" fill="#0b0b0b">80.4%</text>
+<text x="20" y="330" font-size="11.5" fill="#52514e">The AI-loss position was predicted before collection. The control corpus, AI discourse that is not about loss, was predicted to fall</text>
+<text x="20" y="346" font-size="11.5" fill="#52514e">to the consumer anchor, and does. Pet loss was predicted to fall between AI loss and bereavement, and does not.</text>
 </svg><figcaption>Figure 1. Grief rate by corpus with 90% Wilson intervals. The three
 comparisons shown were specified before data collection.</figcaption></figure>
 <p>AI loss lies at 27.6% [25.8, 29.5]: above consumer loss, below bereavement, and closer to consumer
@@ -243,78 +256,156 @@ loss. All three registered comparisons hold. In relative terms, discourse about 
 carries approximately 3.5 times the grief rate of discourse about a withdrawn paid product, and
 approximately one third that of bereavement.</p>
 
+<p>Two additional corpora address the obvious alternative explanations, each with its prediction
+registered before collection.</p>
+
+<p><i>Is the signal about loss, or about these communities?</i> Corpus D applies the identical rule to
+the same two AI communities in the same window, restricted to threads that fail the loss test. Grief
+falls to 10.9% [9.3, 12.8], separable from AI loss and <i>not</i> separable from the consumer anchor at
+7.9%. Ordinary discourse in AI communities resembles ordinary consumer discourse; the elevation is
+specific to threads about withdrawal. This was the registered prediction and it holds.</p>
+
+<p><i>Does the instrument simply score non-human attachment lower?</i> Corpus E applies the
+bereavement rule to a pet-loss community. The registered prediction was 50 to 75%, between AI loss and
+human bereavement. The observed rate is 80.4% [77.4, 83.0], which is not separable from human
+bereavement at 76.4%, with care at 85.1% against 87.9%. <b>The prediction failed.</b> Grief over an
+animal is, on this instrument, indistinguishable from grief over a person. The failure is informative:
+the instrument does not discount non-human attachment, so the distance between pet loss and AI loss,
+53 percentage points, cannot be attributed to the target not being human.</p>
+
 <h3>5.3 Composition</h3>
-<figure><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="792" viewBox="0 0 760 792" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif">
-<rect width="760" height="792" fill="#fcfcfb"/>
-<text x="20" y="26" font-size="15" font-weight="600" fill="#0b0b0b">The shape of each corpus, on seven systems</text>
-<text x="20" y="46" font-size="12" fill="#52514e">AI loss is not miniature bereavement. It is consumer-level anger, carried through jokes, with grief underneath.</text>
-<rect x="20" y="58" width="10" height="10" rx="2" fill="#2a78d6"/>
-<text x="35" y="67" font-size="11.5" fill="#52514e">bereavement</text>
-<rect x="119" y="58" width="10" height="10" rx="2" fill="#eb6834"/>
-<text x="134" y="67" font-size="11.5" fill="#52514e">consumer loss</text>
-<rect x="232" y="58" width="10" height="10" rx="2" fill="#1baf7a"/>
-<text x="247" y="67" font-size="11.5" fill="#52514e">AI loss</text>
-<text x="116" y="122" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="end">seeking</text>
-<rect x="130" y="92.0" width="87.5" height="18" rx="4" fill="#2a78d6"/>
-<text x="225.5" y="105.0" font-size="11.5" fill="#0b0b0b">16.2%</text>
-<rect x="130" y="118.0" width="276.8" height="18" rx="4" fill="#eb6834"/>
-<text x="414.8" y="131.0" font-size="11.5" fill="#0b0b0b">51.3%</text>
-<rect x="130" y="144.0" width="224.9" height="18" rx="4" fill="#1baf7a"/>
-<text x="362.9" y="157.0" font-size="11.5" fill="#0b0b0b">41.7%</text>
-<line x1="130" y1="174.0" x2="710" y2="174.0" stroke="#e6e5e0" stroke-width="1"/>
-<text x="116" y="218" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="end">rage</text>
-<rect x="130" y="188.0" width="73.5" height="18" rx="4" fill="#2a78d6"/>
-<text x="211.5" y="201.0" font-size="11.5" fill="#0b0b0b">13.6%</text>
-<rect x="130" y="214.0" width="306.1" height="18" rx="4" fill="#eb6834"/>
-<text x="444.1" y="227.0" font-size="11.5" fill="#0b0b0b">56.7%</text>
-<rect x="130" y="240.0" width="307.9" height="18" rx="4" fill="#1baf7a"/>
-<text x="445.9" y="253.0" font-size="11.5" fill="#0b0b0b">57.0%</text>
-<line x1="130" y1="270.0" x2="710" y2="270.0" stroke="#e6e5e0" stroke-width="1"/>
-<text x="116" y="314" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="end">fear</text>
-<rect x="130" y="284.0" width="32.3" height="18" rx="4" fill="#2a78d6"/>
-<text x="170.3" y="297.0" font-size="11.5" fill="#0b0b0b">6.0%</text>
-<rect x="130" y="310.0" width="83.8" height="18" rx="4" fill="#eb6834"/>
-<text x="221.8" y="323.0" font-size="11.5" fill="#0b0b0b">15.5%</text>
-<rect x="130" y="336.0" width="37.0" height="18" rx="4" fill="#1baf7a"/>
-<text x="175.0" y="349.0" font-size="11.5" fill="#0b0b0b">6.9%</text>
-<line x1="130" y1="366.0" x2="710" y2="366.0" stroke="#e6e5e0" stroke-width="1"/>
-<text x="116" y="410" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="end">lust</text>
-<rect x="130" y="380.0" width="21.5" height="18" rx="4" fill="#2a78d6"/>
-<text x="159.5" y="393.0" font-size="11.5" fill="#0b0b0b">4.0%</text>
-<rect x="130" y="406.0" width="2.0" height="18" rx="4" fill="#eb6834"/>
-<text x="138.0" y="419.0" font-size="11.5" fill="#0b0b0b">0.0%</text>
-<rect x="130" y="432.0" width="9.0" height="18" rx="4" fill="#1baf7a"/>
-<text x="147.0" y="445.0" font-size="11.5" fill="#0b0b0b">1.7%</text>
-<line x1="130" y1="462.0" x2="710" y2="462.0" stroke="#e6e5e0" stroke-width="1"/>
-<text x="116" y="506" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="end">care</text>
-<rect x="130" y="476.0" width="474.6" height="18" rx="4" fill="#2a78d6"/>
-<text x="612.6" y="489.0" font-size="11.5" fill="#0b0b0b">87.9%</text>
-<rect x="130" y="502.0" width="105.3" height="18" rx="4" fill="#eb6834"/>
-<text x="243.3" y="515.0" font-size="11.5" fill="#0b0b0b">19.5%</text>
-<rect x="130" y="528.0" width="85.1" height="18" rx="4" fill="#1baf7a"/>
-<text x="223.1" y="541.0" font-size="11.5" fill="#0b0b0b">15.8%</text>
-<line x1="130" y1="558.0" x2="710" y2="558.0" stroke="#e6e5e0" stroke-width="1"/>
-<text x="116" y="602" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="end">grief</text>
-<rect x="130" y="572.0" width="412.3" height="18" rx="4" fill="#2a78d6"/>
-<text x="550.3" y="585.0" font-size="11.5" fill="#0b0b0b">76.4%</text>
-<rect x="130" y="598.0" width="42.9" height="18" rx="4" fill="#eb6834"/>
-<text x="180.9" y="611.0" font-size="11.5" fill="#0b0b0b">7.9%</text>
-<rect x="130" y="624.0" width="149.1" height="18" rx="4" fill="#1baf7a"/>
-<text x="287.1" y="637.0" font-size="11.5" fill="#0b0b0b">27.6%</text>
-<line x1="130" y1="654.0" x2="710" y2="654.0" stroke="#e6e5e0" stroke-width="1"/>
-<text x="116" y="698" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="end">play</text>
-<rect x="130" y="668.0" width="28.3" height="18" rx="4" fill="#2a78d6"/>
-<text x="166.3" y="681.0" font-size="11.5" fill="#0b0b0b">5.2%</text>
-<rect x="130" y="694.0" width="171.6" height="18" rx="4" fill="#eb6834"/>
-<text x="309.6" y="707.0" font-size="11.5" fill="#0b0b0b">31.8%</text>
-<rect x="130" y="720.0" width="203.4" height="18" rx="4" fill="#1baf7a"/>
-<text x="341.4" y="733.0" font-size="11.5" fill="#0b0b0b">37.7%</text>
-<line x1="130" y1="750.0" x2="710" y2="750.0" stroke="#e6e5e0" stroke-width="1"/>
+<figure><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="944" viewBox="0 0 760 944" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif">
+<rect width="760" height="944" fill="#fcfcfb"/>
+<text x="20" y="24" font-size="15" font-weight="600" fill="#0b0b0b">The shape of each corpus, on seven systems</text>
+<text x="20" y="43" font-size="11.5" fill="#52514e">Colour marks the affective system. Within each system the five corpora are in the same order, top to bottom.</text>
+<text x="20" y="59" font-size="11.5" fill="#52514e">AI loss is not a smaller bereavement, and AI discourse that is not about loss is not AI loss.</text>
+<text x="20" y="119.0" font-size="13" font-weight="600" fill="#0b0b0b">grief</text>
+<rect x="168" y="74.0" width="416.3" height="13" rx="3" fill="#9166e6"/>
+<text x="591.3" y="84.0" font-size="10.5" fill="#0b0b0b">80.4%</text>
+<text x="158" y="84.0" font-size="8.5" fill="#8a8880" text-anchor="end">pet loss</text>
+<rect x="168" y="92.0" width="395.5" height="13" rx="3" fill="#9166e6"/>
+<text x="570.5" y="102.0" font-size="10.5" fill="#0b0b0b">76.4%</text>
+<text x="158" y="102.0" font-size="8.5" fill="#8a8880" text-anchor="end">bereavement</text>
+<rect x="168" y="110.0" width="143.0" height="13" rx="3" fill="#9166e6"/>
+<text x="318.0" y="120.0" font-size="10.5" fill="#0b0b0b">27.6%</text>
+<text x="158" y="120.0" font-size="8.5" fill="#8a8880" text-anchor="end">AI loss</text>
+<rect x="168" y="128.0" width="56.6" height="13" rx="3" fill="#9166e6"/>
+<text x="231.6" y="138.0" font-size="10.5" fill="#0b0b0b">10.9%</text>
+<text x="158" y="138.0" font-size="8.5" fill="#8a8880" text-anchor="end">AI, not loss</text>
+<rect x="168" y="146.0" width="41.1" height="13" rx="3" fill="#9166e6"/>
+<text x="216.1" y="156.0" font-size="10.5" fill="#0b0b0b">7.9%</text>
+<text x="158" y="156.0" font-size="8.5" fill="#8a8880" text-anchor="end">product</text>
+<line x1="168" y1="180.0" x2="740" y2="180.0" stroke="#e6e5e0" stroke-width="1"/>
+<text x="20" y="241.0" font-size="13" font-weight="600" fill="#0b0b0b">care</text>
+<rect x="168" y="196.0" width="441.0" height="13" rx="3" fill="#4a90d9"/>
+<text x="616.0" y="206.0" font-size="10.5" fill="#0b0b0b">85.1%</text>
+<text x="158" y="206.0" font-size="8.5" fill="#8a8880" text-anchor="end">pet loss</text>
+<rect x="168" y="214.0" width="455.3" height="13" rx="3" fill="#4a90d9"/>
+<text x="630.3" y="224.0" font-size="10.5" fill="#0b0b0b">87.9%</text>
+<text x="158" y="224.0" font-size="8.5" fill="#8a8880" text-anchor="end">bereavement</text>
+<rect x="168" y="232.0" width="81.7" height="13" rx="3" fill="#4a90d9"/>
+<text x="256.7" y="242.0" font-size="10.5" fill="#0b0b0b">15.8%</text>
+<text x="158" y="242.0" font-size="8.5" fill="#8a8880" text-anchor="end">AI loss</text>
+<rect x="168" y="250.0" width="18.5" height="13" rx="3" fill="#4a90d9"/>
+<text x="193.5" y="260.0" font-size="10.5" fill="#0b0b0b">3.6%</text>
+<text x="158" y="260.0" font-size="8.5" fill="#8a8880" text-anchor="end">AI, not loss</text>
+<rect x="168" y="268.0" width="101.0" height="13" rx="3" fill="#4a90d9"/>
+<text x="276.0" y="278.0" font-size="10.5" fill="#0b0b0b">19.5%</text>
+<text x="158" y="278.0" font-size="8.5" fill="#8a8880" text-anchor="end">product</text>
+<line x1="168" y1="302.0" x2="740" y2="302.0" stroke="#e6e5e0" stroke-width="1"/>
+<text x="20" y="363.0" font-size="13" font-weight="600" fill="#0b0b0b">rage</text>
+<rect x="168" y="318.0" width="28.5" height="13" rx="3" fill="#e0463a"/>
+<text x="203.5" y="328.0" font-size="10.5" fill="#0b0b0b">5.5%</text>
+<text x="158" y="328.0" font-size="8.5" fill="#8a8880" text-anchor="end">pet loss</text>
+<rect x="168" y="336.0" width="70.5" height="13" rx="3" fill="#e0463a"/>
+<text x="245.5" y="346.0" font-size="10.5" fill="#0b0b0b">13.6%</text>
+<text x="158" y="346.0" font-size="8.5" fill="#8a8880" text-anchor="end">bereavement</text>
+<rect x="168" y="354.0" width="295.4" height="13" rx="3" fill="#e0463a"/>
+<text x="470.4" y="364.0" font-size="10.5" fill="#0b0b0b">57.0%</text>
+<text x="158" y="364.0" font-size="8.5" fill="#8a8880" text-anchor="end">AI loss</text>
+<rect x="168" y="372.0" width="312.0" height="13" rx="3" fill="#e0463a"/>
+<text x="487.0" y="382.0" font-size="10.5" fill="#0b0b0b">60.2%</text>
+<text x="158" y="382.0" font-size="8.5" fill="#8a8880" text-anchor="end">AI, not loss</text>
+<rect x="168" y="390.0" width="293.6" height="13" rx="3" fill="#e0463a"/>
+<text x="468.6" y="400.0" font-size="10.5" fill="#0b0b0b">56.7%</text>
+<text x="158" y="400.0" font-size="8.5" fill="#8a8880" text-anchor="end">product</text>
+<line x1="168" y1="424.0" x2="740" y2="424.0" stroke="#e6e5e0" stroke-width="1"/>
+<text x="20" y="485.0" font-size="13" font-weight="600" fill="#0b0b0b">play</text>
+<rect x="168" y="440.0" width="23.8" height="13" rx="3" fill="#8fce2a"/>
+<text x="198.8" y="450.0" font-size="10.5" fill="#0b0b0b">4.6%</text>
+<text x="158" y="450.0" font-size="8.5" fill="#8a8880" text-anchor="end">pet loss</text>
+<rect x="168" y="458.0" width="27.1" height="13" rx="3" fill="#8fce2a"/>
+<text x="202.1" y="468.0" font-size="10.5" fill="#0b0b0b">5.2%</text>
+<text x="158" y="468.0" font-size="8.5" fill="#8a8880" text-anchor="end">bereavement</text>
+<rect x="168" y="476.0" width="195.1" height="13" rx="3" fill="#8fce2a"/>
+<text x="370.1" y="486.0" font-size="10.5" fill="#0b0b0b">37.7%</text>
+<text x="158" y="486.0" font-size="8.5" fill="#8a8880" text-anchor="end">AI loss</text>
+<rect x="168" y="494.0" width="284.0" height="13" rx="3" fill="#8fce2a"/>
+<text x="459.0" y="504.0" font-size="10.5" fill="#0b0b0b">54.8%</text>
+<text x="158" y="504.0" font-size="8.5" fill="#8a8880" text-anchor="end">AI, not loss</text>
+<rect x="168" y="512.0" width="164.6" height="13" rx="3" fill="#8fce2a"/>
+<text x="339.6" y="522.0" font-size="10.5" fill="#0b0b0b">31.8%</text>
+<text x="158" y="522.0" font-size="8.5" fill="#8a8880" text-anchor="end">product</text>
+<line x1="168" y1="546.0" x2="740" y2="546.0" stroke="#e6e5e0" stroke-width="1"/>
+<text x="20" y="607.0" font-size="13" font-weight="600" fill="#0b0b0b">seeking</text>
+<rect x="168" y="562.0" width="42.8" height="13" rx="3" fill="#e0aa12"/>
+<text x="217.8" y="572.0" font-size="10.5" fill="#0b0b0b">8.3%</text>
+<text x="158" y="572.0" font-size="8.5" fill="#8a8880" text-anchor="end">pet loss</text>
+<rect x="168" y="580.0" width="83.9" height="13" rx="3" fill="#e0aa12"/>
+<text x="258.9" y="590.0" font-size="10.5" fill="#0b0b0b">16.2%</text>
+<text x="158" y="590.0" font-size="8.5" fill="#8a8880" text-anchor="end">bereavement</text>
+<rect x="168" y="598.0" width="215.7" height="13" rx="3" fill="#e0aa12"/>
+<text x="390.7" y="608.0" font-size="10.5" fill="#0b0b0b">41.7%</text>
+<text x="158" y="608.0" font-size="8.5" fill="#8a8880" text-anchor="end">AI loss</text>
+<rect x="168" y="616.0" width="123.8" height="13" rx="3" fill="#e0aa12"/>
+<text x="298.8" y="626.0" font-size="10.5" fill="#0b0b0b">23.9%</text>
+<text x="158" y="626.0" font-size="8.5" fill="#8a8880" text-anchor="end">AI, not loss</text>
+<rect x="168" y="634.0" width="265.5" height="13" rx="3" fill="#e0aa12"/>
+<text x="440.5" y="644.0" font-size="10.5" fill="#0b0b0b">51.3%</text>
+<text x="158" y="644.0" font-size="8.5" fill="#8a8880" text-anchor="end">product</text>
+<line x1="168" y1="668.0" x2="740" y2="668.0" stroke="#e6e5e0" stroke-width="1"/>
+<text x="20" y="729.0" font-size="13" font-weight="600" fill="#0b0b0b">fear</text>
+<rect x="168" y="684.0" width="29.5" height="13" rx="3" fill="#2bb56a"/>
+<text x="204.5" y="694.0" font-size="10.5" fill="#0b0b0b">5.7%</text>
+<text x="158" y="694.0" font-size="8.5" fill="#8a8880" text-anchor="end">pet loss</text>
+<rect x="168" y="702.0" width="31.0" height="13" rx="3" fill="#2bb56a"/>
+<text x="206.0" y="712.0" font-size="10.5" fill="#0b0b0b">6.0%</text>
+<text x="158" y="712.0" font-size="8.5" fill="#8a8880" text-anchor="end">bereavement</text>
+<rect x="168" y="720.0" width="35.5" height="13" rx="3" fill="#2bb56a"/>
+<text x="210.5" y="730.0" font-size="10.5" fill="#0b0b0b">6.9%</text>
+<text x="158" y="730.0" font-size="8.5" fill="#8a8880" text-anchor="end">AI loss</text>
+<rect x="168" y="738.0" width="17.9" height="13" rx="3" fill="#2bb56a"/>
+<text x="192.9" y="748.0" font-size="10.5" fill="#0b0b0b">3.4%</text>
+<text x="158" y="748.0" font-size="8.5" fill="#8a8880" text-anchor="end">AI, not loss</text>
+<rect x="168" y="756.0" width="80.4" height="13" rx="3" fill="#2bb56a"/>
+<text x="255.4" y="766.0" font-size="10.5" fill="#0b0b0b">15.5%</text>
+<text x="158" y="766.0" font-size="8.5" fill="#8a8880" text-anchor="end">product</text>
+<line x1="168" y1="790.0" x2="740" y2="790.0" stroke="#e6e5e0" stroke-width="1"/>
+<text x="20" y="851.0" font-size="13" font-weight="600" fill="#0b0b0b">lust</text>
+<rect x="168" y="806.0" width="2.0" height="13" rx="3" fill="#e06aa0"/>
+<text x="175.0" y="816.0" font-size="10.5" fill="#0b0b0b">0.0%</text>
+<text x="158" y="816.0" font-size="8.5" fill="#8a8880" text-anchor="end">pet loss</text>
+<rect x="168" y="824.0" width="20.6" height="13" rx="3" fill="#e06aa0"/>
+<text x="195.6" y="834.0" font-size="10.5" fill="#0b0b0b">4.0%</text>
+<text x="158" y="834.0" font-size="8.5" fill="#8a8880" text-anchor="end">bereavement</text>
+<rect x="168" y="842.0" width="8.6" height="13" rx="3" fill="#e06aa0"/>
+<text x="183.6" y="852.0" font-size="10.5" fill="#0b0b0b">1.7%</text>
+<text x="158" y="852.0" font-size="8.5" fill="#8a8880" text-anchor="end">AI loss</text>
+<rect x="168" y="860.0" width="10.7" height="13" rx="3" fill="#e06aa0"/>
+<text x="185.7" y="870.0" font-size="10.5" fill="#0b0b0b">2.1%</text>
+<text x="158" y="870.0" font-size="8.5" fill="#8a8880" text-anchor="end">AI, not loss</text>
+<rect x="168" y="878.0" width="2.0" height="13" rx="3" fill="#e06aa0"/>
+<text x="175.0" y="888.0" font-size="10.5" fill="#0b0b0b">0.0%</text>
+<text x="158" y="888.0" font-size="8.5" fill="#8a8880" text-anchor="end">product</text>
+<line x1="168" y1="912.0" x2="740" y2="912.0" stroke="#e6e5e0" stroke-width="1"/>
 </svg><figcaption>Figure 2. Rate per system per corpus.</figcaption></figure>
-<p>AI loss is not a scaled-down bereavement. Bereavement is dominated by care (87.9%) and grief
-(76.4%) with little rage (13.6%) and almost no play (5.2%). AI loss combines rage at 57.0%, which is
-indistinguishable from the consumer anchor at 56.7%, with play at 37.7%, higher than either anchor,
-and grief at 27.6%. The registered prediction that AI-loss rage would match consumer-loss levels was
+<p>AI loss is not a scaled-down bereavement. Both bereavement corpora are dominated by care (87.9%
+human, 85.1% pet) and grief (76.4%, 80.4%) with little rage (13.6%, 5.5%) and almost no play (5.2%,
+4.6%). AI loss combines rage at 57.0%, which is indistinguishable from the consumer anchor at 56.7%,
+with play at 37.7%, higher than either bereavement corpus by a factor of seven, and grief at 27.6%.
+The control corpus is instructive here too: it carries the highest rage (60.2%) and the highest play
+(54.8%) of any corpus with the lowest care (3.6%), which is what AI-community discourse looks like
+without a loss in it. The registered prediction that AI-loss rage would match consumer-loss levels was
 confirmed; the prediction that care would be elevated above the consumer anchor failed, care being
 lower (15.8% vs 19.5%).</p>
 
@@ -378,7 +469,10 @@ largest Character.AI thread is removed, still approximately three times the cons
 <h2>6. Discussion</h2>
 <p>Two findings are relevant to how concern about AI systems should be interpreted. The magnitude is
 intermediate and closer to consumer dissatisfaction than to bereavement, which argues against reading
-public reaction to a deprecation as equivalent to mourning a person. The composition, however, is not
+public reaction to a deprecation as equivalent to mourning a person. The two controls make that
+reading harder to dismiss: the elevation disappears in AI discourse that is not about loss, and it is
+not an artefact of the target being non-human, since pet bereavement scores at human-bereavement
+levels. The composition, however, is not
 consumer dissatisfaction with a grief component bolted on: it is a distinct profile in which anger at
 an institution, humour and grief co-occur, alongside a foreclosed motivational register visible only
 in the regulation bands.</p>
@@ -407,6 +501,9 @@ read in that light.</p>
     here. A registered comparison involving it was withdrawn.</li>
 <li>Communities that post about loss are self-selected, and the corpora describe discourse rather than
     users. No inference to prevalence in any population is intended.</li>
+<li>The control corpus was drawn from two of the five AI communities rather than all five, and
+    contains threads that read as mild complaint. Both choices bias against finding a difference, so
+    the separation reported is if anything conservative.</li>
 <li>The largest AI-companion withdrawal of the period, the July 2026 regulatory shutdown in China, is
     absent because the affected users write in Chinese and outside Reddit. The findings concern
     English-language discourse.</li>
